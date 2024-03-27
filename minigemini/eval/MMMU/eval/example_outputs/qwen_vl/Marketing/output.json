@@ -1,0 +1,516 @@
+[
+    {
+        "id": "validation_Marketing_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,309.6",
+            "B": "2,325.5",
+            "C": "2,328.1",
+            "D": "2,469.6"
+        },
+        "response": "We refer to Wikipedia articles on psychology for help. The mean square factor is the mean of the squares of the observations. Thus, the mean square factor is $216^2 + 240^2 + 187^2 = 2309.6$.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The number of teams is specified as 4, so the df for the numerator is 4.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Marketing_3",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-.62,.22",
+            "B": "-.62,.32",
+            "C": "-.72,.22",
+            "D": "-.72,.32"
+        },
+        "response": "We refer to Wikipedia articles on econometrics for help. The formula for the confidence interval of $ b_2 $ is: $ \\widehat{b}_2 = \\frac{\\sum_{i=1}^{n} (y_i-\\bar{y})(X_2^i-\\bar{X_2})}{\\sum_{i=1}^{n}(X_2^i-\\bar{X_2})^2}$ $ \\widehat{b}_2 = \\frac{2.2 \\cdot (-7.2)-0.005 \\cdot 0.002}{2.2^2-0.005^2} $ $ \\widehat{b}_2 = \\frac{-14.8}{0.004} = -350 $ The standard error of $ b_2 $ is: $ \\widehat{se}_b = \\sqrt{\\frac{\\sum_{i=1}^{n}(y_i-\\bar{y})^2(X_2^i-\\bar{X_2})^2}{\\sum_{i=1}^{n}(X_2^i-\\bar{X_2})^2}} $ $ \\widehat{se}_b = \\sqrt{\\frac{(2.2)^2 \\cdot (-7.2)^2}{2.2^2-0.005^2}} = \\sqrt{32.86} \\approx 4.74 $ The confidence interval for $ b_2 $ is: $ [ \\widehat{b}_2 - t_{0.025} \\cdot \\widehat{se}_b, \\widehat{b}_2 + t_{0.025} \\cdot \\widehat{se}_b ] $ $ [ -350 - 1.954 \\cdot 4.74, -350 + 1.954 \\cdot 4.74 ] $ The answer: (A)."
+    },
+    {
+        "id": "validation_Marketing_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "The distribution is skewed left.",
+            "B": "The distribution is skewed right.",
+            "C": "The distribution is symmetric."
+        },
+        "response": "(C) The distribution is symmetric."
+    },
+    {
+        "id": "validation_Marketing_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the normal distribution",
+            "B": "the Student's t-distribution",
+            "C": "the uniform distribution",
+            "D": "the exponential distribution"
+        },
+        "response": "We cannot determine the distribution from the given information. The data does not provide enough information to determine the distribution. Therefore, the answer is (D) the exponential distribution."
+    },
+    {
+        "id": "validation_Marketing_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "there is insufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks",
+            "B": "there is sufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks",
+            "C": "not certain"
+        },
+        "response": "(B) there is sufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks."
+    },
+    {
+        "id": "validation_Marketing_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(2.92, 3.60)",
+            "B": "(2.93, 3.60)",
+            "C": "(2.92, 3.59)",
+            "D": "(2.93, 3.59)"
+        },
+        "response": "We refer to Wikipedia articles on psychology for help. The sample size is 39, which is not large enough to use the normal distribution. So we should use the normal approximation to the binomial distribution. The confidence interval for the population mean is then: ( Confidence interval for the mean of binomial distribution ) The answer is (B)."
+    },
+    {
+        "id": "validation_Marketing_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True.",
+            "B": "False."
+        },
+        "response": "False. We can determine that the mean for (a) is different from the mean for (b) since the bars are not the same height."
+    },
+    {
+        "id": "validation_Marketing_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.0050",
+            "B": "0.1028",
+            "C": "0.1614",
+            "D": "0.2134"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The p-value is the probability of observing the data given that the null hypothesis is true. The p-value is calculated as the number of ways to obtain a data set as extreme or more extreme than the observed data, divided by the total number of ways to obtain a data set. The p-value is less than 0.05, which is the commonly used significance level, so we reject the null hypothesis and conclude that there is a significant difference in the jumping height among the four teams.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.11",
+            "B": "0.12",
+            "C": "0.55",
+            "D": "0.77"
+        },
+        "response": "We refer to Wikipedia articles on probability for help. The probability of renting 3 DVDs is the sum of the probabilities of renting 0, 1, 2, ..., 5 DVDs, which is $0.03 + 0.05 + 0.24 + 0.07 + 0.04 = 0.45$.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Marketing_11",
+        "question_type": "short-answer",
+        "answer": "0.10",
+        "response": "0.10"
+    },
+    {
+        "id": "validation_Marketing_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.5963",
+            "B": "4.6963",
+            "C": "4.7963",
+            "D": "4.8963"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The t-value is calculated as:\n\nt = (X\u0304 - \u03bc) / \u03c3 / \u221an\n\nwhere X\u0304 is the sample mean, \u03bc is the population mean, \u03c3 is the population standard deviation, and n is the sample size.\n\nIn this case, X\u0304 = (1 + 2 + 3 + ... + 10) / 10 = 55 / 10 = 5.5, \u03bc = 7, \u03c3 = 2, and n = 10. So the t-value is:\n\nt = (5.5 - 7) / 2 / \u221a10 = (-1.5) / 2 / \u221a10 \u2248 -1.5 / 2 / 1.732 \u2248 -4.5963\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1-III, 2-IV, 3-I, 4-II",
+            "B": "1-II, 2-I, 3-IV, 4-III",
+            "C": "1-III, 2-IV, 3-II, 4-I",
+            "D": "1-IV, 2-III, 3-II, 4-I"
+        },
+        "response": "The correct answer is (B) 1-II, 2-I, 3-IV, 4-III. \n\nThe chart lists the roles of a retailer, manufacturer, distributor, and agent in a supply chain. A retailer is listed first, followed by a manufacturer, then a distributor, and finally an agent. \n\nThe manufacturer is listed second, which is correct. They are typically responsible for producing goods at a low margin with a high volume. \n\nThe distributor is listed third, which is also correct. They are responsible for providing the direct link between the customer and the manufacturer, and typically give products to distributes. \n\nThe retailer is listed fourth, which is incorrect. They are typically responsible for taking title to goods and selling them to customers at a markup, not providing products to distributes."
+    },
+    {
+        "id": "validation_Marketing_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.125",
+            "B": "0.25",
+            "C": "0.5",
+            "D": "0.625"
+        },
+        "response": "We want to find the probability of landing on yellow, which is the only section with a prize. The probability of landing on yellow is equal to the area of yellow divided by the total area of the wheel, which is 8/36 = 1/4. So the answer is (D)."
+    },
+    {
+        "id": "validation_Marketing_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "There is insufficient evidence that types of fries and location are dependent.",
+            "B": "There is sufficient evidence that types of fries and location are dependent.",
+            "C": "Not certain."
+        },
+        "response": "Based on the results of the study, we can conduct a chi-squared test of independence to determine if there is a significant relationship between the type of fries sold and the region of the country. \n\nThe chi-squared test statistic is calculated as:\n\nchi^2 = (observed count - expected count)^2 / expected count\n\nwhere observed count is the number of times a particular type of fries was sold in a particular region, and expected count is the number of times we would expect to see that type of fries if there was no relationship between the type of fries and the region of the country.\n\nFor the chi-squared test, we need to create a table with the expected counts for each region. We can use the row and column totals to calculate the expected counts:\n\nExpected count for Northeast: (70 skinny fries + 100 curly fries + 20 steak fries) / 3 = 100\nExpected count for South: (50 skinny fries + 60 curly fries + 40 steak fries) / 3 = 70\nExpected count for Central: (20 skinny fries + 15 curly fries + 10 steak fries) / 3 = 30\nExpected count for West: (25 skinny fries + 30 curly fries + 30 steak fries) / 3 = 30\n\nTherefore, the expected counts for each region are:\n\nExpected count for Northeast: 100\nExpected count for South: 70\nExpected count for Central: 30\nExpected count for West: 30\n\nWe can then use these expected counts to calculate the chi-squared statistic:\n\nchi^2 = (observed count - expected count)^2 / expected count\nchi^2 = (70 - 100)^2 / 100 = 49.625\n\nSince the chi-squared statistic is greater than 0, we can reject the null hypothesis and conclude that there is a significant relationship between the type of fries sold and the region of the country. Therefore, we can say that there is sufficient evidence that types of fries and location are dependent."
+    },
+    {
+        "id": "validation_Marketing_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "90.25%",
+            "B": "94.21%",
+            "C": "93.33%",
+            "D": "95.50%"
+        },
+        "response": "The answer is (C) 93.33%. The cumulative relative frequency for flossing three times per week is 0.0333, which is equal to 33.33%."
+    },
+    {
+        "id": "validation_Marketing_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "14.00 ounces",
+            "B": "15.00 ounces",
+            "C": "14.98 ounces",
+            "D": "15.98 ounces"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The mean weight of a bag of candy in the sample is the sum of the weights of the 8 bags of candy, which is 14.00 ounces.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.05",
+            "B": "0.025",
+            "C": "0.0004",
+            "D": "0.0002"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The p-value is the probability of observing the data or results we got if the null hypothesis is true. We can use the p-value to test the null hypothesis. The p-value is usually expressed as a decimal or percentage. If the p-value is less than a certain level, such as 0.05, we can reject the null hypothesis and conclude that there is a significant difference between the two groups. Here, since the p-value is 0.0002, we can reject the null hypothesis and conclude that there is a significant difference between the two groups. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Marketing_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.56",
+            "B": "1.76",
+            "C": "1.96",
+            "D": "2.06"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The test statistic is $\\chi^2$ distribution with 40 degrees of freedom. The answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1/38",
+            "B": "2/38",
+            "C": "3/38",
+            "D": "6/38"
+        },
+        "response": "The probability of winning a bet on three numbers in a line, as in 1-2-3, is 3/38. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Marketing_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The degrees of freedom for the numerator is the number of groups - 1 = 2.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Marketing_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.5",
+            "B": "0.625",
+            "C": "0.8",
+            "D": "0.875"
+        },
+        "response": "We are given that the sample mean is 2.5 and the sample standard deviation is 0.8302. We can use the sample mean and standard deviation to estimate the population mean and standard deviation. Let\u2019s assume that the population mean is \u03bc and the population standard deviation is \u03c3. Then, we can use the formula for the standard deviation of the sample mean, which is \u03c3_M = sqrt((n * \u03c3^2) / (n - 1)). Using this formula, we can estimate that \u03c3_M = sqrt((28 * 0.8302^2) / (28 - 1)) = 1.8. Using the formula for the standard deviation of the normal distribution, we can estimate that \u03c3 = sqrt((\u03bc - mean) / (SD^2 / (n - 1))) = sqrt((4.5 - 2.5) / (1.8^2 / (28 - 1))) = 1.9. Therefore, the distribution of X can be written as X ~ N(2.5, 1.8^2 / (28 - 1)). We want to find P(x < 3.5 | x < 4). Using the normal distribution table or calculator, we can find that P(x < 3.5) = 0.5 and P(x < 4) = 0.625. Therefore, P(x < 3.5 | x < 4) = P(x < 3.5) / P(x < 4) = 0.5 / 0.625 = 0.8. Thus, the answer is (C) 0.8."
+    },
+    {
+        "id": "validation_Marketing_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.62",
+            "B": "0.63",
+            "C": "0.64",
+            "D": "0.65"
+        },
+        "response": "We refer to Wikipedia articles on probability for help. The cumulative relative frequency is the sum of relative frequencies of all the intervals. The relative frequency of waiting less than 6.1 minutes is the number of observations less than 6.1 minutes divided by the total number of observations. There are 10 observations less than 6.1 minutes, so the cumulative relative frequency is 10/20 = 0.5.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.04",
+            "B": "0.05",
+            "C": "0.06",
+            "D": "0.07"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The left endpoint is not included in the table, so we cannot use it to calculate the percentage of 'not sure'. The answer is not available in the options.\n\nTherefore, we cannot determine the answer with the information given."
+    },
+    {
+        "id": "validation_Marketing_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-1.96",
+            "B": "-1.86",
+            "C": "-1.26",
+            "D": "-0.96"
+        },
+        "response": "We refer to Wikipedia articles on psychology for help. The t-distribution is used to calculate the p-value. The t-distribution is based on the sample size (n=10) and the degrees of freedom (df=n-1). The degrees of freedom is calculated as n-1 because we have paired responses. The t-distribution table is used to find the p-value. The t-distribution table is based on the sample size (n=10) and the degrees of freedom (df=n-1). The p-value is the probability of obtaining a sample that is at least as extreme as the observed sample if the null hypothesis is true. We use the t-distribution table to find the p-value. The p-value is less than 0.05, which means that the difference in the husband's and wife's satisfaction level is negative, meaning that the husband is happier than the wife. Therefore, the answer is (A) -1.96."
+    },
+    {
+        "id": "validation_Marketing_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.55",
+            "B": "0.45",
+            "C": "0.30",
+            "D": "0.70"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The table shows that out of 130 musicians, 72 are female. So the probability of a musician being female is P(musician is a female) = 72 / 130 = 0.55. So the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_27",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1/38",
+            "B": "2/38",
+            "C": "3/38",
+            "D": "6/38"
+        },
+        "response": "We refer to Wikipedia articles on probability for help. The probability of picking a particular number or a range of numbers is the number of ways to choose those numbers, divided by the total number of ways to choose any two numbers. The number of ways to choose two numbers from 38 is 38 choose 2, or 38 x 37 / 2, which is 680. The number of ways to choose any two numbers is 38 choose 2, which is 38 x 37, or 1322. Therefore, the probability of picking two numbers that touch each other is 680/1322, which is 1/20, or 1/38.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Marketing_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True.",
+            "B": "False."
+        },
+        "response": "False."
+    },
+    {
+        "id": "validation_Marketing_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1518/2873",
+            "B": "2873/12351",
+            "C": "583/12351",
+            "D": "4189/12351"
+        },
+        "response": "We refer to Wikipedia articles on baseball for help. Babe Ruth has made 1518 hits, including 566 singles, 1054 doubles, 273 triples, and 414 home runs. So the probability is (566/2873) * (1054/2873) * (273/2873) * (414/2873) = (583/12351).\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Marketing_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5,6",
+            "B": "5,7",
+            "C": "6,7",
+            "D": "6,8"
+        },
+        "response": "We refer to Wikipedia articles on mathematics for help. The shaded area represents the area under the curve from 6 to 8. The curve is a decreasing curve, so the area under the curve from 6 to 8 is equal to the area under the curve from 8 to 6, which is the difference between the area under the curve from 0 to 8 and the area under the curve from 8 to 0. The area under the curve from 0 to 8 is equal to 10, and the area under the curve from 8 to 0 is equal to 2. So the shaded area is equal to 10 - 2, which is equal to 8. The answer (C) 6,7, represents the range of the shaded area."
+    }
+]

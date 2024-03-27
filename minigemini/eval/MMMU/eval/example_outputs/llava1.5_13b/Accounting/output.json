@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Accounting_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$6",
+            "B": "$7",
+            "C": "$8",
+            "D": "$9"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Accounting_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$194,815",
+            "B": "$182,815",
+            "C": "$12,000",
+            "D": "$9,000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Project A",
+            "B": "Project B"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$1,620",
+            "B": "$12,000",
+            "C": "$51,180",
+            "D": "$0"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Accounting_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "132,625",
+            "B": "134,485",
+            "C": "135,332",
+            "D": "132,685"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,500 4,838 0",
+            "B": "3,409 6,950 4,838",
+            "C": "5,728 3,700 3,250",
+            "D": "5,728 3,409 2,500"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3.31",
+            "B": "3.47",
+            "C": "3.65"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$660",
+            "B": "$760",
+            "C": "$650",
+            "D": "$750"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$6,000",
+            "B": "$6,150",
+            "C": "$6,090",
+            "D": "$6,060"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1)$39,000 ; (2)84,000",
+            "B": "(1)$36,000 ; (2)77,000",
+            "C": "(1)$38,650 ; (2)82,910"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Accounting_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$9.00",
+            "B": "$5.00",
+            "C": "the Maximum  possible loss is unlimited"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Accounting_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$3,100,000",
+            "B": "$2,616,000",
+            "C": "$2,474,000",
+            "D": "$484,000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$52,000",
+            "B": "$62,000",
+            "C": "$72,000",
+            "D": "$82,000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$10,208",
+            "B": "$10,308",
+            "C": "$10,408",
+            "D": "$10,508"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$4,840",
+            "B": "$4,940",
+            "C": "$5,040",
+            "D": "$5,140"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "14%",
+            "B": "15%",
+            "C": "16%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$135,726",
+            "B": "$112,500",
+            "C": "$126,925",
+            "D": "$116,350"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Accounting_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$72,283",
+            "B": "$73,283",
+            "C": "$74,283",
+            "D": "$75,283"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$10",
+            "B": "$11",
+            "C": "$12",
+            "D": "$13"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Accounting_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "17.4%",
+            "B": "18.1%",
+            "C": "18.5%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Project X would be incorrectly rejected; Project Z would be incorrectly accepted.",
+            "B": "Project Y would be incorrectly rejected; Project X would be incorrectly accepted.",
+            "C": "Project Z would be incorrectly rejected; Project X would be incorrectly accepted.",
+            "D": "No project would be incorrectly rejected; Project Z would be incorrectly accepted."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3.470",
+            "B": "3.096",
+            "C": "3.187"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Not enough information"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1) 0.0971 (2)0.01047",
+            "B": "(1) 0.1134 (2)0.01722",
+            "C": "(1) 0.1149 (2)0.01322"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Are in equilibrium.",
+            "B": "Offer an arbitrage opportunity.",
+            "C": "Are both underpriced.",
+            "D": "Are both fairly priced."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Accounting_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "350 units and $34,647.65",
+            "B": "355 units and $35,647.65",
+            "C": "350 units and $35,647.65",
+            "D": "355 units and $34,647.65"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Accounting_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.820",
+            "B": "0.693",
+            "C": "0.786"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$712,000",
+            "B": "$632,000",
+            "C": "$288,000",
+            "D": "$424,000"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Accounting_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Not enough information"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Accounting_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "B"
+    }
+]

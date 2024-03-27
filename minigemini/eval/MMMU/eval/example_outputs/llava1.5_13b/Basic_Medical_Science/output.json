@@ -1,0 +1,496 @@
+[
+    {
+        "id": "validation_Basic_Medical_Science_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Alzheimer s type II astrocyte",
+            "B": "Bergman gliosis",
+            "C": "Corpora amylacea",
+            "D": "Eosinophilic granular body",
+            "E": "Eosinophilic granular body"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cardiac muscle",
+            "B": "Bone",
+            "C": "Skeletal muscle"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It is a prokaryote because it doesn't have a nucleus",
+            "B": "It is a eukaryotic cell because it has a cell wall and a nucleus",
+            "C": "It is eukaryotic because it does not a nucleus nor a cell membrane",
+            "D": "It is prokaryote because it has a cell wall"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Decreased auditory acuity.",
+            "B": "Vertigo.",
+            "C": "Tinnitis.",
+            "D": "Loss of facial sensation."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Adrenergic synapse",
+            "B": "Cholinergic synapse",
+            "C": "Peripheral synapse",
+            "D": "Autonomic synapse"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Columnar epithelial cells detect activated Dendritic cells and secrete thymic stromal lymphocytes.",
+            "B": "Activated Dendritic cell secretes a hormone.",
+            "C": "Mast cell is activated through the activation of the D.C and secretes thymic stromal lymphocytes.",
+            "D": "Thymic stromal lymphocytes are created by TH2 cells which have detected the activation of the dendritic cell."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "coronavirus",
+            "B": "influenza virus",
+            "C": "parainfluenza virus",
+            "D": "respiratory syncytial virus",
+            "E": "rhinovirus"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Superior colliculus.",
+            "B": "Lateral geniculate.",
+            "C": "Retina.",
+            "D": "Medial geniculate."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Threshold",
+            "B": "Depolarization",
+            "C": "Action potential",
+            "D": "Repolarization"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_10",
+        "question_type": "short-answer",
+        "answer": "C",
+        "response": "Right"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cardiac muscle",
+            "B": "Skeletal muscle",
+            "C": "Cartliage"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Dorsal column.",
+            "B": "Spinoreticular pathways.",
+            "C": "Solitary tract.",
+            "D": "Dentatorubrothalamic tract."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cranial Nerve III.",
+            "B": "Cranial Nerve IV.",
+            "C": "Cranial Nerve VI."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_14",
+        "question_type": "short-answer",
+        "answer": "Transformation",
+        "response": "Hormone"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Anterior limb of the internal capsule.",
+            "B": "Genu of the internal capsule.",
+            "C": "Posterior limb of the internal capsule."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "true",
+            "B": "false"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "E",
+            "B": "B",
+            "C": "C",
+            "D": "A"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Perpendicular.",
+            "B": "Parallel."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "No, will not regenerate.",
+            "B": "Yes, will regenerate."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The fornix",
+            "B": "The septal nuclei",
+            "C": "Both.",
+            "D": "Neither."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_23",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Eosinophil",
+            "B": "Thrombocyte",
+            "C": "Lymphocyte",
+            "D": "Monocyte",
+            "E": "Neutrophil"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "atrial depolarization, ventricular depolarization, ventricular repolarization",
+            "B": "ventricular repolarization, atrial depolarization, ventricular depolarization",
+            "C": "ventricular depolarization, ventricular repolarization, atrial depolarization"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Muscles of pharynx and larynx.",
+            "B": "Postganglionic parasympathetic cell bodies.",
+            "C": "Smooth muscle of viscera."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "plant",
+            "B": "animal",
+            "C": "bacteria"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Signals angular acceleration.",
+            "B": "Is important for conjugate eye movements.",
+            "C": "Signals orientation with respect to gravity.",
+            "D": "Is bathed with perilymph."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A tract carrying releasing hormones.",
+            "B": "A tract carrying ADH and Oxytocin.",
+            "C": "A tract carrying nerve impulses to the adenohypophysis."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "HD is an autosomal recessive disease",
+            "B": "The huntingtin gene is likely to be located on the X-chromosome",
+            "C": "A likely cause of HD is an unstable triplet repeat in the HD gene",
+            "D": "The pattern of bands in the blot is indicative of abnormal splicing of the HD mRNA",
+            "E": "In most individuals, the region of the HD gene detected by the DNA probe is distributed on six different restriction fragments"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Right middle cerebral artery.",
+            "B": "Left middle cerebral artery.",
+            "C": "Right and left middle cerebral arteries.",
+            "D": "Right and left posterior cerebral arteries."
+        },
+        "response": "C"
+    }
+]

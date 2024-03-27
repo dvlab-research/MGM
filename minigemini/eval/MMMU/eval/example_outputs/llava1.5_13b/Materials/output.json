@@ -1,0 +1,546 @@
+[
+    {
+        "id": "validation_Materials_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1.17",
+            "B": "1.57",
+            "C": "0.87"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Materials_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "P/(A)*sin(2$\\theta$)",
+            "B": "(P/A)sin^2($\\theta$)",
+            "C": "P/(2A)*sin(2$\\theta$)",
+            "D": "(P/2A)sin^2($\\theta$)"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Materials_3",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.00 MPa",
+            "B": "1.11 MPa",
+            "C": "1.01 MPa",
+            "D": "1.10 MPa"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-65.1 MPa",
+            "B": "7.77 MPa",
+            "C": "43.7 MPa"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Materials_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "48 kg",
+            "B": "148 kg",
+            "C": "184 kg",
+            "D": "248 kg"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[-321]",
+            "B": "[-420]",
+            "C": "[-431]",
+            "D": "[-430]"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Pa/(2bhG)",
+            "B": "Pa/(bhG)",
+            "C": "Pab/(2hG)",
+            "D": "2Pa/(bhG)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "57.4%",
+            "B": "74.5%",
+            "C": "67.4%",
+            "D": "54.7%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "60.5 MPa",
+            "B": "62.2 MPa",
+            "C": "40.5 MPa",
+            "D": "40.2 MPa"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.41 kN",
+            "B": "4.49 kN",
+            "C": "1.19 kN",
+            "D": "1.49 kN"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "15 MPa",
+            "B": "5 MPa",
+            "C": "20 MPa",
+            "D": "2 MPa"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11.6*10^(-3) rad",
+            "B": "1.6*10^(-3) rad",
+            "C": "11.6*10^(-2) rad",
+            "D": "16.6*10^(-3) rad"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "26.53 MPa",
+            "B": "27.53 MPa",
+            "C": "28.53 MPa",
+            "D": "29.53 MPa"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-100$^\\circ$C",
+            "B": "-110$^\\circ$C",
+            "C": "-105$^\\circ$C",
+            "D": "-125$^\\circ$C"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "58.4 kip",
+            "B": "125 kip",
+            "C": "50.4 kip",
+            "D": "100 kip"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "122 psi",
+            "B": "221 psi",
+            "C": "121 psi",
+            "D": "112 psi"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.00*10^(-3) mm/mm",
+            "B": "6.00*10^(-3) mm/mm",
+            "C": "6.00*10^(-6) mm/mm",
+            "D": "4.00*10^(-6) mm/mm"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.6*10^(-3) mm/mm",
+            "B": "1.2*10^(-3) mm/mm",
+            "C": "16.8*10^(-3) mm/mm",
+            "D": "12.8*10^(-3) mm/mm"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.00680 mm/mm",
+            "B": "-0.00680 mm/mm",
+            "C": "-0.0281*10^(-3) mm/mm",
+            "D": "0.0281*10^(-3) mm/mm"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "N_D=0, V_D=0 kip, M_D=36.0 kip\u00b7ft",
+            "B": "N_D=0, V_D=3.50 kip, M_D=36.0 kip\u00b7ft",
+            "C": "N_D=0, V_D=0 kip, M_D=31.5 kip\u00b7ft",
+            "D": "N_D=0, V_D=4.50 kip, M_D=36.0 kip\u00b7ft"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.0556 in^2",
+            "B": "0.0252 in^2",
+            "C": "0.0356 in^2",
+            "D": "0.0451 in^2"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10.9 mm",
+            "B": "11.1 mm",
+            "C": "19.9 mm",
+            "D": "11.9 mm"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_24",
+        "question_type": "multiple-choice",
+        "answer": "F",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "SC {100}",
+            "B": "BCC {100}",
+            "C": "FCC {100}",
+            "D": "SC {110}",
+            "E": "BCC {110}",
+            "F": "FCC {110}",
+            "G": "SC {111}",
+            "H": "BCC {111}",
+            "I": "FCC {111}"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.917 g/cm^3",
+            "B": "0.841 g/cm^3",
+            "C": "0.946 g/cm^3",
+            "D": "0.841 g/cm^3"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Materials_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Na=500 lb, Va=250 lb",
+            "B": "Na=600 lb, Va=0",
+            "C": "Na=500 lb, Va=0",
+            "D": "Na=550 lb, Va=0"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "200 psi",
+            "B": "150 psi",
+            "C": "500 psi",
+            "D": "250 psi"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Materials_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "FCC",
+            "B": "BCC",
+            "C": "SC"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Materials_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.00443 mm/mm",
+            "B": "0.00803 mm/mm",
+            "C": "0.00543 mm/mm",
+            "D": "0.00884 mm/mm"
+        },
+        "response": "D"
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "id": "validation_Geography_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "12.0kN.m, -3kN.m",
+            "B": "-2.5kN.m, -3kN.m",
+            "C": "-2.5kN.m, -3kN.m",
+            "D": "2.5kN.m, -3kN.m"
+        },
+        "response": "The torque at sections 1-1 and 2-2 is -3kN.m. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Geography_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Joint tendency",
+            "B": "Joint dip angle",
+            "C": " Joint strike",
+            "D": "Number of joints"
+        },
+        "response": "The length of the straight line segment that projects from the center of the semicircle in the radial direction represents the joint dip angle (B)."
+    },
+    {
+        "id": "validation_Geography_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "unit moving load with unchanged direction ",
+            "B": "moving load",
+            "C": "dynamic load ",
+            "D": " movable load"
+        },
+        "response": "We need to assume the load is movable in order to draw the influence line. The correct answer is (D)."
+    },
+    {
+        "id": "validation_Geography_4",
+        "question_type": "short-answer",
+        "answer": [
+            "Tampa",
+            "Florida"
+        ],
+        "response": "The place described in the image is a map of an area that includes Clearwater Beach, Downtown, Ybor, St. Pete, and the bay."
+    },
+    {
+        "id": "validation_Geography_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2.5A and 1.5A",
+            "B": "1A, and 0A",
+            "C": "2.5A and 0A",
+            "D": "1A, and 1.5A"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The diagram shows two resistors in parallel, so the total resistance is less than the resistance of either individual resistor. Therefore, the current through each resistor is less than the ampere value indicated. The correct answer is (B)."
+    },
+    {
+        "id": "validation_Geography_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "12",
+            "B": "15",
+            "C": "18",
+            "D": "24"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The statement says that the bending moment MDA is equal to 12 kN\u00b7m.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Geography_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "CO_2-emissions",
+            "B": "amount of money which is spend on milita y.",
+            "C": "average education level.",
+            "D": "wealth 2021 years ago."
+        },
+        "response": "We refer to Wikipedia articles on geography for help. This map shows the distribution of wealth around the world. The countries are sized by their wealth in 2021 dollars, which is measured by their Gross Domestic Product (GDP) per capita.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Geography_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "30kPa",
+            "B": "45kPa",
+            "C": "115kPa",
+            "D": "145kPa"
+        },
+        "response": "We refer to Wikipedia articles on hydrology for help. The equipotential lines are spaced 1.25 m apart, so the water head gradient at point G is 11.5 m / 22 = 0.5 m. The water head gradient at point G is 0.5 m, so the water head at point G is 0.5 m above the equipotential line. The water head at point G is 11.5 m above the ground level, so the water depth at point G is 11.5 m - 0.5 m = 11 m. The water depth at point G is 11 m, so the water depth at point G is 11 m / 22 = 0.5 m below the equipotential line. The water depth at point G is 0.5 m below the equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point G is 0.5 m below the water head gradient equipotential line. The water depth at point G is 0.5 m below the water head gradient equipotential line, so the water depth at point"
+    },
+    {
+        "id": "validation_Geography_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Kenya",
+            "B": "Kiribati",
+            "C": "Kuweit",
+            "D": "Kyrgyzstan"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The image shows population information for Kenya."
+    },
+    {
+        "id": "validation_Geography_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "l(a)>1,(a);l(b)=l(b)",
+            "B": "l.(a) >L(a);l(b)>l,(b)",
+            "C": "l.(a) >2(a);l(b)>l,(b)",
+            "D": "l.(a) >L(a);l(b)>2,(b)"
+        },
+        "response": "The moment of inertia of a square is greater than that of a circle of the same area, so the answer is (B)."
+    },
+    {
+        "id": "validation_Geography_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aretes",
+            "B": "eskers",
+            "C": "a hanging valley",
+            "D": "lateral moraines "
+        },
+        "response": "(C) a hanging valley"
+    },
+    {
+        "id": "validation_Geography_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ocean currents",
+            "B": "tides",
+            "C": "waves",
+            "D": "wind"
+        },
+        "response": "(D) Wind."
+    },
+    {
+        "id": "validation_Geography_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "01-01-C1-007",
+            "B": "01-01-C5-007",
+            "C": "02-01-C1-007",
+            "D": "02-01-C5-007"
+        },
+        "response": "We know from the \"Regulations on Management of Building Engineering Data\" (JGJ/T185-2009) that the steel bars for the second floor concrete floor slab of a certain project above ground should be recorded in the concealed engineering record form 02-01-C1-007. Therefore, the correct number for the concealed engineering record form is (C) 02-01-C1-007."
+    },
+    {
+        "id": "validation_Geography_14",
+        "question_type": "short-answer",
+        "answer": "8200",
+        "response": "The punching shear bearing capacity Fl of the cushion cap can be calculated using the following formula: Fl = f0 * h0 * ft * b / 24 The given conditions: f0 = 1.27 MPa (tensile strength design value of C25 concrete) h0 = 1050 mm b = 0.6 m The calculated punching shear bearing capacity Fl is: Fl = f0 * h0 * ft * b / 24 = 1.27 * 1050 * 1.27 * 0.6 / 24 = 10.52 kN"
+    },
+    {
+        "id": "validation_Geography_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Siltstone is cemented silt particles",
+            "B": "Shale is Clay, breaking easily into flat flakes and plates",
+            "C": "Chert is Silica, a microcrystalline form of quartz",
+            "D": "None"
+        },
+        "response": "B) Shale is Clay, breaking easily into flat flakes and plates"
+    },
+    {
+        "id": "validation_Geography_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Forests marked in <image 2>",
+            "B": "Forests marked in <image 3>",
+            "C": "Forests marked in <image 4>"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4D",
+            "B": "3.5D",
+            "C": "3.0D",
+            "D": "2.5D"
+        },
+        "response": "We refer to the relevant regulations for concrete pile foundations for precast concrete buildings. The center distance of the piles in a single row should not be less than 3.0D, where D is the diameter of the pile. So the answer is (C)."
+    },
+    {
+        "id": "validation_Geography_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "The top one",
+            "B": "The bottom one"
+        },
+        "response": "The international standard thermometer is the one on the top, which covers the temperature range of -100 to 100\u00b0C."
+    },
+    {
+        "id": "validation_Geography_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Land subsidence",
+            "B": "Ground collapse",
+            "C": " Ground fissures",
+            "D": "Earthquake"
+        },
+        "response": "The answer is (A) Land subsidence."
+    },
+    {
+        "id": "validation_Geography_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.0",
+            "B": "1.3",
+            "C": "1.6",
+            "D": "1.9"
+        },
+        "response": "We refer to Wikipedia articles on soil mechanics for help. The natural water content of a fully saturated cohesive soil is 60%, and its natural pore ratio is close to 1.0.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Geography_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Vulnerable, Endangered, Critical",
+            "B": "Endangered, Critical, Vulnerable",
+            "C": "Critical, Vulnerable, Endangered"
+        },
+        "response": "The dangers degree represented by yellow, blue, and orange in the image are (C) Critical, Vulnerable, Endangered."
+    },
+    {
+        "id": "validation_Geography_22",
+        "question_type": "short-answer",
+        "answer": "3",
+        "response": "Two."
+    },
+    {
+        "id": "validation_Geography_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Rectangle",
+            "B": "Channel steel",
+            "C": "I-beam",
+            "D": "Equilateral angle steel"
+        },
+        "response": "We know that the cross-section will deform when subjected to a load, and the deformation mode is determined by the cross-section shape and the load direction. If the cross-section deforms in a plane that is not perpendicular to the load direction, it will generate bending deformation; if it deforms in a plane that is perpendicular to the load direction, it will generate torsional deformation. If the cross-section deforms in a plane that is not perpendicular to both the load direction and the twist direction, it will generate combined bending-torsion deformation. The rectangle, channel steel, and equilateral angle steel all have a single plane of symmetry, so they will all deform in a plane that is not perpendicular to both the load direction and the twist direction, and thus will generate combined bending-torsion deformation. I-beam has two planes of symmetry, so it will deform in a plane that is perpendicular to both the load direction and the twist direction, and thus will not generate combined bending-torsion deformation. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Geography_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Static penetration test",
+            "B": "Light power penetration",
+            "C": "Heavy power penetration",
+            "D": "Standard penetration test"
+        },
+        "response": "(C) Heavy power penetration"
+    },
+    {
+        "id": "validation_Geography_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The roll waterproof layer is laid on the upstream surface of the external wall",
+            "B": "The roll waterproof layer is laid on the back surface of the external wall",
+            "C": "The outer wall roll adopts the empty laying method",
+            "D": " When laying double layer coils, the two layers of coils are perpendicular to each other"
+        },
+        "response": "(C) The outer wall roll adopts the empty laying method"
+    },
+    {
+        "id": "validation_Geography_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Overall, block, and sub block structures",
+            "B": "Giant thick layered, thick layered, medium thick layered, interbedded, and thin layered structures",
+            "C": "Weathering unloading structure and weathering fragment structure",
+            "D": "Inlaid fragmented structure and fragmented structure"
+        },
+        "response": "The answer is (C) Weathering unloading structure and weathering fragment structure."
+    },
+    {
+        "id": "validation_Geography_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hard plastic",
+            "B": "Plastic",
+            "C": "Soft plastic",
+            "D": "Flow molding"
+        },
+        "response": "We refer to Wikipedia articles on soil mechanics for help. The cone settlement of a cohesive soil undisturbed sample is a measure of the soil's plasticity. The liquid limit is the point at which the soil becomes plastic. For a liquid limit of 76g, the cone settlement of 6mm indicates that the soil is in the hard plastic phase.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Geography_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Gravitational water",
+            "B": "Capillary water",
+            "C": "Hygroscopic water"
+        },
+        "response": "The type of water in the image 1 that is located on the surfaces of individual soil particles and is largely unavailable to plants is capillary water (Option B)."
+    },
+    {
+        "id": "validation_Geography_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "feldspar",
+            "B": "fluorite",
+            "C": "galena",
+            "D": "quartz"
+        },
+        "response": "The hardest mineral in the image is (C) galena."
+    },
+    {
+        "id": "validation_Geography_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10.7m",
+            "B": "21.3m",
+            "C": "24.0m",
+            "D": "48.0m"
+        },
+        "response": "We know that the wave velocity is the distance between two points divided by the time it takes for the wave to travel between the two points. So, if we know the wave velocity and the time it takes for the wave to travel a certain distance, we can use the formula to calculate the distance between the two points.\nThe wave velocity is given as 3555.6m/s. The time it takes for the wave to travel from t1 to t2 is 0.5s, and the time it takes for the wave to travel from t2 to t3 is 1.0s. So, the distance between t1 and t2 is given by the formula:\ndistance = wave velocity * time\ndistance = 3555.6m/s * 0.5s\ndistance = 1777.8m\nThe distance between t2 and t3 is given by the formula:\ndistance = wave velocity * time\ndistance = 3555.6m/s * 1.0s\ndistance = 3555.6m\nSo, the total distance between t1 and t3 is the sum of these two distances:\ntotal distance = distance from t1 to t2 + distance from t2 to t3\ntotal distance = 1777.8m + 3555.6m\ntotal distance = 5333.4m\nTherefore, the closest value to the length of the pile is 5333.4m, which is the answer to the question (C)."
+    }
+]

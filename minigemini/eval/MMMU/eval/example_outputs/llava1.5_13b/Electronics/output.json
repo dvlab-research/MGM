@@ -1,0 +1,370 @@
+[
+    {
+        "id": "validation_Electronics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "yes, saturation",
+            "B": "no, not in saturation"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Electronics_2",
+        "question_type": "short-answer",
+        "answer": "2.83",
+        "response": "0.5"
+    },
+    {
+        "id": "validation_Electronics_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "t + (1 / 10) (e^{-20t} - 1) V",
+            "B": "t + (1 / 20) (e^{-10t} - 1) V",
+            "C": "t + (1 / 10) (e^{-10t} - 1) V",
+            "D": "t - (1 / 10) (e^{-10t} - 1) V"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Electronics_4",
+        "question_type": "short-answer",
+        "answer": "8.4",
+        "response": "1.5"
+    },
+    {
+        "id": "validation_Electronics_5",
+        "question_type": "short-answer",
+        "answer": "62.6",
+        "response": "500"
+    },
+    {
+        "id": "validation_Electronics_6",
+        "question_type": "short-answer",
+        "answer": "71.6",
+        "response": "5"
+    },
+    {
+        "id": "validation_Electronics_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\sqrt(2) cos[(1/3)t]$",
+            "B": "$\\sqrt(3) cos[(2/3)t]$",
+            "C": "$\\sqrt(2) cos[(2/3)t]$",
+            "D": "$\\sqrt(3) cos[(4/3)t]$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(4 / \\pi) (sin \\pit + (1 / 2) sin 3\\pit + (1 / 4) sin 5\\pit + ....).",
+            "B": "(4 / \\pi) (sin \\pit + (1 / 3) sin 3\\pit + (1 / 5) sin 5\\pit + ....).",
+            "C": "(4 / \\pi) (sin \\pit + (1 / 2) sin 2\\pit + (1 / 4) sin 4\\pit + ....).",
+            "D": "(4 / \\pi) (sin \\pit + (1 / 3) sin 2\\pit + (1 / 5) sin 4\\pit + ....)."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-2[sin t + (1 / 2) sin 25 + (1 / 4) sin 3t + ...]",
+            "B": "-2[sin t + (1 / 2) sin 30 + (1 / 3) sin 3t + ...]",
+            "C": "-2[sin t + (1 / 2) sin 25 + (1 / 3) sin 3t + ...]",
+            "D": "-2[sin t + (1 / 3) sin 25 + (1 / 3) sin 3t + ...]"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.125 + j0.330",
+            "B": "0.15 + j0.330",
+            "C": "0.125 + j0.390",
+            "D": "0.121 + j0.380"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_11",
+        "question_type": "short-answer",
+        "answer": "0.3",
+        "response": "0"
+    },
+    {
+        "id": "validation_Electronics_12",
+        "question_type": "short-answer",
+        "answer": "10",
+        "response": "24"
+    },
+    {
+        "id": "validation_Electronics_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[(1 - e^{-s(T/2)}) / {s(1 - e^{-sT})}]",
+            "B": "[(2 - e^{-s(T)}) / {s(1 - e^{-sT})}]",
+            "C": "[(1 - e^{-s(T/2)}) / {s(1 - e^{-sT})}]",
+            "D": "[(1 - e^{-s(T/3)}) / {s(1 - e^{-sT})}]"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4t^2 [u(t) - u(t - 5)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "B": "4t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "C": "5t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "D": "5t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 3)] + 15(t - 7)[u(t - 5) - u(t - 7)]"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$[1 + sech^2 (sin t)] cos t$",
+            "B": "$[1 + sech^2 (sin t)] sin t$",
+            "C": "$[1 - sech^2 (sin t)] sin t$",
+            "D": "$[1 - sech^2 (cos t)] sin t$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_16",
+        "question_type": "short-answer",
+        "answer": "20",
+        "response": "100"
+    },
+    {
+        "id": "validation_Electronics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10e^{-0.8t} V",
+            "B": "-5e^{-0.8t} V",
+            "C": "-2e^{-1t} V",
+            "D": "-6e^{-2t} V"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2 e^{-2t} u(t)",
+            "B": "3 e^{-2t} u(t)",
+            "C": "2.2 e^{-2t} u(t)",
+            "D": "3 e^{-3t} u(t)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-90 cos(t) V",
+            "B": "-90 cos(2t) V",
+            "C": "90 cos(2t) V",
+            "D": "90 sin(2t) V"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Electronics_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$3 \\pi x 10^-5 A$",
+            "B": "$\\pi x 10^-5 A$",
+            "C": "$2 \\pi x 10^-5 A$",
+            "D": "$\\pi x 10^-4 A$"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Electronics_21",
+        "question_type": "short-answer",
+        "answer": "0.9965",
+        "response": "0"
+    },
+    {
+        "id": "validation_Electronics_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[70.7 cos (20t - 60^{\\circ})] u(t) V",
+            "B": "[70.7 cos (10t - 45^{\\circ})] u(t) V",
+            "C": "[70.7 cos (20t - 45^{\\circ})] u(t) V",
+            "D": "[70.7 cos (20t - 90^{\\circ})] u(t) V"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Electronics_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$C_0 sin wt cos t + 2w C_0 cos wt (1 + 0.5 sin t)$",
+            "B": "$C_0 cos wt cos t + 2w C_0 sin wt (1 + 0.5 sin t)$",
+            "C": "$C_0 sin wt cos t + 4w C_0 cos wt (1 + sin t)$",
+            "D": "$C_0 sin wt cos t + 2w C_0 cos wt (1 - sin t)$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Electronics_24",
+        "question_type": "short-answer",
+        "answer": "551",
+        "response": "100"
+    },
+    {
+        "id": "validation_Electronics_25",
+        "question_type": "short-answer",
+        "answer": "50",
+        "response": "100"
+    },
+    {
+        "id": "validation_Electronics_26",
+        "question_type": "short-answer",
+        "answer": "6.333",
+        "response": "100"
+    },
+    {
+        "id": "validation_Electronics_27",
+        "question_type": "short-answer",
+        "answer": "-120",
+        "response": "0"
+    },
+    {
+        "id": "validation_Electronics_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "75 + 13.3 cos(250t - 57.7\u00b0)V",
+            "B": "75 + 23.3 cos(250t - 57.7\u00b0)V",
+            "C": "45 + 3.3 cos(250t - 57.7\u00b0)V",
+            "D": "95 + 13.3 cos(250t - 57.7\u00b0)V"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Electronics_29",
+        "question_type": "short-answer",
+        "answer": "30",
+        "response": "36 watts"
+    },
+    {
+        "id": "validation_Electronics_30",
+        "question_type": "short-answer",
+        "answer": "-141",
+        "response": "0"
+    }
+]

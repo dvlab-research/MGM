@@ -1,0 +1,536 @@
+[
+    {
+        "id": "validation_Physics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "To the left",
+            "B": "To the right",
+            "C": "Towards the top of the page",
+            "D": "There is no force."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "To the right/To the right",
+            "B": "To the right/To the left",
+            "C": "To the left/To the right",
+            "D": "No direction; the force is zero./To the left"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "to the right",
+            "B": "to the left",
+            "C": "upward in the plane of the page",
+            "D": "downward in the plane of the page"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.44",
+            "B": "0.88",
+            "C": "1.13",
+            "D": "2.26"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "3.0 cm/s",
+            "B": "7.0 cm/s",
+            "C": "3.5 cm/s",
+            "D": "12.5 cm/s"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4 times greater than the force of the tractor on the trailer.",
+            "B": "2 times greater than the force of the tractor on the trailer.",
+            "C": "equal to the force of the tractor on the trailer.",
+            "D": "1/4 the force of the tractor on the trailer."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "the eccentricity of the orbit is less thatn zero",
+            "B": "the eccentricity of the orbit is greater than 1",
+            "C": "the sun might be at point C",
+            "D": "the sun might be at point D",
+            "E": "the sun might be at point B"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Physics_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "L sin $\\theta $",
+            "B": "L cos $\\theta $",
+            "C": "L",
+            "D": "L tan $\\theta $"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "1, 2, or 3"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Physics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The maximum kinetic energy is attained as the sphere passes through its equilibrium position.",
+            "B": "The minimum gravitational potential energy is attained as the sphere passes through its equilibrium position.",
+            "C": "The maximum gravitational potential energy is attained when the sphere reaches its point of release.",
+            "D": "The maximum total energy is attained only as the sphere passes through its equilibrium position."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "50 nm",
+            "B": "100 nm",
+            "C": "150 nm",
+            "D": "200 nm"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Physics_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "positive in both I and III",
+            "B": "negative in both I and III",
+            "C": "positive in I, negative in III",
+            "D": "negative in I, positive in III"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 s",
+            "B": "Between 1 and 2 s",
+            "C": "2 s",
+            "D": "Between 2 and 3 s"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "v_3 > v_1 > v_2",
+            "B": "v_1 > v_2 > v_3",
+            "C": "v_1 > v_3 < v_2",
+            "D": "v_2 > v_3 > v_1"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2$\\lambda $",
+            "B": "$\\lambda $",
+            "C": "$\\lambda $/2",
+            "D": "$\\lambda $/4"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "rightward",
+            "B": "leftward",
+            "C": "upward",
+            "D": "The average velocity is zero."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bulb #1 only",
+            "B": "Bulb #2 only",
+            "C": "Bulbs #2 and #3 only",
+            "D": "Bulbs #1, #2, and #3"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Physics_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.5 eV",
+            "B": "2.0 eV",
+            "C": "2.7 eV",
+            "D": "3.5 eV"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_21",
+        "question_type": "short-answer",
+        "answer": "A",
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "lower frequency",
+            "B": "longer wavelength",
+            "C": "greater speed",
+            "D": "greater momentum"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Physics_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Zero",
+            "B": "5 A, counterclockwise",
+            "C": "5 A, clockwise",
+            "D": "20 A, counterclockwise"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Physics_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "an alpha particle",
+            "B": "an electron",
+            "C": "a neutron",
+            "D": "a proton"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Virtual/Larger",
+            "B": "Virtual/Same size",
+            "C": "Real/Smaller",
+            "D": "Real/Larger"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Physics_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Q and U",
+            "B": "P and T",
+            "C": "Q and W",
+            "D": "S and U"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Physics_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2W cos $\\theta $",
+            "B": "T sin $\\theta $",
+            "C": "T cos $\\theta $",
+            "D": "2T sin $\\theta $"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Physics_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.5 $\\Omega $",
+            "B": "4 $\\Omega $",
+            "C": "5 $\\Omega $",
+            "D": "6 $\\Omega $"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Physics_30",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "0.25 m",
+            "B": "0.5 m",
+            "C": "1 m",
+            "D": "2 m",
+            "E": "4 m"
+        },
+        "response": "B"
+    }
+]

@@ -1,0 +1,475 @@
+[
+    {
+        "id": "validation_Chemistry_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Yes.",
+            "B": "No.",
+            "C": "Not sure."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The Lewis structure shows ten valence electrons which is not the correct number.",
+            "B": "The Lewis structure shows the electrons as distributed evenly between the carbon and oxygen but they are not.",
+            "C": "The Lewis structure should show the intermolecular forces present, but it does not.",
+            "D": "The Lewis structure shows the bond between carbon and oxygen as a triple bond but the real bond is actually a double bond.",
+            "E": "The Lewis structure shows that the molecule has a linear shape but it is actually a bent/v-shape substance."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Chemistry_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Product is aromatic",
+            "B": "Product has high dipole moment",
+            "C": "Product has less resonance energy",
+            "D": "Product is soluble in polar solvent"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_4",
+        "question_type": "short-answer",
+        "answer": "trans-1-Chloro-4-methylcyclohexane",
+        "response": "Trans"
+    },
+    {
+        "id": "validation_Chemistry_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2R, 3S",
+            "B": "2S, 3R",
+            "C": "2S, 3S",
+            "D": "2R, 3R"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Chemistry_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1 and 5",
+            "B": "1 and 3",
+            "C": "2 and 4",
+            "D": "6 and 7",
+            "E": "7 and 8"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "16"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It's an aldotetrose.",
+            "B": "It's an aldopentose.",
+            "C": "It's a ketopentose.",
+            "D": "It's a ketohexose."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Markovnikov orientation.",
+            "B": "Non-Markovnikov orientation.",
+            "C": "Non of the above."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Ag$(s) + $Zn^{2+}$(aq) $\\rightarrow$ $Ag^{2+}$(aq) + $Zn$(s)",
+            "B": "$Ag^+$(aq) + $Zn^{2+}$(aq) + 3 $e^-$ $\\rightarrow$ $AgZn$(s)",
+            "C": "$Ag^+$(aq) + $Zn$(s) $\\rightarrow$ $Ag$(s) + $Zn^{2+}$(aq) + $e^-$",
+            "D": "2 $Ag^+$(aq) + $Zn$(s) $\\\rightarrow$ 2 $Ag$(s) + $Zn^{2+}$(aq)"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Chemistry_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A strong acid is titrated into a weak base.",
+            "B": "A strong acid is titrated into a strong base.",
+            "C": "A strong base is titrated into a weak acid.",
+            "D": "A strong base is titrated into a strong acid.",
+            "E": "A weak base is titrated into a weak acid."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 2>",
+            "B": "<image 3>",
+            "C": "<image 4>",
+            "D": "<image 5>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Chemistry_13",
+        "question_type": "short-answer",
+        "answer": "12.97",
+        "response": "185"
+    },
+    {
+        "id": "validation_Chemistry_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "More than 6"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Na_2C_2O_4$ and $HCl$",
+            "B": "$Na^+$, $Cl^-$, and $HC_2O_4^-$",
+            "C": "C_2O_4^{2-} and $H^+$",
+            "D": "$Na^+$, $H^+$, and $C_2O_4^{2-}$"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "linear",
+            "B": "bent",
+            "C": "triangular planar",
+            "D": "tetrahedral",
+            "E": "square planar",
+            "F": "triangular pyramid",
+            "G": "triangular bipyramid",
+            "H": "octahedral",
+            "I": "T-shape"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Chemistry_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "P, Q",
+            "B": "P, R",
+            "C": "R, S",
+            "D": "Q, S"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Using 2.0 M $CH_3COOH$(aq) instead of 2.0 M $HCl$(aq) ",
+            "B": "Cooling the $HCl$(aq) to a lower temperature than it was in the original experiment",
+            "C": "Reducing the volume of the reaction vessel",
+            "D": "Using eggshells that are more finely powdered than those used in the original experiment "
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Chemistry_19",
+        "question_type": "short-answer",
+        "answer": "4",
+        "response": "2"
+    },
+    {
+        "id": "validation_Chemistry_20",
+        "question_type": "short-answer",
+        "answer": "5",
+        "response": "1"
+    },
+    {
+        "id": "validation_Chemistry_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The leftmost C atom and all the atoms directly bonded to it lie in the same plane. ",
+            "B": "Both C atoms and both O atoms lie in the same plane. ",
+            "C": "The N-C-C bond angle is 180\u00b0.",
+            "D": "The geometry around the N atom is planar."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "(A)",
+            "B": "(B)",
+            "C": "(C)",
+            "D": "(D)",
+            "E": "(E)"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Chemistry_23",
+        "question_type": "short-answer",
+        "answer": "6.5",
+        "response": "0.00"
+    },
+    {
+        "id": "validation_Chemistry_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "25.28kJ/mol",
+            "B": "20.32 kJ/mol",
+            "C": "22.88 kJ/mol",
+            "D": "30.58 kJ/mol"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Chemistry_25",
+        "question_type": "short-answer",
+        "answer": "24.32",
+        "response": "24.31"
+    },
+    {
+        "id": "validation_Chemistry_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Chemistry_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Cl^-$",
+            "B": "$I^-$",
+            "C": "$S^{2-}$",
+            "D": "$Te^{2-}$"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(A) = 6.87D, (B) = 4.11D",
+            "B": "(A) = 4.11 D , (B) = 6.87 D",
+            "C": "(A) = 4.11 D , (B) = 4.11 D",
+            "D": "(A) = 6.87 D, (B) = 6.87 D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_30",
+        "question_type": "short-answer",
+        "answer": [
+            "$MgS$",
+            "MgS"
+        ],
+        "response": "Mx"
+    }
+]

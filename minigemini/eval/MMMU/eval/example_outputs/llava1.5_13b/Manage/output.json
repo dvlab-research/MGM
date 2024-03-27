@@ -1,0 +1,460 @@
+[
+    {
+        "id": "validation_Manage_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Defining the criteria for creativity",
+            "B": "List the attributes of each unrelated concept independently",
+            "C": "Evaluate different combinations of properties of two unrelated concepts",
+            "D": "Look for areas that force fit these attributes and provide opportunities"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "human resource Management",
+            "B": "technology",
+            "C": "marketing",
+            "D": "operations"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_3",
+        "question_type": "short-answer",
+        "answer": "242110.62",
+        "response": "$1,200,000"
+    },
+    {
+        "id": "validation_Manage_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "27010",
+            "B": "27020",
+            "C": "27030",
+            "D": "27040"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "No need to diverge",
+            "B": "Disagreement is wasteful and self-indulgent",
+            "C": "Convergence proceeds too slowly",
+            "D": "The process of divergence-convergence is of little significance."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Manage_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "calculating,",
+            "B": "analytical,",
+            "C": "category dependent",
+            "D": "synthetic"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Achieve performance levels required by the market",
+            "B": "This product has ongoing sales value",
+            "C": "Customers are overserved",
+            "D": "Customers receive additional value"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Manage_8",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "June",
+            "B": "July",
+            "C": "August",
+            "D": "September",
+            "E": "October"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Manage_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Manage_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cooperate",
+            "B": "scope",
+            "C": "Structure",
+            "D": "Strategy"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "vague,",
+            "B": "extra",
+            "C": "elusive.",
+            "D": "multidimensional"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "M: $57,000; N: $47,000; T: $16,000;",
+            "B": "M: $57,000; N: $47,000; T: $20,000;",
+            "C": "M: $60,000: N: $51,996; T: $8,004;",
+            "D": "M: $60,000: N: $51,996; T: $12,000;"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Manage_14",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "action oriented role",
+            "B": "thought role",
+            "C": "socially oriented role",
+            "D": "catering to customer personas"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Manage_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Information collection and integration",
+            "B": "IT practices",
+            "C": "Information management",
+            "D": "Information Behavior and Values"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Manage_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_17",
+        "question_type": "short-answer",
+        "answer": "65",
+        "response": "2.5"
+    },
+    {
+        "id": "validation_Manage_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Plans and actual combat do not match",
+            "B": "A catastrophic mismatch between abstract thinking and actual terrain",
+            "C": "There is a mismatch between theoretical knowledge and experience",
+            "D": "Mismatch between abstract thinking and experience"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Manage_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Have a clear concept of product and market alignment",
+            "B": "Develop competitive advantage",
+            "C": "Create synergy",
+            "D": "Focus on product innovation"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Manage_20",
+        "question_type": "short-answer",
+        "answer": "2960",
+        "response": "$0"
+    },
+    {
+        "id": "validation_Manage_21",
+        "question_type": "short-answer",
+        "answer": "9.20",
+        "response": "$6.75"
+    },
+    {
+        "id": "validation_Manage_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Manage human resources operations and infrastructure",
+            "B": "Become the link between human resources and organizational strategy",
+            "C": "Optimize the value of employees",
+            "D": "Be a change agent with a long-term vision for the organization"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_23",
+        "question_type": "short-answer",
+        "answer": "1464",
+        "response": "1331"
+    },
+    {
+        "id": "validation_Manage_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_25",
+        "question_type": "short-answer",
+        "answer": "0.963",
+        "response": "0.0"
+    },
+    {
+        "id": "validation_Manage_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Slacks are: 0, 2, 11, 0, 2, 11, 0",
+            "B": "Slacks are: 0, 3, 10, 0, 3, 10, 0",
+            "C": "Slacks are: 0, 4, 9, 0, 4, 9, 0",
+            "D": "Slacks are: 0, 5, 11, 0, 5, 11, 0"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Manage_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Spirit",
+            "B": "pathos",
+            "C": "Emotional",
+            "D": "reason"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "environmental",
+            "B": "personal consumption",
+            "C": "social dimensions",
+            "D": "responsible resource management."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Manage_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Manage_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "2003",
+            "B": "2005",
+            "C": "2007",
+            "D": "2009",
+            "E": "2010"
+        },
+        "response": "A"
+    }
+]

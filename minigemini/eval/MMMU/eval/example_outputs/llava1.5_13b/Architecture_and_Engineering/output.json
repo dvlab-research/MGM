@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Architecture_and_Engineering_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "9.75kips compression",
+            "B": "5.75kips compression",
+            "C": "7.75kips compression"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "35.567 $\\approx$ 36",
+            "B": "36.567 $\\approx$ 37",
+            "C": "34.567 $\\approx$ 35",
+            "D": "37.567 $\\approx$ 38"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "150.507 m",
+            "B": "152.507 m",
+            "C": "153.507 m",
+            "D": "151.507 m"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-0.01m",
+            "B": "+0.02m",
+            "C": "0",
+            "D": "+0.01m"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\alpha_{23}=75\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "B": "$\\alpha_{23}=95\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "C": "$\\alpha_{23}=65\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "D": "$\\alpha_{23}=85\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The scale of the photographs is 1 cm = 62.5 m;Air base = 625 m",
+            "B": "The scale of the photographs is 1 cm = 68.5 m;Air base = 625 m",
+            "C": "The scale of the photographs is 1 cm = 66.5 m;Air base = 625 m",
+            "D": "The scale of the photographs is 1 cm = 64.5 m;Air base = 625 m"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.603",
+            "B": "2.703",
+            "C": "2.803"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'34.73\"",
+            "B": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'38.73\"",
+            "C": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'32.73\"",
+            "D": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'22.73\""
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "14563 $m^{3}$",
+            "B": "14583 $m^{3}$",
+            "C": "14553 $m^{3}$",
+            "D": "14573 $m^{3}$"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4725 $m^{2}$",
+            "B": "4728 $m^{2}$",
+            "C": "4723 $m^{2}$",
+            "D": "4729 $m^{2}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "10%.",
+            "B": "8%.",
+            "C": "9%."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "B = 143\u00b044'00.34\";C = 238\u00b010'11.87\";D = 307\u00b008'20.76\"",
+            "B": "B = 143\u00b044'00.34\";C = 238\u00b014'11.87\";D = 307\u00b008'20.76\"",
+            "C": "B = 143\u00b044'00.34\";C = 238\u00b016'11.87\";D = 307\u00b008'20.76\"",
+            "D": "B = 143\u00b044'00.34\";C = 238\u00b012'11.87\";D = 307\u00b008'20.76\""
+        },
+        "response": "(A) B = 143\u00b044'00.34\";C = 238\u00b010'11.87\";D = 307\u00b008'20.76\""
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.32 mm",
+            "B": "4.12 mm",
+            "C": "4.22 mm"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_14",
+        "question_type": "short-answer",
+        "answer": "1.06",
+        "response": "0"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-1.84k compr",
+            "B": "-1.94k compr",
+            "C": "-1.74k compr"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1734veh/mi",
+            "B": "1744veh/mi",
+            "C": "1344veh/mi"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "29.893 * 106 $m^{3}$",
+            "B": "29.293 * 106 $m^{3}$",
+            "C": "29.493 * 106 $m^{3}$",
+            "D": "29.693 * 106 $m^{3}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "945.8 m, 216\u00b045'",
+            "B": "947.8 m, 216\u00b045'",
+            "C": "937.8 m, 216\u00b045'",
+            "D": "941.8 m, 216\u00b045'"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Max.Compr.= 48.95 kips; Max.Tension = 13.1 kips",
+            "B": "Max.Compr.= 43.95 kips; Max.Tension = 13.1 kips",
+            "C": "Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Side width $w_{1}$ = 37.4 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "B": "Side width $w_{1}$ = 37.5 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "C": "Side width $w_{1}$ = 37.3 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "D": "Side width $w_{1}$ = 37.2 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "120 m",
+            "B": "122 m",
+            "C": "123 m",
+            "D": "121 m"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\angle A = 260\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$",
+            "B": "$\\angle A = 263\u00b045'$,$\\angle B = 261\u00b000'$,$\\angle C = 243\u00b000'$,$\\angle D = 265\u00b015'$,$\\angle E = 227\u00b000'$",
+            "C": "$\\angle A = 263\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$",
+            "D": "$\\angle A = 261\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bearing AE = 87\u00b0,47':Grade = 1.78 in 652.33 = 1 in 413",
+            "B": "Bearing AE = 87\u00b0,47':Grade = 1.88 in 652.33 = 1 in 413",
+            "C": "Bearing AE = 87\u00b0,47':Grade = 1.68 in 652.33 = 1 in 413",
+            "D": "Bearing AE = 87\u00b0,47':Grade = 1.58 in 652.33 = 1 in 413"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5560 hectares",
+            "B": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5460 hectares",
+            "C": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5260 hectares",
+            "D": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5360 hectares"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "EUAW1=$18,444, EUAW2=$19,730",
+            "B": "EUAW1=$18,444, EUAW2=$15,730",
+            "C": "EUAW1=$15,444, EUAW2=$19,730"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "AO = 884.49 m,CO = 1644 m",
+            "B": "AO = 884.49 m,CO = 1624 m",
+            "C": "AO = 885.49 m,CO = 1634 m",
+            "D": "AO = 884.49 m,CO = 1634 m"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Distance CB = 748.50'",
+            "B": "Distance CB = 748.70'",
+            "C": "Distance CB = 748.60'",
+            "D": "Distance CB = 748.40'"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Temple",
+            "B": "Mosque",
+            "C": "Hut",
+            "D": "Church"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Gradient = 1 in 35.95 m fall",
+            "B": "Gradient = 1 in 33.95 m fall",
+            "C": "Gradient = 1 in 34.95 m fall",
+            "D": "Gradient = 1 in 36.95 m fall"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5136.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "B": "5134.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "C": "5138.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "D": "5132.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$"
+        },
+        "response": "(A) 5136.82 $m_{2}$, 2.43 $m_{2}$, \u00b1 2.34 $m_{2}$"
+    }
+]

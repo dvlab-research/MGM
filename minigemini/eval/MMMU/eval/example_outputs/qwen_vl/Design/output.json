@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Design_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It represents musical notation through symbols.",
+            "B": "It facilitates mathematical calculations.",
+            "C": "It conveys a historical narrative.",
+            "D": "It contains sacred relics."
+        },
+        "response": "(C) It conveys a historical narrative."
+    },
+    {
+        "id": "validation_Design_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "to enliven paintings through the use of scientific theories about color and optic function",
+            "B": "to bring Classical structure to the Impressionists' approach to painting",
+            "C": "to use color to generate a strong emotional response from the viewer",
+            "D": "to produce an idiosyncratic style characterized by the use of small dots of color"
+        },
+        "response": "The goal of George Seurat's 'Divisionist' paintings, including his famous work \"A Sunday on La Grande Jatte,\" was to use small dots of color to create a unique and idiosyncratic style. This approach allowed him to enliven his paintings and generate a strong emotional response from the viewer, as well as to bring a new level of precision and attention to detail to the world of art. While Seurat was certainly interested in scientific theories about color and optic function, his primary focus was on creating a distinctive and innovative style that would set his work apart from that of his contemporaries."
+    },
+    {
+        "id": "validation_Design_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Proximity",
+            "B": "Alignment",
+            "C": "Contrast",
+            "D": "Unity"
+        },
+        "response": "The answer is (C) Contrast. \n\nContrast is achieved by the use of different colors, patterns, or textures to create visual interest and balance in a garment. In the image, the dress has a black and white pattern with green accents, creating a contrast between the colors. This contrast helps to distribute visual weight and create a balanced and visually appealing design."
+    },
+    {
+        "id": "validation_Design_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Josef Albers",
+            "B": "George Eastman",
+            "C": "Gosnell Hall",
+            "D": "Tea Server 1925"
+        },
+        "response": "The alumni who taught at the school first, served as a tea server in 1925, had three paintings at the George Eastman hall of RIT, and also did the wall in Gosnell is Josef Albers. He was a German artist and teacher who taught at the School of Design in the 1920s and 1930s. Albers was also a pioneer in the field of color theory and is known for his abstract paintings and teaching at Black Mountain College."
+    },
+    {
+        "id": "validation_Design_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "marriage",
+            "B": "betrothal",
+            "C": "coronation",
+            "D": "legal contract"
+        },
+        "response": "(C) coronation"
+    },
+    {
+        "id": "validation_Design_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Zenith 'Guardian Ear & Radio Nurse'",
+            "B": "Innovative Hearing Aid Technology",
+            "C": "Ear and Radio Communication Advancements",
+            "D": "The Future of Guardian Technology"
+        },
+        "response": "The title of this design is \"Zenith 'Guardian Ear & Radio Nurse'\"."
+    },
+    {
+        "id": "validation_Design_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Chanel No. 5 perfume",
+            "B": "Perfume Manufacturing Process",
+            "C": "The Art of Perfumery",
+            "D": "History of Chanel"
+        },
+        "response": "The title of this design is \"Chanel No. 5 perfume\"."
+    },
+    {
+        "id": "validation_Design_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Masaccio",
+            "B": "Piero della Francesca",
+            "C": "Fra Angelico",
+            "D": "Giotto"
+        },
+        "response": "The answer is (C) Fra Angelico."
+    },
+    {
+        "id": "validation_Design_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "carved ivory",
+            "B": "fresco secco",
+            "C": "marble",
+            "D": "mosaic"
+        },
+        "response": "The medium of The Harbaville Triptych is carved ivory."
+    },
+    {
+        "id": "validation_Design_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "V-neck",
+            "B": "Cowl neckline",
+            "C": "Halter neckline",
+            "D": "Sweetheart neckline"
+        },
+        "response": "(D) Sweetheart neckline"
+    },
+    {
+        "id": "validation_Design_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "accurately copying figures and subject matter from nature",
+            "B": "aligning the Old Testament and the New Testament through typology",
+            "C": "emphasizing the role of the saints in the church",
+            "D": "asserting imperial authority over the church"
+        },
+        "response": "The painting \"The Holy Trinity\" by Russian icon Andrei Rublev, which depicts the Father, the Son, and the Holy Spirit as equal and distinct yet united in essence, reflects an interest in aligning the Old Testament and the New Testament through typology. The icon emphasizes the unity of the Holy Trinity and the importance of the Trinity in Christian theology. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Design_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bell Sleeve",
+            "B": "Puff Sleeve",
+            "C": "Cap Sleeve",
+            "D": "Raglan Sleeve"
+        },
+        "response": "The type of sleeve in the image is a bell sleeve."
+    },
+    {
+        "id": "validation_Design_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "depict a disorganized scene that overwhelms the viewer",
+            "B": "model the anatomy of the figures naturalistically",
+            "C": "modify and transport the composition easily",
+            "D": "reduce the figures into abstract forms"
+        },
+        "response": "(C) modify and transport the composition easily"
+    },
+    {
+        "id": "validation_Design_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first or second century C. E.",
+            "B": "sixth or seventh century C. E.",
+            "C": "tenth or eleventh century C.E.",
+            "D": "fourteenth or fifteenth century C. E."
+        },
+        "response": "The answer is (B) sixth or seventh century C. E."
+    },
+    {
+        "id": "validation_Design_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "royal palace",
+            "B": "religious institution",
+            "C": "private home",
+            "D": "civic building"
+        },
+        "response": "We cannot determine the answer with certainty based on the image alone, but it is likely that the work was made for a religious institution, as it is an altarpiece depicting a religious scene."
+    },
+    {
+        "id": "validation_Design_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Analogous Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Monochromatic Color Scheme",
+            "D": "Triadic Color Scheme"
+        },
+        "response": "The image represents an analogous color scheme, as the colors in the image are located next to each other on the color wheel."
+    },
+    {
+        "id": "validation_Design_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Analogous Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Monochromatic Color Scheme",
+            "D": "Triadic Color Scheme"
+        },
+        "response": "The image shows a close-up of a purple flower, which suggests that the color scheme involves the use of different tints, shades, and intensities of one color. Therefore, the answer is (C) Monochromatic Color Scheme."
+    },
+    {
+        "id": "validation_Design_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "By sketching multiple design ideas",
+            "B": "By conducting user testing",
+            "C": "By creating a presentation and developing the design into a publishable format that addresses all evaluation criteria",
+            "D": "By refining typography and layout"
+        },
+        "response": "(C) By creating a presentation and developing the design into a publishable format that addresses all evaluation criteria. \n\nDesigners typically use a variety of methods and techniques to resolve a design, including sketching multiple design ideas, conducting user testing, refining typography and layout, and creating a presentation and developing the design into a publishable format that addresses all evaluation criteria. However, the most effective approach depends on the specific design challenge and the goals of the project. In general, developing a publishable format that addresses all evaluation criteria is an important step in ensuring that the design is effective and meets the needs of the intended audience."
+    },
+    {
+        "id": "validation_Design_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Time waits for no man",
+            "B": "A common experience",
+            "C": "A mystery",
+            "D": "A clock"
+        },
+        "response": "(A) Time waits for no man"
+    },
+    {
+        "id": "validation_Design_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Dish rack",
+            "B": "Dishwasher",
+            "C": "Cutting board",
+            "D": "Countertop landing area"
+        },
+        "response": "The diagram shows that the sink should be accompanied by a dishwasher on one side, with a width of at least 24 inches, and a cutting board on the other side, with a width of at least 18 inches. Therefore, the answer is (B) Dishwasher."
+    },
+    {
+        "id": "validation_Design_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Monochromatic Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Analogous Color Scheme",
+            "D": "Accented Neutral Color Scheme"
+        },
+        "response": "(D) Accented Neutral Color Scheme."
+    },
+    {
+        "id": "validation_Design_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Symmetrical",
+            "B": "Asymmetrical",
+            "C": "Radical",
+            "D": "Bilateral"
+        },
+        "response": "(C) Radical"
+    },
+    {
+        "id": "validation_Design_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Beau Brownie camera",
+            "B": "Photography in the 20th Century",
+            "C": "History of Kodak Cameras",
+            "D": "Vintage Camera Collection"
+        },
+        "response": "The title of this design is \"Beau Brownie camera\"."
+    },
+    {
+        "id": "validation_Design_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "hanging in a household niche as an object of private meditation",
+            "B": "fulfilling a special commission for a wealthy patron",
+            "C": "mass production for purchase by a wide audience",
+            "D": "personal artistic experimentation with new media"
+        },
+        "response": "Based on the information provided in the image, it is not possible to determine the exact purpose for which the work was created. However, it is likely that the work was created primarily for the purpose of fulfilling a special commission for a wealthy patron, as Hokusai was known for creating works that were commissioned by wealthy patrons for their households or for display in public spaces."
+    },
+    {
+        "id": "validation_Design_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Wifredo Lam",
+            "B": "Frida Kahlo",
+            "C": "Diego Rivera",
+            "D": "Jacob Lawrence"
+        },
+        "response": "(D) Jacob Lawrence"
+    },
+    {
+        "id": "validation_Design_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Le destin screen",
+            "B": "Jacques Doucet",
+            "C": "Salon des Artistes Decorateurs",
+            "D": "Eileen Gray"
+        },
+        "response": "Le destin screen was sought out by Jacques Doucet and became an important patron of Eileen Gray's work for the Salon des Artistes Decorateurs."
+    },
+    {
+        "id": "validation_Design_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Sumerian",
+            "B": "Mycenaean",
+            "C": "Etruscan",
+            "D": "Minoan"
+        },
+        "response": "We refer to Wikipedia articles on prehistory for help. The image shows a statue of a man and a woman lying on a couch, which is a funerary art from the Mycenaean civilization in ancient Greece. So the answer is (B)."
+    },
+    {
+        "id": "validation_Design_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Appliance",
+            "B": "Traffic",
+            "C": "Cabinet",
+            "D": "Utensil"
+        },
+        "response": "(C) Cabinet"
+    },
+    {
+        "id": "validation_Design_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "constellations and heavenly bodies",
+            "B": "clan locations and boundary lines",
+            "C": "royal lineage and family births",
+            "D": "ocean currents and landforms"
+        },
+        "response": "The given information suggests that the abstract geometric lines and shapes used in the Micronesian work functioned to record clan locations and boundary lines. Therefore, the correct answer is (B)."
+    },
+    {
+        "id": "validation_Design_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Frank Lloyd Wright",
+            "B": "I. M. Pei",
+            "C": "William Van Allen",
+            "D": "Philip Johnson"
+        },
+        "response": "The correct answer is (B) I. M. Pei. The Chrysler Building was designed by the famous architect I. M. Pei."
+    }
+]

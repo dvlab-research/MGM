@@ -1,0 +1,544 @@
+[
+    {
+        "id": "validation_History_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "As an immigrant, Carnegie had no right to own controlling interests in major American industries.",
+            "B": "Carnegie did nothing to prevent the use of violence against his workers when they asked for better wages and working conditions.",
+            "C": "Carnegie was seen as the epitome of American success, but he was not even the richest man in America.",
+            "D": "Too much of Carnegie's philanthropic efforts were concentrated on his homeland of Scotland, denying Americans the benefits of his charity."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The compromise ending Reconstruction",
+            "B": "The rise of the Ku Klux Klan in the South",
+            "C": "The enactment of segregation laws in Southern states",
+            "D": "The passage of the Fifteenth Amendment"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Atlantic slave trade",
+            "B": "The flow of refugees caused by the Seven Years' War",
+            "C": "The segregation of races imposed by British colonial authorities",
+            "D": "The migratory patterns encouraged by the arrival of smallpox from Europe"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The spread of the bubonic plague by the Mongol invasions",
+            "B": "Migrations to Christian population centers in the Mediterranean",
+            "C": "Forced migration of populations by the Roman government",
+            "D": "Invasions by Germanic and Central Asian peoples"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_History_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Support of these countries' agrarian populations for protectionist trade policies",
+            "B": "Control of those countries by the Soviet Union until the end of the Cold War",
+            "C": "Resistance to the West by fascist governments in those countries",
+            "D": "The greater effect on those countries of the Great Depression and world wars"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Soviet Union saw communism as developing most effectively within a single country, while Marx envisioned it as an international movement",
+            "B": "The Soviet Union saw communism as primarily a militaristic philosophy, while Marx argued for a peaceful approach",
+            "C": "The Soviet Union saw communism as being fully realized by 1917, while Marx predicted the proletariat revolt to occur much later",
+            "D": "The Soviet Union saw communism as a theoretical concept, while Marx attempted to implement a communist society"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "although European individuals and countries might be seduced into waging another major war, the United States would be wise to avoid participating.",
+            "B": "the policy of appeasement is a bankrupt policy that can only lead to more death and destruction.",
+            "C": "munitions manufacturers, the so-called merchants of death, were pushing the world toward war in the name of profits.",
+            "D": "the weaponry of modern warfare had advanced to such a degree that future military engagements would result in unprecedented carnage."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Portugal was primarily interested in exploration of the African and Asian coasts",
+            "B": "Vasco de Gama was the first European to embark on intercontinental travel by sea",
+            "C": "European nations began to look outward for economic opportunities",
+            "D": "European began mass migrations to distant lands in the early sixteenth century"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Trail of Tears",
+            "B": "King Philip's War",
+            "C": "Creek War of 1836",
+            "D": "The Battle of Little Big Horn"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "World War I is the crime of the ages",
+            "B": "ALl nations involved in World War I at its outbreak are to blame for it",
+            "C": "Russia and Austria are blamed unfairly",
+            "D": "The nations of Europe are blaming one another",
+            "E": "War is a terrible crime"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Netherlands",
+            "B": "France",
+            "C": "Belgium",
+            "D": "Germany"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Phillip II and Mary I",
+            "B": "Francis II and Mary Queen of Scots",
+            "C": "Elizabeth I and Edward VI",
+            "D": "Catherine of Aragon and Henry II"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The capital of West Germany was located in East Germany",
+            "B": "West Germany experienced a postwar economic miracle",
+            "C": "Both East Germany and West Germany were allowed to rearm",
+            "D": "France had occupied West Germany"
+        },
+        "response": "A) The capital of West Germany was located in East Germany"
+    },
+    {
+        "id": "validation_History_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Joint-stock companies developed in order to monopolize all trade in the region.",
+            "B": "Colonists exported manufactured goods to Europe.",
+            "C": "Mercantilist policies were used to expand European economies.",
+            "D": "Trans-Atlantic trade increased as trade networks in the Indian Ocean basin declined."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Societies consisting of refugees from slave status",
+            "B": "Societies practicing a schismatic religion",
+            "C": "Societies governed by warrior elites",
+            "D": "Societies existing on the periphery of large states"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The spread of Ethiopian cultural traditions in West Africa",
+            "B": "The influence of the Columbian Exchange on artistic traditions",
+            "C": "The development of religious syncretism as cultural traditions spread",
+            "D": "The intensification of pre-existing religious conflicts and rivalries"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Daoism was supported by Chinese imperial rulers.",
+            "B": "Daoist beliefs influenced much of Asia.",
+            "C": "Daoist temples often served as monasteries.",
+            "D": "Daoism influenced Chinese architectural styles."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_History_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Coercive Acts",
+            "B": "Tea Act",
+            "C": "Townshend Acts",
+            "D": "Currency Act"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Defensive walls were successful in preventing borderland nomads from conquering the Han dynasty.",
+            "B": "The Han government built fortifications to protect the Silk Road.",
+            "C": "Monumental architecture served both a religious and a military purpose in the Qin and Han dynasties.",
+            "D": "Fortifications were built to project military power and defend against invasions."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_History_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "stopping the spread of communism in Asia",
+            "B": "a Cold War arms race with the Soviet Union",
+            "C": "the desire to defend human rights in developing nations",
+            "D": "supporting the Non-Aligned Movement in Asia"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_History_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Africa",
+            "B": "Australia",
+            "C": "Bushmen",
+            "D": "Europe and West Asia"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Japanese were unable to adapt to the Chinese style of examination.",
+            "B": "Merchants resisted, fearing that efficient administrators would lead to increased taxes.",
+            "C": "Japanese nobles feared that their power base would be weakened.",
+            "D": "Christian missionaries discouraged the adoption of pagan practices."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "infighting within and among unions prevented their rise to economic power",
+            "B": "government inspectors turned their backs to illegal repression of labor unions",
+            "C": "attacks on unions were so well concealed that the government did not know where to begin its investigations",
+            "D": "from their beginnings, labor unions were controlled by organized crime"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "American demand for labor and African supply of slaves",
+            "B": "Japanese supply of silver and Middle Eastern demand for spices",
+            "C": "Western European demand for industrial raw materials and American and South Asian supply of cash crops",
+            "D": "Chinese and Indian demand for precious metals and European demand for Asian textiles and luxury goods"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Major trade routes in the classical era",
+            "B": "The spread of communism from 1900 to today",
+            "C": "One aspect of cultural diffusion",
+            "D": "The monsoonal wind patterns of Asia"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Muslim regions were more likely to expel Jewish people than Catholic ones.",
+            "B": "Most of the Jewish expulsions originated in Protestant regions.",
+            "C": "Catholic regions were more likely to expel Jewish people than other regions.",
+            "D": "Jews migrated voluntarily to the regions with the most economic prosperity."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Han dynasty faced few geographical challenges, which allowed for rapid expansion.",
+            "B": "The Han dynasty established cities as centers for religious rituals and sacrificial ceremonies.",
+            "C": "The Han dynasty imposed political unity where there had previously been competing states.",
+            "D": "The Han dynasty failed to expand borders of previous Chinese dynasties."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_History_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Women in Japan exercised influence on society, despite the persistence of patriarchy elsewhere.",
+            "B": "Women in Japan of all classes had equal opportunities like men.",
+            "C": "Japanese society was highly patriarchal, much like Chinese society.",
+            "D": "Chinese views of women influenced Japanese gender roles."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_History_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cotton",
+            "B": "Spices",
+            "C": "Ivory",
+            "D": "Opium"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_History_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "British ships did not sail along the west coast of Africa during this period.",
+            "B": "British ships did not sail the Atlantic Ocean during this period.",
+            "C": "British ships did not sail the Pacific Ocean during this period.",
+            "D": "British ships did not sail in the Indian Ocean during this period."
+        },
+        "response": "A"
+    }
+]

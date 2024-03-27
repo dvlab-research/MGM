@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Accounting_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$6",
+            "B": "$7",
+            "C": "$8",
+            "D": "$9"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The per unit manufacturing overhead costs incurred is $7."
+    },
+    {
+        "id": "validation_Accounting_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$194,815",
+            "B": "$182,815",
+            "C": "$12,000",
+            "D": "$9,000"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The table shows the balance of each account, and the only account missing a balance is Dividends. Equipment has not been depreciated yet, so there is no depreciation expense or accumulated depreciation. The Service revenue account has a debit balance of 82,500, and the Supplies account has a credit balance of 9,700. The Salaries expense account has a credit balance of 51,500. The only account missing a balance is Dividends, so its balance is $9,000. The answer is (D)."
+    },
+    {
+        "id": "validation_Accounting_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Project A",
+            "B": "Project B"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. According to the NPV rule, the project with the positive NPV should be chosen. The NPV of Project A is $20,000, while that of Project B is $24,000. So, Project B should be chosen if the appropriate discount rate is 15 percent.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Accounting_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$1,620",
+            "B": "$12,000",
+            "C": "$51,180",
+            "D": "$0"
+        },
+        "response": "(C) $51,180"
+    },
+    {
+        "id": "validation_Accounting_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "132,625",
+            "B": "134,485",
+            "C": "135,332",
+            "D": "132,685"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The weighted average method is used to allocate the cost of conversion among the units in ending work in process. The equivalent units for conversion costs for each quarter using the weighted-average method is the sum of the beginning work in process and the ending work in process for each quarter.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,500 4,838 0",
+            "B": "3,409 6,950 4,838",
+            "C": "5,728 3,700 3,250",
+            "D": "5,728 3,409 2,500"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The balances in the work in process inventory, finished goods inventory, and cost of goods sold for January are 2500, 4838, and 0, respectively.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3.31",
+            "B": "3.47",
+            "C": "3.65"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The discount rate to use in the NPV is the weighted average cost of capital (WACC). The WACC is the rate at which a company's debt and equity are discounted to their present values. The higher the beta of the project, the higher the risk and the higher the required return. Therefore, the higher the beta estimate for the project, the lower the WACC should be to make the NPV positive. The answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$660",
+            "B": "$760",
+            "C": "$650",
+            "D": "$750"
+        },
+        "response": "We are given that the total fixed costs are $114,750 and the product mix is 5:4:1. We need to calculate the sales price per composite unit.\nFirst, we need to calculate the total variable cost per composite unit. We do this by adding the variable cost per unit for each model: $50 + $75 + $150 = $275.\nNext, we need to calculate the contribution margin per composite unit. We do this by subtracting the fixed costs from the total revenue per unit: $275 - $114,750 = $-87,000.\nSince the contribution margin per composite unit is negative, we cannot sell the product at this price. Therefore, the sales price per composite unit is not possible to calculate based on the given information."
+    },
+    {
+        "id": "validation_Accounting_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$6,000",
+            "B": "$6,150",
+            "C": "$6,090",
+            "D": "$6,060"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The final cash balance should be the sum of all cash transactions for the month, including cash sales, payments for inventory, investments by owners, supplies used, cash withdrawals, inventory received, wages paid, and payments to owners. The sum of all these transactions is $3,250 + $1,760 + $3,000 + $175 + $260 + $2,500 + $2,390 = $6,090.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Accounting_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1)$39,000 ; (2)84,000",
+            "B": "(1)$36,000 ; (2)77,000",
+            "C": "(1)$38,650 ; (2)82,910"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. Investing activities: Purchase of bus $-33,000 Interest paid on debt $-25,000 Sales of old equipment $72,000 Repurchase of stock $55,000 Cash payments to suppliers $95,000 Collections from customers $300,000 Net cash provided by or used in investing activities: (1)($33,000) + (2)$-25,000 + (3)$72,000 + (4)$55,000 + (5)$-95,000 + (6)$300,000 = $39,000 Net increase or decrease in cash for the year: (1)$39,000 - (2)$84,000 = $45,000 Answer: (A) (1)$39,000 ; (2)84,000"
+    },
+    {
+        "id": "validation_Accounting_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$9.00",
+            "B": "$5.00",
+            "C": "the Maximum  possible loss is unlimited"
+        },
+        "response": "The Maximum possible loss per share for the long strangle strategy at expiration is unlimited, as the position includes both a call and a put with different exercise prices but the same expiration date. This means that if the stock price moves significantly in either direction, the option holder could potentially lose more than the maximum amount specified in the answer choices."
+    },
+    {
+        "id": "validation_Accounting_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$3,100,000",
+            "B": "$2,616,000",
+            "C": "$2,474,000",
+            "D": "$484,000"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. Total revenue is the sum of all the revenue items, which are sales revenue, depreciation on office equipment, advertising and marketing expense, administrative salaries, cost of goods sold and rent on corporate headquarters. So the total revenue is $3,100,000 + $90,000 + $625,000 + $136,000 + $1,700,000 + $65,000 = $2,616,000.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Accounting_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$52,000",
+            "B": "$62,000",
+            "C": "$72,000",
+            "D": "$82,000"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The conversion cost is the cost of the raw materials used to create the final product. The raw materials cost is $15,000, so the conversion cost is $15,000.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$10,208",
+            "B": "$10,308",
+            "C": "$10,408",
+            "D": "$10,508"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The balance in finished goods inventory is the sum of the cost of Job 1 and Job 2. The total cost of Job 1 is $10,308, and the total cost of Job 2 is $4,060, so the balance in finished goods inventory is $10,308 + $4,060 = $14,368.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Accounting_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$4,840",
+            "B": "$4,940",
+            "C": "$5,040",
+            "D": "$5,140"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The formula to calculate overtime wages is: overtime wages = (number of invoices processed - average number of invoices processed per month) * average overtime rate per invoice. Plugging in 6,500 for the number of invoices processed, we get: overtime wages = (6500 - 8000) * 700/12000 = 4000 * 700/12000 = 28000/12 = 2333.3333333333336. Dividing by 12000 gives us 2333.3333333333336/12000 = 0.28333333333333336. Converting 0.28333333333333336 to 28.333333333333336, we get the answer as 28,333.33333333336. The answer (D) is the closest."
+    },
+    {
+        "id": "validation_Accounting_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "14%",
+            "B": "15%",
+            "C": "16%"
+        },
+        "response": "To calculate the required rate of return for SmileWhite, we can use the information in the table provided:\n\n  * Beta: 1.35\n  * Market price: $45.00\n  * Intrinsic value: $63.00\n\nWe can use the following formula to calculate the required rate of return (RAR):\nRAR = (Intrinsic value - Market price) / Market price\nRAR = ($63.00 - $45.00) / $45.00\nRAR = $18.00 / $45.00\nRAR = 0.40\n\nTherefore, the required rate of return for SmileWhite is 40%. \n\nSo, the answer is (A) 14%."
+    },
+    {
+        "id": "validation_Accounting_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$135,726",
+            "B": "$112,500",
+            "C": "$126,925",
+            "D": "$116,350"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The adjusted trial balance is as follows: Accounts payable $10,075 Accounts receivable 15,500 Cash 64,575 Common stock 31,000 Fees earned revenue 82,000 Operating expense 38,000 Supplies 5,000\nWe can see that the supplies account has a balance of 5,000, which is the adjusted balance. So the answer is (D)."
+    },
+    {
+        "id": "validation_Accounting_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$72,283",
+            "B": "$73,283",
+            "C": "$74,283",
+            "D": "$75,283"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The cost of materials used in production is equal to the raw materials inventory at the beginning of the year plus the raw materials purchased during the year plus the direct labor cost minus the finished goods inventory at the end of the year. That is, $77,321 + $77,321 + $125,900 - $53,721 = $72,283.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$10",
+            "B": "$11",
+            "C": "$12",
+            "D": "$13"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The per unit manufacturing overhead costs incurred for 15,000 units produced would be $10.\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "17.4%",
+            "B": "18.1%",
+            "C": "18.5%"
+        },
+        "response": "The expected rate of return on the stock can be calculated using the information in the table. Let's assume that the market views the stock as fairly priced, which would result in a beta of 1. In this case, the expected return on the stock would be:\n\nExpected return on stock = Risk-free rate + (Market return - Risk-free rate) / (1 + Market beta)\nExpected return on stock = 0.06 + (0.02 - 0.06) / (1 + 1) = 0.02\n\nTherefore, the expected rate of return on the stock is 2%."
+    },
+    {
+        "id": "validation_Accounting_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Project X would be incorrectly rejected; Project Z would be incorrectly accepted.",
+            "B": "Project Y would be incorrectly rejected; Project X would be incorrectly accepted.",
+            "C": "Project Z would be incorrectly rejected; Project X would be incorrectly accepted.",
+            "D": "No project would be incorrectly rejected; Project Z would be incorrectly accepted."
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The correct hurdle rate should be the cost of equity, which is the required return on equity. So, if the cost of equity is used as the hurdle rate, then all projects would be correctly evaluated. The answer is (D)."
+    },
+    {
+        "id": "validation_Accounting_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3.470",
+            "B": "3.096",
+            "C": "3.187"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The Z-score is calculated as (Ebit / Net Working Capital) * 1000. Substituting the given values, we get (73000 / 4200) * 1000 = 3.187. The answer is (C)."
+    },
+    {
+        "id": "validation_Accounting_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Not enough information"
+        },
+        "response": "We need to compare the prices of the two options to determine which stock has a lower price. \n\nWe can use the Black-Scholes formula to calculate the prices of the options:\n\nPrice of Option = (Underlying Stock Price - Strike Price) * N(d1/2, r, T) - (ln(S/K) + (r + (\u03c3^2)/2) * T) / (\u03c3 * sqrt(T))\n\nwhere:\n- N(d1/2, r, T) is the normal distribution function with mean d1/2 and standard deviation sqrt(T)\n- ln(S/K) is the logarithm of the ratio of the stock prices\n- r is the risk-free interest rate\n- \u03c3 is the volatility of the stock prices\n- T is the time to expiration\n\nWe can use the formula to calculate the prices of the options:\n\n- For option A, we have:\n  - Underlying Stock Price = 50\n  - Strike Price = 50\n  - r = 6%\n  - \u03c3 = 2\n  - T = 1\n  - ln(S/K) = ln(50/50) = 0\n  - \u03c3^2 = 2^2 = 4\n  - N(d1/2, r, T) = N(0, 6%, 1) = 0.026\n  - Price of Option = (50 - 50) * 0.026 - (0 + (6 + (4^2)/2) * 1) / (4 * sqrt(1)) = 0.026 - (6 + 4) / (4 * sqrt(1)) = 0.026 - 10 / (4 * sqrt(1)) = 0.026 - 1.284 = -1.258\n\n- For option B, we have:\n  - Underlying Stock Price = 50\n  - Strike Price = 50\n  - r = 6%\n  - \u03c3 = 2\n  - T = 1\n  - ln(S/K) = ln(50/50) = 0\n  - \u03c3^2 = 2^2 = 4\n  - N(d1/2, r, T) = N(0, 6%, 1) = 0.026"
+    },
+    {
+        "id": "validation_Accounting_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1) 0.0971 (2)0.01047",
+            "B": "(1) 0.1134 (2)0.01722",
+            "C": "(1) 0.1149 (2)0.01322"
+        },
+        "response": "The information ratio can be calculated as the average return of the portfolio over the risk-free rate, divided by the standard deviation of the portfolio return. Using the excess return data for stocks A and B, we can calculate the information ratio as follows:\n\n(1) 0.0971 (2)0.01047\n\nTherefore, the information ratio for stock A is (1) 0.0971 (2)0.01047. Option (A) is the correct answer."
+    },
+    {
+        "id": "validation_Accounting_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Are in equilibrium.",
+            "B": "Offer an arbitrage opportunity.",
+            "C": "Are both underpriced.",
+            "D": "Are both fairly priced."
+        },
+        "response": "(D) Are both fairly priced."
+    },
+    {
+        "id": "validation_Accounting_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "350 units and $34,647.65",
+            "B": "355 units and $35,647.65",
+            "C": "350 units and $35,647.65",
+            "D": "355 units and $34,647.65"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The new break-even point in units is 355 units. The new break-even point in dollars is $35,647.65.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Accounting_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.820",
+            "B": "0.693",
+            "C": "0.786"
+        },
+        "response": "We can calculate the debt-to-equity ratio as follows: (Total debt / (Total debt + Total equity)) = (220,000 / (220,000 + 30,000,000)) = (220,000 / 30,320,000) = 0.786. The answer is (C)."
+    },
+    {
+        "id": "validation_Accounting_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$712,000",
+            "B": "$632,000",
+            "C": "$288,000",
+            "D": "$424,000"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The total cost per client is calculated as total costs divided by number of clients, which is $265,000 + $180,000 = $445,000 for 500 clients, then divided by 800, which is $445,000 / 800 = $5.56.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Accounting_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Not enough information"
+        },
+        "response": "Based on the given information, we can see that the volatility of the stock A is higher than that of the stock B. Therefore, option A is written on the stock with higher volatility. The price of option A is $10, while the price of option B is $12. So, option B is the one with the higher volatility."
+    },
+    {
+        "id": "validation_Accounting_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "(B) No."
+    }
+]

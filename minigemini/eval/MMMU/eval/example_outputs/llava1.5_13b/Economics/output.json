@@ -1,0 +1,506 @@
+[
+    {
+        "id": "validation_Economics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "700",
+            "C": "1400",
+            "D": "3418"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Economics_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A price below that of 1.30 dollars would cause a situation of excess demand and hence a surplus.",
+            "B": "A price below that of 1.30 dollars would cause a situation of excess demand and hence a shortage.",
+            "C": "Not certain."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-700,250,0",
+            "B": "-700,250,-100",
+            "C": "-600,350,-100",
+            "D": "-700,350,0"
+        },
+        "response": "(B) -700,250,-100"
+    },
+    {
+        "id": "validation_Economics_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "demand curve",
+            "B": "Phillips curve",
+            "C": "production possibilities frontier",
+            "D": "aggregate supply curve",
+            "E": "Lorenz curve"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Wages will fall.",
+            "B": "Wages will rise.",
+            "C": "Wages will remain unchanged."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.17",
+            "B": "0.27",
+            "C": "0.37",
+            "D": "0.47"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "500",
+            "B": "450",
+            "C": "400",
+            "D": "600"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2510",
+            "B": "2500",
+            "C": "2410"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "moves to C.",
+            "B": "moves to D.",
+            "C": "stays at B."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Economics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "excess supply",
+            "B": "excess demand",
+            "C": "both",
+            "D": "neither"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Economics_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "There are decreasing returns to scale well beyond the size of the market. ",
+            "B": "There are increasing returns to scale well beyond the size of the market. ",
+            "C": "There are constant returns to scale well beyond the size of the market. "
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "10",
+            "B": "5",
+            "C": "20"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Economics_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$58,280",
+            "B": "$64,420",
+            "C": "$71,520",
+            "D": "$42,450"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Structural unemployment remained the same.",
+            "B": "Structural unemployment decreased.",
+            "C": "Structural unemployment increased."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Economics_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2601",
+            "B": "2734",
+            "C": "2634",
+            "D": "2871"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Increase in capital.",
+            "B": "Decrease in labor.",
+            "C": "Decrease in human capital."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Dominant strategy is 'High output' (low price) for both firms.",
+            "B": "Dominant strategy is 'Low output' (high price) for both firms.",
+            "C": "Dominant strategy is 'High output' (low price) for one of the firms and 'Low output' (high price) for the other."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Economics_20",
+        "question_type": "short-answer",
+        "answer": "8",
+        "response": "3"
+    },
+    {
+        "id": "validation_Economics_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "the unemployment rate for this economy is high",
+            "B": "the unemployment rate for this economy is low",
+            "C": "not certain"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "GDP and the price level fall.",
+            "B": "GDP and the price level rise.",
+            "C": "Nothing happens."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Economics_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$4118",
+            "B": "$3418",
+            "C": "$700",
+            "D": "$5118"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Economics_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "The null must be rejected at the 5% significance level.",
+            "B": "The null cannot be rejected at the 5% significance level.",
+            "C": "There is not enough information in the problem statement to test this null."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6000",
+            "B": "7000",
+            "C": "8000",
+            "D": "9000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C shifts upwards. ",
+            "B": "(1)C shifts downwards. (2) C gets gentler.",
+            "C": "(1)C gets steeper. (2) C gets gentler.",
+            "D": "(1)C shifts downwards. (2) )C gets steeper."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "100",
+            "B": "200",
+            "C": "300",
+            "D": "400"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Leisure time is 24 hours.",
+            "B": "Leisure time is 12 hours.",
+            "C": "Leisure time is 8 hours."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Economics_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2001:$10.70; 2002:$13.80; 2003:$15.35; 2004:$16.31",
+            "B": "2001:$10.80; 2002:$13.70; 2003:$18.35; 2004:$19.31",
+            "C": "2001:$10.80; 2002:$13.80; 2003:$15.35; 2004:$16.31",
+            "D": "2001:$10.70; 2002:$13.70; 2003:$15.35; 2004:$19.31"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Economics_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "response": "A"
+    }
+]

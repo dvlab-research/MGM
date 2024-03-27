@@ -1,0 +1,570 @@
+[
+    {
+        "id": "validation_Clinical_Medicine_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Erythrocyte sedimentation rate of 50 mm/hr",
+            "B": "Serum lipase of 449 U/L",
+            "C": "Total serum complement of 45 mg/dL",
+            "D": "Serum carcinoembryonic antigen of 10 ng/mL",
+            "E": "Serum alanine aminotransferase of 123 U/L",
+            "F": "Proteinuria"
+        },
+        "response": "The gross appearance of the disease process shown in the image is that of a brain tumor, specifically a glioma. Papilledema is a sign of increased intracranial pressure, which is often caused by a brain tumor. The most likely laboratory test result that she is most likely to have in this situation is (C) Total serum complement of 45 mg/dL, as this test is often used to assess the immune system's ability to fight off infections and inflammation, which can be caused by a brain tumor. The other test results listed are not typically associated with a brain tumor or papilledema."
+    },
+    {
+        "id": "validation_Clinical_Medicine_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first degree atrioventricular block",
+            "B": "third degree atrioventricular block",
+            "C": "Second degree type II atrioventricular block",
+            "D": "atrial flutter"
+        },
+        "response": "We refer to Wikipedia articles on clinical knowledge for help. The patient has a wide QRS complex with a duration of 130ms, which is indicative of a type II second-degree atrioventricular block. The most likely diagnosis is (C) Second degree type II atrioventricular block.\n\nThe second-degree atrioventricular block occurs when the heart's electrical system malfunctions, causing the heart to beat too slowly. This can cause symptoms such as dizziness, lightheadedness, and fainting. In severe cases, it can lead to heart failure or even cardiac arrest. Treatment for this condition may include medications to regulate the heart's rhythm or surgery to correct the electrical abnormality."
+    },
+    {
+        "id": "validation_Clinical_Medicine_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Stomach",
+            "B": "Liver",
+            "C": "Gallbladder",
+            "D": "Duodenum"
+        },
+        "response": "The organ that appears abnormal in this radiograph is the liver. The liver appears enlarged and congested, which is a sign of liver disease or injury."
+    },
+    {
+        "id": "validation_Clinical_Medicine_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fracture of the femoral neck",
+            "B": "Dislocation of the sacroiliac joint",
+            "C": "Foreign body in the midline at the level of the pubic symphysis",
+            "D": "Air the in bladder"
+        },
+        "response": "The finding on this x-ray of the pelvis is (C) Foreign body in the midline at the level of the pubic symphysis."
+    },
+    {
+        "id": "validation_Clinical_Medicine_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Gallstones",
+            "B": "Pancreatic calcifications",
+            "C": "Calcified hematoma of the liver",
+            "D": "Hepatic artery aneurysms"
+        },
+        "response": "We refer to Wikipedia articles on medicine for help. Calcifications are the presence of calcium deposits in an organ or tissue. They can be caused by a variety of conditions, including gallstones, which are common in the gallbladder and biliary tract, and pancreatic calcifications, which can be seen in conditions such as pancreatitis or hyperparathyroidism. Calcified hematoma of the liver is a rare condition where blood is trapped in the liver and hardens, and it is not typically associated with calcifications. Hepatic artery aneurysms are rare but can cause calcifications in the liver. The location of the calcifications in the liver and the presence of multiple small ones suggest that it is likely to be gallstones."
+    },
+    {
+        "id": "validation_Clinical_Medicine_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Apoptosis",
+            "B": "Free radical injury",
+            "C": "Heterophagocytosis",
+            "D": "Squamous metaplasia"
+        },
+        "response": "The cellular changes that are most likely to be occurring within his myocardium after suffering a cardiac arrest and resuscitation efforts are (A) apoptosis and (B) free radical injury. \n\nApoptosis, also known as programmed cell death, is a normal process that occurs in the heart and is essential for maintaining heart function. During a cardiac arrest, the heart\u505c\u6b62\u8df3\u52a8, and cells begin to die, leading to the formation of apoptosis. Resuscitation efforts can potentially cause further damage to the heart muscle, leading to more apoptosis.\n\nFree radical injury occurs when the body produces excess reactive oxygen species (ROS) during a cardiac arrest, which can cause damage to the heart muscle. Resuscitation efforts can also cause further damage to the heart muscle, leading to more free radical injury.\n\nHeterophagocytosis is a process in which a cell eats another cell, which is not related to the cellular changes that occur within the myocardium during a cardiac arrest.\n\nSquamous metaplasia is a change in the normal structure of cells, which is not related to the cellular changes that occur within the myocardium during a cardiac arrest."
+    },
+    {
+        "id": "validation_Clinical_Medicine_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Ectopic pregnancy",
+            "B": "Placenta previa",
+            "C": "Placenta accreta",
+            "D": "Molar pregnancy",
+            "E": "Abruptio placenta",
+            "F": "Pregnancy-induced hypertension"
+        },
+        "response": "The most likely diagnosis in this case is placenta accreta, which is a rare but serious condition where the placenta is attached to the wall of the uterus in a more severe and invasive manner than usual. This can lead to complications during childbirth, such as bleeding and the need for emergency surgery. The other options listed are less likely in this scenario."
+    },
+    {
+        "id": "validation_Clinical_Medicine_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Anti-receptor antibody",
+            "B": "Immune complex formation",
+            "C": "Complement mediated cell destruction",
+            "D": "Delayed type hypersensitivity",
+            "E": "Loss of self tolerance"
+        },
+        "response": "The microscopic appearance of the placenta in hydrops fetalis is characteristic of complement-mediated cell destruction, which is an immunologic mechanism that leads to the destruction of fetal cells and the development of hydrops fetalis. The\u4ea4\u6362 transfusion is performed to replace the baby's low hemoglobin levels with normal hemoglobin, which is a result of the loss of self tolerance, which is a type of immune response that leads to the destruction of the baby's own cells. The other options are not likely to produce these findings."
+    },
+    {
+        "id": "validation_Clinical_Medicine_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The findings show an adenoma",
+            "B": "The findings show a squamous cell carcinoma",
+            "C": "The findings show intestinal type adenocarcinoma",
+            "D": "The findings show diffuse signet ring cell adenocarcinoma"
+        },
+        "response": "(C) The findings show intestinal type adenocarcinoma."
+    },
+    {
+        "id": "validation_Clinical_Medicine_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Liquefactive necrosis",
+            "B": "Caseous necrosis",
+            "C": "Coagulative necrosis",
+            "D": "Wet gangrene"
+        },
+        "response": "The most likely finding in this man's disease process is liquefactive necrosis, as shown in the representative gross appearance depicted in image 1. This is a characteristic feature of acute myocardial infarction, which is often associated with ST segment elevation on an EKG and elevated cardiac troponin levels. Liquefactive necrosis refers to the soft, gel-like appearance of necrotic tissue, which is a result of the breakdown of cellular structures and the release of intracellular contents. This contrasts with the other options listed, which describe different types of necrosis (caseous necrosis, coagulative necrosis, and wet gangrene)."
+    },
+    {
+        "id": "validation_Clinical_Medicine_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 and 2",
+            "B": "2 and 3",
+            "C": "3 and 4",
+            "D": "2, 3, and 4"
+        },
+        "response": "A loss of taste would be expected in regions 2 and 3, as these regions correspond to the taste buds on the tongue."
+    },
+    {
+        "id": "validation_Clinical_Medicine_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Infiltrating ductal carcinoma",
+            "B": "Intraductal carcinoma",
+            "C": "Phyllodes tumor",
+            "D": "Lobular carcinoma in situ"
+        },
+        "response": "The most likely diagnosis based on the clinical presentation and gross appearance of the cut surface of the mastectomy specimen is infiltrating ductal carcinoma. This type of breast cancer is characterized by the presence of cancer cells that have spread beyond the ducts in which they originated, and can cause changes in the skin and other tissue in the breast. Nipple retraction is a common symptom of infiltrating ductal carcinoma. Phyllodes tumors, which are a rare type of breast tumor that can cause changes in the skin and other tissue, are less likely to be the diagnosis in this case. Intraductal carcinomas and lobular carcinoma in situ are both types of non-invasive breast cancer, which means that the cancer cells are present in the ducts but have not spread beyond them."
+    },
+    {
+        "id": "validation_Clinical_Medicine_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Susceptibility artifact",
+            "B": "Hematoma",
+            "C": "Fat necrosis",
+            "D": "Silicone granuloma"
+        },
+        "response": "The finding in the left breast on subtraction T2 weighted and T1 weighted axial images is most likely due to a hematoma. This can be seen as a focal area of increased signal intensity on both subtraction and T2 weighted images, which is characteristic of hemosiderin deposition. The other options, susceptibility artifact, fat necrosis, and silicone granuloma, are less likely to cause a focal area of increased signal intensity on both subtraction and T2 weighted images."
+    },
+    {
+        "id": "validation_Clinical_Medicine_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "KUB (Kidneys, ureter, and bladder)",
+            "B": "Lateral Decubitus",
+            "C": "Upright Abdominal x-ray",
+            "D": "IVP (Intra venous Pyelogram)"
+        },
+        "response": "The name of the x-ray position in this image is \"Lateral Decubitus\", which means the patient is lying on their side with the x-ray being taken from behind them. This position is commonly used for abdominal x-rays to visualize the kidneys, bladder, and other abdominal organs."
+    },
+    {
+        "id": "validation_Clinical_Medicine_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Osteoarthritis",
+            "B": "Rheumatoid arthritis",
+            "C": "Septic arthritis",
+            "D": "Avascular necrosis"
+        },
+        "response": "The patient shown in the image has osteoarthritis of the knee, which is most likely option (A). Osteoarthritis is a type of arthritis that results from the breakdown of cartilage in the joints, causing pain, stiffness, and loss of motion. It is the most common form of arthritis and is often associated with age. Rheumatoid arthritis, septic arthritis, and avascular necrosis are other types of arthritis that can cause knee pain, but they are less likely to be the diagnosis in this case based on the available information."
+    },
+    {
+        "id": "validation_Clinical_Medicine_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Parkinson disease",
+            "B": "Berry aneurysm rupture",
+            "C": "Glioblastoma",
+            "D": "Multiple sclerosis",
+            "E": "Meningococcemia"
+        },
+        "response": "The representative gross pathologic appearance of a complication in this man is shown here, and it is most likely to be caused by a berry aneurysm rupture. This is a complication of subarachnoid hemorrhage, which can lead to papilledema and obtundation. Parkinson disease, multiple sclerosis, glioblastoma, and meningococcemia are not typically associated with this type of gross finding."
+    },
+    {
+        "id": "validation_Clinical_Medicine_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Influenza viral pneumonia",
+            "B": "Hypersensitivity pneumonitis",
+            "C": "Diffuse alveolar damage",
+            "D": "Miliary tuberculosis"
+        },
+        "response": "The most likely diagnosis based on the microscopic appearance of the transbronchial biopsy is Miliary tuberculosis. This is a pattern of small, round, caseating granulomas in the lung tissue, which is characteristic of tuberculosis infection. The other options listed do not have a microscopic appearance that is consistent with this diagnosis."
+    },
+    {
+        "id": "validation_Clinical_Medicine_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Normal Sinus Rhythm",
+            "B": "Sinus Tachycardia",
+            "C": "NSR with PAC'c",
+            "D": "NSR with 1st Degree AV Block",
+            "E": "NSR with PVC's",
+            "F": "Junctional Tachycardia"
+        },
+        "response": "The given ECG rhythm is NSR with PAC's. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Clinical_Medicine_19",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Gilbert disease",
+            "B": "Cytomegalovirus infection",
+            "C": "Hemolytic anemia",
+            "D": "Ulcerative colitis",
+            "E": "Obesity"
+        },
+        "response": "The most likely risk factor for the patient's disease process is (C) Hemolytic anemia. The gross appearance of the disease process in the image shows multiple dark brown foci scattered throughout the organ, which are characteristic of hemoglobin in the liver. Hemolytic anemia is a condition in which the body destroys red blood cells abnormally, leading to an increase in hemoglobin in the blood and liver. This can cause abdominal pain and other symptoms, as well as the dark brown foci seen in the image. Other conditions that can cause similar findings include Gilbert disease (a genetic condition that causes an increase in hemoglobin in the blood), Cytomegalovirus infection (which can cause liver damage), and ulcerative colitis (which can cause abdominal pain and other symptoms, but not necessarily hemolytic anemia). Obesity is not typically a risk factor for hemolytic anemia."
+    },
+    {
+        "id": "validation_Clinical_Medicine_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Normal Sinus Rhythm",
+            "B": "Sinus Bradycardia",
+            "C": "Accelerated Junctional Rhythm",
+            "D": "NSR with 1st Degree AV Block",
+            "E": "Idioventricular Rhythm",
+            "F": "Paced with Failure to Capture"
+        },
+        "response": "The answer is (D) NSR with 1st Degree AV Block. \n\nThe rhythm strip shows a normal sinus rhythm with a junctional bradycardia and a first-degree atrioventricular block. The junctional bradycardia is characterized by a heart rate of 45 beats per minute, and the first-degree atrioventricular block is indicated by a P-R interval of 0.2 seconds. This rhythm is often seen in athletes, especially in endurance athletes, and is often referred to as the \"athletic pause.\""
+    },
+    {
+        "id": "validation_Clinical_Medicine_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A ruptured gastric ulcer.",
+            "B": "A ruptured abdominal aortic aneurysm.",
+            "C": "Acute appendicitis.",
+            "D": "Acute renal failure."
+        },
+        "response": "The patient has (A) A ruptured gastric ulcer, which is an emergency as it can cause life-threatening bleeding and require immediate medical attention. A ruptured abdominal aortic aneurysm and acute renal failure can also be emergencies, but they are not the most likely causes of severe abdominal pain in this case. Acute appendicitis is also a potential cause of severe abdominal pain, but it is less likely to present with severe pain and is typically not an emergency in the absence of other symptoms."
+    },
+    {
+        "id": "validation_Clinical_Medicine_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Keratoacanthomas",
+            "B": "Seborrheic keratoses",
+            "C": "Fibroepithelial polyps",
+            "D": "Nevocellular nevi",
+            "E": "Epidermal inclusion cysts"
+        },
+        "response": "The most likely diagnosis for the described skin lesions is (D) Nevocellular nevi, also known as common moles. These are benign growths that are typically present at birth or appear during childhood and do not increase in size over time. They are usually round or oval in shape and have a smooth surface. Keratoacanthomas and seborrheic keratoses are both types of warts that can appear on the skin, but they have different appearances and characteristics. Fibroepithelial polyps are rare benign growths that can occur on the skin, but they are typically larger and have a more rounded shape. Epidermal inclusion cysts are rare, non-cancerous growths that can occur on the skin, but they are typically smaller and have a more rounded shape."
+    },
+    {
+        "id": "validation_Clinical_Medicine_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Kidneys",
+            "B": "Small Intestines",
+            "C": "Liver",
+            "D": "Spine"
+        },
+        "response": "The radiograph shows an enlarged liver, which is abnormally large."
+    },
+    {
+        "id": "validation_Clinical_Medicine_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Large bowel obstruction",
+            "B": "Small bowel obstruction",
+            "C": "Generalized ileus",
+            "D": "Localized ileus"
+        },
+        "response": "The most likely diagnosis based on the symptoms of a week of abdominal pain is (C) generalized ileus. This is a condition where there is a widespread and generalized failure of the small bowel to function properly, causing abdominal pain, nausea, vomiting, and diarrhea. The other options listed may also cause abdominal pain, but they are less likely to be the primary diagnosis in this case."
+    },
+    {
+        "id": "validation_Clinical_Medicine_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The serum TSH is probably increased",
+            "B": "She will probably survive for at least 10 years",
+            "C": "Anti-microsomal and anti-thyroglobulin antibodies are detectable",
+            "D": "A dietary iodine deficiency probably preceded its appearance",
+            "E": "The patient has relatives with a similar condition"
+        },
+        "response": "Based on the microscopic appearance of the lesion, it is most likely a benign thyroid nodule. Therefore, the statement that is most appropriate regarding her disease is (C) Anti-microsomal and anti-thyroglobulin antibodies are not detectable. This suggests that the patient does not have an autoimmune thyroid disease, which is often associated with the presence of these antibodies. The other options are not supported by the microscopic appearance of the lesion."
+    },
+    {
+        "id": "validation_Clinical_Medicine_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Monteggia",
+            "B": "Bennett",
+            "C": "Jones",
+            "D": "Colle"
+        },
+        "response": "The fracture shown in the image is associated with the name Monteggia."
+    },
+    {
+        "id": "validation_Clinical_Medicine_27",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Abruptio placenta",
+            "B": "Placenta accreta",
+            "C": "Chorioamnionitis",
+            "D": "Twin placenta",
+            "E": "Partial mole"
+        },
+        "response": "The most likely diagnosis is (B) Placenta accreta, which is a condition where the placenta is attached too strongly to the uterus, making it difficult to remove after childbirth. The other options are less likely in this scenario. Abruptio placenta is a condition where the placenta separates from the uterus before or during childbirth, but it is not as likely to cause extensive hemorrhage as Placenta accreta. Chorioamnionitis is an infection of the placenta and amniotic fluid that can cause complications during childbirth, but it is not typically associated with hemorrhage. Twin placenta occurs when there are two placentas in the uterus, but it is not typically associated with hemorrhage either. Partial mole is a rare condition where there is an abnormal fusion of the umbilical cord to the placenta, but it is not typically associated with hemorrhage either."
+    },
+    {
+        "id": "validation_Clinical_Medicine_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hepatitis C",
+            "B": "Breast carcinoma",
+            "C": "Diabetes mellitus",
+            "D": "Diffuse scleroderma"
+        },
+        "response": "The microscopic appearance of the kidneys in this case suggests that the patient has nephrotic syndrome, which is a kidney disease characterized by the loss of large amounts of protein in the urine. The high blood pressure and elevated serum creatinine level also indicate that the patient has nephritis, which is an inflammation of the kidneys. The most likely underlying disease that the patient has is (C) Diabetes mellitus, as it is a common cause of nephrotic syndrome."
+    },
+    {
+        "id": "validation_Clinical_Medicine_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fissuring ulcer",
+            "B": "Sinus tract",
+            "C": "Fistula formation",
+            "D": "Non-caseating granuloma"
+        },
+        "response": "The highlighted histological feature consistent with Crohn's disease in part A is a fissuring ulcer."
+    },
+    {
+        "id": "validation_Clinical_Medicine_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Blunt chest trauma",
+            "B": "Inhalation of inorganic dusts",
+            "C": "Prolonged immobilization",
+            "D": "Bronchopneumonia"
+        },
+        "response": "The gross pathologic finding shown in the image is a large, tense, and firm mass in the shape of a tongue, located in the pelvis. This is most likely a uterine fibroid. The woman's age and the fact that she had been ambulating to the bathroom from her hospital bed suggest that she may have had a medical condition that required her to be in bed for an extended period of time, such as prolonged immobilization. This condition can increase the risk of developing a uterine fibroid. Therefore, the most likely risk factor for the development of this woman's immediate cause of death is (C) Prolonged immobilization."
+    }
+]

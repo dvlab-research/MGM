@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Public_Health_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "tr>tb",
+            "B": "tr<tb",
+            "C": "tr=tb",
+            "D": "tr$\\ne $tb"
+        },
+        "response": "We refer to Wikipedia articles on human aging for help. The correlation between systolic blood pressure and body mass index is not necessarily linear, so the relationship between tr and tb may not be equal or less than. The answer is (C)."
+    },
+    {
+        "id": "validation_Public_Health_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.70",
+            "B": "2.50",
+            "C": "3.20",
+            "D": "4.80"
+        },
+        "response": "The odds ratio (OR) between drinking alcohol and hypertensive disorders is not provided in the table. The table only provides information on the drinking alcohol status of the study subjects and the past alcohol consumption of the study subjects. To calculate the OR, the number of cases and controls in each category should be counted and the ratio of cases to controls in each category should be calculated. Then, the OR can be calculated as the ratio of the number of cases to the number of controls in each category. Therefore, option (B) 2.50 is the correct answer."
+    },
+    {
+        "id": "validation_Public_Health_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Incidence of hepatitis A",
+            "B": "Prevalence of hepatitis A",
+            "C": "Secondary attack rate of hepatitis A",
+            "D": "Survival rate of hepatitis A"
+        },
+        "response": "The main outcome of the study was the incidence of hepatitis A, which was assessed after 3 years of follow-up observation. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Public_Health_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "some viruses",
+            "B": "some bacteria",
+            "C": "some protozoa",
+            "D": "some insects"
+        },
+        "response": "(D) some insects."
+    },
+    {
+        "id": "validation_Public_Health_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "53.83",
+            "B": "87.09",
+            "C": "57.48",
+            "D": "67.83"
+        },
+        "response": "The BCR in low endemic area was 57.48. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Public_Health_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Independent samples t test",
+            "B": "Fisher's Exact test ",
+            "C": "Kappa ",
+            "D": "McNemar's test"
+        },
+        "response": "The answer is (B) Fisher's Exact test. \n\nFisher's Exact test is appropriate when comparing the proportion of two small sample sizes, as it is designed to handle small sample sizes and compare the difference between two proportions. It is not appropriate to use a t-test or a McNemar's test in this case, as the sample sizes are not large enough for these tests. Kappa is a measure of agreement between two categorical variables, but it is not appropriate to use it to compare the proportion of patients who developed an infection between two hospitals."
+    },
+    {
+        "id": "validation_Public_Health_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Medical institutions were the main source of reported adverse reactions.",
+            "B": "Chemical drugs caused the highest rate of adverse drug reactions in the province.",
+            "C": "Adverse reactions caused by Biological products need not be a concern.",
+            "D": "The province has a low incidence of serious adverse reactions."
+        },
+        "response": "(A) Medical institutions were the main source of reported adverse reactions."
+    },
+    {
+        "id": "validation_Public_Health_8",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "100%",
+            "B": "94.8%",
+            "C": "94.6%",
+            "D": "88.1%"
+        },
+        "response": "The protective rate against all EV71 related diseases was 94.8%, as shown in the table. Therefore, the answer is (B) 94.8%."
+    },
+    {
+        "id": "validation_Public_Health_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.93",
+            "B": "0.98",
+            "C": "0.75",
+            "D": "0.49"
+        },
+        "response": "The specificity of electronic colposcopy was 0.98, as stated in the table. Therefore, the answer is (B) 0.98."
+    },
+    {
+        "id": "validation_Public_Health_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "200/100,000 person years",
+            "B": "300/100,000 person years",
+            "C": "100/100,000 person years",
+            "D": "50/100,000 person years"
+        },
+        "response": "The attributable risk of smoking and the disease is 300/100,000 person years, according to the table provided. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Public_Health_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "PAR",
+            "B": "AR",
+            "C": "RR",
+            "D": "OR"
+        },
+        "response": "We can calculate the odds ratio (OR) from these data. The odds ratio is a measure of the association between a binary outcome and one or more independent variables. In this case, the outcome is lung cancer, and the independent variables are smoking and non-smoking status. \n\nThe table shows that there are 150 lung cancer patients and 50 non-smokers, which gives a total of 200 participants. Similarly, there are 100 non-smokers and 250 smokers, giving a total of 350 participants.\n\nTo calculate the odds ratio, we need to divide the number of lung cancer patients by the number of non-smokers in the total sample (200), which gives us 1.5. Similarly, we can calculate the odds ratio for the number of smokers in the total sample (350) by dividing the number of smokers by the number of non-smokers (100), which gives us 3.5.\n\nTherefore, the odds ratio for the relationship between smoking and lung cancer is 1.5, indicating that smokers are 1.5 times more likely to have lung cancer than non-smokers."
+    },
+    {
+        "id": "validation_Public_Health_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "80%",
+            "B": "20%",
+            "C": "60%",
+            "D": "40%"
+        },
+        "response": "The sensitivity of the test, which is the proportion of true positive tests among all positive tests, was 80%. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Public_Health_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cold chicken",
+            "B": "Potato salad",
+            "C": "Egg sandwiches",
+            "D": "Fruit pie and cream"
+        },
+        "response": "Based on the table, the food that is associated with the highest number of people getting sick is (A) Cold chicken, with 34 people getting sick. Therefore, cold chicken is the most likely cause of the food poisoning outbreak."
+    },
+    {
+        "id": "validation_Public_Health_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "18",
+            "B": "16",
+            "C": "20",
+            "D": "10"
+        },
+        "response": "The OR was 10, which corresponds to the \"No history of exposure\" case group and the \"Total\" control group combined. Therefore, the answer is (D) 10."
+    },
+    {
+        "id": "validation_Public_Health_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 to 2",
+            "B": "2 to 1",
+            "C": "1 to 1",
+            "D": "50%"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The odds are 1 to 1, or 50% since each cell has 50% chance of occurring.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Public_Health_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "(1.29~40.37)",
+            "B": "(3.48~22.56)",
+            "C": "(0.51~4.68)",
+            "D": "(1.28~10.78)",
+            "E": "(1.16~13.02)"
+        },
+        "response": "The 95% CI for OR in 25-29 years was (3.48~22.56), as shown in option (B)."
+    },
+    {
+        "id": "validation_Public_Health_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "48.0",
+            "B": "48.0-25.4=22.6",
+            "C": "48.0/25.4=1.89",
+            "D": "(48.0-25.4) /48.0"
+        },
+        "response": "We refer to Wikipedia articles on epidemiology for help. The table shows the incidence of the disease in smoking and non-smoking population. The AR% can be calculated as the incidence of the disease in smoking population divided by the incidence of the disease in non-smoking population, which is (48.0-25.4)/48.0, which equals 1.89.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Public_Health_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "E. coli",
+            "B": "Staph aureus",
+            "C": "E. coli and Staph aureus"
+        },
+        "response": "The BSI organisms reported are E. coli and Staph aureus."
+    },
+    {
+        "id": "validation_Public_Health_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.444",
+            "B": "0.556",
+            "C": "1.799",
+            "D": "2.716"
+        },
+        "response": "We refer to Wikipedia articles on statistics for help. The coefficient of determination, denoted by R^2, is a measure of how well the independent variable explains the variation in the dependent variable. It ranges from 0 to 1, where 0 indicates no correlation, 1 indicates perfect correlation, and 0.5 indicates a linear correlation. In this case, the coefficient of determination is calculated as 1 - (SS total / SS back), which is 1 - (1,878.400 / 1044.352) = 0.444.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Public_Health_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11.6",
+            "B": "53.0/100000",
+            "C": "63.0/100000",
+            "D": "0.91"
+        },
+        "response": "We refer to Wikipedia articles on epidemiology for help. The attributable risk(AR) was calculated as the excess incidence in the exposed group over the incidence in the non-exposed group. So the AR is 53.0/100000 - 0.91 = 53.0/100000.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Public_Health_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "51.4%",
+            "B": "52.4%",
+            "C": "3.1%",
+            "D": "10.8%"
+        },
+        "response": "The incidence of tertiary adverse reactions in the placebo group was 15.8%, which is option (D). This information is not included in the table provided in the image."
+    },
+    {
+        "id": "validation_Public_Health_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cardiovascular and cerebrovascular diseases",
+            "B": "malignant neoplasms",
+            "C": "The threat is just as great.",
+            "D": "The threat cannot be judged."
+        },
+        "response": "Based on the table, the number of deaths due to cardiovascular and cerebrovascular diseases is greater than the number of deaths due to malignant neoplasms for all age groups 20-59. Therefore, the greater health threat to the city's occupational population is (A) cardiovascular and cerebrovascular diseases."
+    },
+    {
+        "id": "validation_Public_Health_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.69",
+            "B": "0.98",
+            "C": "0.02",
+            "D": "0.94"
+        },
+        "response": "(D) 0.94"
+    },
+    {
+        "id": "validation_Public_Health_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.24%",
+            "B": "0.40%",
+            "C": "0.32%",
+            "D": "0.44%"
+        },
+        "response": "(C) 0.32%"
+    },
+    {
+        "id": "validation_Public_Health_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A/(A+C)",
+            "B": "B/(B+D)",
+            "C": "C/(A+C)",
+            "D": "D/(B+D)"
+        },
+        "response": "The answer is (B) B/(B+D)."
+    },
+    {
+        "id": "validation_Public_Health_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "point prevalence and period prevalence",
+            "B": "mortality rate and case fatality rate",
+            "C": "cumulative incidence and incidence density",
+            "D": "PYLL and DALY"
+        },
+        "response": "The appropriate indicators for describing the risk of morbidity in various groups of the population would be (C) cumulative incidence and incidence density. \n\nCumulative incidence refers to the proportion of individuals who have developed a particular disease by a certain time point, while incidence density is the number of new cases of a particular disease per unit of time and per unit of population. These measures are useful for describing the risk of developing a particular disease over time and can be used to compare the risk between different groups of the population."
+    },
+    {
+        "id": "validation_Public_Health_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5/19",
+            "B": "5/18",
+            "C": "5/17",
+            "D": "5/20"
+        },
+        "response": "(C) 5/17"
+    },
+    {
+        "id": "validation_Public_Health_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5.48",
+            "B": "6.98",
+            "C": "12.96",
+            "D": "15.95"
+        },
+        "response": "If the serum cholesterol level 114-193 mg/dl group is used as the reference group, the RR of the serum cholesterol level 231-255 mg/dl group would be higher than 1, indicating an increased risk of coronary heart disease. The exact value of the RR cannot be determined from the table alone, but we can say that the risk is significantly increased compared to the reference group. \n\nOption (A) 5.48 is close to the actual value of the RR, but it is not the exact value. Option (B) 6.98 is higher than the actual value, and option (C) 12.96 is much higher than the actual value, so they are incorrect. Option (D) 15.95 is also higher than the actual value, so it is also incorrect."
+    },
+    {
+        "id": "validation_Public_Health_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.52",
+            "B": "2.0",
+            "C": "1.26",
+            "D": "3.45"
+        },
+        "response": "The adjusted OR (odds ratio) is not provided in the table. However, the raw OR (odds ratio) for drinking surface water in the rural area is 4.52, which can be used to calculate the adjusted OR by adjusting for potential confounding factors. Therefore, the adjusted OR may be close to 4.52. The answer is (A)."
+    },
+    {
+        "id": "validation_Public_Health_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.76",
+            "B": "14",
+            "C": "12.14",
+            "D": "8.67"
+        },
+        "response": "We refer to Wikipedia articles on virology for help. The +LR of the parallel test is the positive likelihood ratio, which is the ratio of the number of true positives to the number of false positives. In this case, the true positives are the number of patients with positive results on both tests, and the false positives are the number of patients with positive results on only one test. The +LR is calculated as (true positives / false positives) / (false positives / true positives). The +LR for the parallel test is (10 / 500) / (5 / 100) = 1.76.\n\nTherefore, the answer is (A)."
+    }
+]

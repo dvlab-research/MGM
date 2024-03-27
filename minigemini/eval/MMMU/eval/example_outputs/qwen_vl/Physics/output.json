@@ -1,0 +1,536 @@
+[
+    {
+        "id": "validation_Physics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "To the left",
+            "B": "To the right",
+            "C": "Towards the top of the page",
+            "D": "There is no force."
+        },
+        "response": "We can use the Biot-Savart law to find the magnetic force on wire P. The magnetic force on a current element is given by $\\vec{B} \\cdot \\vec{I} / \\mu_0$, where $\\vec{I}$ is the current element and $\\vec{B}$ is the magnetic field due to all the current elements. The magnetic field due to wire P is given by $\\vec{B}_P = \\mu_0 I_P / r^2$, where $I_P$ is the current in wire P and $r$ is the distance from the current element to the point on the wire where the magnetic force is being calculated. The other three wires contribute to the magnetic field at point P according to $\\vec{B}_i = \\mu_0 I_i / r^2$, where $I_i$ is the current in wire $i$ and $r$ is the distance from the point P to the wire $i$. The total magnetic force on wire P is given by $\\vec{F} = \\sum_i \\vec{F}_i$, where $\\vec{F}_i = \\mu_0 I_i \\vec{B}_i$. We can calculate the magnetic force on wire P due to the other three wires and sum it to get the total magnetic force. The direction of the total magnetic force on wire P is towards the top of the page. The answer is (C)."
+    },
+    {
+        "id": "validation_Physics_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "To the right/To the right",
+            "B": "To the right/To the left",
+            "C": "To the left/To the right",
+            "D": "No direction; the force is zero./To the left"
+        },
+        "response": "The force on the magnet is to the right, and the magnetic field at the center of the loop is also to the right. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Physics_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "to the right",
+            "B": "to the left",
+            "C": "upward in the plane of the page",
+            "D": "downward in the plane of the page"
+        },
+        "response": "The force on the right-hand wire due to the current in the left-hand wire is opposite in direction to the force on the left-hand wire due to the current in the right-hand wire. Since the currents are in opposite directions, the forces are also in opposite directions. The correct answer is (D)."
+    },
+    {
+        "id": "validation_Physics_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.44",
+            "B": "0.88",
+            "C": "1.13",
+            "D": "2.26"
+        },
+        "response": "The speed of light in the plastic is 0.44 times the speed of light in air. The answer is (A)."
+    },
+    {
+        "id": "validation_Physics_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "3.0 cm/s",
+            "B": "7.0 cm/s",
+            "C": "3.5 cm/s",
+            "D": "12.5 cm/s"
+        },
+        "response": "The average speed between 3 and 4 seconds is $ \\frac{16cm}{2s} = 8cm/s$. The correct answer is (B)."
+    },
+    {
+        "id": "validation_Physics_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4 times greater than the force of the tractor on the trailer.",
+            "B": "2 times greater than the force of the tractor on the trailer.",
+            "C": "equal to the force of the tractor on the trailer.",
+            "D": "1/4 the force of the tractor on the trailer."
+        },
+        "response": "The force that the trailer applies on the tractor is equal to the force of the tractor on the trailer, since they are connected and the trailer cannot accelerate in the opposite direction of the tractor. So the answer is (C)."
+    },
+    {
+        "id": "validation_Physics_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "the eccentricity of the orbit is less thatn zero",
+            "B": "the eccentricity of the orbit is greater than 1",
+            "C": "the sun might be at point C",
+            "D": "the sun might be at point D",
+            "E": "the sun might be at point B"
+        },
+        "response": "We refer to Wikipedia articles on astronomy for help. The eccentricity of an elliptical orbit is defined as the distance between the Sun and the periapsis (point C in the diagram) over the average distance between the Sun and the periapsis. Thus, the eccentricity is always greater than or equal to 1.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Physics_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "L sin $\\theta $",
+            "B": "L cos $\\theta $",
+            "C": "L",
+            "D": "L tan $\\theta $"
+        },
+        "response": "The correct answer is (C) L. The torque about the axis is given by the product of the force and the distance from the axis. In this case, the force is applied at an angle $\\theta $ to the rod, so the distance from the axis is $L \\sin \\theta $. This is the same as the distance from the axis in the case where the force is applied perpendicular to the rod."
+    },
+    {
+        "id": "validation_Physics_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "1, 2, or 3"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The given information is not sufficient to solve the problem."
+    },
+    {
+        "id": "validation_Physics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The maximum kinetic energy is attained as the sphere passes through its equilibrium position.",
+            "B": "The minimum gravitational potential energy is attained as the sphere passes through its equilibrium position.",
+            "C": "The maximum gravitational potential energy is attained when the sphere reaches its point of release.",
+            "D": "The maximum total energy is attained only as the sphere passes through its equilibrium position."
+        },
+        "response": "The correct answer is (B) The minimum gravitational potential energy is attained as the sphere passes through its equilibrium position.\n\nIn both cases, the spheres undergo simple harmonic motion with the same restoring force provided by the spring or the string. At the point of release, the spheres have the minimum gravitational potential energy, as the potential energy is directly proportional to the distance from the equilibrium position. As the spheres move away from the point of release, the kinetic energy increases until it reaches the maximum value at the equilibrium position, and then the kinetic energy decreases as the spheres return to the point of release. The maximum kinetic energy is therefore attained as the sphere passes through its equilibrium position."
+    },
+    {
+        "id": "validation_Physics_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "50 nm",
+            "B": "100 nm",
+            "C": "150 nm",
+            "D": "200 nm"
+        },
+        "response": "The minimum thickness of the glass that gives the reflected light an orange like color is 150 nm.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Physics_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "positive in both I and III",
+            "B": "negative in both I and III",
+            "C": "positive in I, negative in III",
+            "D": "negative in I, positive in III"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The negatively charged rod has opposite charge with the electroscope, so when it is brought near, the leaves will spring apart (I). After being touched, the negative charge on the leaves will be attracted by the positively charged finger, so the leaves will collapse (II). After the finger is removed, the negative charge on the leaves is no longer attracted by anything, so the leaves spring apart again (III). So the answer is (C)."
+    },
+    {
+        "id": "validation_Physics_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 s",
+            "B": "Between 1 and 2 s",
+            "C": "2 s",
+            "D": "Between 2 and 3 s"
+        },
+        "response": "The object passes through its initial position at t = 1 s and t = 2 s. It does not pass through its initial position at t = 0 s or at any time between 0 and 1 s. The correct answer is (A)."
+    },
+    {
+        "id": "validation_Physics_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "v_3 > v_1 > v_2",
+            "B": "v_1 > v_2 > v_3",
+            "C": "v_1 > v_3 < v_2",
+            "D": "v_2 > v_3 > v_1"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The speed of light in different medium is different. The speed of light in vacuum is a reference, speed in other medium is smaller than in vacuum.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Physics_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2$\\lambda $",
+            "B": "$\\lambda $",
+            "C": "$\\lambda $/2",
+            "D": "$\\lambda $/4"
+        },
+        "response": "The correct answer is (C) $\\lambda /2$.\n\nThe condition for maximum constructive interference is that the path difference between the two beams is an odd multiple of $\\lambda$. In this case, the path difference between the incident beam and the reflected beam is half of the film thickness, which is an odd multiple of $\\lambda$ and therefore satisfies the condition for maximum constructive interference."
+    },
+    {
+        "id": "validation_Physics_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "rightward",
+            "B": "leftward",
+            "C": "upward",
+            "D": "The average velocity is zero."
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The average velocity during this time interval is the displacement divided by the time interval, which is from P to Q and back to P. Since Q is exactly half-way around the circle from P, the particle's displacement is the same as its circumference, which is C = 2\u03c0r. The time interval is t, so the average velocity is V = C/t = 2\u03c0r/t. Since the particle moves in a counterclockwise direction, the average velocity is directed to the left.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Physics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The power dissipated in a component is given by the current squared times the resistance. The graph that shows how power varies with current for a component that obeys Ohm's law is A, and the answer is (A)."
+    },
+    {
+        "id": "validation_Physics_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bulb #1 only",
+            "B": "Bulb #2 only",
+            "C": "Bulbs #2 and #3 only",
+            "D": "Bulbs #1, #2, and #3"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. When the switch is closed, the current flows through the circuit in order. Bulb #4 gets the current first, so it becomes brighter. Then the current flows to bulb #3, so it also becomes brighter. Next the current flows to bulb #2, so it also becomes brighter. Finally the current flows through bulb #1, but it doesn't make any difference since all the bulbs are identical. So only bulbs #2 and #3 become brighter. The answer is (C)."
+    },
+    {
+        "id": "validation_Physics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct answer is (B). \n\nThe maximum kinetic energy of the photoelectrons is determined by the energy of the incident light and the material properties of the sample. The maximum kinetic energy increases with the frequency of the incident light, as shown in (B). This is because higher frequency light has more energy and can excite the electrons to higher energy levels, resulting in higher photoelectron kinetic energy. The other graphs in (A), (C), and (D) do not show the maximum kinetic energy as a function of incident light frequency."
+    },
+    {
+        "id": "validation_Physics_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.5 eV",
+            "B": "2.0 eV",
+            "C": "2.7 eV",
+            "D": "3.5 eV"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The slope of the line is about 1.7 eV, so the work function is about 1.7 eV + 0.5 eV = 2.2 eV.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Physics_21",
+        "question_type": "short-answer",
+        "answer": "A",
+        "response": "Point A shows the repulsive nature of the strong nuclear force."
+    },
+    {
+        "id": "validation_Physics_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "lower frequency",
+            "B": "longer wavelength",
+            "C": "greater speed",
+            "D": "greater momentum"
+        },
+        "response": "The frequency of the light emitted would be lower if the transition were from the n=3 to the n=1 level. This is because the energy of light is proportional to its frequency, and the frequency of light decreases as the energy decreases. Therefore, the answer is (A) lower frequency."
+    },
+    {
+        "id": "validation_Physics_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Zero",
+            "B": "5 A, counterclockwise",
+            "C": "5 A, clockwise",
+            "D": "20 A, counterclockwise"
+        },
+        "response": "The magnetic field lines are pointing out of the page, so the wire is in the direction of the field lines. As the field decreases, the wire will start to rotate in the direction of the field lines. The wire is also moving away from the field, so the current is flowing in the opposite direction. The magnitude of the current is given by the formula I = (B * L) / (R), where I is the current, B is the magnetic field strength, L is the length of the wire, and R is the resistance. Plugging in the given values, we get I = (0.4 T * 0.5 m) / (10^{-2} ohm) = 2 A. The direction of the current is counterclockwise. The answer (B) is the correct one."
+    },
+    {
+        "id": "validation_Physics_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "an alpha particle",
+            "B": "an electron",
+            "C": "a neutron",
+            "D": "a proton"
+        },
+        "response": "We refer to Wikipedia articles on nuclear chemistry for help. In the nuclear reaction Li23 + Li23 \u2192 Li27, the ? represents a neutron."
+    },
+    {
+        "id": "validation_Physics_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Virtual/Larger",
+            "B": "Virtual/Same size",
+            "C": "Real/Smaller",
+            "D": "Real/Larger"
+        },
+        "response": "We know that virtual images are formed when the object is placed beyond the focal length of the lens. In this case, the object is placed at a distance of 1.5f from the lens, which is beyond the focal length of the lens. Therefore, the image is a virtual image.\n\nThe size of the virtual image is always the same as the object, regardless of the distance between the object and the lens. So, the size of the virtual image is the same as the object, which is 1.5f.\n\nTherefore, the answer is (B) Virtual/Same size."
+    },
+    {
+        "id": "validation_Physics_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct answer is (B). The graph shows that the velocity of the duck is initially increasing, from point A to point B, but then it starts to decrease, from point B to point C. Finally, at point D, the velocity has decreased to zero and the duck has come to a complete stop."
+    },
+    {
+        "id": "validation_Physics_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Q and U",
+            "B": "P and T",
+            "C": "Q and W",
+            "D": "S and U"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The voltmeter reads zero between any two points in the circuit when the voltage across that pair of points is zero. Since the resistors are in parallel, the voltage across any one of them is zero. So the voltmeter reads zero between any two points in the circuit.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Physics_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2W cos $\\theta $",
+            "B": "T sin $\\theta $",
+            "C": "T cos $\\theta $",
+            "D": "2T sin $\\theta $"
+        },
+        "response": "The correct answer is (C) T cos $\\theta $.\n\nThe upward force on the picture is equal to the weight of the picture, which is $W$ in this case. The tension in each string is $T$, and the angle between the string and the horizontal is $\\theta$.\n\nUsing trigonometry, we can calculate the cosine of the angle between the string and the horizontal as follows:\n\ncos $\\theta = \\dfrac{y}{h}$\n\nwhere $y$ is the length of the string and $h$ is the height of the picture. In this case, $y=0$ since the string is hanging vertically, and $h$ is the height of the picture.\n\nSubstituting these values into the cosine formula, we get:\n\ncos $\\theta = \\dfrac{0}{h} = 1$\n\nTherefore, the cosine of the angle between the string and the horizontal is equal to 1. Using the cosine rule, we can now calculate the tension in the string:\n\nT = W cos $\\theta$\n\nSubstituting the value of $\\theta$ we found earlier, we get:\n\nT = W cos 1 = W\n\nTherefore, the tension in the string is equal to the weight of the picture."
+    },
+    {
+        "id": "validation_Physics_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.5 $\\Omega $",
+            "B": "4 $\\Omega $",
+            "C": "5 $\\Omega $",
+            "D": "6 $\\Omega $"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The image shows a circuit with a voltage source, a series combination of resistors and a parallel combination of resistors. The voltage source has voltage 12 V and the ammeter reads zero. The resistance of the branch containing the ammeter is 2 $\\Omega $, and the resistance of the branch containing the ammeter is 3 $\\Omega $. The resistance R must be the difference of the two resistances, which is 2 $\\Omega $ - 3 $\\Omega $ = -1 $\\Omega $, a negative resistance. A negative resistance means the circuit will have a current flow in the opposite direction. So the answer is (D)."
+    },
+    {
+        "id": "validation_Physics_30",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "0.25 m",
+            "B": "0.5 m",
+            "C": "1 m",
+            "D": "2 m",
+            "E": "4 m"
+        },
+        "response": "The wavelength is the distance between two corresponding points on adjacent waves. The distance between the two minimum points of the wave is 6 m, so the wavelength is half that, or 3 m. The answer is (B)."
+    }
+]

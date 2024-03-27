@@ -1,0 +1,510 @@
+[
+    {
+        "id": "validation_Computer_Science_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "P1",
+            "B": "P2",
+            "C": "P3",
+            "D": "There is a deadlock",
+            "E": "Not enough information to tell."
+        },
+        "response": "(D) There is a deadlock."
+    },
+    {
+        "id": "validation_Computer_Science_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "8 is NOT the root",
+            "B": "12 is the right child of 8",
+            "C": "24 is the left child of 13",
+            "D": "35 is the right child of 24"
+        },
+        "response": "We need to delete the minimum number 6 from the heap. We can see that 8 is the root, so statement (A) is false. Statement (B) is also false because 12 is the right child of 8. Statement (C) is true because we can see that 24 is the left child of 13. Statement (D) is false because we can see that 35 is the right child of 24.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Computer_Science_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Application Layer",
+            "B": "Transport Layer",
+            "C": "Network Layer",
+            "D": "Link Layer",
+            "E": "Physical Layer"
+        },
+        "response": "(B) Transport Layer"
+    },
+    {
+        "id": "validation_Computer_Science_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "yes",
+            "B": "no",
+            "C": "not sure"
+        },
+        "response": "As an AI language model, I don't have access to the image you are referring to, so I cannot see if it is minimal or not. However, to determine if a DFA is minimal, we can check if it has any redundant states or if there are any states that are not reachable from the start state. If a DFA has any of these, it is not minimal. If it doesn't have any of these, then it is minimal. Without more information about the DFA in the image, I cannot say if it is minimal or not."
+    },
+    {
+        "id": "validation_Computer_Science_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Singly linked list",
+            "B": "Doubly linked list",
+            "C": "Circularly linked list",
+            "D": "Array",
+            "E": "None of the other answers"
+        },
+        "response": "The data structure pictured in the image is a singly linked list."
+    },
+    {
+        "id": "validation_Computer_Science_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "High bias",
+            "B": "High variance",
+            "C": "Neither"
+        },
+        "response": "Based on the learning curve plot, it appears that the algorithm has high variance. This is indicated by the steep increase in error on the test set compared to the training set. The fact that the error on the training and test sets increase at similar rates suggests that the algorithm is overfitting to the training data, indicating high variance."
+    },
+    {
+        "id": "validation_Computer_Science_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "46, 42, 34, 52, 23, 33",
+            "B": "34, 42, 23, 52, 33, 46",
+            "C": "46, 34, 42, 23, 52, 33",
+            "D": "42, 46, 33, 23, 34, 52"
+        },
+        "response": "We refer to Wikipedia articles on computer science for help. The table is not complete, but the given table shows the probing chain for the key 6: 6 -> 3 -> 2 -> 1 -> 0. The key 6 was inserted first, so it must have been inserted at position 1. Then the key 46 was inserted, so it must have been inserted at position 2. Then the key 34 was inserted, so it must have been inserted at position 3. Then the key 42 was inserted, so it must have been inserted at position 4. Then the key 23 was inserted, so it must have been inserted at position 5. Then the key 33 was inserted, so it must have been inserted at position 6. Then the key 52 was inserted, so it must have been inserted at position 7. Then the key 46 was inserted, so it must have been inserted at position 8. Then the key 34 was inserted, so it must have been inserted at position 9. Thus the order of insertion was 6, 46, 34, 42, 23, 52, 33, 23, 46, 34.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Computer_Science_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11",
+            "B": "0",
+            "C": "12",
+            "D": "13"
+        },
+        "response": "We can use the max flow algorithm to solve this problem. The max flow from v1 to v6 is the maximum amount of flow that can flow from v1 to v6 along the given path. We can start with an empty augmenting path and try to find one that leads from v1 to v6. We can try to add a flow of 1 to the path, but since there is no path from v1 to v6, this will not increase the max flow. We can then try to add a flow of 1 to the path from v2 to v3, which will increase the max flow from v1 to v6 to 2. We can continue this process and find an augmenting path from v1 to v6, which is v1 to v2 to v3 to v6, with a flow of 5. Therefore, the max flow from v1 to v6 is 5. The answer is (B)."
+    },
+    {
+        "id": "validation_Computer_Science_9",
+        "question_type": "short-answer",
+        "answer": "60",
+        "response": "The maximum achievable end-end throughput for each of the four client-to-server pairs is 60 Mbps."
+    },
+    {
+        "id": "validation_Computer_Science_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "22",
+            "B": "20",
+            "C": "15",
+            "D": "8"
+        },
+        "response": "We can see that the weight of the minimum spanning tree is 20, which is the sum of the weights of the edges in the tree. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Computer_Science_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "{a, b, e} {c, d, h} {f, g}",
+            "B": "{a, b, e} {f, g} {c, d} {h}",
+            "C": "{a, b, e} {f, g} {c, d} {h}",
+            "D": "{a, b, e} {c, d, f, g, h}"
+        },
+        "response": "We can see that the DFS tree for node a has discovery time stamp 13/14 and finishing time stamp 11/16. The DFS tree for node b has discovery time stamp 11/16 and finishing time stamp 11/16, which means that it was not explored further. The DFS tree for node e has discovery time stamp 12/15 and finishing time stamp 3/4, while the DFS tree for node c has discovery time stamp 1/10 and finishing time stamp 8/9. The DFS tree for node d has discovery time stamp 1/10 and finishing time stamp 8/9, which means that it was not explored further. The DFS tree for node h has discovery time stamp 2/6 and finishing time stamp 5/7. The DFS tree for node g has discovery time stamp 5/7 and finishing time stamp 5/7. Therefore, the correct answer is (C)."
+    },
+    {
+        "id": "validation_Computer_Science_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "1/6",
+            "C": "1",
+            "D": "14/6"
+        },
+        "response": "We have $J(\\theta_1)=\\sum_{i=1}^m(h_{\\theta_1}(x^i)-y^i)^2$. The cost function is quadratic in $\\theta_1$, so its value is $J(0)=\\sum_{i=1}^m(h_{0}(x^i)-y^i)^2=\\sum_{i=1}^m(h_{0}(x^i)-1)^2=1/6$.\n\nThe answer is (B)."
+    },
+    {
+        "id": "validation_Computer_Science_14",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "T3 -> T1 -> T2",
+            "B": "T2 -> T1 -> T3",
+            "C": "T1 -> T2 -> T3",
+            "D": "There are no serial schedules for the graph."
+        },
+        "response": "We can see that the precedence graph in the image has a cycle, which means it does not have a direct equivalent serial schedule. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Computer_Science_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1:1",
+            "B": "1:N",
+            "C": "N:1",
+            "D": "N:M",
+            "E": "None of the other answers."
+        },
+        "response": "The relationship WORKS_ON in the diagram is represented as a 1:1 relationship, which means that each employee works for exactly one department and each department has exactly one employee who works for it. Therefore, the answer is (A) 1:1."
+    },
+    {
+        "id": "validation_Computer_Science_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "((x + y) - ((x + y) * (x - y))) - ((x + y) * (x - y))",
+            "B": "((x - y) - ((x + y) * (x - y))) + ((x + y) * (x - y))",
+            "C": "(x - ((x + y) * (x - y))) + ((x + y) * (x - y))",
+            "D": "((x + y) - ((x + y) * (x - y))) + ((x + y) * (x - y))"
+        },
+        "response": "We refer to Wikipedia articles on discrete mathematics for help. The DAG represents a function f, which takes two variables x and y as input and produces two variables z and w as output. The function can be written as f(x, y) = (z, w), where z = x + y - ((x + y) * (x - y)), and w = x + y + ((x + y) * (x - y)). The answer is (A)."
+    },
+    {
+        "id": "validation_Computer_Science_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "s",
+            "B": "s+",
+            "C": "s*",
+            "D": "ss"
+        },
+        "response": "The structure represents the \"s\" shape, which is denoted by (A). The oval represents the path of the electron, and the circle represents the path of the proton. The direction of the arrow represents the direction of the electron and proton. The symbol \"+\" represents the direction of the electron, and the symbol \"e\" represents the charge of the electron. The two \"s\" shapes represent the same structure, which means that there are two electrons with the same charge and direction."
+    },
+    {
+        "id": "validation_Computer_Science_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "V1,V5,V4,V7,V6,V2,V3",
+            "B": "V1,V2,V3,V4,V7,V6,V5",
+            "C": "V1,V5,V4,V7,V6,V3,V2",
+            "D": "V1,V5,V6,V4,V7,V2,V3"
+        },
+        "response": "We can observe that the adjacent vertices of V1 are V5 and V6. Then, the adjacent vertices of V5 are V4 and V7. The adjacent vertices of V6 are V4 and V7. The adjacent vertices of V7 are V6 and V5. Therefore, the correct sequence is (A) V1,V5,V4,V7,V6,V2,V3.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Computer_Science_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(a-b),(d-f),(b-f),(d-c),(d-e)",
+            "B": "(a-b),(d-f),(d-c),(b-f),(d-e)",
+            "C": "(d-f),(a-b),(d-c),(b-f),(d-e)",
+            "D": "(d-f),(a-b),(b-f),(d-e),(d-c)"
+        },
+        "response": "(A) (a-b),(d-f),(b-f),(d-c),(d-e)"
+    },
+    {
+        "id": "validation_Computer_Science_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Can't tell"
+        },
+        "response": "(A) Yes, it is possible to add a department to the database even if there are no employees in the database."
+    },
+    {
+        "id": "validation_Computer_Science_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Normal traversal of the matrix.",
+            "B": "Row-wise traversal of the matrix.",
+            "C": "Column-wise traversal of the matrix.",
+            "D": "spiral traversal of the matrix."
+        },
+        "response": "The given matrix traversal is a normal traversal of the matrix, where each row and column is traversed once in the order from top to bottom and left to right, respectively. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Computer_Science_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aa*|bb*",
+            "B": "a*|bb*",
+            "C": "aa*|b*",
+            "D": "a*|b*"
+        },
+        "response": "(C) aa*|b*"
+    },
+    {
+        "id": "validation_Computer_Science_23",
+        "question_type": "short-answer",
+        "answer": "253.75",
+        "response": "After the first RTT of 280 msec, estimatedRTT = 250 + (280 - 250) * 0.125 = 262.5, DevRTT = 38, timeout = 250 + 38 = 288. After the second RTT of 200 msec, estimatedRTT = 262.5 + (200 - 262.5) * 0.25 = 250, DevRTT = 38, timeout = 250 + 38 = 288. After the third RTT of 340 msec, estimatedRTT = 250 + (340 - 250) * 0.125 = 262.5, DevRTT = 38, timeout = 250 + 38 = 288."
+    },
+    {
+        "id": "validation_Computer_Science_24",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "N",
+            "E": "None of the other answers"
+        },
+        "response": "(C) 2"
+    },
+    {
+        "id": "validation_Computer_Science_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Linear",
+            "B": "Quadratic",
+            "C": "Cubic",
+            "D": "insufficient data to draw conclusion"
+        },
+        "response": "We refer to Wikipedia articles on pattern recognition for help. The ideal complexity of the curve depends on the nature of the classes and the noise. The best curve to separate the classes may not be a curve at all, but a straight line or a step function. So the answer is (D)."
+    },
+    {
+        "id": "validation_Computer_Science_26",
+        "question_type": "short-answer",
+        "answer": "251",
+        "response": "The total time elapsed from the client clicking on the link until receiving the object is 95 + 4 + 14 + 9 + 34 + 0 = 143 msec."
+    },
+    {
+        "id": "validation_Computer_Science_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It would be reasonable to try decreasing C. It would also be reasonable to try increasing $\\sigma^2$.",
+            "B": "It would be reasonable to try decreasing C. It would also be reasonable to try decreasing $\\sigma^2$.",
+            "C": "It would be reasonable to try increasing C. It would also be reasonable to try decreasing $\\sigma^2$.",
+            "D": "It would be reasonable to try increasing C. It would also be reasonable to try increasing $\\sigma^2$."
+        },
+        "response": "The answer is (B) It would be reasonable to try decreasing C. It would also be reasonable to try decreasing $\\sigma^2$. \n\nWhen the C value is too large, the SVM may not be able to find a good decision boundary that separates the classes well. On the other hand, when $\\sigma^2$ is too small, the SVM may not be able to capture the underlying structure of the data well, leading to underfitting. Therefore, decreasing C and $\\sigma^2$ can help improve the performance of the SVM classifier by making it more flexible and able to capture the underlying structure of the data."
+    },
+    {
+        "id": "validation_Computer_Science_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "First, w2 becomes zero, and then w1 becomes zero",
+            "B": "First, w1 becomes zero, and then w2 becomes zero",
+            "C": "Both become zero at the same time",
+            "D": "Both cannot be zero even after a very large value of C"
+        },
+        "response": "The correct answer is (A) First, w2 becomes zero, and then w1 becomes zero.\n\nWhen using logistic regression with L1 regularization, the regularization term adds a penalty to the absolute value of the coefficients. As the value of C increases, the regularization term becomes more severe, causing the coefficients to shrink towards zero. The coefficient of the non-zero feature will not become zero until the coefficient of the other feature becomes zero. Therefore, the first feature to become zero is the one with the smallest coefficient, which is w2 in this case. Once w2 becomes zero, w1 becomes the only non-zero coefficient and continues to shrink towards zero as well."
+    },
+    {
+        "id": "validation_Computer_Science_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "for",
+            "B": "[a-z][a-z0-9]*",
+            "C": "([1-9][0-9]*)|0",
+            "D": "none of the above"
+        },
+        "response": "We can construct a finite automaton for the regular expression given in the image as follows:\n\n```\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |\n       |       |\n       +-------+\n            |\n            v\n       +-------+\n       |       |"
+    },
+    {
+        "id": "validation_Computer_Science_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "X=20, Y=30",
+            "B": "X=50, Y=80",
+            "C": "X=70, Y=50",
+            "D": "None of the other answers"
+        },
+        "response": "If the transactions are executed serially, T1 before T2, and X=20 and Y=30 initially, then after T1, X will be 20 and Y will be 30. After T2, X will be 50 and Y will be 80. Therefore, the answer is (B)."
+    }
+]

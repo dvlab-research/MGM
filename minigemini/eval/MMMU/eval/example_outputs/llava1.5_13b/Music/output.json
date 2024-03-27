@@ -1,0 +1,522 @@
+[
+    {
+        "id": "validation_Music_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 2>",
+            "B": "<image 3>",
+            "C": "<image 4>",
+            "D": "<image 5>"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect",
+            "B": "major",
+            "C": "diminished",
+            "D": "augmented"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "7",
+            "C": "5",
+            "D": "4"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Anacrusis",
+            "B": "Hemiola",
+            "C": "Suspension",
+            "D": "Augmentation"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Vb",
+            "B": "Vc",
+            "C": "IIa",
+            "D": "IIb"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C\u00b07",
+            "B": "A\u00d87",
+            "C": "G\u00b07",
+            "D": "Eb\u00d87"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "BD",
+            "B": "CD",
+            "C": "BC",
+            "D": "AB"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_11",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "acciaccatura",
+            "B": "appoggiat",
+            "C": "lower morden",
+            "D": "upper turns"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "BC",
+            "B": "AD",
+            "C": "AC",
+            "D": "AB"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box 1",
+            "B": "box 2",
+            "C": "box 3",
+            "D": "box 4"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C",
+            "B": "D",
+            "C": "B",
+            "D": "G"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first clef",
+            "B": "second clef",
+            "C": "third clef",
+            "D": "fourth clef"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "#F major scale",
+            "B": "c melodic minor scale",
+            "C": "b harmonic minor scale",
+            "D": "E melodic major scale"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "AB",
+            "B": "BC",
+            "C": "BCD",
+            "D": "ABCD"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect 4th",
+            "B": "major 9th/ compound major 2nd",
+            "C": "augmented 5th",
+            "D": "perfect unison"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Major seventh in third inversion",
+            "B": "Dominant seventh in second inversion",
+            "C": "Major/minor seventh in third inversion",
+            "D": "Minor seventh in second inversion"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Music_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box 1",
+            "B": "box 2",
+            "C": "box 3",
+            "D": "None of above"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Va",
+            "B": "Vb",
+            "C": "Ib",
+            "D": "Ic"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect",
+            "B": "major",
+            "C": "minor",
+            "D": "diminished"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "3",
+            "C": "2",
+            "D": "4"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Music_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "augmented 5th",
+            "B": "minor 7th",
+            "C": "major 6th",
+            "D": "perfect 11th"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box1",
+            "B": "box2",
+            "C": "box3",
+            "D": "box4"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Music_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "circle the first option",
+            "B": "circle the second option",
+            "C": "circle the third option",
+            "D": "circle the fourth option"
+        },
+        "response": "A"
+    }
+]

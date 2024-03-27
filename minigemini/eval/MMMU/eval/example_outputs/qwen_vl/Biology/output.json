@@ -1,0 +1,576 @@
+[
+    {
+        "id": "validation_Biology_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Tibialis anterior",
+            "B": "Tibialis posterior",
+            "C": "Flexor hallucis longus",
+            "D": "Peroneus longus"
+        },
+        "response": "The 170 structure is Tibialis posterior."
+    },
+    {
+        "id": "validation_Biology_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5.0 nm",
+            "B": "50 um",
+            "C": "7.5 um",
+            "D": "5.2 um"
+        },
+        "response": "Based on the scale bar provided in the image, the diameter of the vacuole is approximately 5.2 um. Therefore, the correct answer is (D)."
+    },
+    {
+        "id": "validation_Biology_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "increase",
+            "B": "decrease"
+        },
+        "response": "(B) decrease."
+    },
+    {
+        "id": "validation_Biology_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "autosomal recessive (AR)",
+            "B": "autosomal dominant (AD)",
+            "C": "X-linked recessive (XR)",
+            "D": "X-linked dominant (XD)"
+        },
+        "response": "The most likely mode of inheritance in the following pedigree is (A) autosomal recessive (AR). This is because the trait is observed in both males and females and the frequency of the trait is higher in the family members, which is consistent with an autosomal recessive inheritance pattern."
+    },
+    {
+        "id": "validation_Biology_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Sheath",
+            "B": "Viral genome",
+            "C": "Capsid",
+            "D": "Tail Fibers"
+        },
+        "response": "(B) Viral genome"
+    },
+    {
+        "id": "validation_Biology_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Organism A",
+            "B": "Organism B",
+            "C": "Organism C",
+            "D": "Organism D"
+        },
+        "response": "We can use the principle of common ancestry to answer this question. The organisms are labeled as follows: 1 is closest to 5, 2 is closest to 4, 3 is closest to 2, and 4 is closest to 3. Therefore, the most recent common ancestor of organisms 1 and 3 is organism 3. The answer is (C)."
+    },
+    {
+        "id": "validation_Biology_7",
+        "question_type": "multiple-choice",
+        "answer": "I",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E",
+            "F": "F",
+            "G": "G",
+            "H": "H",
+            "I": "I"
+        },
+        "response": "The arrow pointing to a large ribosomal unit is (E)."
+    },
+    {
+        "id": "validation_Biology_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Flight Path A: the crow has a wider view of his surroundings to assure that another bird will not steal the whelk",
+            "B": "Flight Path A: the crow is maximizing the height to drop the whelk",
+            "C": "Flight Path A: the crow is adding force to the downward movement to the whelk by flying higher",
+            "D": "Flight Path B: the crow can see where the whelk lands",
+            "E": "Flight Path B: the crow is throwing the whelk to the ground"
+        },
+        "response": "The most common reason for a bird to fly is to hunt for food. In this case, the crow is likely to use Flight Path A, which allows it to have a wider view of its surroundings to assure that another bird will not steal the whelk. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Biology_9",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "ALILALMWWLLF",
+            "B": "LMQKPMDSLPDY",
+            "C": "FPPALGGLPFAMG",
+            "D": "LKMELAKMILLA",
+            "E": "ALQQMMDSILDY"
+        },
+        "response": "Based on the given information, it is likely that the amino acid sequence for some portion of the transmembrane domain of ALPHA is (D) LKMELAKMILLA, as this sequence contains alpha helices and is consistent with the transmembrane domain of a channel protein. However, it is important to note that the specific amino acid sequence of the transmembrane domain of ALPHA may be more complex and may involve additional amino acids beyond those listed in the question."
+    },
+    {
+        "id": "validation_Biology_10",
+        "question_type": "short-answer",
+        "answer": "1/64",
+        "response": "The probability that individual #7 will be affected by the disease can be calculated using the Punnett square. However, since we are given that #2 and the spouses of #3 and #4 are not carriers, we can assume that #7 is not a carrier of the disease either. Therefore, the probability that #7 will be affected by the disease is 0."
+    },
+    {
+        "id": "validation_Biology_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Neither"
+        },
+        "response": "The answer is (B). \n\nIn SDSPAGE, the gel is usually made of polyacrylamide and the electrophoresis is performed in a vertical gel slab. The anode is usually placed at the bottom of the gel slab, while the cathode is placed above the gel slab. In the image, the anode is labeled as \"A\" and it is placed at the bottom of the gel slab. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Biology_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The yellow-leaved phenotype can germinate in environments without light.",
+            "B": "The germination of the yellow-leaved phenotype is unaffected by light intensity.",
+            "C": "The germination of the yellow-leaved phenotype is accelerated as compared to the green-leaved phenotype.",
+            "D": "The yellow-leaved phenotype cannot germinate in environments with light."
+        },
+        "response": "The data suggest that the germination of the yellow-leaved phenotype is not affected by light, as the germination rate was the same for both the green-leaved and yellow-leaved seeds in both Dish A and Dish B. Therefore, option (B) is the correct answer: \"The germination of the yellow-leaved phenotype is unaffected by light.\""
+    },
+    {
+        "id": "validation_Biology_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I only",
+            "B": "I and II only",
+            "C": "I and IV only",
+            "D": "I, II, and III only",
+            "E": "II, III, and IV only"
+        },
+        "response": "Based on the information provided, the correct statements are:\n\nI. Normal homeostatic mechanisms maintain a glucose concentration of approximately 1 mg/ml. (Correct)\nII. Glucagon is released at points A and C. (Correct)\nIII. The individual eats a meal at point D. (Correct)\nIV. Insulin is being released at points B and E. (Correct)\n\nTherefore, the correct answer is (E) II, III, and IV only."
+    },
+    {
+        "id": "validation_Biology_14",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1/2",
+            "B": "1/4",
+            "C": "3/4",
+            "D": "1/8",
+            "E": "1/16"
+        },
+        "response": "We refer to Wikipedia articles on animal breeding for help. Let's think step by step. We know that the mahogany/red locus is an autosomal gene, and that the mahogany homozygotes are mahogany colored, and red homozygotes are red. Therefore, the mahogany/red heterozygote is mahogany if male and red if female. We are told that Elmer is a mahogany male and Elmira is a red female. Therefore, if we inseminate Elmira with Elmer's semen, the calf will be a mahogany male if it is a mahogany heterozygote, or a red female if it is a red heterozygote. The probability of a calf being a mahogany male is 1/2, and the probability of a calf being a red female is 1/2. Therefore, the probability of Elmira producing a mahogany female calf is 1/2 x 1/2 = 1/4.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Biology_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "taiga",
+            "B": "tundra",
+            "C": "rain forest",
+            "D": "desert"
+        },
+        "response": "The biome shown in the image is tundra."
+    },
+    {
+        "id": "validation_Biology_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Group 1 and Group 17",
+            "B": "Group 1 and Group 14",
+            "C": "Group 14 and Group 18",
+            "D": "Group 1 and Group 18"
+        },
+        "response": "The correct answer is (B) Group 1 and Group 14.\n\nIn an ionic bond, atoms with a large difference in electronegativity gain or lose electrons to form ions. In the figure, Group 1 elements (H, Li, Na) are highly electronegative and can form strong ionic bonds with other elements by losing a single electron to form a cation and an anion. Similarly, Group 14 elements (C, Si, Ge) are also highly electronegative and can form strong ionic bonds with other elements by gaining a single electron to form a cation and an anion.\n\nTherefore, an ionic bond can be formed between a highly electronegative element from Group 1 and a highly electronegative element from Group 14, such as H and C or Li and Si."
+    },
+    {
+        "id": "validation_Biology_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Lateral pterygoid plate",
+            "B": "Articular fossa",
+            "C": "Carotid canal",
+            "D": "Foramen lacerum"
+        },
+        "response": "The 204 structure is the Lateral pterygoid plate."
+    },
+    {
+        "id": "validation_Biology_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "DNA replication",
+            "B": "RNA stabilization",
+            "C": "Splicing",
+            "D": "Transcription",
+            "E": "Translation"
+        },
+        "response": "The proteins encoded by the target genes of E2F are most likely to function in the process of transcription, as E2F is a transcription factor that binds to the retinoblastoma protein (pRB) and inhibits its activity by releasing it from the transcription factor E2F, allowing the cell to enter the S phase of the cell cycle. Therefore, the answer is (D) Transcription."
+    },
+    {
+        "id": "validation_Biology_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Lysis",
+            "B": "Attachment",
+            "C": "Biosynthesis",
+            "D": "Penetration",
+            "E": "Maturation"
+        },
+        "response": "(C) Biosynthesis"
+    },
+    {
+        "id": "validation_Biology_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "17% of the maximum HbO2 would be delivered.",
+            "B": "22% of the maximum HbO2 would be delivered.",
+            "C": "65% of the maximum HbO2 would be delivered.",
+            "D": "70% of the maximum HbO2 would be delivered.",
+            "E": "82% of the maximum HbO2 would be delivered."
+        },
+        "response": "The amount of oxygen that would be delivered to cells at PO2 = 20 mmHg if the PO2 of the lungs were 60 mmHg can be determined using the oxygen affinity curve in Figure 1. At an oxygen tension of 20 mmHg, the curve intersects the x-axis at a saturation of 100%, indicating that all available oxygen in the RBC's is transferred to cells. Therefore, the amount of oxygen that would be delivered to cells at this PO2 is 100% of the maximum HbO2. \n\nTherefore, the answer is (E) 82% of the maximum HbO2 would be delivered."
+    },
+    {
+        "id": "validation_Biology_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "index2ans": {
+            "A": "Flagellum",
+            "B": "Plasma membrane",
+            "C": "Nucleus",
+            "D": "Cell wall",
+            "E": "Cytoplasm",
+            "F": "Mitochondria",
+            "G": "Centrioles"
+        },
+        "response": "The part of the cell labeled 'B' in <image 1> is the Plasma membrane."
+    },
+    {
+        "id": "validation_Biology_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "3/8",
+            "B": "5/8",
+            "C": "1/4",
+            "D": "1/2",
+            "E": "3/4"
+        },
+        "response": "We refer to Wikipedia articles on medical genetics for help. The coefficient of relatedness between individuals A and B is 1/2.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Biology_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Oesophagus",
+            "B": "Suprarenal gland",
+            "C": "Hepatic flexure of colon",
+            "D": "Duodenum"
+        },
+        "response": "(C) Hepatic flexure of colon"
+    },
+    {
+        "id": "validation_Biology_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Species 1 only",
+            "B": "Species 2 only",
+            "C": "Species 3 only",
+            "D": "Species 1 and 2 only",
+            "E": "Species 2 and 3 only"
+        },
+        "response": "Based on the information provided in the diagram, it can be inferred that Species 1 is found below an altitude of 500m, as the abundance of Species 1 decreases with increasing altitude below 500m. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Biology_26",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Linear to supercoiled",
+            "B": "Nicked to linear",
+            "C": "Nicked to supercoiled",
+            "D": "Supercoiled to nicked",
+            "E": "Supercoiled to linear"
+        },
+        "response": "If you cut the above plasmid with restriction enzyme called HindIII, the form of DNA will be changed from supercoiled to linear."
+    },
+    {
+        "id": "validation_Biology_27",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "index2ans": {
+            "A": "AA",
+            "B": "Aa",
+            "C": "Aa or AA",
+            "D": "XAXA",
+            "E": "XAXa",
+            "F": "XAXA or XAXa",
+            "G": "XaXa"
+        },
+        "response": "The genotype of Individual 9 is not provided in the image, so it is not possible to determine the answer with certainty. However, based on the mode of inheritance shown in the pedigree, it is likely that Individual 9 has the disease-associated allele if they are married into the family. Therefore, the possible answers could include (C) Aa or AA or (E) XAXA or XAXa."
+    },
+    {
+        "id": "validation_Biology_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Ligamentum patellae",
+            "B": "Fibular collateral ligament",
+            "C": "Tibial collateral ligament",
+            "D": "Anterior cruciate ligament"
+        },
+        "response": "The 164 structure is the Ligamentum patellae."
+    },
+    {
+        "id": "validation_Biology_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>",
+            "E": "<image 5>"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Biology_30",
+        "question_type": "multiple-choice",
+        "answer": "F",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "segmentation",
+            "B": "head-tail orientation",
+            "C": "limb placement",
+            "D": "type of symmetry",
+            "E": "limb placement and segmentation",
+            "F": "segmentation, type of symmetry and head-tail orientation",
+            "G": "segmentation, head-tail orientation and limb placement",
+            "H": "type of symmetry and head-tail orientation",
+            "I": "segmentation and head-tail orientation"
+        },
+        "response": "The image shows a developing embryo at a stage where some features have already been established. Specifically, (C) limb placement and (E) limb placement and segmentation are already established at this stage. \n\nThe image shows a cross-section of the embryo, and the limbs can be seen developing in a specific pattern. The segmentation of the embryo into different organs and tissues has also occurred, and the limbs are beginning to take shape. However, other features such as the type of symmetry and the head-tail orientation have not been fully established yet."
+    }
+]

@@ -1,0 +1,588 @@
+[
+    {
+        "id": "validation_Agriculture_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Abiotic",
+            "B": "Confused",
+            "C": "Biotic",
+            "D": "Normal"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Agriculture_2",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Bacterial pathogen",
+            "B": "I don't know and I don't want to guess",
+            "C": "Fungal pathogen",
+            "D": "Oomycete (watermould) pathogen",
+            "E": "Physiological condition; no pathogen involved"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Agriculture_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Algae",
+            "B": "Downy mildew",
+            "C": "Powdery mildew",
+            "D": "Sooty mould",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Agriculture_4",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Mineral deficiency",
+            "B": "Nematode attack",
+            "C": "Don't know and don't want to guess",
+            "D": "There is no problem",
+            "E": "Pot bound"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Agriculture_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Cultural",
+            "B": "Biological",
+            "C": "Chemical",
+            "D": "Organic",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Agriculture_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "macro-fauna",
+            "B": "micro-fauna",
+            "C": "meso-fauna",
+            "D": "micro-flora"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Agriculture_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Downy mildew",
+            "B": "Early blight (Alternaria solani)",
+            "C": "Don't know and don't want to guess",
+            "D": "Powdery mildew",
+            "E": "Late blight (Phytophthora infestans)"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Water mould infection",
+            "B": "Bacterial infection",
+            "C": "Don't know and don't want to guess",
+            "D": "Fungal infection",
+            "E": "Nutrient deficiency"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Low temperature; low light",
+            "B": "When free water has splashed up onto the underside of the leaf",
+            "C": "High temperature, high light",
+            "D": "High relative humidity",
+            "E": "I don't know and I don't want to guess"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Sclerotia",
+            "B": "Cysts",
+            "C": "Eggs",
+            "D": "Galls",
+            "E": "I don't know and I don't want to guess"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Agriculture_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Biotic",
+            "B": "Confused",
+            "C": "Abiotic"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Agriculture_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cholera",
+            "B": "Emulsification",
+            "C": "Anthrax",
+            "D": "Peristalsis"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Don't know and don't want to guess",
+            "B": "Leave all the weeds so that the disease can spread to healthy weeds",
+            "C": "Remove all weeds as they will impact on yield",
+            "D": "The removal of the weed depends on the potential for the disease to spread to the crop",
+            "E": "Leave the infected weeds so that the disease could spread"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Similar to the adult, but shorter and without wings",
+            "B": "Grub",
+            "C": "Maggot",
+            "D": "Caterpillar",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Agriculture_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Lack of nutrients",
+            "B": "Downy mildew (oomycete)",
+            "C": "Don't know, not sure",
+            "D": "Virus",
+            "E": "Phytoplasma"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Agriculture_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I don't know and I don't want to guess",
+            "B": "Corona",
+            "C": "Border",
+            "D": "Halo",
+            "E": "Toxin zone"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_17",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Viral infection",
+            "B": "Bacterial infection",
+            "C": "Unidentified fungal infection",
+            "D": "I don't know and I don't want to guess",
+            "E": "Powdery mildew"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Agriculture_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Algae",
+            "B": "Don't know and I don't want to guess",
+            "C": "Honey dew",
+            "D": "Gummosis-produced resin",
+            "E": "Bacterial ooze"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Agriculture_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Another disease unrelated to the orange pustules",
+            "B": "Don't know and don't want to guess",
+            "C": "Scale insects on the leaf",
+            "D": "Another spore type of the same fungus",
+            "E": "A parasite of the fungus growing on the spores"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_20",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Don't know or not sure",
+            "B": "Repeated root damage by tractors in adjacent field (abiotic)",
+            "C": "Fungal dieback ('ash dieback')",
+            "D": "Air pollution damage",
+            "E": "Combination of fungal and abiotic dieback"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Agriculture_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Confused",
+            "B": "Biotic",
+            "C": "Abiotic"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Agriculture_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Fungal disease",
+            "B": "Bacterial disease",
+            "C": "Don't know or not sure",
+            "D": "Genetic abnormality",
+            "E": "Insect feeding"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Agriculture_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Virus infection",
+            "B": "Herbicide damage",
+            "C": "Fungus disease",
+            "D": "Phytoplasma",
+            "E": "Don't know, not sure"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Agriculture_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Nectar pollen and honeydew",
+            "B": "Caterpillars",
+            "C": "Don't know and don't want to guess",
+            "D": "Mealybugs",
+            "E": "Aphids"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Agriculture_25",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Pupa",
+            "B": "Don't know and don't want to guess",
+            "C": "Worm",
+            "D": "Maggot",
+            "E": "Grub"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Agriculture_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I don't know and I don't want to guess",
+            "B": "Nematodes",
+            "C": "Fungi",
+            "D": "Phytoplasmas",
+            "E": "Bacteria"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Some of the fungi can be grown in culture but not all",
+            "B": "Don't know and don't want to guess",
+            "C": "They will only grow if honey dew is included in the media",
+            "D": "Yes, the fungi that make up the sooty mould family can be grown in culture.",
+            "E": "It is not possible to grow these fungi in culture"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_28",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "It will grow down into the roots and kill the tree.",
+            "B": "Mistletoe is beneficial and increases the growth of the plant.",
+            "C": "It just uses the tree for support and does not damage it.",
+            "D": "I don't know and don't want to guess.",
+            "E": "It has a very damaging impact on the health of the plant but localised to the place of infection."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Agriculture_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Drooped",
+            "B": "Collapsed",
+            "C": "Flaccid",
+            "D": "Wilt",
+            "E": "I don't know and don't want to guess"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Agriculture_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The cause is not a fungal pathogen.",
+            "B": "The cause is either bacterial or viral.",
+            "C": "The cause could be a fungal pathogen.",
+            "D": "It is an abiotic problem of some sort.",
+            "E": "I don't know and I don't want to guess."
+        },
+        "response": "C"
+    }
+]

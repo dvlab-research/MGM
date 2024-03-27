@@ -1,0 +1,523 @@
+[
+    {
+        "id": "validation_Math_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "Not exist"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 attendant",
+            "B": "2 attendants",
+            "C": "3 attendants",
+            "D": "4 attendants"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$y=\\cos 2\\pix$",
+            "B": "$y=\\sin 2\\pix$",
+            "C": "$y=\\cos \\pix$",
+            "D": "$y=\\sin \\pix$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\int_{0}^{1.5}[f(x)-g(x)]\\,d x$",
+            "B": "$\\int_{0}^{1.5}[g(x)-f(x)]\\,d x$",
+            "C": "$\\int_{0}^{2}[f(x)-g(x)]\\,d x$",
+            "D": "$\\int_{0}^{2}[g(x)-f(x)]\\,d x$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "9",
+            "C": "3",
+            "D": "27"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 7>, <image 8>, <image 9>, <image 10>, <image 11>, <image 12>",
+            "B": "<image 13>, <image 14>, <image 15>, <image 16>, <image 17>, <image 18>",
+            "C": "<image 19>, <image 20>, <image 21>, <image 22>, <image 23>, <image 24>",
+            "D": "<image 25>, <image 26>, <image 27>, <image 28>, <image 29>, <image 30>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4 boats of Type 1 and 1 boat of Type 2",
+            "B": "5 boats of Type 1 and 0 boats of Type 2",
+            "C": "3 boats of Type 1 and 2 boats of Type 2",
+            "D": "6 boats of Type 1 and 0 boats of Type 2"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "not all edges are the same length",
+            "B": "it is a complete graph",
+            "C": "not all vertices have the same degree",
+            "D": "it has a vertex of degree 3"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Neither",
+            "D": "Both"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "d1* = S1 and d2* = 0 and d3* = S3",
+            "B": "d1* = 0 and d2* = S2 and d3* = 0",
+            "C": "d1* = S1 and d2* = S2 and d3* = 0",
+            "D": "d1* = 0 and d2* = 0 and d3* = S3"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$16 \\sqrt{2}$",
+            "B": "$16 \\sqrt{3}$",
+            "C": "$16+16 \\sqrt{2}-16 \\sqrt{3}$",
+            "D": "$16+16 \\sqrt{3}-16 \\sqrt{2}$",
+            "E": "None of these"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(a+b+3)/6",
+            "B": "(-a+b+3)/6",
+            "C": "(-a+b)/6+3",
+            "D": "(a+b)/6+3"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_15",
+        "question_type": "short-answer",
+        "answer": [
+            "24/7",
+            "3.429"
+        ],
+        "response": "1 foot per second"
+    },
+    {
+        "id": "validation_Math_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(0, 0)",
+            "B": "(2, 2)",
+            "C": "(3, 3)",
+            "D": "(2, 1)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\theta = \\pi /2$",
+            "B": "$\\theta = \\pi /3$",
+            "C": "$\\theta = \\pi $",
+            "D": "$\\theta = 2\\pi $"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_3$, $e_7$}, {$e_5$, $e_7$, $e_8$}, {$e_6$, $e_8$}",
+            "B": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_6$, $e_8$}",
+            "C": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_3$, $e_7$}, {$e_5$, $e_7$, $e_8$}, {$e_6$, $e_8$}, {$e_2$, $e_4$}",
+            "D": "{$e_2$, $e_4$, $e_8$}"
+        },
+        "response": "(A) {$e\\_1$, $e\\_8$}, {$e\\_2$, $e\\_4$, $e\\_8$}, {$e\\_3$, $e\\_7$}, {$e\\_5$, $e\\_7$, $e\\_8$}, {$e\\_6$, $e\\_8$}"
+    },
+    {
+        "id": "validation_Math_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Graph G1 with vertices v1 to v8 and arcs including (v1, v3), (v2, v3) and so on.",
+            "B": "Graph G2 with vertices v1 to v8 and arcs including (v2, v5) and (v4, v8).",
+            "C": "Graph G1 with vertices v1 to v8 and arcs excluding (v2, v5) and (v4, v8).",
+            "D": "Graph G2 with vertices v1 to v8 and no arc connecting A1 and A3."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "When $x_0$ is greater than 1",
+            "B": "When $x_0$ is equal to 1",
+            "C": "When $x_0$ is less than 1",
+            "D": "When $x_0$ is equal to 0"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "60",
+            "B": "132",
+            "C": "157",
+            "D": "194",
+            "E": "215"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "h = 100 ft",
+            "B": "h = 80 ft",
+            "C": "h = 110 ft",
+            "D": "h = 85 ft"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Math_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "r = 2R/3",
+            "B": "r = 3R/2",
+            "C": "r = R/3",
+            "D": "r = 2R"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\theta $ = 0.524",
+            "B": "$\\theta $ = 1.047",
+            "C": "$\\theta $ = 1.475",
+            "D": "$\\theta $ = 1.570"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\int_{0}^{a}\\left[g(x)-f(x)\\right]d x$",
+            "B": "$\\int_{0}^{a}\\left[b+g(x)-f(x)\\right]d x$",
+            "C": "$\\int_{0}^{a}\\left[b-g(x)-f(x)\\right]d x$",
+            "D": "$\\int_{0}^{a}\\left[b-g(x)+f(x)\\right]d x$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "15",
+            "B": "12",
+            "C": "6.7",
+            "D": "2.4"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.9",
+            "B": "2.1",
+            "C": "2.3",
+            "D": "2.5"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Math_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$\\frac{\\sqrt{2}}{3}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$2-\\sqrt{2}$",
+            "D": "$1-\\frac{\\sqrt{2}}{4}$",
+            "E": "$\\frac{2}{3}$"
+        },
+        "response": "A"
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "id": "validation_Marketing_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,309.6",
+            "B": "2,325.5",
+            "C": "2,328.1",
+            "D": "2,469.6"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Marketing_3",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-.62,.22",
+            "B": "-.62,.32",
+            "C": "-.72,.22",
+            "D": "-.72,.32"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "The distribution is skewed left.",
+            "B": "The distribution is skewed right.",
+            "C": "The distribution is symmetric."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the normal distribution",
+            "B": "the Student's t-distribution",
+            "C": "the uniform distribution",
+            "D": "the exponential distribution"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Marketing_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "there is insufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks",
+            "B": "there is sufficient evidence to conclude that the medication lowered cholesterol levels after 12 weeks",
+            "C": "not certain"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Marketing_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(2.92, 3.60)",
+            "B": "(2.93, 3.60)",
+            "C": "(2.92, 3.59)",
+            "D": "(2.93, 3.59)"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Marketing_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True.",
+            "B": "False."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Marketing_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.0050",
+            "B": "0.1028",
+            "C": "0.1614",
+            "D": "0.2134"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.11",
+            "B": "0.12",
+            "C": "0.55",
+            "D": "0.77"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Marketing_11",
+        "question_type": "short-answer",
+        "answer": "0.10",
+        "response": "0.3"
+    },
+    {
+        "id": "validation_Marketing_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.5963",
+            "B": "4.6963",
+            "C": "4.7963",
+            "D": "4.8963"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1-III, 2-IV, 3-I, 4-II",
+            "B": "1-II, 2-I, 3-IV, 4-III",
+            "C": "1-III, 2-IV, 3-II, 4-I",
+            "D": "1-IV, 2-III, 3-II, 4-I"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Marketing_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.125",
+            "B": "0.25",
+            "C": "0.5",
+            "D": "0.625"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Marketing_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "There is insufficient evidence that types of fries and location are dependent.",
+            "B": "There is sufficient evidence that types of fries and location are dependent.",
+            "C": "Not certain."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "90.25%",
+            "B": "94.21%",
+            "C": "93.33%",
+            "D": "95.50%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "14.00 ounces",
+            "B": "15.00 ounces",
+            "C": "14.98 ounces",
+            "D": "15.98 ounces"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Marketing_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.05",
+            "B": "0.025",
+            "C": "0.0004",
+            "D": "0.0002"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.56",
+            "B": "1.76",
+            "C": "1.96",
+            "D": "2.06"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1/38",
+            "B": "2/38",
+            "C": "3/38",
+            "D": "6/38"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Marketing_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.5",
+            "B": "0.625",
+            "C": "0.8",
+            "D": "0.875"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Marketing_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.62",
+            "B": "0.63",
+            "C": "0.64",
+            "D": "0.65"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.04",
+            "B": "0.05",
+            "C": "0.06",
+            "D": "0.07"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Marketing_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-1.96",
+            "B": "-1.86",
+            "C": "-1.26",
+            "D": "-0.96"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.55",
+            "B": "0.45",
+            "C": "0.30",
+            "D": "0.70"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Marketing_27",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1/38",
+            "B": "2/38",
+            "C": "3/38",
+            "D": "6/38"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True.",
+            "B": "False."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Marketing_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1518/2873",
+            "B": "2873/12351",
+            "C": "583/12351",
+            "D": "4189/12351"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Marketing_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5,6",
+            "B": "5,7",
+            "C": "6,7",
+            "D": "6,8"
+        },
+        "response": "C"
+    }
+]

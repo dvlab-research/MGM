@@ -1,0 +1,523 @@
+[
+    {
+        "id": "validation_Math_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "Not exist"
+        },
+        "response": "We have from $x=2$, the following points: $(-1,0), (0,1), (1,2), (2,3), (3,4), (4,5), (5,6), (6,7), (7,8), (8,9), (9,10), (10,11), (11,12), (12,13), (13,14), (14,15), (15,16), (16,17), (17,18), (18,19), (19,20), (20,21), (21,22), (22,23), (23,24), (24,25), (25,26), (26,27), (27,28), (28,29), (29,30), (30,31), (31,32), (32,33), (33,34), (34,35), (35,36), (36,37), (37,38), (38,39), (39,40), (40,41), (41,42), (42,43), (43,44), (44,45), (45,46), (46,47), (47,48), (48,49), (49,50), (50,51), (51,52), (52,53), (53,54), (54,55), (55,56), (56,57), (57,58), (58,59), (59,60), (60,61), (61,62), (62,63), (63,64), (64,65), (65,66), (66,67), (67,68), (68,69), (69,70), (70,71), (71,72), (72,73), ("
+    },
+    {
+        "id": "validation_Math_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 attendant",
+            "B": "2 attendants",
+            "C": "3 attendants",
+            "D": "4 attendants"
+        },
+        "response": "We refer to Wikipedia articles on integer programming for help. The problem can be stated as follows: Given 4 rooms and 4 doorways connecting two adjacent rooms, how many attendants are needed to supervise all rooms? We can place 1 attendant in one of the rooms and the other attendants in the other rooms. We can also place 2 attendants in one of the rooms and 1 attendant in the other room. But we cannot place 3 attendants in one room and 2 attendants in the other room because there is no doorway connecting the two rooms. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Math_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Math_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$y=\\cos 2\\pix$",
+            "B": "$y=\\sin 2\\pix$",
+            "C": "$y=\\cos \\pix$",
+            "D": "$y=\\sin \\pix$"
+        },
+        "response": "We refer to Wikipedia articles on mathematical functions for help. The graph of $y=\\cos 2\\pix$ is a sawtooth wave. The answer (A) is the equation of the graph."
+    },
+    {
+        "id": "validation_Math_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\int_{0}^{1.5}[f(x)-g(x)]\\,d x$",
+            "B": "$\\int_{0}^{1.5}[g(x)-f(x)]\\,d x$",
+            "C": "$\\int_{0}^{2}[f(x)-g(x)]\\,d x$",
+            "D": "$\\int_{0}^{2}[g(x)-f(x)]\\,d x$"
+        },
+        "response": "The correct answer is (B). The region R is bounded by the graph of the parabola $y=f(x)$ and the line $x=x_0$ for $x_0=2.0$. The antiderivative of $f(x)$ is $F(x)=\\frac{1}{3}x^3-6x^2+8x$, and the antiderivative of $g(x)$ is $G(x)=\\frac{1}{3}x^3+2x$. The area of R is $\\int_{0}^{2}[g(x)-f(x)]\\,d x$."
+    },
+    {
+        "id": "validation_Math_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "9",
+            "C": "3",
+            "D": "27"
+        },
+        "response": "We have $\\angle Q OS = \\angle P RS$ and $\\angle Q OS$ is supplementary to $\\angle P RS$, so $\\angle Q RS = \\angle P RS$. Then $\\triangle QPR$ is similar to $\\triangle QOS$, so $PR=QS=\\frac{3}{2}x$. Also, $PS=QS+SR$, so $PS=\\frac{3}{2}x+x+18=3x+18$. Thus, $PS=3x+18$ and the answer is (C)."
+    },
+    {
+        "id": "validation_Math_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 7>, <image 8>, <image 9>, <image 10>, <image 11>, <image 12>",
+            "B": "<image 13>, <image 14>, <image 15>, <image 16>, <image 17>, <image 18>",
+            "C": "<image 19>, <image 20>, <image 21>, <image 22>, <image 23>, <image 24>",
+            "D": "<image 25>, <image 26>, <image 27>, <image 28>, <image 29>, <image 30>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Math_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4 boats of Type 1 and 1 boat of Type 2",
+            "B": "5 boats of Type 1 and 0 boats of Type 2",
+            "C": "3 boats of Type 1 and 2 boats of Type 2",
+            "D": "6 boats of Type 1 and 0 boats of Type 2"
+        },
+        "response": "We are given that the company has a maximum demand of 6,000 customers per season and does not want to exceed this demand. Therefore, we can set up a linear programming model to maximize profit while satisfying this constraint. Let x1 be the number of boats of type 1 and x2 be the number of boats of type 2. Then, the objective function is f(x1, x2) = 4x1 * 7,000 + 2x2 * 8,000 = 28,000 + 16,000 = 44,000. The constraints are x1 + x2 = 6,000 and 25,000 <= x1 <= 80,000 and 1,200 <= x2 <= 2,000. We can solve this model using linear programming software or by hand. Solving the model, we find that the maximum profit is obtained by using 5 boats of type 1 and 1 boat of type 2, for a total profit of 44,000. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Math_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "Without knowing the specific graph represented in the image, it is not possible to determine whether it is Hamiltonian or not. A graph is Hamiltonian if there exists a path through the vertices that visits each vertex exactly once and returns to the starting vertex. The existence of a Hamiltonian path depends on the specific structure of the graph, which is not provided in the image."
+    },
+    {
+        "id": "validation_Math_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "not all edges are the same length",
+            "B": "it is a complete graph",
+            "C": "not all vertices have the same degree",
+            "D": "it has a vertex of degree 3"
+        },
+        "response": "We refer to Wikipedia articles on graph theory for help. A graph is regular if all the vertices have the same degree or all the edges have the same length. A graph is not regular if not all edges are the same length.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Math_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Convex",
+            "B": "Concave",
+            "C": "Neither",
+            "D": "Both"
+        },
+        "response": "We refer to Wikipedia articles on mathematical analysis for help. A convex function is one that is always\u5f13\u5f62\u7684, regardless of the direction of the input. A concave function is one that is always\u5f13\u5f62\u7684, but in the opposite direction of the input. A function that is neither convex nor concave is called neither convex nor concave.\nThe graph of the function is shown in the image. It is clear that the graph is always\u5f13\u5f62\u7684, regardless of the direction of the input. Therefore, the function f(x) = x2  6x + 4 is convex.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Math_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "d1* = S1 and d2* = 0 and d3* = S3",
+            "B": "d1* = 0 and d2* = S2 and d3* = 0",
+            "C": "d1* = S1 and d2* = S2 and d3* = 0",
+            "D": "d1* = 0 and d2* = 0 and d3* = S3"
+        },
+        "response": "We refer to Wikipedia articles on linear programming for help. Let\u2019s solve this problem step by step. We are given that r1 = 3d1, r2 = 3d2, and r3 = 3d32. We need to maximize 3\u2211i=1 ri subject to the following constraints: Si  1 = Si, Si \u2267 di \u2267 0. We can see that the first constraint is a statement of the assignment of the variables, and the second constraint is a statement of their bounds. We can simplify the second constraint as Si \u2267 di \u2267 0. We can solve the first equation r1 = 3d1 to get d1. Then we can substitute d1 into the second equation r2 = 3d2 to get d2. Finally, we can substitute d1 and d2 into the third equation r3 = 3d32 to get d3. Therefore, we have d1 = S1, d2 = S2, and d3 = S3. We can verify that d1* = S1, d2* = S2, and d3* = S3 satisfy the constraints. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Math_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$16 \\sqrt{2}$",
+            "B": "$16 \\sqrt{3}$",
+            "C": "$16+16 \\sqrt{2}-16 \\sqrt{3}$",
+            "D": "$16+16 \\sqrt{3}-16 \\sqrt{2}$",
+            "E": "None of these"
+        },
+        "response": "To find the area of the given quadrilateral, we can use the formula for the area of a regular polygon:\n$A = \\frac{12 \\cdot s}{\\sqrt{3}}$\nwhere $s$ is the semiperimeter of the polygon, which is half the perimeter.\nIn this case, the hexagon has $6$ vertices and the octagon has $8$ vertices, so the semiperimeter of the hexagon is $3$ and the semiperimeter of the octagon is $4$.\nSubstituting in the values, we get:\n$A = \\frac{12 \\cdot 3}{\\sqrt{3}} = 16 \\sqrt{2}$\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Math_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(a+b+3)/6",
+            "B": "(-a+b+3)/6",
+            "C": "(-a+b)/6+3",
+            "D": "(a+b)/6+3"
+        },
+        "response": "The average value of $g$ on the interval $[-2,4]$ is equal to $ \\frac{a+b+3}{6}$. This is the same as the average value of $f$ on the interval $[0,4]$, which is the union of the interval $[0,2]$ with the interval $[-2,2]$ (which is a half of the interval $[-2,4]$). Since $f$ is continuous on $[0,2]$ and $f(2)=0$, it follows that $f$ is also continuous on $[-2,2]$, and therefore on $[-2,4]$. It follows that the average value of $g$ on $[-2,4]$ is equal to the average value of $f$ on $[0,4]$, which is the average value of $f$ on the interval $[0,2]$, which is equal to $ \\frac{a}{6}$. This gives us the result $ \\frac{a+b+3}{6}=\\frac{a}{6}+3$, as was to be shown. The answer is (A)."
+    },
+    {
+        "id": "validation_Math_15",
+        "question_type": "short-answer",
+        "answer": [
+            "24/7",
+            "3.429"
+        ],
+        "response": "The top of the ladder is slipping down the wall at a rate of 1 foot per second, and the bottom of the ladder is 7 feet away from the wall. This means that the distance between the top of the ladder and the ground is decreasing at a rate of 1 foot per second. \n\nTo find the speed of the bottom of the ladder, we can use the formula for the rate of change of distance with respect to time: \n\nd = v*t \n\nwhere d is the distance between the top of the ladder and the ground, v is the velocity of the ladder (which is the rate of change of distance with respect to time), and t is the time it takes for the bottom of the ladder to reach the ground. \n\nWe are given that the time it takes for the bottom of the ladder to reach the ground is 7 feet, which is equal to 7 seconds. We are also given that the velocity of the ladder is 1 foot per second. \n\nUsing the formula above, we can find the distance between the top of the ladder and the ground when the bottom of the ladder is 7 feet away from the wall: \n\nd = v*t = 1 ft/s * 7 s = 7 feet \n\nTherefore, the speed of the bottom of the ladder is 7 feet per second."
+    },
+    {
+        "id": "validation_Math_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(0, 0)",
+            "B": "(2, 2)",
+            "C": "(3, 3)",
+            "D": "(2, 1)"
+        },
+        "response": "We can see that the feasible region is a triangle with vertices $(0, 0)$, $(0, 3)$, and $(2, 2)$. The optimal point is $(2, 2)$, so the solution is (B)."
+    },
+    {
+        "id": "validation_Math_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\theta = \\pi /2$",
+            "B": "$\\theta = \\pi /3$",
+            "C": "$\\theta = \\pi $",
+            "D": "$\\theta = 2\\pi $"
+        },
+        "response": "We refer to Wikipedia articles on geometry for help. The diagram shows that the diameter of the circular lake is perpendicular to the radius at the point P. So the time required to reach Q is minimized when the distance PQ is minimized, which occurs when the angle $\\theta$ is $\\pi/2$. So the answer is (A)."
+    },
+    {
+        "id": "validation_Math_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b"
+        },
+        "response": "The diagram (A) represents the breadth-first search, which is an algorithm for traversing a graph that expands the node with the fewest children before moving on to the next child. This algorithm is used to construct a spanning tree with edges pointing in all directions, which is not a tree structure. On the other hand, the diagram (B) represents the depth-first search, which is an algorithm for traversing a graph that explores as far as possible along one path before backtracking. This algorithm is used to construct a tree structure, but not necessarily a spanning tree. Therefore, the correct answer is (B)."
+    },
+    {
+        "id": "validation_Math_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_3$, $e_7$}, {$e_5$, $e_7$, $e_8$}, {$e_6$, $e_8$}",
+            "B": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_6$, $e_8$}",
+            "C": "{$e_1$, $e_8$}, {$e_2$, $e_4$, $e_8$}, {$e_3$, $e_7$}, {$e_5$, $e_7$, $e_8$}, {$e_6$, $e_8$}, {$e_2$, $e_4$}",
+            "D": "{$e_2$, $e_4$, $e_8$}"
+        },
+        "response": "We need to find the Fundamental Cut sets of the given graph with respect to the given spanning tree. \n\nLet's first find the spanning tree of the given graph. We can see that there are 7 edges in the graph, and we need to choose 3 edges to form a spanning tree. The edges that form the spanning tree are:\n\n1. e1 - e2\n2. e3 - e7\n3. e4 - e8\n\nNow, let's find the Fundamental Cut sets of the graph with respect to the spanning tree. \n\nWe can see that there are 7 vertices in the graph, and the spanning tree has 3 edges. Therefore, there are 4 Fundamental Cut sets in the graph:\n\n1. {$e_1$, $e_8$}\n2. {$e_2$, $e_4$, $e_8$}\n3. {$e_6$, $e_8$}\n4. {$e_2$, $e_4$, $e_7$, $e_8$}\n\nTherefore, the correct answer is (C)."
+    },
+    {
+        "id": "validation_Math_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Graph G1 with vertices v1 to v8 and arcs including (v1, v3), (v2, v3) and so on.",
+            "B": "Graph G2 with vertices v1 to v8 and arcs including (v2, v5) and (v4, v8).",
+            "C": "Graph G1 with vertices v1 to v8 and arcs excluding (v2, v5) and (v4, v8).",
+            "D": "Graph G2 with vertices v1 to v8 and no arc connecting A1 and A3."
+        },
+        "response": "The minimum spanning tree of the graph G(V, U) of Figure 1 is a cycle of 14 nodes, which includes nodes 1 to 14. This is the same as the cycle shown in Figure 1. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Math_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "When $x_0$ is greater than 1",
+            "B": "When $x_0$ is equal to 1",
+            "C": "When $x_0$ is less than 1",
+            "D": "When $x_0$ is equal to 0"
+        },
+        "response": "We start by substituting $x_0$ into the equation $f_1(x_0)=x_0 e^{-x_0}=0$. If this equation has a root, then the function will converge to that root. If the equation has no root, then the function will converge to a non-real root.\n\nWe start by substituting $x_0=1$ into the equation $f_1(x_0)=x_0 e^{-x_0}=0$. We get $f_1(1)=e^{-1}=0$. This equation has a root, so the function will converge to this root.\n\nTherefore, the answer is (B). When $x_0$ is equal to 1, the function will converge to the root $x=1$."
+    },
+    {
+        "id": "validation_Math_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "60",
+            "B": "132",
+            "C": "157",
+            "D": "194",
+            "E": "215"
+        },
+        "response": "We can assume that $m=2$ and $n=7$ without loss of generality. Then $AD=2\\sqrt{7}$. The area of trapezoid $ABCD$ is \\[\n\\frac{1}{2}(43)(2\\sqrt{7})=\\frac{218}{2}\\text{ square units}.\n\\] The area of $\\triangle AOB$ is \\[\n\\frac{1}{2}AB^2=\\frac{1}{2}(43)^2=196,\n\\] and the area of $\\triangle BPD$ is \\[\n\\frac{1}{2}BP^2=\\frac{1}{2}(11)^2=121.\n\\] Therefore, the area of $\\triangle AOB$ is $196$ more than the area of $\\triangle BPD$, so \\[\n\\frac{218}{2}=196+121.\n\\] Therefore, $m+n=\\boxed{439}$."
+    },
+    {
+        "id": "validation_Math_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "h = 100 ft",
+            "B": "h = 80 ft",
+            "C": "h = 110 ft",
+            "D": "h = 85 ft"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The height of the tower is h = 3h = 3 * 5 = 15 feet.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Math_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "r = 2R/3",
+            "B": "r = 3R/2",
+            "C": "r = R/3",
+            "D": "r = 2R"
+        },
+        "response": "We know that the volume of the cone is given by $\\frac13\\cdot4\\pi\\cdot R^2\\cdot H$, and the volume of the cylinder is given by $\\pi\\cdot r^2\\cdot H$.  Therefore, we want to find the radius $r$ such that $4\\pi\\cdot R^2\\cdot H=\\pi\\cdot r^2\\cdot H$, or $r^2=4R^2$.  The answer is (A)."
+    },
+    {
+        "id": "validation_Math_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\theta $ = 0.524",
+            "B": "$\\theta $ = 1.047",
+            "C": "$\\theta $ = 1.475",
+            "D": "$\\theta $ = 1.570"
+        },
+        "response": "We can see that the angle between the path of the object and the ground is given by $\\tan \\theta = \\frac{y'(t)}{x'(t)} = \\frac{4.2-9.8t}{1.4}$. Since $y'(t) = 4.2-9.8t$, we have $\\tan \\theta = 1.4-7.0t$. We want this to be between $-1$ and $1$, so we want $7.0t \\le \\frac{\\pi}{2}$, or $t \\le \\frac{\\pi}{28}$. Thus, $\\theta$ is between $\\frac{\\pi}{28}$ and $\\frac{5 \\pi}{28}$, so $\\theta = \\boxed{1.570}$.\n\nWe can also see that $\\theta = \\arctan \\left(\\frac{y(t)}{x(t)}\\right)$. Since $y(t) = 10+4.2-9.8t$, we have $y(t)/x(t) = \\frac{10+4.2-9.8t}{1.4}$. We want this to be between $-1$ and $1$, so we want $9.8t \\le \\frac{10}{1.4}$, or $t \\le \\frac{7}{2}$. Thus, $\\theta$ is between $\\frac{7}{2}$ and $\\frac{11}{2}$, so $\\theta = \\boxed{1.570}$.\n\nWe can also see that $\\theta = \\arctan \\left(\\frac{y(t)}{x(t)}\\right)$. Since $y(t) = 10+4.2-9.8t$, we have $y(t)/x(t) = \\frac{10+4.2-9.8t}{1.4}$. We want this to be between $-1$ and $1$, so we want $9.8t \\le \\frac{10}{1.4}$, or $t \\le \\frac{7}{2}$. Thus, $\\theta$ is between $\\frac{7}{2}$ and $\\frac{11}{2}$, so $\\theta = \\boxed{1.570}$.\n\nWe can also see that $\\theta = \\arct"
+    },
+    {
+        "id": "validation_Math_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\int_{0}^{a}\\left[g(x)-f(x)\\right]d x$",
+            "B": "$\\int_{0}^{a}\\left[b+g(x)-f(x)\\right]d x$",
+            "C": "$\\int_{0}^{a}\\left[b-g(x)-f(x)\\right]d x$",
+            "D": "$\\int_{0}^{a}\\left[b-g(x)+f(x)\\right]d x$"
+        },
+        "response": "The correct answer is (B). The area of the shaded region is the difference between the area under the graph of $y=g(x)$ from $x=0$ to $x=a$ and the area under the graph of $y=f(x)$ from $x=0$ to $x=a$. This is equal to the definite integral of the difference of $g(x)$ and $f(x)$ from $x=0$ to $x=a$, which is $\\int_{0}^{a}\\left[b-g(x)-f(x)\\right]d x$.\n\nThe graph of the shaded region is a rectangle with height $b$ and width $a$. The area of the rectangle is $b\\cdot a$, which is equal to the definite integral of $g(x)$ from $x=0$ to $x=a$ plus the definite integral of $f(x)$ from $x=0$ to $x=a$ minus the definite integral of $g(x)$ from $x=0$ to $x=a$ minus the definite integral of $f(x)$ from $x=0$ to $x=a$.\n\nTherefore, the area of the shaded region is equal to $\\int_{0}^{a}\\left[b-g(x)-f(x)\\right]d x$."
+    },
+    {
+        "id": "validation_Math_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "15",
+            "B": "12",
+            "C": "6.7",
+            "D": "2.4"
+        },
+        "response": "By the Pythagorean Theorem, $A D^2=E B^2+C E^2=10^2+4^2=104$, so $E B=12$.  Then $C E+E D=2 A E=8$, so $E B=6$.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Math_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "Yes, <image 1> is a Cayley diagram."
+    },
+    {
+        "id": "validation_Math_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.9",
+            "B": "2.1",
+            "C": "2.3",
+            "D": "2.5"
+        },
+        "response": "We have $f(-1) = 1.5$, $f(-0.6) = 1.2$, and $f(0.2) = 1.9$. The step size is 0.8, so the step from $-1$ to $-0.6$ is $0.8$, and the step from $-0.6$ to $0.2$ is $0.4$. The total error is $1.9 - 1.5 = 0.4$, which is the same as the error from the step from $-1$ to $-0.6$. So the answer is (A)."
+    },
+    {
+        "id": "validation_Math_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$\\frac{\\sqrt{2}}{3}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$2-\\sqrt{2}$",
+            "D": "$1-\\frac{\\sqrt{2}}{4}$",
+            "E": "$\\frac{2}{3}$"
+        },
+        "response": "We can assume that $s$ is the side length of the hexagon.  Let $M$ be the midpoint of side $AB$, and let $T$ be the intersection of side $BC$ with the circle centered at $M$ with radius $s/2$.  Then $AQMT$ is a regular hexagon, and $APQCRS$ is the union of $AQMT$ and $MRS$, which is an equilateral hexagon.  The side length of $AQMT$ is $s/2$, so the side length of $MRS$ is $\\sqrt{2} s/2$.  Hence, $s = \\boxed{2-\\sqrt{2}}$."
+    }
+]

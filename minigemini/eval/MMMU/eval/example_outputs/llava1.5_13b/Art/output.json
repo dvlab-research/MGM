@@ -1,0 +1,538 @@
+[
+    {
+        "id": "validation_Art_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Aurelia",
+            "B": "Matilda",
+            "C": "Hermione",
+            "D": "Juno"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "SERGE VINOGRADOV",
+            "B": "GEORGES SEURAT",
+            "C": "VINCENT WILLEM VAN GOGH",
+            "D": "PAUL GAUGUIN"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "CLAUDE MONET",
+            "B": "HENRI MATISSE",
+            "C": "HENRI DE TOULOUSE-LAUTREC",
+            "D": "EDOUARD MANET"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Colour",
+            "B": "Aperture problems",
+            "C": "Blurs",
+            "D": "Over and underexposure"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Art_5",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "PAUL SIGNAC",
+            "B": "HENRI MATISSE",
+            "C": "JOHN SINGER SARGENT",
+            "D": "PIERRE-AUGUSTE RENOIR"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Art_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Lady with an Ermine",
+            "B": "First Steps",
+            "C": "Nude Descending a Staircase, No. 2",
+            "D": "Woman with a parasol"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Art_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "No enough evidence"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Herne Bay, Kent",
+            "B": "St Ives, Cornwall",
+            "C": "Aldeburgh, Suffolk",
+            "D": "Sandown, Isle of Wight"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cimabue",
+            "B": "Donatello",
+            "C": "Giotto",
+            "D": "Brunelleschi"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Edgar Degas",
+            "B": "Vincent van Gogh",
+            "C": "Gustav Klimt",
+            "D": "Claude Monet"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_11",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ARKHIP KUINII",
+            "B": "PAUL SIGNAC",
+            "C": "GEORGES SEURAT",
+            "D": "VALENTIN SEROV"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "PAUL C\u00c9ZANNE",
+            "B": "EDVARD MUNCH",
+            "C": "EDGAR DEGAS",
+            "D": "ANDY WARHOL"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Neoclassical",
+            "B": "Baroque",
+            "C": "Renaissance",
+            "D": "Rococo"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Spencer Gore",
+            "B": "Harold Gilman",
+            "C": "Charles Ginner",
+            "D": "William Ratcliffe"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Art_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ANTONELLO DA MESSINA",
+            "B": "MICHELANGELO BUONARROTI",
+            "C": "PETER BRUEGEL",
+            "D": "LUCAS CRANACH THE ELDER"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "No enough evidence"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Louise Bourgeois",
+            "B": "Henry Moore",
+            "C": "Barbara Hepworth",
+            "D": "Constantin Brancusi"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Barbara",
+            "B": "Apollonia",
+            "C": "Philomena",
+            "D": "Hilda"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Photo 1",
+            "B": "Photo 2",
+            "C": "Photos 2 & 3",
+            "D": "Photo 3"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Sir Joshua Reynolds",
+            "B": "Sir Henry Raeburn",
+            "C": "George Romney",
+            "D": "Allan Ramsay"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Peter Paul Rubens 1675",
+            "B": "Caravaggio 1635",
+            "C": "Artemisia Gentileschi 1612-13",
+            "D": "Francisco de Zurbar\u00e1n 1614"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Water Babies by Charles Kingsley (1863)",
+            "B": "The Little Mermaid by Hans Christian Andersen (1836)",
+            "C": "Around the World in 80 Days by Jules Verne (1873)",
+            "D": "Moby-Dick by Herman Melville (1851)"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Egg tempera",
+            "B": "Watercolour",
+            "C": "Ink",
+            "D": "Oil paint"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_24",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The bond between mother and child is described as unbreakable.",
+            "B": "A sculpture is described as speaking.",
+            "C": "The artist is described as a storyteller.",
+            "D": "A sculpture is without frills."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Claude Monet",
+            "B": "Henri Matisse",
+            "C": "Andy Warhol",
+            "D": "Georgia O'Keefe"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Art_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Damascus",
+            "B": "Cairo",
+            "C": "Granada",
+            "D": "Algiers"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Maggi Hambling",
+            "B": "Elisabeth Frink",
+            "C": "Barbara Hepworth",
+            "D": "Georgia O'Keeffe"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Art_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Space",
+            "B": "Shape",
+            "C": "Form",
+            "D": "Line"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Pablo Picasso",
+            "B": "Diego Velazquez",
+            "C": "Rembrandt",
+            "D": "El Greco"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Art_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "MARTIN SCHONGAUER",
+            "B": "TITIAN",
+            "C": "ROGIER VAN DER WEYDEN",
+            "D": "HANS MEMLING"
+        },
+        "response": "C"
+    }
+]

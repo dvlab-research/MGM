@@ -1,0 +1,538 @@
+[
+    {
+        "id": "validation_Sociology_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A consensus crime",
+            "B": "A conflict crime",
+            "C": "A social deviation",
+            "D": "A social diversion"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Critical sociology",
+            "B": "Feminist theory",
+            "C": "Functionalist theory",
+            "D": "Symbolic interactionism"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Sociology_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The exercise of power by the state",
+            "B": "The strategies some use to direct the behaviour and actions of others",
+            "C": "The institutionalization of legislative, executive, and judicial branches of the state",
+            "D": "The means by which permanent hierarchies are established and enforced"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Competition",
+            "B": "The enlightenment",
+            "C": "Division of labor",
+            "D": "Class consciousness"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Job opportunities are increasing for highly skilled jobs.",
+            "B": "Job opportunities are decreasing for mid-level jobs.",
+            "C": "Highly skilled jobs pay better than low-skill jobs.",
+            "D": "Women tend to make less than men do for the same job."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Sociology_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Are formally deLned and are enforced by designated people",
+            "B": "Norms for routine or casual interaction. 'Everyday behaviors.' ",
+            "C": "Specific statements that people hold to be true or false",
+            "D": "Have great moral signiLcance. 'taboos' "
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Core nations and peripheral nations exploit semi-peripheral nations",
+            "B": "Semi-peripheral nations exploit core nations",
+            "C": "Peripheral nations exploit core nations",
+            "D": "Core nations exploit peripheral nations"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "Not sure",
+            "D": "None of the above"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "symbolic interactionism",
+            "B": "functionalism",
+            "C": "conflict theory",
+            "D": "ethnocentrism"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Sociology_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a working waitress",
+            "B": "a sociologist ",
+            "C": "Not sure"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A stigmatized disease",
+            "B": "A contested illness",
+            "C": "A disability",
+            "D": "Demedicalization"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Conflict Theorist",
+            "B": "Structural Functionalist",
+            "C": "Symbolic Interactionist",
+            "D": "All of the above"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Sociology_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "full observation for the work space",
+            "B": "partial observation for the work space"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It is too broad and accounts for too many aspects of family.",
+            "B": "It is too narrowly focused on a sequence of stages.",
+            "C": "It does not serve a practical purpose for studying family behaviour.",
+            "D": "It is not based on comprehensive research."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Self-definition",
+            "B": "Numerical minority",
+            "C": "Lack of power",
+            "D": "Strong cultural identity"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Emile Durkheim",
+            "B": "Karl Marx",
+            "C": "Erving Goffmann",
+            "D": "George Herbert Mead"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Refers to people who interact in a deLned territory and share a culture",
+            "B": "Is the values, beliefs, behavior, and material objects that, together, form a people's way of life",
+            "C": "Social cohesion (unity) results from the various parts of society functioning as parts of society functioning as an integrated whole.",
+            "D": "Culturally deLned standards by which people asses desirability, goodness, and beauty and that serve as broad guidelines for social living"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Says the organization of society (stratiLcations based on class, ethnicity, gender, age, etc.) and the changes in society can be explained by the conSicts inherent to social relations.",
+            "B": "Is the economic system that is directed at earning a proLt for a few, selling the proLts to many people, and keeping workers wages low in order to increase proLts",
+            "C": "Is a theory that focuses on the social structures that shape society as a whole. It sees society as a complex system whose parts work together to maintain stability and to promote solidarity.",
+            "D": "Refers to the particular experience of African Americans where in which they are forced to see themselves their status as citizens who are never able to escape identiLcation based on the color of their skin"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "Not sure",
+            "D": "None of the above"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "happy",
+            "B": "understandable",
+            "C": "sad",
+            "D": "feel it is being rude"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Digital divide",
+            "B": "Knowledge gap",
+            "C": "Feminist perspective",
+            "D": "E-gap"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Religion",
+            "B": "Prohibition against incest",
+            "C": "Family",
+            "D": "Media"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Corporate crime",
+            "B": "Violent crime",
+            "C": "Victimless crime",
+            "D": "All of the above"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bureaucracies are most eCcient at organizing large populations",
+            "B": "Bureaucracy operates without values or morals and can be used for any purpose.",
+            "C": "Bureaucracies are based on expert knowledge and are capable of promoting recruitment",
+            "D": "All of the above are reasons why bureaucracy is inescapable"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Obesity in children is obviously a result of parental neglect and, therefore, schools should take a greater role to prevent it.",
+            "B": "In 2003, states like Arkansas adopted laws requiring elementary schools to remove soft drink vending machines from schools.",
+            "C": "Merely restricting children's access to junk food at school is not enough to prevent obesity.",
+            "D": "Physical activity and healthy eating are a fundamental part of a child's education."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The conflict perspective",
+            "B": "Conspicuous consumption",
+            "C": "Media",
+            "D": "Planned obsolescence"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Sociology_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A black person living in Canada",
+            "B": "People whose ancestors came to Canada through the slave trade",
+            "C": "A white person who originated in Africa and now lives in Canada",
+            "D": "Any of the above"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Sociology_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Scientology and the Hare Krishna",
+            "B": "the Peoples Temple and Heven's Gate",
+            "C": "the Branch Davidians and the Manson Family",
+            "D": "Quakers and Petecostals"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Sociology_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Men often earn more than women, even working the same job.",
+            "B": "After work, Pat, a janitor, feels more comfortable eating in a truck stop than a French restaurant.",
+            "C": "Doctors earn more money because their job is more highly valued.",
+            "D": "Teachers continue to struggle to keep benefits such as good retirement plans."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Sociology_30",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Postman",
+            "B": "Oakley",
+            "C": "Philips",
+            "D": "Aries",
+            "E": "Mithchel and Woodey"
+        },
+        "response": "D"
+    }
+]

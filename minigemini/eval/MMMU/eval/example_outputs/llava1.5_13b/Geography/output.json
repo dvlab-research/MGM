@@ -1,0 +1,499 @@
+[
+    {
+        "id": "validation_Geography_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "12.0kN.m, -3kN.m",
+            "B": "-2.5kN.m, -3kN.m",
+            "C": "-2.5kN.m, -3kN.m",
+            "D": "2.5kN.m, -3kN.m"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Joint tendency",
+            "B": "Joint dip angle",
+            "C": " Joint strike",
+            "D": "Number of joints"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Geography_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "unit moving load with unchanged direction ",
+            "B": "moving load",
+            "C": "dynamic load ",
+            "D": " movable load"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Geography_4",
+        "question_type": "short-answer",
+        "answer": [
+            "Tampa",
+            "Florida"
+        ],
+        "response": "Beach"
+    },
+    {
+        "id": "validation_Geography_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2.5A and 1.5A",
+            "B": "1A, and 0A",
+            "C": "2.5A and 0A",
+            "D": "1A, and 1.5A"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "12",
+            "B": "15",
+            "C": "18",
+            "D": "24"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "CO_2-emissions",
+            "B": "amount of money which is spend on milita y.",
+            "C": "average education level.",
+            "D": "wealth 2021 years ago."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "30kPa",
+            "B": "45kPa",
+            "C": "115kPa",
+            "D": "145kPa"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Kenya",
+            "B": "Kiribati",
+            "C": "Kuweit",
+            "D": "Kyrgyzstan"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Geography_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "l(a)>1,(a);l(b)=l(b)",
+            "B": "l.(a) >L(a);l(b)>l,(b)",
+            "C": "l.(a) >2(a);l(b)>l,(b)",
+            "D": "l.(a) >L(a);l(b)>2,(b)"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Geography_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aretes",
+            "B": "eskers",
+            "C": "a hanging valley",
+            "D": "lateral moraines "
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ocean currents",
+            "B": "tides",
+            "C": "waves",
+            "D": "wind"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "01-01-C1-007",
+            "B": "01-01-C5-007",
+            "C": "02-01-C1-007",
+            "D": "02-01-C5-007"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_14",
+        "question_type": "short-answer",
+        "answer": "8200",
+        "response": "1.27"
+    },
+    {
+        "id": "validation_Geography_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Siltstone is cemented silt particles",
+            "B": "Shale is Clay, breaking easily into flat flakes and plates",
+            "C": "Chert is Silica, a microcrystalline form of quartz",
+            "D": "None"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Forests marked in <image 2>",
+            "B": "Forests marked in <image 3>",
+            "C": "Forests marked in <image 4>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4D",
+            "B": "3.5D",
+            "C": "3.0D",
+            "D": "2.5D"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "The top one",
+            "B": "The bottom one"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Land subsidence",
+            "B": "Ground collapse",
+            "C": " Ground fissures",
+            "D": "Earthquake"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.0",
+            "B": "1.3",
+            "C": "1.6",
+            "D": "1.9"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Geography_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Vulnerable, Endangered, Critical",
+            "B": "Endangered, Critical, Vulnerable",
+            "C": "Critical, Vulnerable, Endangered"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_22",
+        "question_type": "short-answer",
+        "answer": "3",
+        "response": "3"
+    },
+    {
+        "id": "validation_Geography_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Rectangle",
+            "B": "Channel steel",
+            "C": "I-beam",
+            "D": "Equilateral angle steel"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Static penetration test",
+            "B": "Light power penetration",
+            "C": "Heavy power penetration",
+            "D": "Standard penetration test"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The roll waterproof layer is laid on the upstream surface of the external wall",
+            "B": "The roll waterproof layer is laid on the back surface of the external wall",
+            "C": "The outer wall roll adopts the empty laying method",
+            "D": " When laying double layer coils, the two layers of coils are perpendicular to each other"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Overall, block, and sub block structures",
+            "B": "Giant thick layered, thick layered, medium thick layered, interbedded, and thin layered structures",
+            "C": "Weathering unloading structure and weathering fragment structure",
+            "D": "Inlaid fragmented structure and fragmented structure"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hard plastic",
+            "B": "Plastic",
+            "C": "Soft plastic",
+            "D": "Flow molding"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Geography_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Gravitational water",
+            "B": "Capillary water",
+            "C": "Hygroscopic water"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Geography_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "feldspar",
+            "B": "fluorite",
+            "C": "galena",
+            "D": "quartz"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Geography_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10.7m",
+            "B": "21.3m",
+            "C": "24.0m",
+            "D": "48.0m"
+        },
+        "response": "A"
+    }
+]

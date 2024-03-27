@@ -1,0 +1,496 @@
+[
+    {
+        "id": "validation_Basic_Medical_Science_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Alzheimer s type II astrocyte",
+            "B": "Bergman gliosis",
+            "C": "Corpora amylacea",
+            "D": "Eosinophilic granular body",
+            "E": "Eosinophilic granular body"
+        },
+        "response": "The structure in the image is an eosinophilic granular body (option D)."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cardiac muscle",
+            "B": "Bone",
+            "C": "Skeletal muscle"
+        },
+        "response": "The tissue in the image is cardiac muscle."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It is a prokaryote because it doesn't have a nucleus",
+            "B": "It is a eukaryotic cell because it has a cell wall and a nucleus",
+            "C": "It is eukaryotic because it does not a nucleus nor a cell membrane",
+            "D": "It is prokaryote because it has a cell wall"
+        },
+        "response": "We can tell that this is a prokaryote cell because it lacks a nucleus and a cell wall. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Decreased auditory acuity.",
+            "B": "Vertigo.",
+            "C": "Tinnitis.",
+            "D": "Loss of facial sensation."
+        },
+        "response": "The answer is (A) Decreased auditory acuity. Decreased auditory acuity would not occur in the presence of an infection or a tumor pressing on the vestibulocochlear nerve. Vertigo, tinnitus, and loss of facial sensation would be common symptoms of an infection or tumor affecting the vestibular system."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Adrenergic synapse",
+            "B": "Cholinergic synapse",
+            "C": "Peripheral synapse",
+            "D": "Autonomic synapse"
+        },
+        "response": "(C) Peripheral synapse"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Columnar epithelial cells detect activated Dendritic cells and secrete thymic stromal lymphocytes.",
+            "B": "Activated Dendritic cell secretes a hormone.",
+            "C": "Mast cell is activated through the activation of the D.C and secretes thymic stromal lymphocytes.",
+            "D": "Thymic stromal lymphocytes are created by TH2 cells which have detected the activation of the dendritic cell."
+        },
+        "response": "The answer is (C) Mast cell is activated through the activation of the D.C and secretes thymic stromal lymphocytes."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "coronavirus",
+            "B": "influenza virus",
+            "C": "parainfluenza virus",
+            "D": "respiratory syncytial virus",
+            "E": "rhinovirus"
+        },
+        "response": "Based on the symptoms and physical examination findings, as well as the presence of antigens from a segmented RNA virus in the nasal secretions, the most likely etiology is (A) coronavirus. The symptoms and signs of fever, muscle aches, sore throat, and cough are consistent with a viral infection, and the presence of antigens from a segmented RNA virus further supports this diagnosis. The other viruses listed (B, C, D, and E) are also RNA viruses that can cause similar symptoms, but the presence of antigens from a segmented RNA virus in the nasal secretions is more specific for coronavirus."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Superior colliculus.",
+            "B": "Lateral geniculate.",
+            "C": "Retina.",
+            "D": "Medial geniculate."
+        },
+        "response": "(C) Retina."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Threshold",
+            "B": "Depolarization",
+            "C": "Action potential",
+            "D": "Repolarization"
+        },
+        "response": "The image shows the electrical activity of a neuron at different stages of an action potential. The membrane potential is plotted on the y-axis and time is plotted on the x-axis, with labels in milliseconds. The different stages of the action potential are labeled as follows: A is the threshold, B is the initial rapid depolarization, C is the peak of the action potential, D is the rapid repolarization, and E is the plateau. The action potential is a rapid change in the membrane potential that occurs in response to an external stimulus or internal event, and it is the primary means by which neurons communicate with each other in the nervous system."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_10",
+        "question_type": "short-answer",
+        "answer": "C",
+        "response": "The arrow pointing to a hydrogen bond is labeled as follows: \"H...O...H\"."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cardiac muscle",
+            "B": "Skeletal muscle",
+            "C": "Cartliage"
+        },
+        "response": "The tissue in the image is cardiac muscle."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Dorsal column.",
+            "B": "Spinoreticular pathways.",
+            "C": "Solitary tract.",
+            "D": "Dentatorubrothalamic tract."
+        },
+        "response": "(D) Dentatorubrothalamic tract."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Cranial Nerve III.",
+            "B": "Cranial Nerve IV.",
+            "C": "Cranial Nerve VI."
+        },
+        "response": "(C) Cranial Nerve VI."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_14",
+        "question_type": "short-answer",
+        "answer": "Transformation",
+        "response": "The process illustrated in Figure <image 1> is the production of human growth hormone through transfection of a bacterial cell."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Anterior limb of the internal capsule.",
+            "B": "Genu of the internal capsule.",
+            "C": "Posterior limb of the internal capsule."
+        },
+        "response": "Pallidothalamic axons cross the Anterior limb of the internal capsule."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "true",
+            "B": "false"
+        },
+        "response": "(B) false"
+    },
+    {
+        "id": "validation_Basic_Medical_Science_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "E",
+            "B": "B",
+            "C": "C",
+            "D": "A"
+        },
+        "response": "The hydrophobic region of the cell membrane is represented by the parts B, C, and D in the image. The hydrophobic region is responsible for the cell membrane's ability to selectively allow certain substances in or out of the cell, as well as its ability to maintain the cell's shape and structure."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "response": "The sinoatrial (SA) node is indicated by A."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Perpendicular.",
+            "B": "Parallel."
+        },
+        "response": "The orientation of the Purkinje cell dendrites with respect to the granule cell axons is parallel (B)."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "No, will not regenerate.",
+            "B": "Yes, will regenerate."
+        },
+        "response": "The answer is (A) No, it will not regenerate. \n\nOptic nerve injury results in a permanent loss of vision, as the nerve does not have the ability to regenerate. The optic nerve is a non-myelinated nerve that does not have the ability to regenerate its axons after injury. The olfactory tract, on the other hand, is a part of the olfactory system that is responsible for detecting\u6c14\u5473 and is located in the upper part of the nasal cavity. If the olfactory tract is injured, it may partially or fully recover depending on the severity of the injury. However, it is important to note that the olfactory system has a high degree of plasticity and can adapt to changes in the environment, even after injury."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The fornix",
+            "B": "The septal nuclei",
+            "C": "Both.",
+            "D": "Neither."
+        },
+        "response": "(C) Both."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "The answer is (B) False. \n\nThe pedigree in Figure 1 does not show the pattern for the transmission of colorblindness. Color blindness is not an inherited trait, but rather a genetic disorder caused by a deficiency in certain pigments in the retina of the eye. Therefore, it cannot be inherited in the same way that a genetic trait can be inherited through a family tree."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_23",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Eosinophil",
+            "B": "Thrombocyte",
+            "C": "Lymphocyte",
+            "D": "Monocyte",
+            "E": "Neutrophil"
+        },
+        "response": "The cell type pictured is a monocyte, which is a type of white blood cell. Monocytes are responsible for protecting the body against infections by engulfing and destroying pathogens. In the image, the cell is surrounded by other cells, indicating that it is in the process of phagocytosis, or engulfing, a foreign object."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "atrial depolarization, ventricular depolarization, ventricular repolarization",
+            "B": "ventricular repolarization, atrial depolarization, ventricular depolarization",
+            "C": "ventricular depolarization, ventricular repolarization, atrial depolarization"
+        },
+        "response": "The diagram shows the electrical activity of the heart over a period of one cycle. The P wave represents atrial depolarization, the QRS segment represents ventricular depolarization, and the T wave represents ventricular repolarization. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Muscles of pharynx and larynx.",
+            "B": "Postganglionic parasympathetic cell bodies.",
+            "C": "Smooth muscle of viscera."
+        },
+        "response": "(A) Muscles of pharynx and larynx."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "plant",
+            "B": "animal",
+            "C": "bacteria"
+        },
+        "response": "Based on the image, it is a plant cell."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Signals angular acceleration.",
+            "B": "Is important for conjugate eye movements.",
+            "C": "Signals orientation with respect to gravity.",
+            "D": "Is bathed with perilymph."
+        },
+        "response": "(C) Signals orientation with respect to gravity."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A tract carrying releasing hormones.",
+            "B": "A tract carrying ADH and Oxytocin.",
+            "C": "A tract carrying nerve impulses to the adenohypophysis."
+        },
+        "response": "The tuberoinfundibular tract is a tuberous structure located in the lower part of the median eminence, which connects the tuberous part of the pituitary gland to the infundibulum. It is a tuberous structure that carries releasing hormones from the adenohypophysis to the pituitary stalk, where they are released into the bloodstream. The tuberoinfundibular tract is an important regulator of the release of hormones such as oxytocin and ADH (antidiuretic hormone) from the adenohypophysis."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "HD is an autosomal recessive disease",
+            "B": "The huntingtin gene is likely to be located on the X-chromosome",
+            "C": "A likely cause of HD is an unstable triplet repeat in the HD gene",
+            "D": "The pattern of bands in the blot is indicative of abnormal splicing of the HD mRNA",
+            "E": "In most individuals, the region of the HD gene detected by the DNA probe is distributed on six different restriction fragments"
+        },
+        "response": "(C) A likely cause of HD is an unstable triplet repeat in the HD gene.\n\nHuntington disease is caused by an expansion of a trinucleotide repeat in the Huntingtin gene, which leads to the production of an abnormal Huntingtin protein. The linked image shows a Southern blot that was obtained with genomic DNA that was probed with a DNA complementary to the gene for the Huntingtin protein. The pattern of bands in the blot is indicative of abnormal splicing of the HD mRNA, which is consistent with the genetic cause of HD being an expansion of a trinucleotide repeat in the Huntingtin gene."
+    },
+    {
+        "id": "validation_Basic_Medical_Science_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Right middle cerebral artery.",
+            "B": "Left middle cerebral artery.",
+            "C": "Right and left middle cerebral arteries.",
+            "D": "Right and left posterior cerebral arteries."
+        },
+        "response": "The answer is (C) Right and left middle cerebral arteries. \n\nThe left middle cerebral artery typically supplies blood to the left hemisphere of the brain, including the Broca's area, which is involved in speech production. The right middle cerebral artery typically supplies blood to the right hemisphere of the brain, including the Wernicke's area, which is involved in speech comprehension. However, it is possible for blood flow to be shared between the two hemispheres, leading to speech involvement on both sides of the brain."
+    }
+]

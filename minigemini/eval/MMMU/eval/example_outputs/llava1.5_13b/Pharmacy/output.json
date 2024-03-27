@@ -1,0 +1,476 @@
+[
+    {
+        "id": "validation_Pharmacy_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.0 mol of NH3,3.0 mol of N2,6.0 mol of H2O",
+            "B": "4.0 mol of NH3,1.0 mol of N2,6.0 mol of H2O",
+            "C": "4.0 mol of NH3,2.0 mol of N2,6.0 mol of H2O"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Pharmacy_2",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$\\beta $1-adrenergic receptors",
+            "B": "glucocorticoid receptors",
+            "C": "histamine H1 receptors",
+            "D": "leukotriene receptors",
+            "E": "muscarinic receptors"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_3",
+        "question_type": "short-answer",
+        "answer": "2",
+        "response": "4"
+    },
+    {
+        "id": "validation_Pharmacy_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Pharmacy_5",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "H,O",
+            "B": "H,Na",
+            "C": "H,B",
+            "D": "H,H"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aerobic respiration",
+            "B": "anaerobic respiration",
+            "C": "anoxygenic photoautotroph",
+            "D": "oxygenic photoautotroph"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a,b",
+            "B": "a,c",
+            "C": "b,c"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Pharmacy_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "[H+]",
+            "B": "pH",
+            "C": "[OH-]"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Pharmacy_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b",
+            "C": "same of the two"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "hydrogen bonds",
+            "B": "ionic bonds",
+            "C": "van der Waals interactions"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b",
+            "C": "c"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Pharmacy_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Pharmacy_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Neisseria gonorrhoeae",
+            "B": "Chlamydia trachomatis",
+            "C": "Treponema pallidum",
+            "D": "Haemophilis ducreyi"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Pharmacy_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "None of them"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1,2",
+            "B": "2,6",
+            "C": "3,8",
+            "D": "4,1"
+        },
+        "response": "(A) 1,2"
+    },
+    {
+        "id": "validation_Pharmacy_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Doxorubicin",
+            "B": "Dactinomycin",
+            "C": "Mitoxantrone",
+            "D": "Bleomycin"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Graph 1",
+            "B": "Graph 2",
+            "C": "Graph 3"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_19",
+        "question_type": "short-answer",
+        "answer": "B",
+        "response": "Step b"
+    },
+    {
+        "id": "validation_Pharmacy_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "iron, oxygen, Aluminum, silicon",
+            "B": "Aluminum, silicon, iron, calcium",
+            "C": "oxygen, silicon, iron, calcium"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The chlorine groups are displaced before the drug becomes active.",
+            "B": "Intrastrand cross linking of DNA results from the action of the agent.",
+            "C": "Base pairing between adenine and thymine is disrupted by the agent.",
+            "D": "The compound acts as a metallating agent"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,1",
+            "B": "2,2",
+            "C": "1,1",
+            "D": "1,2"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The cyclisation is defined as 6-exo-tet and is allowed by Baldwin's rules",
+            "B": "The cyclisation is defined as 6-exo-trig and is allowed by Baldwin's rules",
+            "C": "The cyclisation is defined as 6-endo-tet and is allowed by Baldwin's rules",
+            "D": "The cyclisation is defined as 6-endo-trig and is allowed by Baldwin's rules"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Topoisomerase poison",
+            "B": "Metallating agent",
+            "C": "Chain terminator",
+            "D": "Antisense agent"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Blueish-purple or violet (primary stain),Blueish-purple or violet (mordant),Blueish-purple or violet (counterstain),Blueish-purple or violet (decolorizer)",
+            "B": "Blueish-purple or violet (mordant),Blueish-purple or violet (primary stain),Blueish-purple or violet (counterstain),Blueish-purple or violet (decolorizer)",
+            "C": "Blueish-purple or violet (primary stain),Blueish-purple or violet (counterstain),Blueish-purple or violet (mordant),Blueish-purple or violet (decolorizer)",
+            "D": "Blueish-purple or violet (primary stain),Blueish-purple or violet (mordant),Blueish-purple or violet (decolorizer),Blueish-purple or violet (counterstain)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_26",
+        "question_type": "short-answer",
+        "answer": "A",
+        "response": "C"
+    },
+    {
+        "id": "validation_Pharmacy_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "20.0%,0.50 mol,0.05 mol,20.0%",
+            "B": "30.0%,0.50 mol,0.05 mol,20.0%",
+            "C": "40.0%,0.50 mol,0.05 mol,20.0%",
+            "D": "50.0%,0.50 mol,0.05 mol,20.0%"
+        },
+        "response": "(A) 20.0%,0.50 mol,0.05 mol,20.0%\n(B) 30.0%,0.50 mol,0.05 mol,20.0%\n(C) 40.0%,0.50 mol,0.05 mol,20.0%\n(D) 50.0%,0.50 mol,0.05 mol,20.0%"
+    },
+    {
+        "id": "validation_Pharmacy_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-OH,ethanol.",
+            "B": "one oxygen attached to two alkyl groups,diethyl ether",
+            "C": "ketonic carbonyl,propane-2-one",
+            "D": "-COOH,acetic acid"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Pharmacy_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "cyclopentane",
+            "B": "2-methylpropan-2-ol",
+            "C": "3-pentanone"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Pharmacy_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7.2 Calories/g;0.3 kg;2*10^3$\\mu $g;1",
+            "B": "7.2 Calories/g;0.4 kg;2*10^4$\\mu $g;1",
+            "C": "7.4 Calories/g;0.5 kg;2*10^5$\\mu $g;1",
+            "D": "7.5 Calories/g;0.6 kg;2*10^6$\\mu $g;1"
+        },
+        "response": "(A) 7.2 Calories/g;0.3 kg;2*10^3$\\mu $g;1"
+    }
+]
