@@ -317,10 +317,12 @@ python -m minigemini.serve.model_worker --host 0.0.0.0 --controller http://local
 ## Examples
 We provide some examples in this section. More examples can be found in our [project page](https://mini-gemini.github.io/).
 
+### Hi-Resolution Understanding
 <div align=center>
 <img width="98%" src="images/demo_und.png"/>
 </div>
 
+### Generation with Reasoning
 <div align=center>
 <img width="98%" src="images/demo_gen.png"/>
 </div>
