@@ -204,7 +204,7 @@ class MiniGeminiMetaModel:
                 weight_type = self.mm_projector[0].weight.dtype
                 device_type = self.mm_projector[0].weight.device
                 getattr(main_module, sub_module).load_state_dict(pretrain_weight)
-            if weight_type == torch.int8 or weight_type == torch.int16:
+            if weight_type == torch.uint8 or weight_type == torch.int8 or weight_type == torch.int16:
                 weight_type = torch.float16
             getattr(main_module, sub_module).to(device=device_type, dtype=weight_type)
             print(f"Loading {sub_module} weights...")
