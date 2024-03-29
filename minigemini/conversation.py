@@ -426,7 +426,7 @@ conv_gemma = Conversation(
     messages=(),
     offset=0,
     sep_style=SeparatorStyle.GEMMA,
-    sep="",
+    sep="<bos>",
     sep2="<eos>",
 )
 

@@ -37,7 +37,7 @@ def main(args):
     # Model
     disable_torch_init()
     
-    if args.ocr:
+    if args.ocr and args.image_file is not None:
         ocr = PaddleOCR(use_angle_cls=True, use_gpu=True, lang="ch")
         result = ocr.ocr(args.image_file)   
         str_in_image = ''
@@ -75,71 +75,78 @@ def main(args):
     else:
         roles = conv.roles
 
-    images = []
-    if ',' in args.image_file:
-        images = args.image_file.split(',')
+    if args.image_file is not None:
+        images = []
+        if ',' in args.image_file:
+            images = args.image_file.split(',')
+        else:
+            images = [args.image_file]
+        
+        image_convert = []
+        for _image in images:
+            image_convert.append(load_image(_image))
+    
+        if hasattr(model.config, 'image_size_aux'):
+            if not hasattr(image_processor, 'image_size_raw'):
+                image_processor.image_size_raw = image_processor.crop_size.copy()
+            image_processor.crop_size['height'] = model.config.image_size_aux
+            image_processor.crop_size['width'] = model.config.image_size_aux
+            image_processor.size['shortest_edge'] = model.config.image_size_aux
+        
+        # Similar operation in model_worker.py
+        image_tensor = process_images(image_convert, image_processor, model.config)
+    
+        image_grid = getattr(model.config, 'image_grid', 1)
+        if hasattr(model.config, 'image_size_aux'):
+            raw_shape = [image_processor.image_size_raw['height'] * image_grid,
+                        image_processor.image_size_raw['width'] * image_grid]
+            image_tensor_aux = image_tensor 
+            image_tensor = torch.nn.functional.interpolate(image_tensor,
+                                                        size=raw_shape,
+                                                        mode='bilinear',
+                                                        align_corners=False)
+        else:
+            image_tensor_aux = []
+
+        if image_grid >= 2:            
+            raw_image = image_tensor.reshape(3, 
+                                            image_grid,
+                                            image_processor.image_size_raw['height'],
+                                            image_grid,
+                                            image_processor.image_size_raw['width'])
+            raw_image = raw_image.permute(1, 3, 0, 2, 4)
+            raw_image = raw_image.reshape(-1, 3,
+                                        image_processor.image_size_raw['height'],
+                                        image_processor.image_size_raw['width'])
+                    
+            if getattr(model.config, 'image_global', False):
+                global_image = image_tensor
+                if len(global_image.shape) == 3:
+                    global_image = global_image[None]
+                global_image = torch.nn.functional.interpolate(global_image, 
+                                                            size=[image_processor.image_size_raw['height'],
+                                                                    image_processor.image_size_raw['width']], 
+                                                            mode='bilinear', 
+                                                            align_corners=False)
+                # [image_crops, image_global]
+                raw_image = torch.cat([raw_image, global_image], dim=0)
+            image_tensor = raw_image.contiguous()
+            image_tensor = image_tensor.unsqueeze(0)
+    
+        if type(image_tensor) is list:
+            image_tensor = [image.to(model.device, dtype=torch.float16) for image in image_tensor]
+            image_tensor_aux = [image.to(model.device, dtype=torch.float16) for image in image_tensor_aux]
+        else:
+            image_tensor = image_tensor.to(model.device, dtype=torch.float16)
+            image_tensor_aux = image_tensor_aux.to(model.device, dtype=torch.float16)
     else:
-        images = [args.image_file]
-    
-    image_convert = []
-    for _image in images:
-        image_convert.append(load_image(_image))
-    
-    if hasattr(model.config, 'image_size_aux'):
-        if not hasattr(image_processor, 'image_size_raw'):
-            image_processor.image_size_raw = image_processor.crop_size.copy()
-        image_processor.crop_size['height'] = model.config.image_size_aux
-        image_processor.crop_size['width'] = model.config.image_size_aux
-        image_processor.size['shortest_edge'] = model.config.image_size_aux
-    
-    # Similar operation in model_worker.py
-    image_tensor = process_images(image_convert, image_processor, model.config)
-    
-    image_grid = getattr(model.config, 'image_grid', 1)
-    if hasattr(model.config, 'image_size_aux'):
-        raw_shape = [image_processor.image_size_raw['height'] * image_grid,
-                     image_processor.image_size_raw['width'] * image_grid]
-        image_tensor_aux = image_tensor 
-        image_tensor = torch.nn.functional.interpolate(image_tensor,
-                                                       size=raw_shape,
-                                                       mode='bilinear',
-                                                       align_corners=False)
-    else:
+        images = None
+        image_tensor = None
         image_tensor_aux = []
 
-    if image_grid >= 2:            
-        raw_image = image_tensor.reshape(3, 
-                                         image_grid,
-                                         image_processor.image_size_raw['height'],
-                                         image_grid,
-                                         image_processor.image_size_raw['width'])
-        raw_image = raw_image.permute(1, 3, 0, 2, 4)
-        raw_image = raw_image.reshape(-1, 3,
-                                      image_processor.image_size_raw['height'],
-                                      image_processor.image_size_raw['width'])
-                
-        if getattr(model.config, 'image_global', False):
-            global_image = image_tensor
-            if len(global_image.shape) == 3:
-                global_image = global_image[None]
-            global_image = torch.nn.functional.interpolate(global_image, 
-                                                          size=[image_processor.image_size_raw['height'],
-                                                                image_processor.image_size_raw['width']], 
-                                                          mode='bilinear', 
-                                                          align_corners=False)
-            # [image_crops, image_global]
-            raw_image = torch.cat([raw_image, global_image], dim=0)
-        image_tensor = raw_image.contiguous()
-
+    # debug use
+    # import ipdb; ipdb.set_trace()
     
-    if type(image_tensor) is list:
-        image_tensor = [image.to(model.device, dtype=torch.float16) for image in image_tensor]
-        image_tensor_aux = [image.to(model.device, dtype=torch.float16) for image in image_tensor_aux]
-    else:
-        image_tensor = image_tensor.to(model.device, dtype=torch.float16)
-        image_tensor_aux = image_tensor_aux.to(model.device, dtype=torch.float16)
-        image_tensor = image_tensor.unsqueeze(0)
-
 
     while True:
         try:
@@ -156,7 +163,7 @@ def main(args):
             inp = inp + '\nReference OCR Token: ' + str_in_image + '\n'
         if args.gen:
             inp = inp + ' <GEN>'
-        print(inp, '====')
+        # print(inp, '====')
 
         if images is not None:
             # first message
@@ -201,7 +208,7 @@ def main(args):
                 use_cache=True,
                 stopping_criteria=[stopping_criteria])
 
-        outputs = tokenizer.decode(output_ids[0, input_ids.shape[1]:]).strip()
+        outputs = tokenizer.decode(output_ids[0]).strip()
         conv.messages[-1][-1] = outputs
         
         if args.gen and '<h>' in outputs and '</h>' in outputs:
