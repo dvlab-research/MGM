@@ -549,7 +549,8 @@ def preprocess_gemma(
     assert conv.sep_style == conversation_lib.SeparatorStyle.GEMMA
 
     # Mask targets
-    sep = "<start_of_turn>" + conv.sep + conv.roles[1] + "\n"
+    # sep = "<start_of_turn>" + conv.sep + conv.roles[1] + "\n"
+    sep = "<start_of_turn>" + conv.roles[1] + "\n"
     for conversation, target in zip(conversations, targets):
         total_len = int(target.ne(tokenizer.pad_token_id).sum())
 
