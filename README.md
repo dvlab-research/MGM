@@ -10,7 +10,7 @@
 Mini-Gemini supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. We build this repo based on LLaVA.
 
 ## Release
-- [03/28] 🔥 Mini-Gemini is comming! We release the [paper](https://arxiv.org/pdf/2403.18814.pdf), [demo](http://103.170.5.190:7860/), [code](https://github.com/dvlab-research/MiniGemini), [models](https://huggingface.co/collections/YanweiLi/mini-gemini-6603c50b9b43d044171d0854), and [data](https://huggingface.co/collections/YanweiLi/mini-gemini-data-660463ea895a01d8f367624e) for Mini-Gemini!
+- [03/28] 🔥 Mini-Gemini is coming! We release the [paper](https://arxiv.org/pdf/2403.18814.pdf), [demo](http://103.170.5.190:7860/), [code](https://github.com/dvlab-research/MiniGemini), [models](https://huggingface.co/collections/YanweiLi/mini-gemini-6603c50b9b43d044171d0854), and [data](https://huggingface.co/collections/YanweiLi/mini-gemini-data-660463ea895a01d8f367624e) for Mini-Gemini!
 
 ## Contents
 - [Demo](#demo)
