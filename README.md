@@ -34,7 +34,7 @@ We provide some selected examples in this section. More examples can be found in
 ## Install
 Please follow the instructions below to install the required packages.
 
-NOTE: If you want to use Mini-Gemini-2B, please ensure to install the latest version Transformers (>=4.28.0).
+NOTE: If you want to use Mini-Gemini-2B, please ensure to install the latest version Transformers (>=4.38.0).
 
 1. Clone this repository
 ```bash

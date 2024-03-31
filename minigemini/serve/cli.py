@@ -144,9 +144,6 @@ def main(args):
         image_tensor = None
         image_tensor_aux = []
 
-    # debug use
-    # import ipdb; ipdb.set_trace()
-    
 
     while True:
         try:
@@ -191,9 +188,6 @@ def main(args):
             prompt = final_str
         
         input_ids = tokenizer_image_token(prompt, tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).to(model.device)
-        stop_str = conv.sep if conv.sep_style != SeparatorStyle.TWO else conv.sep2
-        keywords = [stop_str]
-        stopping_criteria = KeywordsStoppingCriteria(keywords, tokenizer, input_ids)
         streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
 
         with torch.inference_mode():
@@ -204,11 +198,13 @@ def main(args):
                 do_sample=True if args.temperature > 0 else False,
                 temperature=args.temperature,
                 max_new_tokens=args.max_new_tokens,
+                bos_token_id=tokenizer.bos_token_id,  # Begin of sequence token
+                eos_token_id=tokenizer.eos_token_id,  # End of sequence token
+                pad_token_id=tokenizer.pad_token_id,  # Pad token
                 streamer=streamer,
-                use_cache=True,
-                stopping_criteria=[stopping_criteria])
+                use_cache=True)
 
-        outputs = tokenizer.decode(output_ids[0]).strip()
+        outputs = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip()
         conv.messages[-1][-1] = outputs
         
         if args.gen and '<h>' in outputs and '</h>' in outputs:

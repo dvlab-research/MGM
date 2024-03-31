@@ -397,17 +397,6 @@ conv_phi_2 = Conversation(
     sep2="<|endoftext|>",
 )
 
-# conv_mistral_instruct = Conversation(
-#     system="",
-#     roles=("USER", "ASSISTANT"),
-#     version="llama_v2",
-#     messages=(),
-#     offset=0,
-#     sep_style=SeparatorStyle.LLAMA_2,
-#     sep="",
-#     sep2="</s>",
-# )
-
 conv_mistral_instruct = Conversation(
     system="",
     roles=("USER", "ASSISTANT"),
@@ -426,7 +415,7 @@ conv_gemma = Conversation(
     messages=(),
     offset=0,
     sep_style=SeparatorStyle.GEMMA,
-    sep="<bos>",
+    sep="",
     sep2="<eos>",
 )
 
