@@ -17,7 +17,7 @@ for IDX in $(seq 0 $((CHUNKS-1))); do
     --chunk-idx $IDX \
     --temperature 0 \
     --conv-mode gemma &
-
+done
 
 wait
 
