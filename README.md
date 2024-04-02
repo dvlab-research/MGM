@@ -102,7 +102,7 @@ For model finetuning, please download the following the instruction data and org
 - [OCR-VQA](https://drive.google.com/drive/folders/1_GYPY5UkUy7HIcR0zq3ZCFgeZN7BAfm_?usp=sharing) (**we save all files as `.jpg`**) -> `data/MiniGemini-Finetune/ocr_vqa`
 - [TextVQA](https://dl.fbaipublicfiles.com/textvqa/images/train_val_images.zip) (not included for training) -> `data/MiniGemini-Finetune/textvqa`
 - [VisualGenome part1](https://cs.stanford.edu/people/rak248/VG_100K_2/images.zip), [VisualGenome part2](https://cs.stanford.edu/people/rak248/VG_100K_2/images2.zip) -> `data/MiniGemini-Finetune/vg`
-- [ShareGPT4V](https://github.com/InternLM/InternLM-XComposer/blob/main/projects/ShareGPT4V/docs/Data.md) -> `data/MiniGemini-Finetune/sam`, `share_textvqa`, `wikiart`, `web-celebrity`, `web-landmark`
+- [ShareGPT4V-100K](https://github.com/InternLM/InternLM-XComposer/blob/main/projects/ShareGPT4V/docs/Data.md) -> `data/MiniGemini-Finetune/sam`, `share_textvqa`, `wikiart`, `web-celebrity`, `web-landmark`
 - [LAION GPT4V](https://huggingface.co/datasets/laion/gpt4v-dataset) -> `data/MiniGemini-Finetune/gpt4v-dataset`
 - [ALLaVA Instruction](https://github.com/FreedomIntelligence/ALLaVA) -> `data/MiniGemini-Pretrain/ALLaVA-4V`
 - [DocVQA](https://www.docvqa.org/datasets/docvqa) -> `data/MiniGemini-Finetune/docvqa`
