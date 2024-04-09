@@ -127,7 +127,7 @@ For meta info, please download the following files and organize them as in [Stru
 | --- | ---: |
 | [minigemini_pretrain.json](https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Pretrain) | 1.68 G |
 | [minigemini_instruction.json](https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Instruction) | 1.79 G |
-| [minigemini_generation_pure_text.json]((https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Instruction/blob/main/minigemini_generation_pure_text.json)) | 0.04 G |
+| [minigemini_generation_pure_text.json](https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Instruction/blob/main/minigemini_generation_pure_text.json) | 0.04 G |
 
 IMPORTANT: `minigemini_generation_pure_text.json` is a generation-related subset. **DO NOT** merge it with `minigemini_instruction.json` as it is already included in it. You may merge this file with your customized LLM/VLM SFT dataset to enable the reasoning generation ability.
 
