@@ -127,6 +127,10 @@ For meta info, please download the following files and organize them as in [Stru
 | --- | ---: |
 | [minigemini_pretrain.json](https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Pretrain) | 1.68 G |
 | [minigemini_instruction.json](https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Instruction) | 1.79 G |
+| [minigemini_generation_pure_text.json]((https://huggingface.co/datasets/YanweiLi/Mini-Gemini-Instruction/blob/main/minigemini_generation_pure_text.json)) | 0.04 G |
+
+IMPORTANT: `minigemini_generation_pure_text.json` is a generation-related subset. **DO NOT** merge it with `minigemini_instruction.json` as it is already included in it. You may merge this file with your customized LLM/VLM SFT dataset to enable the reasoning generation ability.
+
 
 ### Pretrained Weights
 We recommend users to download the pretrained weights from the following link [CLIP-Vit-L-336](https://huggingface.co/openai/clip-vit-large-patch14-336), [OpenCLIP-ConvNeXt-L](https://huggingface.co/laion/CLIP-convnext_large_d_320.laion2B-s29B-b131K-ft-soup), [Gemma-2b-it](https://huggingface.co/google/gemma-2b-it), [Vicuna-7b-v1.5](https://huggingface.co/lmsys/vicuna-7b-v1.5), [Vicuna-13b-v1.5](https://huggingface.co/lmsys/vicuna-13b-v1.5), [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1), and [Nous-Hermes-2-Yi-34B](https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B) , and put them in `model_zoo` following [Structure](#structure).
