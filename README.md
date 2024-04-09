@@ -79,11 +79,14 @@ We provide all our fully finetuned models on Stage 1 and 2 data for Mini-Gemini:
 | Mini-Gemini-8x7B-HD | 672 | 1536 | Mixtral-8x7B-Instruct-v0.1 | CLIP-L | MiniGemini-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/Mini-Gemini-8x7B-HD) |
 | Mini-Gemini-34B-HD | 672 | 1536 | Nous-Hermes-2-Yi-34B | CLIP-L | MiniGemini-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/Mini-Gemini-34B-HD) |
 
-<!-- 
-Here are the pretrained weights (text decoder + context attention + projector) on Stage 1 data only:
+Here are the pretrained weights on Stage 1 data only:
 | Model | LR | HR | Base LLM | Vision Encoder | Finetuning Data | Finetuning schedule | Download |
 |----------|----------|----------|----------|----------------|---------------|--------------------|------------------|
-| Mini-Gemini-2B | 336 | 768 | Gemma-2B | CLIP-L | MiniGemini-Pretrain | full_pt-1e | [ckpt]() | -->
+| Mini-Gemini-2B | 336 | 768 | Gemma-2B | CLIP-L | MiniGemini-Pretrain | 1e | [ckpt](https://huggingface.co/YanweiLi/Mini-Gemini-Pretrain) |
+| Mini-Gemini-7B | 336 | 768 | Vicuna-7B-v1.5 | CLIP-L | MiniGemini-Pretrain | 1e | [ckpt]() |
+| Mini-Gemini-13B | 336 | 768 | Vicuna-13B-v1.5 | CLIP-L | MiniGemini-Pretrain | 1e | [ckpt]() |
+| Mini-Gemini-8x7B | 336 | 768 | Mixtral-8x7B-Instruct-v0.1 | CLIP-L | MiniGemini-Pretrain | 1e | [ckpt]() |
+| Mini-Gemini-34B | 336 | 768 | Nous-Hermes-2-Yi-34B | CLIP-L | MiniGemini-Pretrain | 1e | [ckpt]() |
 
 ## Preparation
 ### Dataset
