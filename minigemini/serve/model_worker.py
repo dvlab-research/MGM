@@ -236,8 +236,9 @@ class ModelWorker:
                         # [image_crops, image_global]
                         raw_image = torch.cat([raw_image, global_image], dim=0)
                     image_tensor = raw_image.contiguous()
+                    image_tensor = image_tensor.unsqueeze(0)
 
-                image_tensor = image_tensor.to(self.model.device, dtype=torch.float16).unsqueeze(0)
+                image_tensor = image_tensor.to(self.model.device, dtype=torch.float16)
                 image_tensor_aux = image_tensor_aux.to(self.model.device, dtype=torch.float16)
 
                 replace_token = DEFAULT_IMAGE_TOKEN
