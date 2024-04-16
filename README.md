@@ -96,7 +96,7 @@ We provide the processed data for Mini-Gemini training.
 For model pretraining, please download the following the training image-based data and organize them as:
 
 `->` means put the data in the local folder.
-- [LLaVA Images](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) -> `data/MiniGemini-Pretrain/images`
+- [LLaVA Images](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) -> `data/MiniGemini-Pretrain/images`, `data/MiniGemini-Finetune/llava/LLaVA-Pretrain/images`
 - [ALLaVA Caption](https://github.com/FreedomIntelligence/ALLaVA) -> `data/MiniGemini-Pretrain/ALLaVA-4V`
 
 For model finetuning, please download the following the instruction data and organize them as:
@@ -173,6 +173,7 @@ MiniGemini
 │   │   ├── ALLaVA-4V
 │   ├── MiniGemini-Finetune
 │   │   ├── minigemini_instruction.json
+│   │   ├── llava
 │   │   ├── coco
 │   │   ├── gqa
 │   │   ├── ocr_vqa
