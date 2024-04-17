@@ -2,6 +2,7 @@
 
 <a href='https://mini-gemini.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='http://103.170.5.190:7860/'><img src='https://img.shields.io/badge/Project-Demo-violet'></a>
+<a href='https://huggingface.co/spaces/wcy1122/Mini-Gemini'><img src='https://img.shields.io/badge/🤗-Open%20In%20Spaces-blue.svg'></a>
 <a href='https://arxiv.org/pdf/2403.18814.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <a href='https://huggingface.co/collections/YanweiLi/mini-gemini-6603c50b9b43d044171d0854'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue'></a>
 <a href='https://huggingface.co/collections/YanweiLi/mini-gemini-data-660463ea895a01d8f367624e'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-green'></a>
@@ -10,6 +11,7 @@
 Mini-Gemini supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. We build this repo based on LLaVA.
 
 ## Release
+- [04/15] 🔥 The [Hugging Face demo](https://huggingface.co/spaces/wcy1122/Mini-Gemini) is available. It's a 13B-HD version, welcome to watch and try.
 - [03/28] 🔥 Mini-Gemini is coming! We release the [paper](https://arxiv.org/pdf/2403.18814.pdf), [demo](http://103.170.5.190:7860/), [code](https://github.com/dvlab-research/MiniGemini), [models](https://huggingface.co/collections/YanweiLi/mini-gemini-6603c50b9b43d044171d0854), and [data](https://huggingface.co/collections/YanweiLi/mini-gemini-data-660463ea895a01d8f367624e) for Mini-Gemini!
 
 ## Contents
@@ -94,7 +96,7 @@ We provide the processed data for Mini-Gemini training.
 For model pretraining, please download the following the training image-based data and organize them as:
 
 `->` means put the data in the local folder.
-- [LLaVA Images](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) -> `data/MiniGemini-Pretrain/images`
+- [LLaVA Images](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) -> `data/MiniGemini-Pretrain/images`, `data/MiniGemini-Finetune/llava/LLaVA-Pretrain/images`
 - [ALLaVA Caption](https://github.com/FreedomIntelligence/ALLaVA) -> `data/MiniGemini-Pretrain/ALLaVA-4V`
 
 For model finetuning, please download the following the instruction data and organize them as:
@@ -171,6 +173,7 @@ MiniGemini
 │   │   ├── ALLaVA-4V
 │   ├── MiniGemini-Finetune
 │   │   ├── minigemini_instruction.json
+│   │   ├── llava
 │   │   ├── coco
 │   │   ├── gqa
 │   │   ├── ocr_vqa
