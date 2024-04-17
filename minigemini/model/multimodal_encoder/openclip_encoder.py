@@ -38,9 +38,6 @@ class OpenCLIPVisionTower(nn.Module):
                 self.model_type = 'convnext_xxlarge'
                 self.model_channel = [384, 768, 1536, 3072]
 
-        # debug use
-        import ipdb; ipdb.set_trace()
-
         clip_model = CLIP(**get_model_config(self.model_type), drop_path=self.is_droppath)
         clip_model.visual.trunk.norm_pre = None
         clip_model.visual.trunk.head = None
