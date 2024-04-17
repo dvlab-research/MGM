@@ -1044,7 +1044,7 @@ def train(attn_implementation=None):
         ))
 
     if model_args.vision_tower is not None:
-        if "mistral" in model_args.model_name_or_path:
+        if "mistral" in  model_args.model_name_or_path.lower():
             model = MiniGeminiMistralForCausalLM.from_pretrained(
                 model_args.model_name_or_path,
                 cache_dir=training_args.cache_dir,
@@ -1052,7 +1052,7 @@ def train(attn_implementation=None):
                 torch_dtype=(torch.bfloat16 if training_args.bf16 else None),
                 **bnb_model_from_pretrained_args
             )
-        elif "mixtral" in model_args.model_name_or_path:
+        elif "mixtral" in  model_args.model_name_or_path.lower():
             model = MiniGeminiMixtralForCausalLM.from_pretrained(
                 model_args.model_name_or_path,
                 cache_dir=training_args.cache_dir,
@@ -1062,7 +1062,7 @@ def train(attn_implementation=None):
             )
             from deepspeed.utils import set_z3_leaf_modules
             set_z3_leaf_modules(model, [MixtralSparseMoeBlock])
-        elif "gemma" in model_args.model_name_or_path:
+        elif "gemma" in  model_args.model_name_or_path.lower():
             model = MiniGeminiGemmaForCausalLM.from_pretrained(
                 model_args.model_name_or_path,
                 cache_dir=training_args.cache_dir,
