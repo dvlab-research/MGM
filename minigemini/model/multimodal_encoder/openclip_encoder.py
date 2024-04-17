@@ -20,6 +20,7 @@ class OpenCLIPVisionTower(nn.Module):
         self.vision_tower_name = vision_tower
         self.vision_config = json.load(open(os.path.join(vision_tower,'open_clip_config.json'), 'r'))
         self.is_optimize = getattr(args, 'optimize_vision_tower_aux', False)
+        self.is_droppath = getattr(args, 'drop_path', True)
 
         if not delay_load:
             self.load_model()
@@ -37,7 +38,10 @@ class OpenCLIPVisionTower(nn.Module):
                 self.model_type = 'convnext_xxlarge'
                 self.model_channel = [384, 768, 1536, 3072]
 
-        clip_model = CLIP(**get_model_config(self.model_type))
+        # debug use
+        import ipdb; ipdb.set_trace()
+
+        clip_model = CLIP(**get_model_config(self.model_type), drop_path=self.is_droppath)
         clip_model.visual.trunk.norm_pre = None
         clip_model.visual.trunk.head = None
         clip_model.visual.head = None
@@ -181,8 +185,14 @@ class CLIP(nn.Module):
             quick_gelu: bool = False,
             cast_dtype: Optional[torch.dtype] = None,
             output_dict: bool = False,
+            drop_path: bool = False,
     ):
         super().__init__()
         self.output_dict = output_dict
+
+        # Fix drop path during training
+        if not drop_path:
+            print('Not using drop path during training.')
+            vision_cfg['timm_drop_path'] = 0.0
 
         self.visual = _build_vision_tower(embed_dim, vision_cfg, quick_gelu, cast_dtype)

@@ -66,6 +66,7 @@ class ModelArguments:
     vision_tower_aux: Optional[str] = field(default=None) # auxiliary vision tower
     optimize_vision_tower: bool = field(default=False) # whether to optimize vision tower
     optimize_vision_tower_aux: bool = field(default=False) # whether to optimize auxiliary vision tower
+    drop_path: Optional[bool] = field(default=True) # whether to use drop path in auxiliary tower
     image_processor: Optional[str] = field(default=None)
     mm_vision_select_layer: Optional[int] = field(default=-1)   # default to the last layer
     pretrain_mm_mlp_adapter: Optional[str] = field(default=None)

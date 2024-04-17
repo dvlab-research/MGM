@@ -26,7 +26,6 @@ deepspeed --hostfile hostfile_4 \
     --mm_use_im_patch_token False \
     --image_aspect_ratio pad \
     --group_by_modality_length True \
-    --unified_model True \
     --image_size_aux $AUX_SIZE \
     --bf16 True \
     --output_dir ./work_dirs/$FINETUNE_NAME \
