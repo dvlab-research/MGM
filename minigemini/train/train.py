@@ -988,14 +988,14 @@ class DataCollatorForSupervisedDataset(object):
             images = [instance['image'] for instance in instances]
 
             # not concat for couple images
-            if all(x is not None and x.shape == images[0].shape and len(x)!=2 for x in images) and len(images) > 1:
+            if all(x is not None and x.shape == images[0].shape and len(x)!=2 for x in images) and len(images) >= 1:
                 batch['images'] = torch.stack(images)
             else:
                 batch['images'] = images
             
         if 'image_aux' in instances[0]:
             images = [instance['image_aux'] for instance in instances]
-            if all(x is not None and x.shape == images[0].shape for x in images) and len(images) > 1:
+            if all(x is not None and x.shape == images[0].shape for x in images) and len(images) >= 1:
                 batch['images_aux'] = torch.stack(images)
             else:
                 batch['images_aux'] = images
