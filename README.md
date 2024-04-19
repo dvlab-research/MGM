@@ -34,7 +34,7 @@ We provide some selected examples in this section. More examples can be found in
 </div>
 
 ## Install
-Please follow the instructions below to install the required packages.
+Please follow the instructions below to install the required packages and add to the main features
 
 NOTE: If you want to use Mini-Gemini-2B, please ensure to install the latest version Transformers (>=4.38.0).
 
