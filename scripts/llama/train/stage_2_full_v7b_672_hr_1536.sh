@@ -1,6 +1,6 @@
 #!/bin/bash
-PRETRAIN_NAME=Mini-Gemini-7B-Pretrain
-FINETUNE_NAME=Mini-Gemini-7B-HD
+PRETRAIN_NAME=MGM-7B-Pretrain
+FINETUNE_NAME=MGM-7B-HD
 AUX_SIZE=1536
 IMAGE_GRID=2
 IMAGE_GLOBAL=True
@@ -8,12 +8,12 @@ IMAGE_GLOBAL=True
 # delete --hostfile hostfile_4 and change --per_device_train_batch_size if trained on single machine
 
 deepspeed --hostfile hostfile_4 \
-    minigemini/train/train_mem.py \
+    mgm/train/train_mem.py \
     --deepspeed ./scripts/zero2.json \
     --model_name_or_path model_zoo/LLM/vicuna/7B-V1.5 \
     --version v1 \
-    --data_path ./data/MiniGemini-Finetune/minigemini_instruction.json \
-    --image_folder ./data/MiniGemini-Finetune \
+    --data_path ./data/MGM-Finetune/mgm_instruction.json \
+    --image_folder ./data/MGM-Finetune \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --image_grid $IMAGE_GRID \

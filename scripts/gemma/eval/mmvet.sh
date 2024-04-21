@@ -5,14 +5,14 @@ gpu_list="${CUDA_VISIBLE_DEVICES:-0}"
 IFS=',' read -ra GPULIST <<< "$gpu_list"
 CHUNKS=${#GPULIST[@]}
 
-CKPT="Mini-Gemini/Mini-Gemini-2B"
+CKPT="MGM/MGM-2B"
 
 for IDX in $(seq 0 $((CHUNKS-1))); do
-  CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python -m minigemini.eval.model_vqa \
+  CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python -m mgm.eval.model_vqa \
     --model-path work_dirs/$CKPT \
-    --question-file data/MiniGemini-Eval/mm-vet/llava-mm-vet.jsonl \
-    --image-folder data/MiniGemini-Eval/mm-vet/images \
-    --answers-file data/MiniGemini-Eval/mm-vet/answers/$CKPT/${CHUNKS}_${IDX}.jsonl \
+    --question-file data/MGM-Eval/mm-vet/llava-mm-vet.jsonl \
+    --image-folder data/MGM-Eval/mm-vet/images \
+    --answers-file data/MGM-Eval/mm-vet/answers/$CKPT/${CHUNKS}_${IDX}.jsonl \
     --num-chunks $CHUNKS \
     --chunk-idx $IDX \
     --temperature 0 \
@@ -21,18 +21,18 @@ done
 
 wait
 
-output_file=data/MiniGemini-Eval/mm-vet/answers/$CKPT/merge.jsonl
+output_file=data/MGM-Eval/mm-vet/answers/$CKPT/merge.jsonl
 # Clear out the output file if it exists.
 > "$output_file"
 
 # Loop through the indices and concatenate each file.
 for IDX in $(seq 0 $((CHUNKS-1))); do
-    cat data/MiniGemini-Eval/mm-vet/answers/$CKPT/${CHUNKS}_${IDX}.jsonl >> "$output_file"
+    cat data/MGM-Eval/mm-vet/answers/$CKPT/${CHUNKS}_${IDX}.jsonl >> "$output_file"
 done
 
-mkdir -p data/MiniGemini-Eval/mm-vet/results/$CKPT
+mkdir -p data/MGM-Eval/mm-vet/results/$CKPT
 
 python scripts/convert_mmvet_for_eval.py \
     --src $output_file \
-    --dst data/MiniGemini-Eval/mm-vet/results/$CKPT/$CKPT.json
+    --dst data/MGM-Eval/mm-vet/results/$CKPT/$CKPT.json
 

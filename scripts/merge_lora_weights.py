@@ -1,6 +1,6 @@
 import argparse
-from minigemini.model.builder import load_pretrained_model
-from minigemini.mm_utils import get_model_name_from_path
+from mgm.model.builder import load_pretrained_model
+from mgm.mm_utils import get_model_name_from_path
 
 
 def merge_lora(args):
