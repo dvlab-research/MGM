@@ -1,0 +1,370 @@
+[
+    {
+        "id": "validation_Electronics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "yes, saturation",
+            "B": "no, not in saturation"
+        },
+        "response": "Based on the given circuit diagram, the transistor is connected as a switch with a resistor of 22 k\u03a9 and a load of 100 \u03a9. The voltage across the transistor is 4 V, and the collector current is 1 A. \n\nTo determine if the circuit is in saturation, we need to analyze the transistor's characteristics and compare them to the operating conditions of the transistor. In saturation, the transistor operates between the cutoff and the active regions, where the collector current is relatively high and the voltage across the transistor is relatively low.\n\nIn this case, the transistor is operating in the saturation region, as the collector current is 1 A and the voltage across the transistor is 4 V. Therefore, the answer is (A) yes, the circuit is in saturation."
+    },
+    {
+        "id": "validation_Electronics_2",
+        "question_type": "short-answer",
+        "answer": "2.83",
+        "response": "0.6 A"
+    },
+    {
+        "id": "validation_Electronics_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "t + (1 / 10) (e^{-20t} - 1) V",
+            "B": "t + (1 / 20) (e^{-10t} - 1) V",
+            "C": "t + (1 / 10) (e^{-10t} - 1) V",
+            "D": "t - (1 / 10) (e^{-10t} - 1) V"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The unit ramp voltage source is a voltage source with a voltage that ramps up from 0 to a maximum value of 1 V in a time of 10 seconds. The voltage source is applied to a series RL circuit. The current in the circuit is zero initially, and the inductance is 0.1 H. We can use the initial value theorem of calculus to compute the voltage $v_R (t)$ with zero initial condition. The voltage $v_R (t)$ is given by the integral of the voltage source over time, which is $v_R (t) = \\int_{-\\infty}^t {v(t')} \\,dt'$. The voltage source ramps up from 0 to 1 V in 10 seconds, so the integral is from -infinity to 10 seconds. The equation for the voltage source is $v(t) = u_1 \\cdot \\left( {t + \\frac{1}{20}} \\right)\\left( {e^{{- \\frac{t}{20}}} - 1} \\right)$. The voltage $v_R (t)$ with zero initial condition is $v_R (t) = \\int_{-\\infty}^t {v(t')} \\,dt' = \\left( {t + \\frac{1}{20}} \\right)\\left( {e^{{- \\frac{t}{20}}} - 1} \\right)$. The answer is (A)."
+    },
+    {
+        "id": "validation_Electronics_4",
+        "question_type": "short-answer",
+        "answer": "8.4",
+        "response": "The operating point $V_{CEQ}$ can be determined using the equation $V_{CEQ} = V_{CC} - R_E \\left( V_{CEQ} - V_{BEQ} \\right)$, where $V_{BEQ}$ is the base-emitter voltage. The equation for $V_{BEQ}$ is $V_{BEQ} = \\frac{1}{2} \\left( V_{CC} + V_{BE} \\right)$, where $V_{BE}$ is the base-emitter voltage. Substituting the values given in the problem, we get $V_{BEQ} = \\frac{1}{2} \\left( 18 V + V_{BE} \\right) = 9 V$. Substituting these values into the equation for $V_{CEQ}$, we get $V_{CEQ} = 18 V - 1 k \\left( 9 V - V_{BEQ} \\right) = 17 V$."
+    },
+    {
+        "id": "validation_Electronics_5",
+        "question_type": "short-answer",
+        "answer": "62.6",
+        "response": "$r_{out}$ is the output resistance of the common-collector amplifier. It is the resistance between the collector and the ground. In the circuit diagram, $r_{out}$ is represented by the value of R6, which is 500 ohms in this case."
+    },
+    {
+        "id": "validation_Electronics_6",
+        "question_type": "short-answer",
+        "answer": "71.6",
+        "response": "$V_C = 100 \\angle 0^\\circ$"
+    },
+    {
+        "id": "validation_Electronics_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\sqrt(2) cos[(1/3)t]$",
+            "B": "$\\sqrt(3) cos[(2/3)t]$",
+            "C": "$\\sqrt(2) cos[(2/3)t]$",
+            "D": "$\\sqrt(3) cos[(4/3)t]$"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The circuit is a half-wave rectifier, so the voltage $v_c(t)$ is the square root of two times the absolute value of the input voltage $v(t)$. The input signal is $cos[(1/3)t]$, so the output voltage is $\\sqrt(2) cos[(1/3)t]$, which is (A).\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Electronics_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(4 / \\pi) (sin \\pit + (1 / 2) sin 3\\pit + (1 / 4) sin 5\\pit + ....).",
+            "B": "(4 / \\pi) (sin \\pit + (1 / 3) sin 3\\pit + (1 / 5) sin 5\\pit + ....).",
+            "C": "(4 / \\pi) (sin \\pit + (1 / 2) sin 2\\pit + (1 / 4) sin 4\\pit + ....).",
+            "D": "(4 / \\pi) (sin \\pit + (1 / 3) sin 2\\pit + (1 / 5) sin 4\\pit + ....)."
+        },
+        "response": "(A) (4 / \\pi) (sin \\pit + (1 / 2) sin 3\\pit + (1 / 4) sin 5\\pit + ....).\n(B) (4 / \\pi) (sin \\pit + (1 / 3) sin 3\\pit + (1 / 5) sin 5\\pit + ....).\n(C) (4 / \\pi) (sin \\pit + (1 / 2) sin 2\\pit + (1 / 4) sin 4\\pit + ....)."
+    },
+    {
+        "id": "validation_Electronics_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-2[sin t + (1 / 2) sin 25 + (1 / 4) sin 3t + ...]",
+            "B": "-2[sin t + (1 / 2) sin 30 + (1 / 3) sin 3t + ...]",
+            "C": "-2[sin t + (1 / 2) sin 25 + (1 / 3) sin 3t + ...]",
+            "D": "-2[sin t + (1 / 3) sin 25 + (1 / 3) sin 3t + ...]"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The sawtooth waveform is a triangular wave with a flat top and a sharp corner at the top. The Fourier series for a sawtooth waveform is:\n\n-2[sin t + (1/2) sin 25 + (1/4) sin 3t + ...]\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Electronics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.125 + j0.330",
+            "B": "0.15 + j0.330",
+            "C": "0.125 + j0.390",
+            "D": "0.121 + j0.380"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The current $I_1$ is equal to the voltage $V$ divided by the resistance $R$ and the impedance $Z$ of the circuit. So we have $I_1 = \\frac{V}{R + jZ}$. We are given that $V = 10 \\cos(377^\\circ)$, $R = 100$ and $Z = 100 \\cos(377^\\circ)$. So we substitute these values into the formula and get $I_1 = \\frac{10 \\cos(377^\\circ)}{100 + j100 \\cos(377^\\circ)} = \\frac{10 \\cos(377^\\circ)}{100 \\cos(377^\\circ)} + j \\frac{10 \\sin(377^\\circ)}{100 \\cos(377^\\circ)} = 0.125 + j0.330$. The answer: (A)."
+    },
+    {
+        "id": "validation_Electronics_11",
+        "question_type": "short-answer",
+        "answer": "0.3",
+        "response": "The single nodal equation required to find $v_x$ is $v_x = v_{ref} + i_1 R_2 + i_2 R_1$, where $v_{ref}$ is the reference voltage, which is 0 in this case. Therefore, $v_x = v_{ref} + i_1 R_2 + i_2 R_1 = 0 + 4 \\times 0.5 + 2 \\times 2 = 6$."
+    },
+    {
+        "id": "validation_Electronics_12",
+        "question_type": "short-answer",
+        "answer": "10",
+        "response": "We can use KCL at node C to find $V_{CE}$ : $V_{CC} - V_{BE} = I_C (R_B + R_C)$ $V_{CC} - V_{BE} = 10 \\times 960 \\Omega$ $V_{BE} = V_{CC} - 10 \\times 960 \\Omega = 24 V - 10 \\times 960 \\Omega = 14 V$ We can use KVL to find $V_{CE}$ : $V_{CC} = V_{B} + V_{CE} + V_{BE}$ $= 24 V + V_{CE} + 14 V$ $V_{CE} = V_{CC} - V_{B} - V_{BE} = 24 V - 960 \\Omega \\times 24 V = 0 V$"
+    },
+    {
+        "id": "validation_Electronics_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[(1 - e^{-s(T/2)}) / {s(1 - e^{-sT})}]",
+            "B": "[(2 - e^{-s(T)}) / {s(1 - e^{-sT})}]",
+            "C": "[(1 - e^{-s(T/2)}) / {s(1 - e^{-sT})}]",
+            "D": "[(1 - e^{-s(T/3)}) / {s(1 - e^{-sT})}]"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The given periodic waveform is a simple up-and-down wave with period T, starting from t=0 and ending at t=T. The Laplace transform of this periodic waveform is the ratio of the period T to the unit step function, which is the unit impulse function. The Laplace transform of the unit step function is the unit step function itself. Therefore, the Laplace transform of the periodic waveform is [(1 - e^{-sT}) / {s(1 - e^{-sT})}]. \n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Electronics_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4t^2 [u(t) - u(t - 5)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "B": "4t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "C": "5t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]",
+            "D": "5t^2 [u(t) - u(t - 2)] + 20[u(t - 2) - u(t - 3)] + 15(t - 7)[u(t - 5) - u(t - 7)]"
+        },
+        "response": "The signal f(t) shown in <image 1> can be written as:\n\nf(t) = 4t^2 [u(t) - u(t - 5)] + 20[u(t - 2) - u(t - 5)] + 15(t - 7)[u(t - 5) - u(t - 7)]\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Electronics_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$[1 + sech^2 (sin t)] cos t$",
+            "B": "$[1 + sech^2 (sin t)] sin t$",
+            "C": "$[1 - sech^2 (sin t)] sin t$",
+            "D": "$[1 - sech^2 (cos t)] sin t$"
+        },
+        "response": "We have $\\phi = i + tanh (i) = i + sech^2 (i)$. The voltage across the inductor is then $V = \\phi - i = (i + sech^2 (i)) - i = sech^2 (i) - 1 = [1 - sech^2 (sin t)]$.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Electronics_16",
+        "question_type": "short-answer",
+        "answer": "20",
+        "response": "In the circuit of (c) figure, v is equal to 100V."
+    },
+    {
+        "id": "validation_Electronics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10e^{-0.8t} V",
+            "B": "-5e^{-0.8t} V",
+            "C": "-2e^{-1t} V",
+            "D": "-6e^{-2t} V"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. For each case, v is the voltage across R, and R is in series with a time-dependent voltage source. Thus, v = 12t. When t = 0, v = 12t = 12. So, the answer is (A)."
+    },
+    {
+        "id": "validation_Electronics_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2 e^{-2t} u(t)",
+            "B": "3 e^{-2t} u(t)",
+            "C": "2.2 e^{-2t} u(t)",
+            "D": "3 e^{-3t} u(t)"
+        },
+        "response": "We have $v_s(t) = 3t u(t)$ and $R = 1H$, so $R_2 = \\frac{1}{3t}$ and $R_1 = R_2 + 1 = \\frac{1}{3t} + 1$. Then the circuit can be redrawn as:\n<img src=\"https://i.imgur.com/4pGc2pP.png\" width=\"150\"/>\nWe can calculate $i(t)$ as $i(t) = \\frac{v_s(t)}{R} = \\frac{3t u(t)}{1} = 3e^{-2t}u(t)$.\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Electronics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-90 cos(t) V",
+            "B": "-90 cos(2t) V",
+            "C": "90 cos(2t) V",
+            "D": "90 sin(2t) V"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The voltage $v_2$ is the voltage drop across the second resistor. The voltage drop is the negative of the voltage across the first resistor. So the voltage across the first resistor is $v_1 = 10 sin(t) V$. The voltage drop is $-v_1 = -10 sin(t) V$. The voltage $v_2$ is $-v_1 = -10 sin(t) V$.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Electronics_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$3 \\pi x 10^-5 A$",
+            "B": "$\\pi x 10^-5 A$",
+            "C": "$2 \\pi x 10^-5 A$",
+            "D": "$\\pi x 10^-4 A$"
+        },
+        "response": "The answer is (B). We are given that $v_c = sin 2 \\pi T$, where $T$ is the period of the signal. Since the signal is a sine wave, the current $i$ is maximum when $v_c$ is positive, which occurs when $t = 0$. Therefore, $i = \\frac{v_c}{R} = \\frac{sin 2 \\pi T}{R} = \\frac{\\pi x 10^-5}{5 \\Omega} = \\pi x 10^-5$."
+    },
+    {
+        "id": "validation_Electronics_21",
+        "question_type": "short-answer",
+        "answer": "0.9965",
+        "response": "The waveform in the image is a triangle wave with a period of 4. The Fourier series of this waveform is:\n\n  1. A constant term of 1/2\n  2. A sine term of -4/2=-2\n  3. A cosine term of 3/2\n  4. A sine term of 1/2\n  5. A cosine term of -1/2\n\nThe sum of the first four terms of this series at t=2 is:\n\n  1. 1/2 + (-2) + (3/2) + (1/2) = 1\n\nTherefore, the answer is 1."
+    },
+    {
+        "id": "validation_Electronics_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[70.7 cos (20t - 60^{\\circ})] u(t) V",
+            "B": "[70.7 cos (10t - 45^{\\circ})] u(t) V",
+            "C": "[70.7 cos (20t - 45^{\\circ})] u(t) V",
+            "D": "[70.7 cos (20t - 90^{\\circ})] u(t) V"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The voltage $v_C$ is the voltage across the load resistor $R_L$ in the circuit of Fig. 1. The voltage $v_C$ is the voltage $v_{C0}$ plus the voltage $v_{C1}$, where $v_{C0}$ is the voltage across the capacitor $C$ when the voltage $v_{C1}$ is applied to the capacitor. The voltage $v_{C1}$ is the voltage $v_{C0}$ minus the voltage $v_{C2}$, where $v_{C2}$ is the voltage across the capacitor $C$ when the voltage $v_{C0}$ is applied to the capacitor. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$, where $v_{C1}$ is the voltage $v_{C0}$ minus the voltage $v_{C2}$. The voltage $v_{C1}$ is the voltage $v_{C0}$ minus the voltage $v_{C2}$, where $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$, where $v_{C1}$ is the voltage $v_{C0}$ minus the voltage $v_{C2}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $v_{C0}$ minus the voltage $v_{C1}$. The voltage $v_{C2}$ is the voltage $"
+    },
+    {
+        "id": "validation_Electronics_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$C_0 sin wt cos t + 2w C_0 cos wt (1 + 0.5 sin t)$",
+            "B": "$C_0 cos wt cos t + 2w C_0 sin wt (1 + 0.5 sin t)$",
+            "C": "$C_0 sin wt cos t + 4w C_0 cos wt (1 + sin t)$",
+            "D": "$C_0 sin wt cos t + 2w C_0 cos wt (1 - sin t)$"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The current $i(t)$ through the capacitor can be found from the equation $v(t) = C_0 i(t)$, where $i(t)$ is the current through the capacitor. Differentiating both sides with respect to time and using the given equation for $C(t)$, we get $w i(t) = C_0 w \\dot{C}(t)$. Plugging in the given equation for $C(t)$, we get $i(t) = \\frac{C_0}{w} (1 + 0.5 sin t) \\cos wt$.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Electronics_24",
+        "question_type": "short-answer",
+        "answer": "551",
+        "response": "We can use the equation $V_{CE}=V_{BB}-V_{BE}-V_{CC}$ to set the value of RB. Substituting in the given values, we get: $8 = 15 - 0.3 - 15$ $8 = 14.7$ $R_B = \\dfrac{8}{14.7} \\approx 0.55 \\Omega$"
+    },
+    {
+        "id": "validation_Electronics_25",
+        "question_type": "short-answer",
+        "answer": "50",
+        "response": "The safe PRV rating for the rectifier circuit in <image 1> would depend on several factors such as the voltage rating of the rectifier, the current rating of the rectifier, and the power rating of the rectifier. Without more information about the specific rectifier being used, it is not possible to determine a safe PRV rating for this rectifier. It is always recommended to consult the manufacturer's specifications and guidelines for safe operation of the rectifier."
+    },
+    {
+        "id": "validation_Electronics_26",
+        "question_type": "short-answer",
+        "answer": "6.333",
+        "response": "The equivalent capacitor can be found by adding the values of the individual capacitors in parallel. In the figure, there are two capacitors, each with a value of 4 microfarads. Therefore, the equivalent capacitor is 4 + 4 = 8 microfarads. This is equal to 0.001 farad, which is equal to 10^-6 farad."
+    },
+    {
+        "id": "validation_Electronics_27",
+        "question_type": "short-answer",
+        "answer": "-120",
+        "response": "$120^{\\circ}$"
+    },
+    {
+        "id": "validation_Electronics_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "75 + 13.3 cos(250t - 57.7\u00b0)V",
+            "B": "75 + 23.3 cos(250t - 57.7\u00b0)V",
+            "C": "45 + 3.3 cos(250t - 57.7\u00b0)V",
+            "D": "95 + 13.3 cos(250t - 57.7\u00b0)V"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The image shows a circuit with a 50 \u03a9 resistor and a 250 V, 250 \u03a9 load. The voltage across the load is given as 75 V, and the current is given as 8 A. We can calculate the impedance of the load as $Z_L = V_L/R_L = 75V/250\u03a9 = 3$. The voltage across the load is therefore $V_L = IR_L = 8A \\times 250\u03a9 = 200V$. The voltage across the resistor is therefore $V_R = V_L - V_T = 200V - 60V = 140V$. The impedance of the circuit is therefore $Z = 140\u03a9 + 3 = 143\u03a9$. The voltage across the resistor is therefore $V_R = IR = 8A \\times 143\u03a9 = 1144V$. The voltage across the load is therefore $V_L = V_R - V_T = 1144V - 60V = 1084V$. The voltage across the load is therefore $V_L = 1084V - 250\u03a9 \\times 8A = 75V$. The voltage across the load is therefore $V_L = 75V + 23.3 \\cos(250t - 57.7\u00b0)V = 98.3 \\cos(250t - 57.7\u00b0)V$.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Electronics_29",
+        "question_type": "short-answer",
+        "answer": "30",
+        "response": "The power supplied by the 6-V source is 6 V x 2 Ohm = 12 W."
+    },
+    {
+        "id": "validation_Electronics_30",
+        "question_type": "short-answer",
+        "answer": "-141",
+        "response": "The phase of $V_out$ is $\\angle 120^{\\circ}$."
+    }
+]

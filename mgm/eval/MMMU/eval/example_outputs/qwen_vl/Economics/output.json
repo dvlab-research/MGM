@@ -1,0 +1,506 @@
+[
+    {
+        "id": "validation_Economics_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "700",
+            "C": "1400",
+            "D": "3418"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The money supply is affected by the transactions of the central bank, which in this case is the TD Bank. The bank can increase the money supply by crediting reserves to a customer's account, or it can decrease the money supply by debiting reserves from a customer's account. The deposit of $700 will increase the bank's liabilities by $700, but will not affect its assets. Therefore, the minimum amount by which the money supply will increase is 0.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A price below that of 1.30 dollars would cause a situation of excess demand and hence a surplus.",
+            "B": "A price below that of 1.30 dollars would cause a situation of excess demand and hence a shortage.",
+            "C": "Not certain."
+        },
+        "response": "The answer is (A) A price below that of 1.30 dollars would cause a situation of excess demand and hence a surplus."
+    },
+    {
+        "id": "validation_Economics_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-700,250,0",
+            "B": "-700,250,-100",
+            "C": "-600,350,-100",
+            "D": "-700,350,0"
+        },
+        "response": "The trade balance for each country is as follows:\n\n  * A: -700\n  * B: -700\n  * C: -600\n\nThe net inflow of foreign saving for each country is as follows:\n\n  * A: -250,000\n  * B: -250,000\n  * C: -350,000\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Economics_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "demand curve",
+            "B": "Phillips curve",
+            "C": "production possibilities frontier",
+            "D": "aggregate supply curve",
+            "E": "Lorenz curve"
+        },
+        "response": "The figure illustrates a Phillips curve."
+    },
+    {
+        "id": "validation_Economics_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Wages will fall.",
+            "B": "Wages will rise.",
+            "C": "Wages will remain unchanged."
+        },
+        "response": "The economy can return to the long-run equilibrium if it faces a boom and if wages are flexible by option (A) Wages will fall. When the economy experiences a boom, the price level will increase, and the long-run equilibrium will shift to the right. As a result, the short-run equilibrium will also shift to the right. In the short-run, the economy will experience an increase in supply, which will cause the price of labor to fall. This will lead to a decrease in wages, making labor more attractive to employers. As a result, the economy will return to the long-run equilibrium of the long-run Phillips curve."
+    },
+    {
+        "id": "validation_Economics_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.17",
+            "B": "0.27",
+            "C": "0.37",
+            "D": "0.47"
+        },
+        "response": "We refer to Wikipedia articles on microeconomics for help. Price elasticity of demand is the percentage change in quantity demanded divided by the percentage change in price. Given the demand schedule, the quantity demanded at a price of $10 is 50, so the percentage change in quantity demanded is 50/100 * 100 = 50. The percentage change in price is 20/100 * 100 = 20. So the price elasticity of demand is 50 / 20 = 2.5. Since 2 is less than 3, we conclude that the price elasticity of demand is 0.17.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "500",
+            "B": "450",
+            "C": "400",
+            "D": "600"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The short-run equilibrium real GDP is equal to the intersection of the SRAS curve and the vertical axis. The SRAS curve is given by the equation 1000 + 200e^(1000 - r) = 800e^(1000 - r), where r is the rate of interest. Solving for real GDP, we get real GDP = 1000 + 200e^(1000 - r) / e^r = 800e^r. Setting this equal to 800, we get e^r = 0.2, or r = 10%. Thus, the size of real GDP in the short-run equilibrium is 1000 + 200e^(1000 - 10%) = 500 billion. So the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2510",
+            "B": "2500",
+            "C": "2410"
+        },
+        "response": "(C) 2410"
+    },
+    {
+        "id": "validation_Economics_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "moves to C.",
+            "B": "moves to D.",
+            "C": "stays at B."
+        },
+        "response": "If the economy starts at B and the money supply growth rate increases, in the long run the economy moves to C."
+    },
+    {
+        "id": "validation_Economics_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "excess supply",
+            "B": "excess demand",
+            "C": "both",
+            "D": "neither"
+        },
+        "response": "(B) excess demand."
+    },
+    {
+        "id": "validation_Economics_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "There are decreasing returns to scale well beyond the size of the market. ",
+            "B": "There are increasing returns to scale well beyond the size of the market. ",
+            "C": "There are constant returns to scale well beyond the size of the market. "
+        },
+        "response": "(C) There are constant returns to scale well beyond the size of the market. \n\nA monopoly exists when there is only one seller in the market, and there are no close substitutes for the product or service being offered. In this case, the graph shows a decreasing return to scale, which means that as the size of the market increases, the marginal cost remains constant. This is consistent with the characteristics of a monopoly, as the monopolist can charge a higher price without increasing the output, which would lead to a decrease in marginal revenue. Additionally, the graph shows that the average cost is also constant, which further supports the existence of a monopoly in this market."
+    },
+    {
+        "id": "validation_Economics_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "10",
+            "B": "5",
+            "C": "20"
+        },
+        "response": "(C) 20"
+    },
+    {
+        "id": "validation_Economics_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$58,280",
+            "B": "$64,420",
+            "C": "$71,520",
+            "D": "$42,450"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The price of the basket in 2014 is the weighted average of the prices of Apples and Textbooks in 2014. The weight of Apples in 2014 is 200 / (200 + 290) = 0.4, and the weight of Textbooks in 2014 is 290 / (200 + 290) = 0.5. So the price of the basket in 2014 is 0.4 * 140 + 0.5 * 200 = 58,280.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13"
+        },
+        "response": "We refer to Wikipedia articles on microeconomics for help. The new demand schedule for the entire college is the sum of the old demand schedule and the new demand schedule: $4 * 10000 tickets + $4 * 20000 tickets = $24000 tickets$. The new equilibrium price is calculated as the ratio of the new demand to the new supply: $24000 tickets / $8000 tickets/supplied = $3$. The answer is (D)."
+    },
+    {
+        "id": "validation_Economics_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Structural unemployment remained the same.",
+            "B": "Structural unemployment decreased.",
+            "C": "Structural unemployment increased."
+        },
+        "response": "(B) Structural unemployment decreased."
+    },
+    {
+        "id": "validation_Economics_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        },
+        "response": "We refer to Wikipedia articles on microeconomics for help. When a price floor is imposed, the equilibrium price rises to the price floor, and the quantity supplied falls to the quantity demanded at the new equilibrium price. The answer is (A)."
+    },
+    {
+        "id": "validation_Economics_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2601",
+            "B": "2734",
+            "C": "2634",
+            "D": "2871"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The formula for calculating M1 is the sum of all the money in circulation, including coins and currency, checking deposits, traveler's checks, savings accounts, money-market mutual funds, and time deposits. Thus, the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Increase in capital.",
+            "B": "Decrease in labor.",
+            "C": "Decrease in human capital."
+        },
+        "response": "(C) Decrease in human capital."
+    },
+    {
+        "id": "validation_Economics_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Dominant strategy is 'High output' (low price) for both firms.",
+            "B": "Dominant strategy is 'Low output' (high price) for both firms.",
+            "C": "Dominant strategy is 'High output' (low price) for one of the firms and 'Low output' (high price) for the other."
+        },
+        "response": "(C) Dominant strategy is 'High output' (low price) for one of the firms and 'Low output' (high price) for the other."
+    },
+    {
+        "id": "validation_Economics_20",
+        "question_type": "short-answer",
+        "answer": "8",
+        "response": "The equilibrium price in this country is 2 bagels."
+    },
+    {
+        "id": "validation_Economics_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "the unemployment rate for this economy is high",
+            "B": "the unemployment rate for this economy is low",
+            "C": "not certain"
+        },
+        "response": "Based on the table, it is not possible to determine whether the unemployment rate in Santher's economy is high or low. The table only provides information about the price levels and the AD and AS levels in the economy, but does not include any data on the unemployment rate. Therefore, the answer is (C) not certain."
+    },
+    {
+        "id": "validation_Economics_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "GDP and the price level fall.",
+            "B": "GDP and the price level rise.",
+            "C": "Nothing happens."
+        },
+        "response": "(B) GDP and the price level rise."
+    },
+    {
+        "id": "validation_Economics_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$4118",
+            "B": "$3418",
+            "C": "$700",
+            "D": "$5118"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The balance sheet for TD shows that it has $700 more in assets and $700 more in liabilities. This means that the net change in assets is $700, and the net change in liabilities is also $700. Therefore, the total change in the M1 money supply is $700.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Economics_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "The null must be rejected at the 5% significance level.",
+            "B": "The null cannot be rejected at the 5% significance level.",
+            "C": "There is not enough information in the problem statement to test this null."
+        },
+        "response": "We cannot reject the null hypothesis that the coefficient of the C3 branch is equal to the coefficient of the C4 branch at the 5% significance level, according to the results in Model 2. Therefore, we cannot conclude that the coefficient of the C3 branch is significantly different from the coefficient of the C4 branch."
+    },
+    {
+        "id": "validation_Economics_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6000",
+            "B": "7000",
+            "C": "8000",
+            "D": "9000"
+        },
+        "response": "We refer to Wikipedia articles on microeconomics for help. The new demand schedule for the entire college is the sum of the old demand schedule and the new demand schedule for the new students, which is $4 * 10000 tickets + $8 * 6000 tickets = $14000 tickets. The new equilibrium quantity is the amount of tickets that can be sold at this price, which is $14000 / $8 = 1750 tickets.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Economics_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C shifts upwards. ",
+            "B": "(1)C shifts downwards. (2) C gets gentler.",
+            "C": "(1)C gets steeper. (2) C gets gentler.",
+            "D": "(1)C shifts downwards. (2) )C gets steeper."
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The consumption line C in graph 1 represents the level of consumption by households at different levels of output. If a rises, it means the household income rises, so the consumption line shifts upwards. If b rises, it means the interest rate rises, so the consumption line shifts upwards and becomes steeper. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Economics_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "100",
+            "B": "200",
+            "C": "300",
+            "D": "400"
+        },
+        "response": "We refer to Wikipedia articles on macroeconomics for help. The Consumer Price Index (CPI) is a measure of the average change over time of a fixed basket of goods and services consumed by households. It is calculated by dividing the change in the price of a basket of goods by the change in the volume of the basket. The basket of goods is usually a representative sample of all goods and services consumed by households. In this case, the basket of goods consists of 200 Apples and 290 Textbooks. Therefore, the CPI in 2015 would be the change in price of the basket of goods divided by the change in the volume of the basket. \n\nWe are given that the price of Apples in 2015 is $1.10 and the price of Textbooks in 2015 is $1.10. Therefore, the change in price of the basket of goods is 0. Therefore, the CPI in 2015 is 0. \n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Economics_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Leisure time is 24 hours.",
+            "B": "Leisure time is 12 hours.",
+            "C": "Leisure time is 8 hours."
+        },
+        "response": "In case 1, the worker would choose to work. This is because the worker's income is low and working more hours would increase their income."
+    },
+    {
+        "id": "validation_Economics_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2001:$10.70; 2002:$13.80; 2003:$15.35; 2004:$16.31",
+            "B": "2001:$10.80; 2002:$13.70; 2003:$18.35; 2004:$19.31",
+            "C": "2001:$10.80; 2002:$13.80; 2003:$15.35; 2004:$16.31",
+            "D": "2001:$10.70; 2002:$13.70; 2003:$15.35; 2004:$19.31"
+        },
+        "response": "The correct answer is (C) 2001:$10.80; 2002:$13.80; 2003:$15.35; 2004:$16.31. \n\nWe can calculate the total amount spent on the \"basket\" of fruit by adding the amounts spent on each item in each year. According to the table, the quantities of apples, bananas, grapes, raspberries, and the total amount are given in column 2. We can use these values to calculate the total amount spent on fruit for each year. \n\nFor example, the total amount spent on fruit in 2001 is $10.80 (apples), $0.50 (bananas), $0.65 (grapes), and $2.00 (raspberries), for a total of $10.80 + $0.50 + $0.65 + $2.00 = $13.65. \n\nFor 2002, the total amount spent on fruit is $13.80 (apples), $0.50 (bananas), $0.25 (grapes), and $1.90 (raspberries), for a total of $13.80 + $0.50 + $0.25 + $1.90 = $16.55. \n\nFor 2003, the total amount spent on fruit is $15.35 (apples), $0.85 (bananas), $0.25 (grapes), and $2.05 (raspberries), for a total of $15.35 + $0.85 + $0.25 + $2.05 = $18.35. \n\nFor 2004, the total amount spent on fruit is $16.31 (apples), $0.88 (bananas), $0.29 (grapes), and $2.02 (raspberries), for a total of $16.31 + $0.88 + $0.29 + $2.02 = $19.62.\n\nTherefore, the total amount spent on fruit from 2001 to 2004 is $"
+    },
+    {
+        "id": "validation_Economics_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "response": "We refer to Wikipedia articles on microeconomics for help. The external cost is the difference between the social cost and the social willingness to pay. In this case, the social willingness to pay is $5 (the sum of the private willingness to pay), and the social cost is $7 (the sum of the cost of production and the tax). Thus, the external cost is $7 - $5 = $2.\n\nTherefore, the answer is (B)."
+    }
+]

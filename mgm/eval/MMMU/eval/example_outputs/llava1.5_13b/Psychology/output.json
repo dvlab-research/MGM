@@ -1,0 +1,556 @@
+[
+    {
+        "id": "validation_Psychology_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>",
+            "E": "<image 5>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "a counterbalance of the order in which participants are tested in the baseline and dual-task conditions",
+            "B": "a consistent order in which participants are tested in the baseline and dual-task conditions",
+            "C": "an equal number of men and women as participants",
+            "D": "verification that participants believe themselves capable of dividing attention"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_3",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The spacing effect",
+            "B": "The impact of elaborative rehearsal on recall",
+            "C": "Hermann Ebbinghaus's forgetting curve",
+            "D": "The effect of visual imagery on retention",
+            "E": "The serial position effect"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "James-Lange Theory",
+            "B": "Cannon-Bard Theory",
+            "C": "Schachter-Singer Theory",
+            "D": "Cranberry-Melon Theory"
+        },
+        "response": "C) Schachter-Singer Theory"
+    },
+    {
+        "id": "validation_Psychology_5",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "parietal lobe",
+            "B": "temporal lobes",
+            "C": "cerebral cortex",
+            "D": "occipital lobe"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E",
+            "F": "F"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "3",
+            "B": "11",
+            "C": "12",
+            "D": "13",
+            "E": "18"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Psychology_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Perception of authority",
+            "B": "Conformity",
+            "C": "Perception of behavior",
+            "D": "Response to authority",
+            "E": "Age"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Temporal lobe, occipital lobe, parietal lobe, frontal lobe",
+            "B": "Frontal lobe, temporal lobe, occipital lobe, parietal lobe",
+            "C": "Frontal lobe, parietal lobe, occipital lobe, temporal lobe",
+            "D": "Temporal lobe, parietal lobe, occipital lobe, frontal lobe"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "One individual's past partner is tied through multiple chains to his or her current or future partner.",
+            "B": "It is a structure with few cycles, low redundancy, and sparse density.",
+            "C": "One actor shows the ability to stop the transmission of STDs between two networks.",
+            "D": "Two populations of persons engaged in different behaviors are linked by one actor."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Piaget",
+            "B": "Vygotsky",
+            "C": "Whorfian",
+            "D": "Weak linguistic determinism"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_13",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Saccadic masking occurrence, in which moving eyes are rendered temporarily blind",
+            "B": "Driving on an unfamiliar road",
+            "C": "Domain-general and domain-specific interference",
+            "D": "An experienced driver's existing schema does not match an oncoming car"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_15",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Operant conditioning",
+            "B": "Classical conditioning",
+            "C": "Prepared conditioning",
+            "D": "Self-actualization",
+            "E": "Observational learning"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Psychology_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Rods are responsible for color vision, which explains color sensitivity under low-light conditions.",
+            "B": "Cones are responsible for color vision, which explains greater color sensitivity under low-light conditions.",
+            "C": "Rods do not respond preferentially to wavelengths in the light spectrum, which explains why colors are not detectable in low-light conditions.",
+            "D": "Both rods and cones respond to specific colors in the light spectrum; loss of color vision in dark conditions is the result of fewer photons of light."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Psychology_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>",
+            "E": "<image 5>"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Individuals who were addicted to opiates and received medication both pre and post release.",
+            "B": "Individuals who were addicted to cocaine and only received medication referrals.",
+            "C": "Individuals who were addicted to opiates and received medication post release only.",
+            "D": "Individuals who were addicted to cocaine and received medication both pre and post release."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Psychology_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Men and women did not listen to both types of music",
+            "B": "The singers were not the same gender",
+            "C": "The sample size was too small to draw a valid conclusion",
+            "D": "The participants were not musicians"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Psychology_20",
+        "question_type": "short-answer",
+        "answer": "embryonic",
+        "response": "Fetal development"
+    },
+    {
+        "id": "validation_Psychology_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Schizophrenia has a genetic component that can be inherited from biological parents, but genetic factors alone cannot account for the development of the disorder.",
+            "B": "The production and activity of specific chemical substances in the brain have been found to be associated with schizophrenia.",
+            "C": "Environmental factors contribute to the development of schizophrenia.",
+            "D": "A person has a 100% chance of developing schizophrenia if both of his or her parents have schizophrenia."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Psychology_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Appraisal focused coping because it challenges patient's assumptions about cancer and relaxation.",
+            "B": "Emotion focused coping because it teaches patients to manage emotions that accompany perception of stress.",
+            "C": "Problem focused coping because the program is aimed at learning more about stress and taking control.",
+            "D": "Avoidance focused coping because patients distance themselves from their physiological reaction to stressful experiences."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The information-processing model is often characterized by a metaphor of mind like a computer; however, the embodied cognition model views cognition as a product of represented actions, environment, and past experience.",
+            "B": "Both models are characterized by a metaphor of mind like a computer, rule based and logic driven; however, the embodied cognition model views cognition as passive and problem solving as being based on the computation of inputs and outputs.",
+            "C": "They are essentially the same.",
+            "D": "The embodied cognition model is characterized by a metaphor of mind like a computer; however, the information-processing model views cognition as a product of represented actions, environment, and past experience."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "pons",
+            "B": "medulla oblongata",
+            "C": "spinal cord",
+            "D": "reticular formation"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Psychology_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Most forgetting occurs gradually over a long period of time.",
+            "B": "Most forgetting occurs after only a few days.",
+            "C": "Most forgetting occurs soon after information is learned.",
+            "D": "Most forgetting occurs at a constant rate over time."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Psychology_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Psychology_27",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Social facilitation",
+            "B": "Group polarization",
+            "C": "Self-serving bias",
+            "D": "Unstable attribution",
+            "E": "The Pygmalion effect"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Psychology_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Social loafing",
+            "B": "Social facilitation",
+            "C": "Group polarization",
+            "D": "Groupthink",
+            "E": "Minority influence"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Test performance would decline sharply at first but decline less and less in later years.",
+            "B": "Test performance would decline gradually over the years and then stabilize.",
+            "C": "Test performance would decline sharply at first and continue to decline rapidly until eventually, you were unable to remember anything at all.",
+            "D": "Test performance would decline only slightly from year to year until eventually, you were unable to remember anything at all."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Psychology_30",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>",
+            "E": "<image 5>"
+        },
+        "response": "D"
+    }
+]

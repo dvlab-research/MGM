@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Mechanical_Engineering_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$q_{0}=250.7403\\frac{kN}{m}$",
+            "B": "$q_{0}=350.7403\\frac{kN}{m}$",
+            "C": "$q_{0}=450.7403\\frac{kN}{m}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "K>0",
+            "B": "K>1",
+            "C": "K<0"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$D=\\frac{1}{C_{2}}\\ln(1+\\frac{C_{2}}{C_{1}}v_{0}^{2})$",
+            "B": "$D=\\frac{1}{2C_{2}}\\ln(1+\\frac{C_{1}}{C_{2}}v_{0}^{2})$",
+            "C": "$D=\\frac{1}{2C_{2}}\\ln(1+\\frac{C_{2}}{C_{1}}v_{0}^{2})$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "3.8-hp input,2.3-hp output",
+            "B": "4.8-hp input,4.3-hp output",
+            "C": "3.8-hp input,2.3-hp output",
+            "D": "9.8-hp input,2.3-hp output"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$h=1.444\\times10^{5}km$",
+            "B": "$h=1.644\\times10^{5}km$",
+            "C": "$h=1.844\\times10^{5}km$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "K2=0.6,K1=0.277",
+            "B": "K2=0.06,K1=0.377",
+            "C": "K2=0.06,K1=0.277",
+            "D": "K2=0.01,K1=0.177"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$k_{eq}=4.80\\cdot10^{7}\\frac{N}{m}$",
+            "B": "$k_{eq}=5.80\\cdot10^{7}\\frac{N}{m}$",
+            "C": "$k_{eq}=6.80\\cdot10^{7}\\frac{N}{m}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "41.7Mpa,44.83Mpa",
+            "B": "31.7Mpa,34.83Mpa",
+            "C": "21.7Mpa,34.83Mpa",
+            "D": "21.7Mpa,24.83Mpa"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "9673J,2218N\u22c5m",
+            "B": "5723J,1218N\u22c5m",
+            "C": "9673J,1218N\u22c5m",
+            "D": "5723J,2218N\u22c5m"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "114.64mm",
+            "B": "214.64mm",
+            "C": "314.64mm"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$\\alpha=(pw_{1}i-pw_{2}j+w_{1}w_{2}k)rad/s^{2}$",
+            "B": "$\\alpha=(pw_{2}i-pw_{1}j+w_{1}w_{2}k)rad/s^{2}$",
+            "C": "$\\alpha=(pw_{2}i-2pw_{1}j+w_{1}w_{2}k)rad/s^{2}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$(\\tau_{n})_{2}=0.333s$",
+            "B": "$(\\tau_{n})_{2}=0.433s$",
+            "C": "$(\\tau_{n})_{2}=0.533s$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5kN",
+            "B": "6kN",
+            "C": "7kN",
+            "D": "8kN"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "h=125.358m,t=27.62s",
+            "B": "h=105.358m,t=27.62s",
+            "C": "h=125.358m,t=24.62s"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7522lb,1643lb",
+            "B": "6857lb,1643lb",
+            "C": "7522lb,1728b",
+            "D": "6857lb,1728lb"
+        },
+        "response": "(A) 7522lb,1643lb"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11456lb",
+            "B": "14700lb",
+            "C": "12457lb",
+            "D": "13000lb"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_24",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-2.77 ksi",
+            "B": "-3.77 ksi",
+            "C": "-4.77 ksi"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$R_{A}=R_{C}=-2.429kips$",
+            "B": "$R_{A}=R_{C}=-1.429kips$",
+            "C": "$R_{A}=R_{C}=-0.429kips$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "F=7490lbf",
+            "B": "F=7470lbf",
+            "C": "F=7480lbf"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "17.59",
+            "B": "27.59",
+            "C": "37.59"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{5}+R^2{(k_{4}+k_{6})}$",
+            "B": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{4}+R^2{(k_{5}+k_{6})}$",
+            "C": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{6}+R^2{(k_{4}+k_{5})}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "A"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Public_Health_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "tr>tb",
+            "B": "tr<tb",
+            "C": "tr=tb",
+            "D": "tr$\\ne $tb"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Public_Health_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.70",
+            "B": "2.50",
+            "C": "3.20",
+            "D": "4.80"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Incidence of hepatitis A",
+            "B": "Prevalence of hepatitis A",
+            "C": "Secondary attack rate of hepatitis A",
+            "D": "Survival rate of hepatitis A"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "some viruses",
+            "B": "some bacteria",
+            "C": "some protozoa",
+            "D": "some insects"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "53.83",
+            "B": "87.09",
+            "C": "57.48",
+            "D": "67.83"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Independent samples t test",
+            "B": "Fisher's Exact test ",
+            "C": "Kappa ",
+            "D": "McNemar's test"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Public_Health_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Medical institutions were the main source of reported adverse reactions.",
+            "B": "Chemical drugs caused the highest rate of adverse drug reactions in the province.",
+            "C": "Adverse reactions caused by Biological products need not be a concern.",
+            "D": "The province has a low incidence of serious adverse reactions."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Public_Health_8",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "100%",
+            "B": "94.8%",
+            "C": "94.6%",
+            "D": "88.1%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.93",
+            "B": "0.98",
+            "C": "0.75",
+            "D": "0.49"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "200/100,000 person years",
+            "B": "300/100,000 person years",
+            "C": "100/100,000 person years",
+            "D": "50/100,000 person years"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "PAR",
+            "B": "AR",
+            "C": "RR",
+            "D": "OR"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "80%",
+            "B": "20%",
+            "C": "60%",
+            "D": "40%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cold chicken",
+            "B": "Potato salad",
+            "C": "Egg sandwiches",
+            "D": "Fruit pie and cream"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "18",
+            "B": "16",
+            "C": "20",
+            "D": "10"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Public_Health_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 to 2",
+            "B": "2 to 1",
+            "C": "1 to 1",
+            "D": "50%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "(1.29~40.37)",
+            "B": "(3.48~22.56)",
+            "C": "(0.51~4.68)",
+            "D": "(1.28~10.78)",
+            "E": "(1.16~13.02)"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "48.0",
+            "B": "48.0-25.4=22.6",
+            "C": "48.0/25.4=1.89",
+            "D": "(48.0-25.4) /48.0"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "E. coli",
+            "B": "Staph aureus",
+            "C": "E. coli and Staph aureus"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.444",
+            "B": "0.556",
+            "C": "1.799",
+            "D": "2.716"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11.6",
+            "B": "53.0/100000",
+            "C": "63.0/100000",
+            "D": "0.91"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Public_Health_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "51.4%",
+            "B": "52.4%",
+            "C": "3.1%",
+            "D": "10.8%"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cardiovascular and cerebrovascular diseases",
+            "B": "malignant neoplasms",
+            "C": "The threat is just as great.",
+            "D": "The threat cannot be judged."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.69",
+            "B": "0.98",
+            "C": "0.02",
+            "D": "0.94"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.24%",
+            "B": "0.40%",
+            "C": "0.32%",
+            "D": "0.44%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A/(A+C)",
+            "B": "B/(B+D)",
+            "C": "C/(A+C)",
+            "D": "D/(B+D)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "point prevalence and period prevalence",
+            "B": "mortality rate and case fatality rate",
+            "C": "cumulative incidence and incidence density",
+            "D": "PYLL and DALY"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_27",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5/19",
+            "B": "5/18",
+            "C": "5/17",
+            "D": "5/20"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5.48",
+            "B": "6.98",
+            "C": "12.96",
+            "D": "15.95"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Public_Health_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.52",
+            "B": "2.0",
+            "C": "1.26",
+            "D": "3.45"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Public_Health_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.76",
+            "B": "14",
+            "C": "12.14",
+            "D": "8.67"
+        },
+        "response": "A"
+    }
+]

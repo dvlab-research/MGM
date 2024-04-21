@@ -1,0 +1,522 @@
+[
+    {
+        "id": "validation_Music_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 2>",
+            "B": "<image 3>",
+            "C": "<image 4>",
+            "D": "<image 5>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. \n\nThe chromatic scale beginning on B is written incorrectly. The correct chromatic scale starting on B would be B-F-E-Db-C-G-A-Eb-F-G-A-B. The scale in the image starts with B-F-E-Db-C-G-A-Eb-F-G-A-B, which is not the correct order of notes for a chromatic scale starting on B."
+    },
+    {
+        "id": "validation_Music_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect",
+            "B": "major",
+            "C": "diminished",
+            "D": "augmented"
+        },
+        "response": "(A) perfect (C) diminished (D) augmented"
+    },
+    {
+        "id": "validation_Music_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "7",
+            "C": "5",
+            "D": "4"
+        },
+        "response": "We can determine the number of measures/bars in the given music score by looking at the time signature, which is given as 4/4. This indicates that there are 4 beats in each measure. Since there are 6 notes in the measure, we can divide 6 by 4 to find out how many measures there are in the piece. Therefore, the answer is 6."
+    },
+    {
+        "id": "validation_Music_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. \n\nThe note written on the staff is a C, which is a different note from the G# mentioned in the text. The text also states that this is the supertonic in G# major, which means it is a note that is one degree below the leading note of G# in G# major."
+    },
+    {
+        "id": "validation_Music_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Anacrusis",
+            "B": "Hemiola",
+            "C": "Suspension",
+            "D": "Augmentation"
+        },
+        "response": "The second measure of the example uses an hemiola rhythmic device, which divides a note into two equal halves. The first beat of the hemiola is indicated by the slur (dashed line) and the second beat is indicated by the note head."
+    },
+    {
+        "id": "validation_Music_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Vb",
+            "B": "Vc",
+            "C": "IIa",
+            "D": "IIb"
+        },
+        "response": "The chord marked at position A in the given music notation is (B), major. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Music_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C\u00b07",
+            "B": "A\u00d87",
+            "C": "G\u00b07",
+            "D": "Eb\u00d87"
+        },
+        "response": "The harmony in the given example is (C\u00b07)."
+    },
+    {
+        "id": "validation_Music_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "BD",
+            "B": "CD",
+            "C": "BC",
+            "D": "AB"
+        },
+        "response": "The correct answer is (C) BC. \n\nIn a major-minor seventh chord, the major third is between the root and the minor third. Therefore, the first inversion of a major-minor seventh chord is a minor third below the root. In this case, the minor third is between the root and the fifth, so the first inversion of a major-minor seventh chord is a minor third below the fifth. \n\nThe chord symbols for the first inversion of a major-minor seventh chord in root position and first inversion are:\n\nRoot position: C minor seventh chord (BCD)\nFirst inversion: C minor seventh chord (BCD)"
+    },
+    {
+        "id": "validation_Music_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. The leading note in E major is F, not E."
+    },
+    {
+        "id": "validation_Music_11",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "acciaccatura",
+            "B": "appoggiat",
+            "C": "lower morden",
+            "D": "upper turns"
+        },
+        "response": "The written-out ornament marked with bracket is an acciaccatura."
+    },
+    {
+        "id": "validation_Music_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. \n\nThe music is marked \"Presto\" which indicates a fast tempo, so it is not the quietest bar in the music. The music is also marked \"f\" which indicates a soft dynamic, but the tempo marking is more important in determining the overall speed and energy of the music."
+    },
+    {
+        "id": "validation_Music_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "BC",
+            "B": "AD",
+            "C": "AC",
+            "D": "AB"
+        },
+        "response": "The standard notation for the given time signatures is (A) BC, (B) AD, and (C) AC. The time signature of (D) AB is not commonly used in standard notation."
+    },
+    {
+        "id": "validation_Music_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box 1",
+            "B": "box 2",
+            "C": "box 3",
+            "D": "box 4"
+        },
+        "response": "(C) box 3"
+    },
+    {
+        "id": "validation_Music_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "C",
+            "B": "D",
+            "C": "B",
+            "D": "G"
+        },
+        "response": "The note shown in the image is a B note. Therefore, the correct answer is (C)."
+    },
+    {
+        "id": "validation_Music_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Music_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first clef",
+            "B": "second clef",
+            "C": "third clef",
+            "D": "fourth clef"
+        },
+        "response": "We need to choose one clef to form a minor scale. We start with the first clef, which is the bass clef. We write the notes of a C minor scale as follows: C, D, Eb, F, G, A, B. We can see that the note C is already on the staff, so we don't need to write it again. We then write the remaining notes of the scale in the correct order. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Music_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "#F major scale",
+            "B": "c melodic minor scale",
+            "C": "b harmonic minor scale",
+            "D": "E melodic major scale"
+        },
+        "response": "We refer to Wikipedia articles on music for help. The two sounds are the F sharp note and the C note, which belong to the F\u266f major scale.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Music_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct notation in 2/4 time signature is (B)."
+    },
+    {
+        "id": "validation_Music_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "AB",
+            "B": "BC",
+            "C": "BCD",
+            "D": "ABCD"
+        },
+        "response": "The melody fragments given in the image are in compound meters. Specifically, they are in 3/4, 4/4, and 6/8 meters. Therefore, the correct answer is (B), (C), and (D)."
+    },
+    {
+        "id": "validation_Music_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect 4th",
+            "B": "major 9th/ compound major 2nd",
+            "C": "augmented 5th",
+            "D": "perfect unison"
+        },
+        "response": "The harmonic intervals sounding between the third horn and second violin in bar 11 are a perfect 4th (A) and a perfect unison (D). The perfect 4th is created by the notes A in the horn and C in the violin, while the perfect unison is created by the notes A in the horn and A in the violin."
+    },
+    {
+        "id": "validation_Music_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Major seventh in third inversion",
+            "B": "Dominant seventh in second inversion",
+            "C": "Major/minor seventh in third inversion",
+            "D": "Minor seventh in second inversion"
+        },
+        "response": "The answer is (A) Major seventh in third inversion.\n\nIn the given image, there is a musical notation of a seventh chord in third inversion. The chord is written as F\u266f7, where F\u266f is the root note, and the seventh note, F\u266f, is written as a sharp symbol (#) to indicate that it is a sharp note. The other notes of the chord are not explicitly written, but the chord is in third inversion, which means that the highest note of the chord is the third note, F, and the second highest note is the fifth note, A. Therefore, the chord is a major seventh chord in third inversion."
+    },
+    {
+        "id": "validation_Music_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box 1",
+            "B": "box 2",
+            "C": "box 3",
+            "D": "None of above"
+        },
+        "response": "(C) box 3"
+    },
+    {
+        "id": "validation_Music_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Va",
+            "B": "Vb",
+            "C": "Ib",
+            "D": "Ic"
+        },
+        "response": "(C) Ib"
+    },
+    {
+        "id": "validation_Music_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "perfect",
+            "B": "major",
+            "C": "minor",
+            "D": "diminished"
+        },
+        "response": "The type of the interval is minor."
+    },
+    {
+        "id": "validation_Music_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. In F major, the mediant is G."
+    },
+    {
+        "id": "validation_Music_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "3",
+            "C": "2",
+            "D": "4"
+        },
+        "response": "We refer to Wikipedia articles on music for help. The enharmonic modulation appears twice in the given melody.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Music_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "augmented 5th",
+            "B": "minor 7th",
+            "C": "major 6th",
+            "D": "perfect 11th"
+        },
+        "response": "The intervals in the image are (B) minor 7th and (D) perfect 11th."
+    },
+    {
+        "id": "validation_Music_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "box1",
+            "B": "box2",
+            "C": "box3",
+            "D": "box4"
+        },
+        "response": "(C) box3"
+    },
+    {
+        "id": "validation_Music_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "circle the first option",
+            "B": "circle the second option",
+            "C": "circle the third option",
+            "D": "circle the fourth option"
+        },
+        "response": "The correct key of the melody is (B) circle the second option."
+    }
+]

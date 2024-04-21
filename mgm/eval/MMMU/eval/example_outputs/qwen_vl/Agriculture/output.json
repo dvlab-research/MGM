@@ -1,0 +1,588 @@
+[
+    {
+        "id": "validation_Agriculture_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Abiotic",
+            "B": "Confused",
+            "C": "Biotic",
+            "D": "Normal"
+        },
+        "response": "(C) Biotic. \n\nThe unusual formations on the Mountain papaya tree in the image are caused by biotic factors, such as insects, fungi, or other pests that have left their marks on the tree's bark. These markings are a result of the interaction between the tree and its environment, and they are not caused by confusion or normal processes."
+    },
+    {
+        "id": "validation_Agriculture_2",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Bacterial pathogen",
+            "B": "I don't know and I don't want to guess",
+            "C": "Fungal pathogen",
+            "D": "Oomycete (watermould) pathogen",
+            "E": "Physiological condition; no pathogen involved"
+        },
+        "response": "The answer is (E) Physiological condition; no pathogen involved. The crinkling of the leaf veins in the image is likely due to a physiological condition, such as dehydration or a change in the plant's growth environment, rather than the presence of a bacterial, fungal, or oomycete pathogen."
+    },
+    {
+        "id": "validation_Agriculture_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Algae",
+            "B": "Downy mildew",
+            "C": "Powdery mildew",
+            "D": "Sooty mould",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "(C) Powdery mildew"
+    },
+    {
+        "id": "validation_Agriculture_4",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Mineral deficiency",
+            "B": "Nematode attack",
+            "C": "Don't know and don't want to guess",
+            "D": "There is no problem",
+            "E": "Pot bound"
+        },
+        "response": "The roots of the young citrus tree are wrapped around the stem, which suggests that the tree is pot-bound. This means that the roots have grown into the confined space of the pot, making it difficult for the tree to grow properly and receive the necessary nutrients from the soil. The tree may not be able to grow as tall or as wide as it should, and it may also be more susceptible to diseases and pests."
+    },
+    {
+        "id": "validation_Agriculture_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Cultural",
+            "B": "Biological",
+            "C": "Chemical",
+            "D": "Organic",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "The correct classification for local pest and disease control measures that utilize botanical extracts would be (D) Organic. Organic pest and disease control methods use natural substances, such as botanical extracts, to manage pests and diseases in gardens and landscapes. These methods are environmentally friendly and promote sustainable gardening practices."
+    },
+    {
+        "id": "validation_Agriculture_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "macro-fauna",
+            "B": "micro-fauna",
+            "C": "meso-fauna",
+            "D": "micro-flora"
+        },
+        "response": "(B) micro-fauna"
+    },
+    {
+        "id": "validation_Agriculture_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Downy mildew",
+            "B": "Early blight (Alternaria solani)",
+            "C": "Don't know and don't want to guess",
+            "D": "Powdery mildew",
+            "E": "Late blight (Phytophthora infestans)"
+        },
+        "response": "The root cause of the issue in the image is Downy mildew ( Alternaria solani)."
+    },
+    {
+        "id": "validation_Agriculture_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Water mould infection",
+            "B": "Bacterial infection",
+            "C": "Don't know and don't want to guess",
+            "D": "Fungal infection",
+            "E": "Nutrient deficiency"
+        },
+        "response": "The probable reason for the blemish present on the side of this leaf, which is from a globe artichoke plant typically cultivated in the Mediterranean and South America, could be a nutrient deficiency. Globe artichokes are sensitive to nutrient deficiencies, particularly phosphorus, which can cause yellowing or browning of the leaves. Therefore, the answer is (E)."
+    },
+    {
+        "id": "validation_Agriculture_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Low temperature; low light",
+            "B": "When free water has splashed up onto the underside of the leaf",
+            "C": "High temperature, high light",
+            "D": "High relative humidity",
+            "E": "I don't know and I don't want to guess"
+        },
+        "response": "The answer is (B) When free water has splashed up onto the underside of the leaf. Downy mildew is caused by a water mold that spreads when free water splashes onto the underside of the leaf. This creates a humid environment that allows the mold to grow and spread. High temperatures and high humidity levels also contribute to the spread of downy mildew."
+    },
+    {
+        "id": "validation_Agriculture_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Sclerotia",
+            "B": "Cysts",
+            "C": "Eggs",
+            "D": "Galls",
+            "E": "I don't know and I don't want to guess"
+        },
+        "response": "(C) Eggs."
+    },
+    {
+        "id": "validation_Agriculture_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Biotic",
+            "B": "Confused",
+            "C": "Abiotic"
+        },
+        "response": "(C) Abiotic."
+    },
+    {
+        "id": "validation_Agriculture_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cholera",
+            "B": "Emulsification",
+            "C": "Anthrax",
+            "D": "Peristalsis"
+        },
+        "response": "(D) Peristalsis"
+    },
+    {
+        "id": "validation_Agriculture_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Don't know and don't want to guess",
+            "B": "Leave all the weeds so that the disease can spread to healthy weeds",
+            "C": "Remove all weeds as they will impact on yield",
+            "D": "The removal of the weed depends on the potential for the disease to spread to the crop",
+            "E": "Leave the infected weeds so that the disease could spread"
+        },
+        "response": "(D) The removal of the weed depends on the potential for the disease to spread to the crop. If the disease is contagious and can potentially harm the crop, it is recommended to remove the infected weeds to prevent the spread of the disease. However, if the disease is not contagious or the risk to the crop is low, leaving the infected weeds may be an option. It is important to consult with a plant pathologist or a gardening expert for specific advice on how to handle weed diseases in a given situation."
+    },
+    {
+        "id": "validation_Agriculture_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Similar to the adult, but shorter and without wings",
+            "B": "Grub",
+            "C": "Maggot",
+            "D": "Caterpillar",
+            "E": "Don't know and don't want to guess"
+        },
+        "response": "The offspring of a pod bug resembles a maggot, as it is a\u86c6-like creature that develops inside a plant. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Agriculture_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Lack of nutrients",
+            "B": "Downy mildew (oomycete)",
+            "C": "Don't know, not sure",
+            "D": "Virus",
+            "E": "Phytoplasma"
+        },
+        "response": "The grassy-like clump in the maize is likely caused by downy mildew (oomycete), which is a common disease of maize. The disease causes the formation of aerial, powdery masses on the leaves and stems of the plant. It is caused by a pathogen called Plasmopara polymorph, which is a type of oomycete. The disease can be managed through the use of fungicides and other control measures."
+    },
+    {
+        "id": "validation_Agriculture_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I don't know and I don't want to guess",
+            "B": "Corona",
+            "C": "Border",
+            "D": "Halo",
+            "E": "Toxin zone"
+        },
+        "response": "(D) Halo"
+    },
+    {
+        "id": "validation_Agriculture_17",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Viral infection",
+            "B": "Bacterial infection",
+            "C": "Unidentified fungal infection",
+            "D": "I don't know and I don't want to guess",
+            "E": "Powdery mildew"
+        },
+        "response": "(C) Unidentified fungal infection\n\nThe red coloration on the upper and lower surfaces of peach leaves could be caused by a fungal infection. Fungal infections often result in the discoloration of leaves, and the specific type of fungus causing the infection can vary depending on the plant species and environmental conditions."
+    },
+    {
+        "id": "validation_Agriculture_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Algae",
+            "B": "Don't know and I don't want to guess",
+            "C": "Honey dew",
+            "D": "Gummosis-produced resin",
+            "E": "Bacterial ooze"
+        },
+        "response": "(C) Honey dew\n\nThe top surface of the citrus leaves in the image is covered with a substance that looks like honey dew. Honey dew is a sweet, sticky fluid secreted by some insects, especially aphids, and it is often found on the underside of leaves. In this case, it is likely that the honey dew is covering the leaves due to the presence of aphids or other insects feeding on the leaves."
+    },
+    {
+        "id": "validation_Agriculture_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Another disease unrelated to the orange pustules",
+            "B": "Don't know and don't want to guess",
+            "C": "Scale insects on the leaf",
+            "D": "Another spore type of the same fungus",
+            "E": "A parasite of the fungus growing on the spores"
+        },
+        "response": "The black areas in a chive disease characterized by orange and black pustules are caused by the spores of the fungus, not by uredinia spores. Therefore, the correct answer is (D) Another spore type of the same fungus."
+    },
+    {
+        "id": "validation_Agriculture_20",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Don't know or not sure",
+            "B": "Repeated root damage by tractors in adjacent field (abiotic)",
+            "C": "Fungal dieback ('ash dieback')",
+            "D": "Air pollution damage",
+            "E": "Combination of fungal and abiotic dieback"
+        },
+        "response": "(B) Repeated root damage by tractors in adjacent field (abiotic)"
+    },
+    {
+        "id": "validation_Agriculture_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Confused",
+            "B": "Biotic",
+            "C": "Abiotic"
+        },
+        "response": "(C) Abiotic"
+    },
+    {
+        "id": "validation_Agriculture_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Fungal disease",
+            "B": "Bacterial disease",
+            "C": "Don't know or not sure",
+            "D": "Genetic abnormality",
+            "E": "Insect feeding"
+        },
+        "response": "The corky outgrowths on a young ash tree by the roadside in Littondale, Yorkshire could be due to a genetic abnormality or insect feeding. These outgrowths are known as \"water warts\" or \"water yeasts\" and are caused by a fungal infection. The presence of these outgrowths on the tree may indicate that the tree is susceptible to fungal infections, and it is important to monitor the tree for any signs of fungal disease."
+    },
+    {
+        "id": "validation_Agriculture_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Virus infection",
+            "B": "Herbicide damage",
+            "C": "Fungus disease",
+            "D": "Phytoplasma",
+            "E": "Don't know, not sure"
+        },
+        "response": "As an AI, I can confirm that the symptoms observed in the detached branches of Gliricidia sepium, such as the sickly, yellowed leaves and the dying branches, are consistent with a fungal disease called phytoplasma. This disease can cause stunted growth, yellowing, and eventual death of the affected branches. It is not evenly distributed across the crown of the tree, and the detached branches are a clear indication of the disease's progression. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Agriculture_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Nectar pollen and honeydew",
+            "B": "Caterpillars",
+            "C": "Don't know and don't want to guess",
+            "D": "Mealybugs",
+            "E": "Aphids"
+        },
+        "response": "(A) Nectar pollen and honeydew"
+    },
+    {
+        "id": "validation_Agriculture_25",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Pupa",
+            "B": "Don't know and don't want to guess",
+            "C": "Worm",
+            "D": "Maggot",
+            "E": "Grub"
+        },
+        "response": "The specific term for the juvenile stage of the white pine weevil found on a spruce branch is (E) grub. Grubs are a common stage in the life cycle of many insects, including weevils, and are typically small, cylindrical-shaped insects with a hard exoskeleton. In the case of the white pine weevil, the grub stage is the juvenile stage that feeds on the roots of spruce trees before emerging as an adult and feeding on the bark of the tree."
+    },
+    {
+        "id": "validation_Agriculture_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I don't know and I don't want to guess",
+            "B": "Nematodes",
+            "C": "Fungi",
+            "D": "Phytoplasmas",
+            "E": "Bacteria"
+        },
+        "response": "The growth habit in blackberry plants that is near-identical to the 'little leaf' symptoms commonly witnessed post-glyphosate treatment is caused by a group of pathogens known as phytoplasmas. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Agriculture_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Some of the fungi can be grown in culture but not all",
+            "B": "Don't know and don't want to guess",
+            "C": "They will only grow if honey dew is included in the media",
+            "D": "Yes, the fungi that make up the sooty mould family can be grown in culture.",
+            "E": "It is not possible to grow these fungi in culture"
+        },
+        "response": "(D) Yes, the fungi that make up the sooty mould family can be grown in culture."
+    },
+    {
+        "id": "validation_Agriculture_28",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "It will grow down into the roots and kill the tree.",
+            "B": "Mistletoe is beneficial and increases the growth of the plant.",
+            "C": "It just uses the tree for support and does not damage it.",
+            "D": "I don't know and don't want to guess.",
+            "E": "It has a very damaging impact on the health of the plant but localised to the place of infection."
+        },
+        "response": "(C) It just uses the tree for support and does not damage it. \n\nMistletoe is a parasitic plant that grows on other plants, such as trees, and uses them as a source of nutrients and support. While mistletoe can be a cause of concern for some people, it generally does not harm the host tree unless the infestation is severe. In fact, mistletoe can actually benefit the tree by removing excess nutrients from the plant, which can be harmful to the tree's health. However, it is important to monitor the growth of mistletoe and take appropriate measures to control its population if it becomes too dense."
+    },
+    {
+        "id": "validation_Agriculture_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Drooped",
+            "B": "Collapsed",
+            "C": "Flaccid",
+            "D": "Wilt",
+            "E": "I don't know and don't want to guess"
+        },
+        "response": "(D) Wilt."
+    },
+    {
+        "id": "validation_Agriculture_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The cause is not a fungal pathogen.",
+            "B": "The cause is either bacterial or viral.",
+            "C": "The cause could be a fungal pathogen.",
+            "D": "It is an abiotic problem of some sort.",
+            "E": "I don't know and I don't want to guess."
+        },
+        "response": "(D) It is an abiotic problem of some sort. \n\nThe absence of fungal fruiting bodies in the affected area suggests that the issue is not due to a fungal pathogen. Abiotic factors, such as temperature, humidity, and light, can also affect the growth and development of fungal pathogens. In this case, it is possible that the abiotic conditions in the area are not conducive to fungal growth, leading to the absence of fungal fruiting bodies."
+    }
+]

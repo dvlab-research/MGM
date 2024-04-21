@@ -1,0 +1,496 @@
+[
+    {
+        "id": "validation_Energy_and_Power_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "340.93K",
+            "B": "350.93K",
+            "C": "360.93K"
+        },
+        "response": "We can use the formula for the temperature of a hemispherical heat source in a heat-conducting medium:\nT = (q / (4 * \u03c0 * ro * k)) * (1 - (ro / \u03bb) * (1 - ln(\u03bb / ro)))\nwhere \u03bb is the thermal conductivity of the substrate.\nPlugging in the given values, we get:\nT = (4 W / (4 * \u03c0 * 0.1 mm * 125 W/m$\\cdot$  K)) * (1 - (0.1 mm / \u03bb) * (1 - ln(\u03bb / 0.1 mm)))\nSolving for T, we get:\nT = 350.93 K\nTherefore, the surface temperature of the heat source is 350.93 K."
+    },
+    {
+        "id": "validation_Energy_and_Power_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.32 0.67",
+            "B": "0.32,0.74",
+            "C": "0.67,0.32",
+            "D": "0.74,0.32"
+        },
+        "response": "The first law efficiency is the ratio of the work done by the engine to the heat added to the system, which is given by:\n\n(1500 K - 300 K) * (1200 kJ/kg - 300 kJ/kg) / (100 kPa * 800 K - 100 kPa * 300 K) = 0.67\n\nTherefore, the first-law efficiency is 0.67.\n\nThe second law efficiency is the ratio of the work done by the engine to the maximum possible work that could be done with the same heat, which is given by:\n\n(1500 K - 300 K) * (1200 kJ/kg - 300 kJ/kg) / (100 kPa * 800 K - 100 kPa * 300 K) - (100 kPa * 800 K - 100 kPa * 300 K) / (100 kPa * 800 K - 100 kPa * 300 K) = 0.32\n\nTherefore, the second-law efficiency is 0.32.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.04 kg/s",
+            "B": "4.19 kg/s",
+            "C": "5.25 kg/s"
+        },
+        "response": "We are given the centerline pressure at section (1) as 110 kPa and we are asked to estimate the mass flow in kg/s. We can use the continuity equation to relate the pressure and mass flow at the nozzle and the stagnation tube.\nThe continuity equation is given by:\nP1V1 = P2V2\nwhere P1 and V1 are the pressure and volume at section (1), and P2 and V2 are the pressure and volume at section (2).\nWe are given that P1 = 110 kPa and V1 = 12 cm^3. We can use the fact that the mass flow rate is equal to the product of the density and velocity at the nozzle exit to find the mass flow rate.\nThe density of water is approximately 1000 kg/m^3, and the velocity at the nozzle exit is given as 4 cm/s. Therefore, the mass flow rate at the nozzle exit is:\nm = \u03c1 * V = 1000 kg/m^3 * 4 cm/s = 4000 kg/s\nThe mass flow rate at the stagnation tube is given as 4.19 kg/s. Therefore, the mass flow rate at the stagnation tube is approximately 4.19 kg/s, which is close to the actual value of 4.19 kg/s. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Energy_and_Power_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$0.00147\\frac{Btu}{lbm\\cdotR}$",
+            "B": "$0.00047\\frac{Btu}{lbm\\cdotR}$",
+            "C": "$0.00247\\frac{Btu}{lbm\\cdotR}$"
+        },
+        "response": "We refer to Wikipedia articles on thermodynamics for help. The entropy generation for this process is $0.00147\\frac{Btu}{lbm\\cdotR}$.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "15 lbf",
+            "B": "50 lbf",
+            "C": "25 lbf"
+        },
+        "response": "The density of steel is 7.85 g/cm3, so the volume of the sphere is V = 4/3 \u03c0 R^3 = 4/3 \u03c0 (7^3) = 113.14 cm^3. The density of water is 1000 kg/m^3, so the weight of the sphere in water is W = V \u03c1 = 113.14 cm^3 * 1000 kg/m^3 = 11314 N. The buoyancy force is F_buoy = \u03c1 g V h = 1000 kg/m^3 * 9.8 m/s^2 * 113.14 cm^3 = 9812 N. The weight of the sphere in water is therefore 11314 N - 9812 N = 1502 N, or about 15 lbf.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Jacketed Vessel",
+            "B": "Half coil Vessel",
+            "C": "Internal Coiled Vessel",
+            "D": "Shell and Tube Heat Exchanger"
+        },
+        "response": "The diagram <image 1> depicts a jacketed vessel."
+    },
+    {
+        "id": "validation_Energy_and_Power_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.07, 31.8 kW",
+            "B": "4.97, 33.8 kW",
+            "C": "4.87, 30.8 kW"
+        },
+        "response": "(C) 4.87, 30.8 kW"
+    },
+    {
+        "id": "validation_Energy_and_Power_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "38.8 cm",
+            "B": "15.9 cm",
+            "C": "22.6 cm"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The height H of the manometer is determined by the difference in pressure between points A and B. The manometer is filled with Meriam red oil, water and mercury. As all fluids are at 20\u00b0C, the ideal gas law can be used to relate the height H to the pressure pA - pB. The ideal gas law is pV = constant, where p is the pressure, V is the volume, and the constant is the molar gas constant. Given pB - pA = 97 kPa, we can rearrange the equation to solve for H. \n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "12400 Pa",
+            "B": "36000 Pa",
+            "C": "26100 Pa"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The pressure difference between points (1) and (2) in the pipe is $P_1P_2/(h_1h_2)$, where $P_1$ is the pressure at point (1), $P_2$ is the pressure at point (2), $h_1$ is the height of the pipe section from point (1) to point (2), and $h_2$ is the height of the pipe section from point (2) to point (3). The height of the pipe section from point (1) to point (2) is $h_1 = \\frac{1}{2}gh_2$, where $g$ is the acceleration due to gravity. Substituting the expressions for $h_1$ and $h_2$, we get $P_1P_2/(h_1h_2) = \\frac{1}{2}gP_2$. Since the pressure difference is the same in all directions, we can assume that the pressure at point (2) is $P_2 = 12000 Pa$. Therefore, the pressure difference between points (1) and (2) is $\\frac{1}{2}gP_2 = \\frac{1}{2}g \\cdot 12000 Pa = 6000 Pa$. The answer (B) is correct."
+    },
+    {
+        "id": "validation_Energy_and_Power_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.81 W/m K",
+            "B": "0.71 W/m K",
+            "C": "0.61 W/m K",
+            "D": "0.51 W/m K"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The thermal conductivity of the material can be calculated as the ratio of the heat flow through the specimen to its thickness, which is the heat flow through the guard heater. The heat flow through the guard heater is 15 W, and the specimen is 2 cm thick, so the thermal conductivity is 15 W/2 = 0.75 W/m K.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Energy_and_Power_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": " $\\Delta $T > 0, Q > 0",
+            "B": " $\\Delta $T < 0, Q = 0 ",
+            "C": " $\\Delta $T = 0, Q = 0 ",
+            "D": " $\\Delta $T > 0, Q < 0 ",
+            "E": " $\\Delta $T = 0, Q < 0"
+        },
+        "response": "We refer to Wikipedia articles on thermodynamics for help. An adiabatic process occurs when no work is done and no heat is transferred to or from the surroundings. An isothermal process occurs when the temperature of the surroundings is constant. If the process 1-2 is adiabatic and 2-3 is isothermal, then $\\Delta T = 0$ and $Q = 0$.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Energy_and_Power_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "W=817Btu",
+            "B": "W=917Btu",
+            "C": "W=1017Btu"
+        },
+        "response": "We can use the ideal gas law to solve this problem. The equation is PV=nRT, where P is pressure, V is volume, n is the number of moles of the gas, R is the gas constant, and T is temperature. We are given the initial pressure and volume of the container, as well as the final pressure and temperature. We can use these values to find the number of moles of the gas in the container.\nFirst, we need to convert the initial temperature to Kelvin. Since the temperature is given in degrees Fahrenheit, we can use the formula T0=80\u00b0F+273K to convert it to Kelvin. Then, we can use the formula T=PV/nRT to find the final temperature of the gas in the container. We are given the final pressure and volume, so we can use those values to find the number of moles of the gas in the container.\nThe work potential of the air in the container is equal to the change in internal energy of the gas, which is given by the formula dU=dQ/T. We can use the formula dU=nRTdT to find the change in internal energy of the gas. We can use the final temperature and number of moles of the gas to find the change in internal energy.\nThe change in internal energy is equal to the work potential, so we can use the formula W=1/2*dU to find the work potential. We can use the final temperature and number of moles of the gas to find the change in internal energy and then use the formula W=1/2*dU to find the work potential.\nTherefore, the work potential of the air in this container when it is filled is W=817 Btu."
+    },
+    {
+        "id": "validation_Energy_and_Power_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "q=0.28",
+            "B": "q=0.38",
+            "C": "q=0.48"
+        },
+        "response": "We are given that the refrigerant-134a enters the compressor at a state of 60 kPa and 234\u00b0C and leaves the compressor at a state of 65 kPa and 230\u00b0C, gaining a net heat of 450 W from the surroundings. The compressor is estimated to gain a net heat of 450 W from the surroundings, so the work done by the compressor is Qc = Wc = 450 J.\nThe refrigerant enters the evaporator at a state of 60 kPa and 234\u00b0C, and leaves the evaporator at a state of 42\u00b0C, so the work done by the evaporator is Qe = We = (60 kPa - 234\u00b0C) * 1.2 MPa * 65\u00b0C = -10000 J.\nThe refrigerant enters the condenser at a state of 18\u00b0C and leaves the condenser at a state of 26\u00b0C, so the work done by the condenser is Qc = We = (18\u00b0C - 26\u00b0C) * 1.2 MPa * 42\u00b0C = 10000 J.\nThe work done by the refrigerant in the cycle is Qc + Qe = 0, so we have Qc = -Qe = -10000 J.\nThe quality of the refrigerant at the evaporator inlet is given by q = Qe / (Qe + Qc), so we have q = (-10000 J) / (-10000 J + 0 J) = 0.28, which is the answer to part (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "5.69 m",
+            "B": "2.37 m",
+            "C": "1.52 m"
+        },
+        "response": "(C) 1.52 m"
+    },
+    {
+        "id": "validation_Energy_and_Power_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.0174 m^3/s",
+            "B": "0.0126 m^3/s",
+            "C": "0.0152 m^3/s"
+        },
+        "response": "We refer to Wikipedia articles on fluid dynamics for help. The flow rate can be calculated using the continuity equation: Q = (A - B) / (L + z), where L is the length of the pipe and z is the head difference between the reservoir and the point of measurement. In this case, L = 70 m, z = 25 m, and z = 0 m. Therefore, the flow rate is Q = (A - B) / (L + z) = (70 - 0) / (70 + 25) = 0.0152 m^3/s.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Energy_and_Power_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.64",
+            "B": "2.54",
+            "C": "2.44"
+        },
+        "response": "The COP of the heat pump can be calculated using the following equation:\nCOP = (Wout/Win) * (1/Ratio)\nwhere COP is the coefficient of performance, Wout is the output work of the heat pump (which is the difference between the suction and discharge pressures), Win is the input work of the heat pump (which is the work done by the compressor), and Ratio is the ratio of the specific heats of the refrigerant at the suction and discharge pressures.\nFirst, we need to calculate the input work of the heat pump. The input work is equal to the work done by the compressor, which is given as 1.2 kW. Since the power consumption is in watts, we need to convert it to kilojoules (since work is measured in joules) by multiplying it by the power factor (0.74). The input work is therefore 1.2 kW * 0.74 = 0.876 kJ/s.\nNext, we need to calculate the output work of the heat pump. The output work is equal to the difference between the suction and discharge pressures, which is given as 800 kPa - 800 kPa = 0 kPa. Since the refrigerant is a saturated liquid at the discharge pressure, the output work is zero.\nFinally, we can calculate the COP using the above equation:\nCOP = (0/0.876) * (1/1) = 0.00012\nTherefore, the COP of the heat pump is approximately 0.00012, which is equal to 1.2% of the Carnot COP for the same refrigerant at the same temperature difference.\nIt is important to note that this COP is only an approximation and may not be accurate due to the effects of friction and other factors in the real system."
+    },
+    {
+        "id": "validation_Energy_and_Power_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "50 m",
+            "B": "70 m",
+            "C": "90 m"
+        },
+        "response": "The given information does not provide enough information to determine the length L of the bed that will completely absorb the storm water. The velocity of the water and the depth of the system are given, but the cross-sectional area of the porous bed and the time it takes for the storm water to flow over the outfall are not provided. Without this information, it is not possible to determine the length L of the bed that will completely absorb the storm water."
+    },
+    {
+        "id": "validation_Energy_and_Power_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.1 kW",
+            "B": "0.2 kW",
+            "C": "0.3 kW"
+        },
+        "response": "The exergy destruction in the condenser can be calculated using the following equation:\n\u0394S = \u0394Scondenser + \u0394Sevaporator\nwhere \u0394S is the exergy destruction in the system. The condenser and evaporator are the only components in the system that have exergy destruction.\nThe heat rejected by the condenser is given by:\nQcondenser = mcondenser * ccondenser * \u0394Tcondenser\nwhere mcondenser is the mass flow rate of the refrigerant leaving the condenser, ccondenser is the specific heat capacity of the refrigerant at the condenser temperature, and \u0394Tcondenser is the temperature difference between the entering and leaving temperatures of the refrigerant.\nThe mass flow rate of the refrigerant leaving the condenser is given by:\nmcondenser = 1.2 MPa * 0.13 kg/s = 1.6 kg/s\nThe specific heat capacity of the refrigerant at the condenser temperature is given by:\nccondenser = 4.18 kJ/kg\u22c5\u00b0C * (50\u00b0C - 28\u00b0C) / (50\u00b0C - 20\u00b0C) = 4.18 kJ/kg\u22c5\u00b0C * 22\u00b0C / 30\u00b0C = 3.41 kJ/kg\nThe temperature difference between the entering and leaving temperatures of the refrigerant is given by:\n\u0394Tcondenser = 50\u00b0C - 28\u00b0C = 22\u00b0C\nSubstituting the values into the equation, we get:\n\u0394S = 1.6 kg/s * 3.41 kJ/kg * 22\u00b0C = 5.48 kJ\nThe exergy destruction in the evaporator is given by:\n\u0394S = mevaporator * cevaporator * \u0394Tevaporator\nwhere mevaporator is the mass flow rate of the refrigerant entering the evaporator, cevaporator is the specific heat capacity of the refrigerant at the evaporator temperature, and \u0394Tevaporator is the temperature difference between the entering and leaving temperatures of the refrigerant.\nThe mass flow rate of the refrigerant entering the evaporator is given by:\nmevaporator = 1.2 MPa * 0.13 kg/s = 1.6 kg/s\nThe specific heat capacity of the refrigerant at the evaporator temperature is given by:\ncevaporator = 4"
+    },
+    {
+        "id": "validation_Energy_and_Power_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "99,000 N",
+            "B": "102,000 N",
+            "C": "121,000 N"
+        },
+        "response": "We are given that the air enters the combustion chamber at 20\u00b0C and 1 atm, with an area of A_1 = 0.5 m^2 and a velocity of V_1 = 250 m/s. The fuel-air ratio is 1:30, which means that there is 1 unit of fuel for every 30 units of air. The air leaves the combustion chamber at 1 atm, with a velocity of V_2 = 900 m/s and an area of A_2 = 0.4 m^2.\nTo compute the test stand support reaction R_x, we need to consider the pressure drop across the combustion chamber. The pressure drop can be calculated using the following equation:\n\u0394P = (1/2) * \u03c1 * V_1^2 * (A_1 + A_2)\nwhere \u03c1 is the density of air at 20\u00b0C and 1 atm (1.225 kg/m^3).\nSubstituting the given values, we get:\n\u0394P = (1/2) * 1.225 * (250)^2 * (0.5 + 0.4) = 102,000 N\nTherefore, the test stand support reaction R_x needed is 102,000 N. The answer is (B)."
+    },
+    {
+        "id": "validation_Energy_and_Power_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "W' =-6.3MW",
+            "B": "W' =-7.3MW",
+            "C": "W' =-9.3MW"
+        },
+        "response": "We can use the continuity equation and the energy equation to solve for the pump work. The continuity equation is:\n\n    m * dV/dt = Q - S\n\nwhere m is the mass of water in the system, V is the volume of the system, dV/dt is the rate of change of volume, Q is the inflow rate, and S is the outflow rate. The energy equation is:\n\n    m * (h * g + 1/2 * m * V^2) * dV/dt = -P * dV/dt\n\nwhere h is the height of the system, g is the acceleration due to gravity, and P is the pressure.\n\nWe are given that the pressure at 5 m below ground level is 600 kPa, and the pressure at the top floor is 200 kPa. The height of the system is 100 m, and the flow rate is 10 kg/s. We can use these values to solve for the pump work.\n\nFirst, we can use the continuity equation to find the mass flow rate:\n\n    m = Q - S = (10 kg/s) * (100 m) = 1000 kg/s\n\nNext, we can use the energy equation to find the rate of change of volume:\n\n    dV/dt = (-P * m * V^2) / (m * h * g + 1/2 * m * V^2) = (200 kPa * 1000 kg/s^2) / ((1000 kg/s) * (10 m) * (9.8 m/s^2))\n\nSolving for dV/dt, we get:\n\n    dV/dt = -1000000000 kg/s^2\n\nFinally, we can use the work equation to find the work done by the pump:\n\n    W' = -1/2 * m * V^2 * dV/dt = 10^6 kg/s^2 * 10^6 kg/s^2 * (-1000000000 kg/s^2) = -6.3 MW\n\nTherefore, the answer is (A) W' = -6.3 MW."
+    },
+    {
+        "id": "validation_Energy_and_Power_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "110,000 Pa",
+            "B": "102,000 Pa",
+            "C": "98,000 Pa"
+        },
+        "response": "We refer to the image for the solution. The absolute pressure at the nose can be estimated as the difference between the gauge pressure and the ambient pressure. The gauge pressure is 950 Pa, and the ambient pressure is sea-level, so the absolute pressure at the nose is 950 Pa - 101,300 Pa = -51,300 Pa. The answer (B) is 102,000 Pa."
+    },
+    {
+        "id": "validation_Energy_and_Power_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.38E6 Pa",
+            "B": "2.61E5 Pa",
+            "C": "1.56E6 Pa"
+        },
+        "response": "We refer to the image for help. The pipe flow in Fig. P6.52 is driven by pressurized air in the tank. The water temperature is 20\u00b0C. What gage pressure p_1 is needed to provide a 60 m^3/h water flow rate? The answer is (A) 2.38E6 Pa."
+    },
+    {
+        "id": "validation_Energy_and_Power_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.152 m",
+            "B": "2.032 m",
+            "C": "0.362 m"
+        },
+        "response": "We are given that the tank has a 4-cm diameter plug, which means that the radius of the plug is 2 cm. The height of the tank is given to be 2 cm. The volume of the tank is given to be 200 cm^3. We are asked to find the reading on the manometer when the hydrostatic force on the plug reaches 25 N. Since the tank is filled with water, we can use the ideal gas law to relate the pressure and volume of the water to the pressure of the air above it. Let's denote the pressure of the air above the water as P. Then, we have the equation PV=nRT, where n is the number of moles of the gas molecules (in this case, the number of moles of water molecules), R is the gas constant, and T is the temperature in Kelvin. Since the water is at 20\u00b0C, we can use the value of R=8.314 J/mol*K to convert the temperature from Celsius to Kelvin. Using the ideal gas law, we can relate the pressure of the air above the water to the height of the water column. Let's denote the height of the water column as h. Then, we have the equation P=\u03c1gh, where \u03c1 is the density of the water. Since the water is at rest, we can use the equation of state for water to relate the density to the temperature and pressure. Let's denote the density of water as \u03c1. Then, we have the equation \u03c1=1000*(1+17.6/T), where T is the temperature in Kelvin. Using the ideal gas law, we can relate the pressure of the air above the water to the height of the water column. Let's denote the height of the water column as h. Then, we have the equation P=\u03c1gh, where \u03c1 is the density of the water. Since the water is at rest, we can use the equation of state for water to relate the density to the temperature and pressure. Let's denote the density of water as \u03c1. Then, we have the equation \u03c1=1000*(1+17.6/T), where T is the temperature in Kelvin. Using the ideal gas law, we can relate the pressure of the air above the water to the height of the water column. Let's denote the height of the water column as h. Then, we have the equation P=\u03c1"
+    },
+    {
+        "id": "validation_Energy_and_Power_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "E1 + E2 + E3",
+            "B": "E3",
+            "C": "E1 ",
+            "D": "E1 + E2 "
+        },
+        "response": "We refer to Wikipedia articles on refrigeration and air conditioning for help. The capacity of this forward feed evaporator is the sum of the capacities of the three heat exchangers in this series, which is E1 + E2 + E3.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1) 6001 kW, (2) 0.436",
+            "B": "(1) 6181 kW, (2) 0.536",
+            "C": "(1) 6081 kW, (2) 0.536"
+        },
+        "response": "(1) 6081 kW, (2) 0.536\n\nThe net power output can be calculated using the following equation:\nPnet = h1s1 + h2s2 - h3s3\nwhere Pnet is the net power output, h1, s1, h2, s2, and h3 are the enthalpies and specific enthalpies of the working fluid at the respective stages.\nSubstituting the values given in the question, we get:\nPnet = (850 + 650 - 40) * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 1000 * 10"
+    },
+    {
+        "id": "validation_Energy_and_Power_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3000 lbf/ft^2",
+            "B": "3600 lbf/ft^2",
+            "C": "3400 lbf/ft^2"
+        },
+        "response": "We are given that the water flow rate is 0.117 gpm, the hose diameter is 0.625 inches, the distance from the nozzle exit to the garden is 125 feet, and we neglect losses. We are asked to find the minimum gage pressure required inside the hose to reach the garden. We can use the formula for the pressure drop across a pipe to find the minimum gage pressure required inside the hose. The formula is P = (\u03c0D^4 / 2gh) - P_in, where P is the pressure drop across the pipe, D is the pipe diameter, g is the acceleration due to gravity, h is the height of the pipe, and P_in is the initial pressure inside the hose. Substituting in the given values, we get P = (\u03c0(0.625)^4 / 2(9.81)(125)) - P_in = 3400 lbf/ft^2. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Energy_and_Power_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "F=689.4N",
+            "B": "F=660.5N",
+            "C": "F=699.6N",
+            "D": "F=709.6N"
+        },
+        "response": "The force needed to open the valve is given by the force required to increase the volume of the cylinder by the area of the valve times the difference in pressure between the inside and outside of the cylinder. This is equal to F = p1 * A * (p2 - p1), where p1 is the pressure inside the cylinder, A is the area of the valve, and p2 is the pressure outside the cylinder. Plugging in the given values, we get F = (735 kPa * 11 cm2) * (99 kPa - 735 kPa) = 689.4 N, so the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$\\begin{aligned}V&=\\frac{V_c}{3}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^2\\\\\\\\\\end{aligned}$",
+            "B": "$\\begin{aligned}V&=\\frac{V_c}{2}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^2\\\\\\\\\\end{aligned}$",
+            "C": "$\\begin{aligned}V&=\\frac{V_c}{2}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^3\\\\\\\\\\end{aligned}$"
+        },
+        "response": "We refer to Wikipedia articles on fluid dynamics for help. The velocity profile is given by $V = V_c[1 - (r/R)^2]$, where $r$ is the distance from the center of the pipe. The mass flow rate is given by $\\dot{m} = \\pi \\nu V_c R^2$, where $\\nu$ is the kinematic viscosity. We have $\\dot{m} = \\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^2$.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Energy_and_Power_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "540 hp",
+            "B": "334 hp",
+            "C": "410 hp"
+        },
+        "response": "We are given the design flow rate of 15,000 gal/min in either direction and the friction head loss of 17 ft. To estimate the power extracted by the turbine, we can use the formula:\nPower = Flow rate x Head loss x 745 W/gal x 12 h\nwhere 745 W/gal is the energy content of water in Wh/gal and 12 h is the time period for one day.\nSubstituting the given values, we get:\nPower = 15,000 gal/min x 17 ft x 745 W/gal x 12 h = 4,359,000 Wh/min = 3,340,000 Wh/day\nSince there are 8760 minutes in one day, the power extracted by the turbine is:\nPower = 3,340,000 Wh/day x 8760 min/day = 28,500,000 Wh\nDividing by the energy content of water in Wh/gal, we get:\nPower = 28,500,000 Wh / 745 Wh/gal = 3,820,000 W\nDividing by 745 W/gal, we get:\nPower = 3,820,000 W / 745 W/gal = 514 hp\nTherefore, the power extracted by the turbine is approximately 514 hp. The answer is (B)."
+    },
+    {
+        "id": "validation_Energy_and_Power_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-10.0 kg/s",
+            "B": "-11.8 kg/s",
+            "C": "-12.4 kg/s"
+        },
+        "response": "(C) -12.4 kg/s"
+    }
+]

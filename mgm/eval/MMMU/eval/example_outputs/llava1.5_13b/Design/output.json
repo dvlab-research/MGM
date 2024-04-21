@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Design_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It represents musical notation through symbols.",
+            "B": "It facilitates mathematical calculations.",
+            "C": "It conveys a historical narrative.",
+            "D": "It contains sacred relics."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "to enliven paintings through the use of scientific theories about color and optic function",
+            "B": "to bring Classical structure to the Impressionists' approach to painting",
+            "C": "to use color to generate a strong emotional response from the viewer",
+            "D": "to produce an idiosyncratic style characterized by the use of small dots of color"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Proximity",
+            "B": "Alignment",
+            "C": "Contrast",
+            "D": "Unity"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Josef Albers",
+            "B": "George Eastman",
+            "C": "Gosnell Hall",
+            "D": "Tea Server 1925"
+        },
+        "response": "A) Josef Albers"
+    },
+    {
+        "id": "validation_Design_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "marriage",
+            "B": "betrothal",
+            "C": "coronation",
+            "D": "legal contract"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Zenith 'Guardian Ear & Radio Nurse'",
+            "B": "Innovative Hearing Aid Technology",
+            "C": "Ear and Radio Communication Advancements",
+            "D": "The Future of Guardian Technology"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Chanel No. 5 perfume",
+            "B": "Perfume Manufacturing Process",
+            "C": "The Art of Perfumery",
+            "D": "History of Chanel"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Masaccio",
+            "B": "Piero della Francesca",
+            "C": "Fra Angelico",
+            "D": "Giotto"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Design_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "carved ivory",
+            "B": "fresco secco",
+            "C": "marble",
+            "D": "mosaic"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "V-neck",
+            "B": "Cowl neckline",
+            "C": "Halter neckline",
+            "D": "Sweetheart neckline"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "accurately copying figures and subject matter from nature",
+            "B": "aligning the Old Testament and the New Testament through typology",
+            "C": "emphasizing the role of the saints in the church",
+            "D": "asserting imperial authority over the church"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bell Sleeve",
+            "B": "Puff Sleeve",
+            "C": "Cap Sleeve",
+            "D": "Raglan Sleeve"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "depict a disorganized scene that overwhelms the viewer",
+            "B": "model the anatomy of the figures naturalistically",
+            "C": "modify and transport the composition easily",
+            "D": "reduce the figures into abstract forms"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Design_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first or second century C. E.",
+            "B": "sixth or seventh century C. E.",
+            "C": "tenth or eleventh century C.E.",
+            "D": "fourteenth or fifteenth century C. E."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "royal palace",
+            "B": "religious institution",
+            "C": "private home",
+            "D": "civic building"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Analogous Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Monochromatic Color Scheme",
+            "D": "Triadic Color Scheme"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Analogous Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Monochromatic Color Scheme",
+            "D": "Triadic Color Scheme"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Design_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "By sketching multiple design ideas",
+            "B": "By conducting user testing",
+            "C": "By creating a presentation and developing the design into a publishable format that addresses all evaluation criteria",
+            "D": "By refining typography and layout"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Design_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Time waits for no man",
+            "B": "A common experience",
+            "C": "A mystery",
+            "D": "A clock"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Dish rack",
+            "B": "Dishwasher",
+            "C": "Cutting board",
+            "D": "Countertop landing area"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Monochromatic Color Scheme",
+            "B": "Complementary Color Scheme",
+            "C": "Analogous Color Scheme",
+            "D": "Accented Neutral Color Scheme"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Symmetrical",
+            "B": "Asymmetrical",
+            "C": "Radical",
+            "D": "Bilateral"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Beau Brownie camera",
+            "B": "Photography in the 20th Century",
+            "C": "History of Kodak Cameras",
+            "D": "Vintage Camera Collection"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "hanging in a household niche as an object of private meditation",
+            "B": "fulfilling a special commission for a wealthy patron",
+            "C": "mass production for purchase by a wide audience",
+            "D": "personal artistic experimentation with new media"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Wifredo Lam",
+            "B": "Frida Kahlo",
+            "C": "Diego Rivera",
+            "D": "Jacob Lawrence"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Design_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Le destin screen",
+            "B": "Jacques Doucet",
+            "C": "Salon des Artistes Decorateurs",
+            "D": "Eileen Gray"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Sumerian",
+            "B": "Mycenaean",
+            "C": "Etruscan",
+            "D": "Minoan"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Design_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Appliance",
+            "B": "Traffic",
+            "C": "Cabinet",
+            "D": "Utensil"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Design_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "constellations and heavenly bodies",
+            "B": "clan locations and boundary lines",
+            "C": "royal lineage and family births",
+            "D": "ocean currents and landforms"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Design_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Frank Lloyd Wright",
+            "B": "I. M. Pei",
+            "C": "William Van Allen",
+            "D": "Philip Johnson"
+        },
+        "response": "C"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Mechanical_Engineering_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The A-A section is the same as the original section, so it is (A)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct view is (D)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "We are given the main and top views of a square. We need to find the left view. \n\nThe left view should be a mirror image of the top view. Let's start by identifying the sides and corners in the top view. \n\nIn the top view, we can see that there are 4 equal sides and 4 equal angles. Each side is a square, and each angle is a right angle. \n\nNow, let's look at the left view. Since the left view is a mirror image of the top view, we can identify the left view by reflecting the top view across a horizontal line. \n\nLooking at the left view, we can see that the square has been reflected across a horizontal line. Therefore, the left view is (D) a square with a circle in the middle."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$q_{0}=250.7403\\frac{kN}{m}$",
+            "B": "$q_{0}=350.7403\\frac{kN}{m}$",
+            "C": "$q_{0}=450.7403\\frac{kN}{m}$"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The maximum permissible value for the maximum intensity is given by the formula $\\frac{q_{0}}{A}=\\frac{F_{y}}{A}$, where $F_{y}$ is the yield stress and $A$ is the area of the cross section. The beam has a rectangular cross section with a width of 200 mm and height of 300 mm, so the area is $A=200\\times300=60000 mm^{2}$. The allowable normal stresses in tension and compression are 120 MPa, so the yield stress is $F_{y}=2\\sqrt{120}=200 MPa$. Therefore, the maximum permissible value for the maximum intensity is $\\frac{q_{0}}{A}=\\frac{q_{0}}{60000}=0.0417 q_{0}$, so the maximum permissible value for $q_{0}$ is $q_{0}=250.7403 kN/m$. The answer (A) is the correct one."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "K>0",
+            "B": "K>1",
+            "C": "K<0"
+        },
+        "response": "We need to find the range of K for which the system of equations is stable using the Routh-Hurwitz criterion. The Routh-Hurwitz criterion states that the system is stable if the first n+1 diagonal elements of the Routh-Hurwitz matrix are all positive. The Routh-Hurwitz matrix is given by:\n\n[ K + (s + 1)(s + 2)(s + 3) / (s + 5)(s + 7) ]\n\nWe need to find the range of K for which this matrix is stable. Let's start by finding the first n+1 diagonal elements of the matrix:\n\n[ K + (s + 1)(s + 2)(s + 3) / (s + 5)(s + 7) ] = [ K + s(s + 2)(s + 3) / (s + 5)(s + 7) ]\n\nWe can simplify this expression by using the fact that s(s + 2)(s + 3) = s^3 + 2s^2 + 3s:\n\n[ K + s^3 + 2s^2 + 3s / (s + 5)(s + 7) ]\n\nNow we need to find the range of K for which this expression is positive. We can use the fact that the denominator is always non-zero, so we can divide both the numerator and denominator by (s + 5)(s + 7):\n\n[ K + s^3 + 2s^2 + 3s / (s + 5)(s + 7) ] = [ K + s^3 + 2s^2 + 3s / (s^2 + 2s + 3) ]\n\nWe can simplify this expression further by using the fact that s^2 + 2s + 3 = (s + 1)(s + 3):\n\n[ K + s^3 + 2s^2 + 3s / (s^2 + 2s + 3) ] = [ K + s^3 + 2s^2 + 3s / (s + 1)(s + 3) ]\n\nNow we can use the Routh-Hurwitz criterion to find the range of K for which the system is stable. We need to find the first n+1 diagonal elements of the Routh-Hurwitz matrix, which"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_6",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$D=\\frac{1}{C_{2}}\\ln(1+\\frac{C_{2}}{C_{1}}v_{0}^{2})$",
+            "B": "$D=\\frac{1}{2C_{2}}\\ln(1+\\frac{C_{1}}{C_{2}}v_{0}^{2})$",
+            "C": "$D=\\frac{1}{2C_{2}}\\ln(1+\\frac{C_{2}}{C_{1}}v_{0}^{2})$"
+        },
+        "response": "We are given that the aerodynamic resistance to motion of a car is nearly proportional to the square of its velocity, so the additional frictional resistance is constant. Let's denote the constant frictional resistance as C1 and the constant of proportionality for the aerodynamic resistance as C2. We are also given that the car has an initial velocity v0 when the engine is disengaged.\nWe can use the equation of motion for the car to derive an expression for the distance D required for the car to coast to a stop. Let's denote the acceleration of the car as a. According to the equation of motion, the velocity of the car satisfies the equation v = v0 + at, where v is the velocity, v0 is the initial velocity, a is the acceleration, and t is the time.\nWe can use the equation of motion to write the equation a = -C1 - C2*v^2 as a function of t. Let's denote the time required for the car to coast to a stop as t1. Then, we can substitute v = v0 + at into the equation a = -C1 - C2*v^2 to get a = -C1 - C2*(v0 + at)^2.\nWe can simplify this equation by taking the derivative of both sides with respect to t and setting it equal to zero. This gives us the equation t1 = (C1 + C2*v0^2)^-1*C2.\nWe can use this equation to find the time required for the car to coast to a stop. Let's denote the distance required for the car to coast to a stop as D. Then, we can write D = v0*t1.\nWe can substitute t1 = (C1 + C2*v0^2)^-1*C2 into this equation to get D = v0*(C1 + C2*v0^2)^-1*C2.\nWe can simplify this equation by taking the derivative of both sides with respect to v0 and setting it equal to zero. This gives us the equation v0 = (C1 + C2*D^2)^-1*C2.\nWe can substitute this equation into the equation D = v0*t1 to get D = v0*(C1 + C2*v0^2)^-1*C2*(C1 + C2*D^2)^-1*C2.\nWe can simplify this equation by taking the logarithm of both sides with respect to C2 and setting"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "3.8-hp input,2.3-hp output",
+            "B": "4.8-hp input,4.3-hp output",
+            "C": "3.8-hp input,2.3-hp output",
+            "D": "9.8-hp input,2.3-hp output"
+        },
+        "response": "We refer to Wikipedia articles on mechanical engineering for help. The power input is given by the gear material, the worm material, the speed of the motor, and the efficiency of the motor. The power output is given by the gear material, the worm material, and the efficiency of the motor. The bending and surface fatigue considerations require special cooling provisions for operation at this capacity. The answer is (A)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$h=1.444\\times10^{5}km$",
+            "B": "$h=1.644\\times10^{5}km$",
+            "C": "$h=1.844\\times10^{5}km$"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The given information is a part of the problem \"A spacecraft S is located at the point S in the figure above. The distance h from S to the Earth is 200,000 km. The distance h from S to the Sun is also 200,000 km. Determine the distance h for which the spacecraft S will experience equal attractions from the Earth and from the Sun.\"\nThe problem states that the distance h from S to the Earth is 200,000 km and the distance h from S to the Sun is also 200,000 km. Therefore, the distance h for which the spacecraft S will experience equal attractions from the Earth and from the Sun is the same as the distance between the Earth and the Sun, which is 1.4 times 10^5 kilometers. So the answer is (A)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "K2=0.6,K1=0.277",
+            "B": "K2=0.06,K1=0.377",
+            "C": "K2=0.06,K1=0.277",
+            "D": "K2=0.01,K1=0.177"
+        },
+        "response": "We are given that the peak time is 1 second and the settling time is 2 seconds. We can use the following relationships to find the values of K1 and K2:\n\n1. The peak time is given by the time constant of the low-pass filter formed by K1 and 1/s. Therefore, we have:\n\n   t_p = 0.693 * 1/s\n\n   Solving for s, we get:\n\n   s_p = 1/t_p = 1/0.693 = 1.41\n\n   The low-pass filter has a cutoff frequency of 1/s, so the peak time is 1 second.\n\n2. The settling time is given by the time constant of the high-pass filter formed by K2 and 1/s. Therefore, we have:\n\n   t_s = 0.693 * 1/s\n\n   Solving for s, we get:\n\n   s_s = 1/t_s = 1/0.693 = 1.41\n\n   The high-pass filter has a cutoff frequency of 1/s, so the settling time is 2 seconds.\n\nWe are given that the peak time is 1 second, so we can use the following equation to find the values of K1 and K2:\n\n   t_p = 0.693 * 1/s + 0.693 * 1/s\n\n   Solving for s, we get:\n\n   s_p = 1/t_p = 1/0.693 = 1.41\n\n   Therefore, we have:\n\n   K1 = s_p * R/s\n     = 1.41 * R/s\n     = R(1.41/s)\n\n   K2 = s_s * C/s\n     = 1.41 * C/s\n\n   We want the peak time to be 1 second and the settling time to be 2 seconds. Therefore, we can set:\n\n   t_p = 1\n   t_s = 2\n\n   Solving for R and C, we get:\n\n   R = 100\n   C = 10\n\n   Therefore, the values of K1 and K2 are:\n\n   K1 = 1.41 * R/s = 1.41 * 100/s = 141/s\n     = 141 * (s+1)/(s+"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$k_{eq}=4.80\\cdot10^{7}\\frac{N}{m}$",
+            "B": "$k_{eq}=5.80\\cdot10^{7}\\frac{N}{m}$",
+            "C": "$k_{eq}=6.80\\cdot10^{7}\\frac{N}{m}$"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The bimetallic bar is composed of steel and aluminum, with the steel section being 2 cm by 0.5 cm and the aluminum section being 2 cm by 0.5 cm. The Young's modulus of steel is 207 GPa and that of aluminum is 83 GPa. The bar is 2 meters long. According to the theory of bimetallic strip, the effective spring constant of the bimetallic strip in the axial direction is $k_{eq}=\\frac{E_{s}L}{(b_{1}+b_{2})/2}$, where $E_s$ is the Young's modulus of steel, $L$ is the length of the bar, and $b_{1}$ and $b_{2}$ are the lengths of the steel and aluminum sections, respectively. Substituting in the given values, we get $k_{eq}=4.80\\cdot10^{7}\\frac{N}{m}$. The answer (A) is the correct one."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "41.7Mpa,44.83Mpa",
+            "B": "31.7Mpa,34.83Mpa",
+            "C": "21.7Mpa,34.83Mpa",
+            "D": "21.7Mpa,24.83Mpa"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The maximum stress at the hole is 34.83 MPa, and the maximum stress at the notch is 24.83 MPa. So the answer is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct left view is (B) a square with a horizontal line through its center, a circle with a horizontal line through its center, and a T-shaped object with a horizontal line through the larger T-shaped part and a vertical line through the smaller T-shaped part. \n\nThe other options are incorrect because they do not represent a left view of a shape. For example, option (A) shows a rectangle with a vertical line through the center, which is not a left view of a shape. Option (C) shows a T-shaped object with a vertical line through the top and bottom parts, which is not a left view of a shape. Option (D) shows a T-shaped object with a vertical line through the top part and a horizontal line through the bottom part, which is not a left view of a shape."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct left view is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "9673J,2218N\u22c5m",
+            "B": "5723J,1218N\u22c5m",
+            "C": "9673J,1218N\u22c5m",
+            "D": "5723J,2218N\u22c5m"
+        },
+        "response": "(a) The kinetic energy in the system is given by $K=\\frac{1}{2}mv^2=\\frac{1}{2}\u00d71000\u00d74^2=9672$ J. (b) The additional brake torque required to bring the system to rest in 0.60 s is given by $T_b=I\\alpha=\\frac{2698}{550^2}\\cdot 2\\pi \\cdot 0.60=5723$ N m.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct left view is (B) B."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "114.64mm",
+            "B": "214.64mm",
+            "C": "314.64mm"
+        },
+        "response": "The maximum shortening of the spring due to the impact can be calculated using the following formula:\nmax(\u0394h) = 0.5kW/h^2\nwhere max(\u0394h) is the maximum shortening of the spring, k is the stiffness of the spring, W is the weight of the block, and h is the height at which the block falls.\nPlugging in the given values, we get:\nmax(\u0394h) = 0.5kW/h^2 = 0.5 * 90 N/m * (5.0 N)/(200 mm)^2 = 114.64 mm\nTherefore, the maximum shortening of the spring due to the impact is 114.64 mm."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "We refer to Wikipedia articles on electrical engineering for help. The A-A cross-section in the figure is a round cross-section. So the answer is (A)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$\\alpha=(pw_{1}i-pw_{2}j+w_{1}w_{2}k)rad/s^{2}$",
+            "B": "$\\alpha=(pw_{2}i-pw_{1}j+w_{1}w_{2}k)rad/s^{2}$",
+            "C": "$\\alpha=(pw_{2}i-2pw_{1}j+w_{1}w_{2}k)rad/s^{2}$"
+        },
+        "response": "The disk has a constant angular velocity p about its z-axis, and the yoke A has a constant angular velocity $\\omega_{2}$ about its shaft as shown. Simultaneously, the entire assembly revolves about the fixed X-axis with a constant angular velocity$\\omega_{1}$. Let's picture the vector changes in the angular-velocity components.\nThe disk has a constant angular velocity p about its z-axis, so its angular acceleration is zero. The yoke A has a constant angular velocity $\\omega_{2}$ about its shaft, so its angular acceleration is zero. The entire assembly revolves about the fixed X-axis with a constant angular velocity$\\omega_{1}$, so its angular acceleration is zero.\nNow, let's consider the change in the angular velocity of the disk when the yoke A brings it into the vertical plane. The angular velocity of the disk about its z-axis is constant, so its angular acceleration is zero. The angular velocity of the disk about its y-axis is zero, so its angular acceleration is zero. The angular velocity of the disk about its x-axis is constant, so its angular acceleration is zero.\nThe angular velocity of the yoke A about its shaft is constant, so its angular acceleration is zero. The angular velocity of the yoke A about its z-axis is zero, so its angular acceleration is zero. The angular velocity of the yoke A about its x-axis is constant, so its angular acceleration is zero.\nThe angular velocity of the entire assembly about its X-axis is constant, so its angular acceleration is zero. The angular velocity of the entire assembly about its Y-axis is zero, so its angular acceleration is zero. The angular velocity of the entire assembly about its Z-axis is constant, so its angular acceleration is zero.\nTherefore, the angular acceleration of the disk when the yoke A brings it into the vertical plane is zero. The expression for the angular acceleration of the disk is $\\alpha=0rad/s^{2}$. The correct answer is (A)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$(\\tau_{n})_{2}=0.333s$",
+            "B": "$(\\tau_{n})_{2}=0.433s$",
+            "C": "$(\\tau_{n})_{2}=0.533s$"
+        },
+        "response": "We refer to Wikipedia articles on mechanical engineering for help. The natural period of the system is given by the inverse of the smallest time constant, which is the time for one complete cycle of the mass. The time constant is the ratio of the mass to the spring constant. For the first case, the spring is cut into two parts, and the mass is connected to both parts. The spring constant is halved, and the mass is doubled. The time constant is thus $(\\frac{1}{k})_{1}=0.5s$. For the second case, the spring is cut into two parts, and the mass is connected to the two parts. The spring constant is halved, and the mass is multiplied by 4. The time constant is thus $(\\frac{1}{k})_{2}=\\frac{1}{2.25s}$. The smallest time constant is $(\\frac{1}{k})_{2}=0.433s$.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5kN",
+            "B": "6kN",
+            "C": "7kN",
+            "D": "8kN"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The maximum normal stress theory states that the frame will experience initial yielding when the maximum normal stress is equal to the yield strength of the material. The normal stress is defined as the stress in the direction of the applied load. The normal stress at point a is $\\sigma _{1} = 200$ MPa, and the normal stress at point b is $\\sigma _{2} = -100$ MPa. The maximum normal stress is $\\sigma _{max} = \\max (\\sigma _{1}, \\sigma _{2}) = \\max (200$ MPa, $-100$ MPa) = $100$ MPa. The yield strength of the material is Sy = 400 MPa. Therefore, the test load at which the frame will experience initial yielding is $P = \\sigma _{max} \\cdot \\pi \\cdot d = (100$ MPa) $\\cdot \\pi \\cdot d = 5 \\cdot 10^{3}$ N, where $d$ is the distance from the applied load to the point of interest. The distance from the applied load to point a is $d_{a} = \\sqrt{(4 k N)^{2} + (200$ MPa)^{2}} = \\sqrt{16 k N^{2} + 40000}$ N. The distance from the applied load to point b is $d_{b} = \\sqrt{(4 k N)^{2} + (-100$ MPa)^{2}} = \\sqrt{16 k N^{2} + 10000}$ N. The test load at which the frame will experience initial yielding is $P = 5 \\cdot 10^{3}$ N for point a, and $P = 7 \\cdot 10^{3}$ N for point b. The correct answer is (C)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "h=125.358m,t=27.62s",
+            "B": "h=105.358m,t=27.62s",
+            "C": "h=125.358m,t=24.62s"
+        },
+        "response": "The correct answer is (A) h=125.358m,t=27.62s.\n\nTo solve this problem, we can use the following equations:\n\n1. The initial velocity of the rocket is zero, so its displacement is equal to its final velocity at the apex.\n2. The time it takes for the rocket to reach its maximum height is equal to the time it takes for the rocket to fall from its maximum height.\n3. The maximum height of the rocket is equal to the distance from the launch point to the apex, minus the distance from the apex to the ground.\n4. The acceleration due to gravity is constant, so the velocity of the rocket at any point in time is given by the formula v = u + at, where v is the final velocity, u is the initial velocity, a is the acceleration due to gravity, and t is the time.\n\nWe are given that the rocket is launched with a constant upward acceleration of 3 m/s^2, so its initial velocity is 0 m/s. We are also given that the rocket falls at a constant speed of 0.85 m/s until it impacts the ground, so its final velocity at the apex is 0.85 m/s. We are also given that the rocket falls for a total of 8 seconds, so its time to reach its maximum height is 8 seconds.\n\nUsing these values, we can calculate the maximum height of the rocket as follows:\n\nh = (v_f - v_i) / a = (0.85 m/s - 0 m/s) / 3 m/s^2 = 2.83 m\n\nTherefore, the maximum height of the rocket is 2.83 meters.\n\nThe total flight time of the rocket is the time it takes for the rocket to fall from its maximum height, which is equal to the time it takes for the rocket to fall from its maximum height, which is equal to the time it takes for the rocket to fall from its maximum height, which is equal to the time it takes for the rocket to fall from its maximum height, and so on. Therefore, the total flight time of the rocket is equal to the time it takes for the rocket to fall from its maximum height, which is equal to the time it takes for the rocket to fall from its maximum height, which is equal to the time it takes for the rocket to fall from its maximum height, and so on. Using the formula t = h / g"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7522lb,1643lb",
+            "B": "6857lb,1643lb",
+            "C": "7522lb,1728b",
+            "D": "6857lb,1728lb"
+        },
+        "response": "(a) The minimum required value of initial preload to prevent loss of compression of the plates is 7522 lb. (b) The minimum force in the plates for the fluctuating load when the preload is 8500 lb. is 1643 lb."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11456lb",
+            "B": "14700lb",
+            "C": "12457lb",
+            "D": "13000lb"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The maximum tensile load that can be applied is 14700 lb with a safety factor of 3.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_24",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-2.77 ksi",
+            "B": "-3.77 ksi",
+            "C": "-4.77 ksi"
+        },
+        "response": "We are given the modulus of elasticity E = 29,000 ksi and the coefficient of thermal expansion $\\alpha=6.5\\times10^{-6}/^\\circF$. The beam has a length L = 10 ft and is held between immoveable supports, so the only deformation that can occur is thermal expansion. The temperature change $\\Delta T=20^\\circF$ is given.\nTo calculate the thermal stress $\\sigma_{T}$ in the beam, we can use the formula:\n$\\sigma_{T} = \\frac{\\Delta E}{L} \\cdot \\alpha \\cdot \\Delta T$\nwhere $\\Delta E$ is the change in energy due to the temperature change. In this case, we are given that the beam has a mass M = 100 kg, so its energy E is given by:\nE = 1/2 * M * v^2\nwhere v is the velocity of the beam. Since the beam is held between immoveable supports, its velocity is zero. Therefore, the energy E is constant and does not change with temperature. So, we can set $\\Delta E = 0$ and find the thermal stress $\\sigma_{T}$ as:\n$\\sigma_{T} = \\frac{\\Delta T}{L} \\cdot \\alpha = 20^\\circF \\cdot 6.5 \\times 10^{-6}/^\\circF = -3.77 ksi$\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$R_{A}=R_{C}=-2.429kips$",
+            "B": "$R_{A}=R_{C}=-1.429kips$",
+            "C": "$R_{A}=R_{C}=-0.429kips$"
+        },
+        "response": "We refer to the image for the problem for better understanding. Let\u2019s first calculate the cross-sectional area of the bar. The cross-sectional area of the bar is given by A = L^2 / 4 * t. Plugging in the given values, we get A = (3 ft)^2 / 4 * (1/4 in.) = 0.0392 ft^2.\nNow, let\u2019s calculate the volume of the bar. The volume of the bar is given by V = L * b1 * b2. Plugging in the given values, we get V = (3 ft) * (2 in.) * (2.5 in.) = 15.717 in^3.\nNext, we need to calculate the change in volume due to the temperature change. The change in volume is given by dV = V * dT / (1 + (dT/V) * (L/V)). Plugging in the given values, we get dV = (15.717 in^3) * (20^\\circF) / (1 + (20^\\circF / (15.717 in^3)) * (3 ft / (2.5 in.) * (2 in.))) = 0.0167 in^3.\nNow, we need to calculate the change in length due to the temperature change. The change in length is given by dL = L * dT / (1 + (dT/L) * (L/V)). Plugging in the given values, we get dL = (3 ft) * (20^\\circF) / (1 + (20^\\circF / (3 ft / (2.5 in.) * (2 in.))) = 0.0036 ft.\nFinally, we need to calculate the reaction at A and C. The reaction at A is given by $R_A = \\sigma_A dL / dV = \\sigma_A (0.0036 ft) / (0.0392 ft^2) = -0.429 kips. Similarly, the reaction at C is given by $R_C = \\sigma_C dL / dV = \\sigma_C (0.0036 ft) / (0.0392 ft^2) = -0.429 kips.\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The labeling method for the thread is incorrect when the letter is not followed by a number. So, the correct labeling method is (A) A, (B) B, and (C) C. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "F=7490lbf",
+            "B": "F=7470lbf",
+            "C": "F=7480lbf"
+        },
+        "response": "We can model this problem as a simple beam bending problem. The gate is a quarter circle with radius r = 8 ft and is uniform and weighs 3000 lbf. The gate is hinged at B and is in contact with the water. The force F just sufficient to keep the gate from opening is given by the formula F = (3/4)\u03c0r^2I_b/2, where I_b is the moment of inertia of the gate about the hinge. The moment of inertia of a quarter circle is given by I_b = (3/4)\u03c0r^4. Substituting the given values, we get F = (3/4)\u03c0(8)^4(3000)/(2) = 7470 lbf. Therefore, the answer is (B) F=7470lbf."
+    },
+    {
+        "id": "validation_Mechanical_Engineering_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "17.59",
+            "B": "27.59",
+            "C": "37.59"
+        },
+        "response": "We are given that the system is a second-order system with the following transfer function: $H(s) = \\frac{5}{s + 5}$ We are asked to find the steady-state error for an input of 50u(t). The steady-state error is the error in the output when the input is held constant. Let's first find the output of the system for an input of 50u(t). The output of the system is given by the Laplace transform of the output, which is $y(t) = R(s) \\cdot h(t) + C(s) \\cdot u(t)$ $y(t) = 5 \\cdot 50e^{-5t} + C(s) \\cdot u(t)$ $y(t) = 250e^{-5t} + C(s) \\cdot u(t)$ Now, we can find the steady-state error by taking the Laplace transform of the difference between the output and the reference signal: $\\Delta y(t) = y(t) - R(s) \\cdot h(t)$ $\\Delta y(t) = 250e^{-5t} - 5 \\cdot 50e^{-5t}$ $\\Delta y(t) = 200e^{-5t}$ The steady-state error is the limit of the difference between the output and the reference signal as the time approaches infinity: $e = \\lim_{t \\to \\infty} \\Delta y(t)$ $e = \\lim_{t \\to \\infty} (200e^{-5t})$ $e = 200$ The steady-state error is 200. The answer: (C). 37.59"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{5}+R^2{(k_{4}+k_{6})}$",
+            "B": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{4}+R^2{(k_{5}+k_{6})}$",
+            "C": "$k_{et}=(\\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}})+k_{6}+R^2{(k_{4}+k_{5})}$"
+        },
+        "response": "The equivalent torsional spring constant of the system shown in <image 1> can be calculated as follows:\n\n$k_{et} = \\frac{k_{1}k_{2}k_{3}}{k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2}}$\n\nwhere $k_{et}$ is the equivalent torsional spring constant, $k_{1}$, $k_{2}$, $k_{3}$ are the torsional spring constants, $k_{4}$, $k_{5}$, $k_{6}$ are the linear spring constants, and $R$ is the radius of the shaft.\n\nWe can see that the spring constants are arranged in the form of a quadratic equation, which can be simplified using the quadratic formula:\n\n$k_{et} = \\frac{-(k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2})}{(k_{2}k_{3}+k_{1}k_{3}+k_{1}k_{2})^2+k_{1}k_{2}k_{3}k_{4}+k_{1}k_{2}k_{3}k_{5}+k_{1}k_{2}k_{3}k_{6}+k_{1}k_{2}k_{3}k_{7}+k_{1}k_{2}k_{3}k_{8}+k_{1}k_{2}k_{3}k_{9}+k_{1}k_{2}k_{3}k_{10}+k_{1}k_{2}k_{3}k_{11}+k_{1}k_{2}k_{3}k_{12}+k_{1}k_{2}k_{3}k_{13}+k_{1}k_{2}k_{3}k_{14}+k_{1}k_{2}k_{3}k_{15}+k_{1}k_{2}k_{3}k_{16}+k_{1}k_{2}k_{3}k_{17}+k_{1}k_{2}k_{3}k_{18}+k_{1}k_{2}k_{3}k_{"
+    },
+    {
+        "id": "validation_Mechanical_Engineering_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "response": "The correct left view is (B) B."
+    }
+]

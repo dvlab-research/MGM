@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Literature_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Protagonist",
+            "B": "Round character",
+            "C": "Character foil",
+            "D": "Shape"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Theme",
+            "B": "Explicit Themes",
+            "C": "Biography Series",
+            "D": "Secondary Themes"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Inference",
+            "B": "Message",
+            "C": "Context Clue",
+            "D": "Text Evidence"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Mississippi River and Abraham Lincoln are mentioned.",
+            "B": "The writer compares a lost dream to a dried up raisin.",
+            "C": "The writer uses images from nature in the cold dessert.",
+            "D": "The would-be-thief was motivated by blue suede shoes."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Diagonal line",
+            "B": "Horizontal line",
+            "C": "Vertical line",
+            "D": "List spacing"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Resolution",
+            "B": "Exposition",
+            "C": "Conflict",
+            "D": "Rising Action"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fact Book Stretch",
+            "B": "Sketch to Stretch",
+            "C": "Science Fiction Stretch",
+            "D": "Informational Picture Book"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Theme",
+            "B": "Dialogue",
+            "C": "Plot",
+            "D": "Drama"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Theme",
+            "B": "Setting",
+            "C": "Style",
+            "D": "Tone"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Convoluted",
+            "B": "Frontispiece",
+            "C": "Preface",
+            "D": "Omniscient"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Tragedy",
+            "B": "Comedy",
+            "C": "Drama",
+            "D": "Plot"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hates",
+            "B": "Motif",
+            "C": "Drifts",
+            "D": "Covers"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Graffiti Boards",
+            "B": "Freewrites",
+            "C": "Activity Books",
+            "D": "Story Ray"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Choral Reading",
+            "B": "Literature Circle",
+            "C": "Readers Theatre",
+            "D": "Shared Reading"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Chronological plot",
+            "B": "Episodic plot",
+            "C": "Nonlinear plot",
+            "D": "Progressive plot"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Legends",
+            "B": "Fractured Folktales",
+            "C": "Humorous Tale",
+            "D": "Retold Tale"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Epics",
+            "B": "Multigenre Books",
+            "C": "Informational Books",
+            "D": "Reference Books"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Modernism",
+            "B": "Romanticism",
+            "C": "Realism",
+            "D": "Transcendentalism"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The father is compared to a gypsy.",
+            "B": "The danger of letting go of a dream.",
+            "C": "Keep hold of your dream.",
+            "D": "Let's celebrate bold women!"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Input",
+            "B": "Computer",
+            "C": "Software",
+            "D": "Hardware"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Literature_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Humanities",
+            "B": "Science Fiction",
+            "C": "Informational Book Series",
+            "D": "Science Fantasy"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fable",
+            "B": "Humorous Tale",
+            "C": "Theme",
+            "D": "Quest Stories"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Nuclear Family",
+            "B": "Perspective Switch",
+            "C": "News Program",
+            "D": "Extended Family"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Science Fiction",
+            "B": "Biological Science",
+            "C": "Physical Science Or Natural Science",
+            "D": "Applied Science"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Literature_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Religious Stories",
+            "B": "Parables",
+            "C": "Retold Tale",
+            "D": "Legends"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Contrast",
+            "B": "Reasoning",
+            "C": "Counterpoint",
+            "D": "Printmaking"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Literature_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Memoirs",
+            "B": "Concept Picture Book",
+            "C": "Survival And Adventure",
+            "D": "Shared-book Experience"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "falling action",
+            "B": "climax",
+            "C": "exposition",
+            "D": "rising action"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Literature_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Retold Tale",
+            "B": "Tall Tale",
+            "C": "Humorous Tale",
+            "D": "Castle Tales"
+        },
+        "response": "B"
+    }
+]

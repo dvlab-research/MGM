@@ -1,0 +1,556 @@
+[
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "This tumor is a variant of glioblastoma multiforme (GBM)",
+            "B": "This tumor is metastatic from a soft tissue sarcoma",
+            "C": "This patient had a pigmented lesion removed 10 years before",
+            "D": "This represents a gliotic scar in an infarct",
+            "E": "This is a classic example of meningoangiomatosis"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Carcinoma of the breast",
+            "B": "Medullary carcinoma of the thyroid gland",
+            "C": "Tricholemmomas of the face",
+            "D": "Macrocephaly"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "Subacute sclerosing Panencephalitis (SSPE)"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "shows the typical pattern of a subependymoma",
+            "B": "is benign and slow growing",
+            "C": "commonly intraventricular",
+            "D": "all are correct"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hypoxia",
+            "B": "A mitochondrial disorder",
+            "C": "Polymyositis",
+            "D": "Nemaline myopathy"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "This dog has megaesophagus, and an upright feeding chair should be recommended.",
+            "B": "This dog has extra mediastinal fat, and megaesophagus is not identified.",
+            "C": "This dog has pulmonary edema in the cranial lung lobes, likely secondary to aspiration pneumonia.",
+            "D": "This dog has a large volume pleural effusion, and a thoracentesis should be performed immediately."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The differential diagnosis on this case is remote infarct vs. remote contusion",
+            "B": "There is a well developed gliotic wall associated with this remote injury",
+            "C": "The presence of macrophages is not helpful in distinguishing this from a subacute process",
+            "D": "This is very unlikely to have resulted from venous occlusion"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2nd trimester in utero",
+            "B": "Post-partum in pre-term (< 34 weeks gestational age) infant",
+            "C": "Post-partum in term infant",
+            "D": "1st trimester in utero"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Neuronal migration defect",
+            "B": "Neural tube closure defect",
+            "C": "Perinatal hypoxic/ischemic event",
+            "D": "Neoplasm"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Trypanosomiasis",
+            "B": "Amebic encephalitis",
+            "C": "Cerebral malaria",
+            "D": "Tuberculous meningitis",
+            "E": "Aspergillosis"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "HIV encephalitis",
+            "B": "Creutzfeldt-Jakob Disease",
+            "C": "Progressive supranucelar palsy",
+            "D": "amyotrophic lateral sclerosis"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Inferior olivary nucleus",
+            "B": "Dentate nucleus",
+            "C": "Locus ceruleus",
+            "D": "Basis pontis"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "tau",
+            "B": "alpha synuclein",
+            "C": "ubiquitin",
+            "D": "both B and C"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hydromyelia",
+            "B": "Syringomyelia",
+            "C": "Syringobulbia",
+            "D": "Diastematomyelia"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "2nd trimester hypoxic/ischemic event",
+            "B": "Nuchal cord",
+            "C": "Premature birth",
+            "D": "Sepsis",
+            "E": "Placental abruption"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Pilocytic astrocytoma",
+            "B": "Subependymoma",
+            "C": "Glioblastoma",
+            "D": "Anaplastic ependymoma",
+            "E": "Medulloblastoma"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Parkinson's Disease",
+            "B": "Progressive supranuclear palsy",
+            "C": "Either of the above",
+            "D": "None of the above"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cortical atrophy consistent with Alzheimer's Disease",
+            "B": "caudate atrophy consistent with Huntington's Disease",
+            "C": "normal variation of ventricular size",
+            "D": "none ot the above"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "Subacute sclerosing Panencephalitis (SSPE)"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_20",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Cysticercosis",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Trypanosomiasis",
+            "E": "Coccidiodal meningitis"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ependymoma",
+            "B": "pilocytic astrocytoma",
+            "C": "medulloblastoma",
+            "D": "none of the above"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "more common in children than adults",
+            "B": "may be intraventricular in children",
+            "C": "is often associated with seizures",
+            "D": "also has binucleate neurons"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Eosinophilic granuloma",
+            "B": "osteosarcoma",
+            "C": "trauma with repair",
+            "D": "malignant germ cell tumor"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Syphilis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "HIV encephalitis"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Ventricular preexcitation syndrome",
+            "B": "Ventricular fibrillation",
+            "C": "Sustained ventricular tachycardia",
+            "D": "Accelerated idioventricular rhythm"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_27",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "can be seen in a patient with acromegaly",
+            "B": "can be found incidentally",
+            "C": "may require the use of a reticulin stain to differentiate from normal gland",
+            "D": "can present as a non-functioning tumor with mass effect",
+            "E": "all are correct"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "is commonly associated with Von Hippel Lindau",
+            "B": "contains inhibin A positive stromal cells",
+            "C": "is rich in reticulin",
+            "D": "all are correct"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aortic dissection",
+            "B": "liver cancer",
+            "C": "liver abscess",
+            "D": "Liver adenoma"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Subacute cerebral infarcts with extensive epithelioid vascular proliferation",
+            "B": "Remote cerebral infarcts with metaplastic choroid plexus",
+            "C": "Subacute embolic infarcts associated with glycogen (PAS-Positive) storage disease",
+            "D": "Metastatic carcinoma with secondary infarcts"
+        },
+        "response": "A"
+    }
+]

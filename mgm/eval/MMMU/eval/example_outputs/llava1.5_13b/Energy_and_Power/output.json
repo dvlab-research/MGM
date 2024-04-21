@@ -1,0 +1,496 @@
+[
+    {
+        "id": "validation_Energy_and_Power_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "340.93K",
+            "B": "350.93K",
+            "C": "360.93K"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.32 0.67",
+            "B": "0.32,0.74",
+            "C": "0.67,0.32",
+            "D": "0.74,0.32"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Energy_and_Power_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.04 kg/s",
+            "B": "4.19 kg/s",
+            "C": "5.25 kg/s"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Energy_and_Power_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$0.00147\\frac{Btu}{lbm\\cdotR}$",
+            "B": "$0.00047\\frac{Btu}{lbm\\cdotR}$",
+            "C": "$0.00247\\frac{Btu}{lbm\\cdotR}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "15 lbf",
+            "B": "50 lbf",
+            "C": "25 lbf"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Jacketed Vessel",
+            "B": "Half coil Vessel",
+            "C": "Internal Coiled Vessel",
+            "D": "Shell and Tube Heat Exchanger"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.07, 31.8 kW",
+            "B": "4.97, 33.8 kW",
+            "C": "4.87, 30.8 kW"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "38.8 cm",
+            "B": "15.9 cm",
+            "C": "22.6 cm"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "12400 Pa",
+            "B": "36000 Pa",
+            "C": "26100 Pa"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.81 W/m K",
+            "B": "0.71 W/m K",
+            "C": "0.61 W/m K",
+            "D": "0.51 W/m K"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": " $\\Delta $T > 0, Q > 0",
+            "B": " $\\Delta $T < 0, Q = 0 ",
+            "C": " $\\Delta $T = 0, Q = 0 ",
+            "D": " $\\Delta $T > 0, Q < 0 ",
+            "E": " $\\Delta $T = 0, Q < 0"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "W=817Btu",
+            "B": "W=917Btu",
+            "C": "W=1017Btu"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "q=0.28",
+            "B": "q=0.38",
+            "C": "q=0.48"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Energy_and_Power_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "5.69 m",
+            "B": "2.37 m",
+            "C": "1.52 m"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.0174 m^3/s",
+            "B": "0.0126 m^3/s",
+            "C": "0.0152 m^3/s"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.64",
+            "B": "2.54",
+            "C": "2.44"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "50 m",
+            "B": "70 m",
+            "C": "90 m"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.1 kW",
+            "B": "0.2 kW",
+            "C": "0.3 kW"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "99,000 N",
+            "B": "102,000 N",
+            "C": "121,000 N"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Energy_and_Power_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "W' =-6.3MW",
+            "B": "W' =-7.3MW",
+            "C": "W' =-9.3MW"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "110,000 Pa",
+            "B": "102,000 Pa",
+            "C": "98,000 Pa"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.38E6 Pa",
+            "B": "2.61E5 Pa",
+            "C": "1.56E6 Pa"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "0.152 m",
+            "B": "2.032 m",
+            "C": "0.362 m"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "E1 + E2 + E3",
+            "B": "E3",
+            "C": "E1 ",
+            "D": "E1 + E2 "
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "(1) 6001 kW, (2) 0.436",
+            "B": "(1) 6181 kW, (2) 0.536",
+            "C": "(1) 6081 kW, (2) 0.536"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "3000 lbf/ft^2",
+            "B": "3600 lbf/ft^2",
+            "C": "3400 lbf/ft^2"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Energy_and_Power_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "F=689.4N",
+            "B": "F=660.5N",
+            "C": "F=699.6N",
+            "D": "F=709.6N"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "$\\begin{aligned}V&=\\frac{V_c}{3}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^2\\\\\\\\\\end{aligned}$",
+            "B": "$\\begin{aligned}V&=\\frac{V_c}{2}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^2\\\\\\\\\\end{aligned}$",
+            "C": "$\\begin{aligned}V&=\\frac{V_c}{2}\\\\\\dot{m}&=\\frac{\\pi}{2\\cdot\\nu}\\cdot V_c\\cdot R^3\\\\\\\\\\end{aligned}$"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Energy_and_Power_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "540 hp",
+            "B": "334 hp",
+            "C": "410 hp"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Energy_and_Power_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-10.0 kg/s",
+            "B": "-11.8 kg/s",
+            "C": "-12.4 kg/s"
+        },
+        "response": "B"
+    }
+]

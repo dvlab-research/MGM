@@ -1,0 +1,446 @@
+[
+    {
+        "id": "validation_Finance_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$152.5",
+            "B": "$162.5",
+            "C": "$172.5",
+            "D": "$182.5"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5%",
+            "B": "7%",
+            "C": "13%",
+            "D": "15.5%"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Finance_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$126,827",
+            "B": "$223,248",
+            "C": "$36,216",
+            "D": "$4,058"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$14,000,000",
+            "B": "$8,000,000",
+            "C": "$32,000,000",
+            "D": "$18,000,000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_5",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the cost of merger through stocks offer is $3,000,000",
+            "B": "the cost of merger through stocks offer is $4,000,000",
+            "C": "the cost of merger through stocks offer is $4,500,000",
+            "D": "the cost of merger through stocks offer is $5,000,000"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Finance_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11%",
+            "B": "8%",
+            "C": "10%",
+            "D": "9%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Month 3: $31,000; Month 4: $30,000",
+            "B": "Month 3: $81,000; Month 4: $96,000",
+            "C": "Month 3: $91,000; Month 4: $86,000",
+            "D": "Month 3: $119,000; Month 4: $100,000"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_8",
+        "question_type": "short-answer",
+        "answer": "360",
+        "response": "$1000"
+    },
+    {
+        "id": "validation_Finance_9",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$4 million",
+            "B": "$5 million",
+            "C": "$6 million",
+            "D": "$7 million"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_10",
+        "question_type": "short-answer",
+        "answer": "2000000",
+        "response": "7500"
+    },
+    {
+        "id": "validation_Finance_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Expansion A: 20% to 24%; Expansion B: 10% to 30%",
+            "B": "Expansion A: 16% to 24%; Expansion B: 10% to 30%",
+            "C": "Expansion A: 16% to 24%; Expansion B: 20% to 30%",
+            "D": "Expansion A: 20% to 24%; Expansion B: 20% to 30%"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Finance_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "1.23%",
+            "C": "2.38%",
+            "D": "3.57%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$7.25",
+            "B": "$8.75",
+            "C": "$9.75",
+            "D": "$10.75"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_14",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$6,340",
+            "B": "$7,340",
+            "C": "$8,340",
+            "D": "$9,340"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Project A: 22%; Project B: 23.37%",
+            "B": "Project A: 18%; Project B: 28.69%",
+            "C": "Project A: 22%; Project B: 28.69%",
+            "D": "Project A: 18%; Project B: 23.37%"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Finance_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7.5%",
+            "B": "8.5%",
+            "C": "10.5%",
+            "D": "11.5%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_17",
+        "question_type": "short-answer",
+        "answer": "1000",
+        "response": "102"
+    },
+    {
+        "id": "validation_Finance_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5%",
+            "B": "7%",
+            "C": "13%",
+            "D": "15.5%"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Finance_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.9397",
+            "B": "0.9492",
+            "C": "0.8292",
+            "D": "0.8194"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_20",
+        "question_type": "short-answer",
+        "answer": "7243000",
+        "response": "20,000,000"
+    },
+    {
+        "id": "validation_Finance_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$2,100",
+            "B": "$3,100",
+            "C": "$4,100",
+            "D": "$5,100"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-14.33%",
+            "B": "-23.72%",
+            "C": "0.45%",
+            "D": "56.52%"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Finance_23",
+        "question_type": "short-answer",
+        "answer": "527.89",
+        "response": "20"
+    },
+    {
+        "id": "validation_Finance_24",
+        "question_type": "short-answer",
+        "answer": "30.0",
+        "response": "10"
+    },
+    {
+        "id": "validation_Finance_25",
+        "question_type": "short-answer",
+        "answer": "0.286",
+        "response": "$1.00"
+    },
+    {
+        "id": "validation_Finance_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "interest rate = 5.0%; present value = $1,200,000",
+            "B": "interest rate = 10.0%; present value = $1,000,000",
+            "C": "interest rate = 8.0%; present value = $250,000",
+            "D": "interest rate = 6.0%; present value = $50,000"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7.5%",
+            "B": "8.5%",
+            "C": "10.5%",
+            "D": "11.5%"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5.58",
+            "B": "2.34",
+            "C": "15.18",
+            "D": "3.85"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Finance_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Project A: 3 years; Project B: 3 years; Project C: does's exist",
+            "B": "Project A: 3 years; Project B: does's exist; Project C: 3 years",
+            "C": "Project A: does's exist; Project B: 3 years; Project C: 5 years",
+            "D": "Project A: does's exist; Project B: does's exist; Project C: does's exist"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Finance_30",
+        "question_type": "short-answer",
+        "answer": "1249",
+        "response": "100"
+    }
+]

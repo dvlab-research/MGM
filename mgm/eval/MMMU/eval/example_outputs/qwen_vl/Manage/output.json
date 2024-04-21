@@ -1,0 +1,460 @@
+[
+    {
+        "id": "validation_Manage_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Defining the criteria for creativity",
+            "B": "List the attributes of each unrelated concept independently",
+            "C": "Evaluate different combinations of properties of two unrelated concepts",
+            "D": "Look for areas that force fit these attributes and provide opportunities"
+        },
+        "response": "The concept of dual association suggested by Berk (2013) is not related to Bi-sociation, Arthur Koestler's model from 1964. Therefore, the answer is (A) Defining the criteria for creativity."
+    },
+    {
+        "id": "validation_Manage_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "human resource Management",
+            "B": "technology",
+            "C": "marketing",
+            "D": "operations"
+        },
+        "response": "B) technology"
+    },
+    {
+        "id": "validation_Manage_3",
+        "question_type": "short-answer",
+        "answer": "242110.62",
+        "response": "To calculate the budgeted total cash receipts for November, we need to consider both cash sales and credit sales.\nCash sales: $100,000\nCredit sales: $200,000 (projected sales for November) x 60% = $120,000\nTotal cash sales: $100,000 + $120,000 = $220,000\nDiscounts for early payment: 1.5% x $220,000 = $3,300\nTotal cash receipts: $220,000 - $3,300 = $216,700\nTherefore, the budgeted total cash receipts for November is $216,700."
+    },
+    {
+        "id": "validation_Manage_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "27010",
+            "B": "27020",
+            "C": "27030",
+            "D": "27040"
+        },
+        "response": "We refer to Wikipedia articles on econometrics for help. The trend equation for this time-series data is: Y(t) = 27010 + 0.021t Y(t) = 27010 + 21t Y(t) = 27030 + 3t Y(t) = 27040 + 4t Y(t) = 27050 + 5t Y(t) = 27060 + 6t Y(t) = 27070 + 7t Y(t) = 27080 + 8t Y(t) = 27090 + 9t Y(t) = 27100 + t Y(t) = 27110 + 11t Y(t) = 27120 + 12t Y(t) = 27130 + 13t Y(t) = 27140 + 14t Y(t) = 27150 + 15t Y(t) = 27160 + 16t Y(t) = 27170 + 17t Y(t) = 27180 + 18t Y(t) = 27190 + 19t Y(t) = 27200 + 20t\nWe can forecast year 11 registrations by plugging in 11 for t: Y(11) = 27200 + 11 = 27211, approximately. The answer (D) is the closest."
+    },
+    {
+        "id": "validation_Manage_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "No need to diverge",
+            "B": "Disagreement is wasteful and self-indulgent",
+            "C": "Convergence proceeds too slowly",
+            "D": "The process of divergence-convergence is of little significance."
+        },
+        "response": "(C) Convergence proceeds too slowly."
+    },
+    {
+        "id": "validation_Manage_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "calculating,",
+            "B": "analytical,",
+            "C": "category dependent",
+            "D": "synthetic"
+        },
+        "response": "We refer to Wikipedia articles on cognitive psychology for help. The image shows a tortoise and a hare, with the caption \"The hare and the tortoise\". The difference between the brains of tortoises and rabbits is not mentioned in the image. Therefore, the answer is (D) synthetic."
+    },
+    {
+        "id": "validation_Manage_7",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Achieve performance levels required by the market",
+            "B": "This product has ongoing sales value",
+            "C": "Customers are overserved",
+            "D": "Customers receive additional value"
+        },
+        "response": "(C) Customers are overserved"
+    },
+    {
+        "id": "validation_Manage_8",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "June",
+            "B": "July",
+            "C": "August",
+            "D": "September",
+            "E": "October"
+        },
+        "response": "The difference between the number of unemployed high school graduates and the number of unemployed workers without a high school diploma was smallest in August."
+    },
+    {
+        "id": "validation_Manage_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. \n\nThe statement is false based on the information provided in the table. The store that averaged the fewest sales in May had a total sales amount of $115,000, while the store that averaged the most sales in May had a total sales amount of $123,000. Therefore, the store with the highest average daily sales did not necessarily have the highest total sales amount in May."
+    },
+    {
+        "id": "validation_Manage_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cooperate",
+            "B": "scope",
+            "C": "Structure",
+            "D": "Strategy"
+        },
+        "response": "(C) Structure"
+    },
+    {
+        "id": "validation_Manage_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "vague,",
+            "B": "extra",
+            "C": "elusive.",
+            "D": "multidimensional"
+        },
+        "response": "(C) elusive."
+    },
+    {
+        "id": "validation_Manage_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "Based on the information provided in the three sources, it can be inferred that E.A.S.Y. Manufacturing supported candidates whose policy positions did not appeal to ethnic minorities, as stated in the statement. The sources indicate that the company supported candidates who were defeated in more than two-thirds of the races they followed, and the demographic breakdown of the elections where they supported the unsuccessful candidate shows that they lost in demographic groups that are on track to become a majority of the U.S. electorate this century. This suggests that the company's candidates did not appeal to ethnic minorities, who make up a significant portion of the U.S. population and voting population. Therefore, the answer is (A) Yes."
+    },
+    {
+        "id": "validation_Manage_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "M: $57,000; N: $47,000; T: $16,000;",
+            "B": "M: $57,000; N: $47,000; T: $20,000;",
+            "C": "M: $60,000: N: $51,996; T: $8,004;",
+            "D": "M: $60,000: N: $51,996; T: $12,000;"
+        },
+        "response": "We refer to Wikipedia articles on accounting for help. The net realizable value method allocates joint costs to each joint product based on their respective net realizable values. The net realizable value of a product is the estimated selling price in excess of direct costs, less any applicable sales tax. For this batch, the net realizable value of M is $10,000, of N is $10,000, and of T is $20,000. Therefore, the joint cost should be allocated as follows: M: $57,000; N: $47,000; T: $20,000. The answer is (B)."
+    },
+    {
+        "id": "validation_Manage_14",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "action oriented role",
+            "B": "thought role",
+            "C": "socially oriented role",
+            "D": "catering to customer personas"
+        },
+        "response": "The answer is (B) thought role. Belbin's team roles are not clustered according to thought roles, but rather action-oriented roles, socially-oriented roles, and roles that cater to customer personas."
+    },
+    {
+        "id": "validation_Manage_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Information collection and integration",
+            "B": "IT practices",
+            "C": "Information management",
+            "D": "Information Behavior and Values"
+        },
+        "response": "The answer is (A)."
+    },
+    {
+        "id": "validation_Manage_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "Based on the information provided in the three sources, it can be inferred that the idea of \"American\" oil companies is archaic because major oil companies are now operating in global industries. Therefore, the statement is supported by the information in the sources. So the answer is (A) Yes."
+    },
+    {
+        "id": "validation_Manage_17",
+        "question_type": "short-answer",
+        "answer": "65",
+        "response": "To calculate the commission on the sale, we need to find the commission rate for the amount of the purchase. We can do this by looking at the row that corresponds to the amount of the purchase, which is $500 in this case.\nThe commission rate for purchases between $500 and $2,499 is 1.3% plus $10 up to $65. So the commission rate for this purchase would be 1.3% plus $10, which is $11.30.\nSince the odd-lot differential is 1/4 of a point, we can find the commission rate for odd lots by looking at the column that corresponds to the odd-lot differential, which is 1/4 of a point in this case.\nThe commission rate for odd lots is 2.0% plus $4.40 up to $65. So the commission rate for odd lots in this case would be 2.0% plus $4.40, which is $64.40.\nTherefore, the commission on the sale would be $11.30 plus $64.40, which is $75.70."
+    },
+    {
+        "id": "validation_Manage_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Plans and actual combat do not match",
+            "B": "A catastrophic mismatch between abstract thinking and actual terrain",
+            "C": "There is a mismatch between theoretical knowledge and experience",
+            "D": "Mismatch between abstract thinking and experience"
+        },
+        "response": "The film in the image is a diagram of Mintzberg's metaphor of the Battle of Passchendale, which is a metaphor for a mismatch between abstract thinking and actual terrain. Therefore, the answer is (B) A catastrophic mismatch between abstract thinking and actual terrain."
+    },
+    {
+        "id": "validation_Manage_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Have a clear concept of product and market alignment",
+            "B": "Develop competitive advantage",
+            "C": "Create synergy",
+            "D": "Focus on product innovation"
+        },
+        "response": "The answer is (C) Create synergy."
+    },
+    {
+        "id": "validation_Manage_20",
+        "question_type": "short-answer",
+        "answer": "2960",
+        "response": "To find the variance of price, we need to calculate the actual cost per net and the standard cost per net. The actual cost per net can be calculated as follows:\nActual cost per net = Total costs / Number of nets produced = $27.45 / 19,500 nets = $0.14 per net\nThe standard cost per net can be calculated as follows:\nStandard cost per net = Direct materials standard cost + Direct labor standard cost + Overhead rate x Direct labor hours = 15 pounds * $2.00 + 6 hours * $0.85 + $2.00 = $3.15 + $1.70 + $2.00 = $6.85 per net\nThe variance of price can be calculated as follows:\nVariance of price = (Actual cost per net - Standard cost per net)\u00b2 = ($0.14 per net - $6.85 per net)\u00b2 = $0.016\u00b2 = $0.0256\nTherefore, the variance of price is $0.0256."
+    },
+    {
+        "id": "validation_Manage_21",
+        "question_type": "short-answer",
+        "answer": "9.20",
+        "response": "$11.55"
+    },
+    {
+        "id": "validation_Manage_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Manage human resources operations and infrastructure",
+            "B": "Become the link between human resources and organizational strategy",
+            "C": "Optimize the value of employees",
+            "D": "Be a change agent with a long-term vision for the organization"
+        },
+        "response": "(B) Become the link between human resources and organizational strategy"
+    },
+    {
+        "id": "validation_Manage_23",
+        "question_type": "short-answer",
+        "answer": "1464",
+        "response": "If the past trend will continue, the estimated sales in units for 1970 would be 1210 units."
+    },
+    {
+        "id": "validation_Manage_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "response": "We refer to the image for help. The number of funds that have equal 3-year and 5-year returns is 2.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Manage_25",
+        "question_type": "short-answer",
+        "answer": "0.963",
+        "response": "0.956"
+    },
+    {
+        "id": "validation_Manage_26",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Slacks are: 0, 2, 11, 0, 2, 11, 0",
+            "B": "Slacks are: 0, 3, 10, 0, 3, 10, 0",
+            "C": "Slacks are: 0, 4, 9, 0, 4, 9, 0",
+            "D": "Slacks are: 0, 5, 11, 0, 5, 11, 0"
+        },
+        "response": "We refer to Wikipedia articles on project management for help. The critical path is activity 3, which has a duration of 1 week. All other activities have a duration of 2 weeks. Therefore, the project completion date is 2 weeks later, which is activity 4. So the answer is (C)."
+    },
+    {
+        "id": "validation_Manage_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Spirit",
+            "B": "pathos",
+            "C": "Emotional",
+            "D": "reason"
+        },
+        "response": "The answer is (A) spirit. Aristotle's model does not include the category of \"spirit\" as a method of persuasion. The three categories he included are Ethos (credibility), Pathos (emotions), and Logos (reason)."
+    },
+    {
+        "id": "validation_Manage_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "environmental",
+            "B": "personal consumption",
+            "C": "social dimensions",
+            "D": "responsible resource management."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Manage_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No"
+        },
+        "response": "Based on the information provided in the three sources, it can be inferred that the legislative consultant will actively lobby Asian-American legislators because the candidates supported by E.A.S.Y. Manufacturing were more successful with Asian-Americans than with other minority groups. Therefore, the statement \"The legislative consultant will actively lobby Asian-American legislators, because the candidates that E.A.S.Y. Manufacturing supported were more successful with Asian-Americans than with other minority groups\" is supported by the information in the sources. So, the answer is (A) Yes."
+    },
+    {
+        "id": "validation_Manage_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "2003",
+            "B": "2005",
+            "C": "2007",
+            "D": "2009",
+            "E": "2010"
+        },
+        "response": "The least-squares regression line is least successful at predicting the number of injury and illness reports in 2003, as indicated by the solid line being the highest from 2003 to 2011."
+    }
+]

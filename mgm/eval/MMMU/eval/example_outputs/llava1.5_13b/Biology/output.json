@@ -1,0 +1,576 @@
+[
+    {
+        "id": "validation_Biology_1",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Tibialis anterior",
+            "B": "Tibialis posterior",
+            "C": "Flexor hallucis longus",
+            "D": "Peroneus longus"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5.0 nm",
+            "B": "50 um",
+            "C": "7.5 um",
+            "D": "5.2 um"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "increase",
+            "B": "decrease"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "autosomal recessive (AR)",
+            "B": "autosomal dominant (AD)",
+            "C": "X-linked recessive (XR)",
+            "D": "X-linked dominant (XD)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Sheath",
+            "B": "Viral genome",
+            "C": "Capsid",
+            "D": "Tail Fibers"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Organism A",
+            "B": "Organism B",
+            "C": "Organism C",
+            "D": "Organism D"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_7",
+        "question_type": "multiple-choice",
+        "answer": "I",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E",
+            "F": "F",
+            "G": "G",
+            "H": "H",
+            "I": "I"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Flight Path A: the crow has a wider view of his surroundings to assure that another bird will not steal the whelk",
+            "B": "Flight Path A: the crow is maximizing the height to drop the whelk",
+            "C": "Flight Path A: the crow is adding force to the downward movement to the whelk by flying higher",
+            "D": "Flight Path B: the crow can see where the whelk lands",
+            "E": "Flight Path B: the crow is throwing the whelk to the ground"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Biology_9",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "ALILALMWWLLF",
+            "B": "LMQKPMDSLPDY",
+            "C": "FPPALGGLPFAMG",
+            "D": "LKMELAKMILLA",
+            "E": "ALQQMMDSILDY"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_10",
+        "question_type": "short-answer",
+        "answer": "1/64",
+        "response": "1/4"
+    },
+    {
+        "id": "validation_Biology_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "Neither"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The yellow-leaved phenotype can germinate in environments without light.",
+            "B": "The germination of the yellow-leaved phenotype is unaffected by light intensity.",
+            "C": "The germination of the yellow-leaved phenotype is accelerated as compared to the green-leaved phenotype.",
+            "D": "The yellow-leaved phenotype cannot germinate in environments with light."
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Biology_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "I only",
+            "B": "I and II only",
+            "C": "I and IV only",
+            "D": "I, II, and III only",
+            "E": "II, III, and IV only"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Biology_14",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1/2",
+            "B": "1/4",
+            "C": "3/4",
+            "D": "1/8",
+            "E": "1/16"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "taiga",
+            "B": "tundra",
+            "C": "rain forest",
+            "D": "desert"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Group 1 and Group 17",
+            "B": "Group 1 and Group 14",
+            "C": "Group 14 and Group 18",
+            "D": "Group 1 and Group 18"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Biology_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Lateral pterygoid plate",
+            "B": "Articular fossa",
+            "C": "Carotid canal",
+            "D": "Foramen lacerum"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Biology_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "DNA replication",
+            "B": "RNA stabilization",
+            "C": "Splicing",
+            "D": "Transcription",
+            "E": "Translation"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Lysis",
+            "B": "Attachment",
+            "C": "Biosynthesis",
+            "D": "Penetration",
+            "E": "Maturation"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "17% of the maximum HbO2 would be delivered.",
+            "B": "22% of the maximum HbO2 would be delivered.",
+            "C": "65% of the maximum HbO2 would be delivered.",
+            "D": "70% of the maximum HbO2 would be delivered.",
+            "E": "82% of the maximum HbO2 would be delivered."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "index2ans": {
+            "A": "Flagellum",
+            "B": "Plasma membrane",
+            "C": "Nucleus",
+            "D": "Cell wall",
+            "E": "Cytoplasm",
+            "F": "Mitochondria",
+            "G": "Centrioles"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Biology_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "3/8",
+            "B": "5/8",
+            "C": "1/4",
+            "D": "1/2",
+            "E": "3/4"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Oesophagus",
+            "B": "Suprarenal gland",
+            "C": "Hepatic flexure of colon",
+            "D": "Duodenum"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Biology_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Species 1 only",
+            "B": "Species 2 only",
+            "C": "Species 3 only",
+            "D": "Species 1 and 2 only",
+            "E": "Species 2 and 3 only"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Biology_26",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Linear to supercoiled",
+            "B": "Nicked to linear",
+            "C": "Nicked to supercoiled",
+            "D": "Supercoiled to nicked",
+            "E": "Supercoiled to linear"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Biology_27",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+        ],
+        "index2ans": {
+            "A": "AA",
+            "B": "Aa",
+            "C": "Aa or AA",
+            "D": "XAXA",
+            "E": "XAXa",
+            "F": "XAXA or XAXa",
+            "G": "XaXa"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Biology_28",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Ligamentum patellae",
+            "B": "Fibular collateral ligament",
+            "C": "Tibial collateral ligament",
+            "D": "Anterior cruciate ligament"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Biology_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>",
+            "E": "<image 5>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Biology_30",
+        "question_type": "multiple-choice",
+        "answer": "F",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "segmentation",
+            "B": "head-tail orientation",
+            "C": "limb placement",
+            "D": "type of symmetry",
+            "E": "limb placement and segmentation",
+            "F": "segmentation, type of symmetry and head-tail orientation",
+            "G": "segmentation, head-tail orientation and limb placement",
+            "H": "type of symmetry and head-tail orientation",
+            "I": "segmentation and head-tail orientation"
+        },
+        "response": "F"
+    }
+]

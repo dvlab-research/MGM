@@ -1,0 +1,510 @@
+[
+    {
+        "id": "validation_Computer_Science_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "P1",
+            "B": "P2",
+            "C": "P3",
+            "D": "There is a deadlock",
+            "E": "Not enough information to tell."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "8 is NOT the root",
+            "B": "12 is the right child of 8",
+            "C": "24 is the left child of 13",
+            "D": "35 is the right child of 24"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Application Layer",
+            "B": "Transport Layer",
+            "C": "Network Layer",
+            "D": "Link Layer",
+            "E": "Physical Layer"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Computer_Science_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "yes",
+            "B": "no",
+            "C": "not sure"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Singly linked list",
+            "B": "Doubly linked list",
+            "C": "Circularly linked list",
+            "D": "Array",
+            "E": "None of the other answers"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "High bias",
+            "B": "High variance",
+            "C": "Neither"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "46, 42, 34, 52, 23, 33",
+            "B": "34, 42, 23, 52, 33, 46",
+            "C": "46, 34, 42, 23, 52, 33",
+            "D": "42, 46, 33, 23, 34, 52"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11",
+            "B": "0",
+            "C": "12",
+            "D": "13"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_9",
+        "question_type": "short-answer",
+        "answer": "60",
+        "response": "300"
+    },
+    {
+        "id": "validation_Computer_Science_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "22",
+            "B": "20",
+            "C": "15",
+            "D": "8"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Computer_Science_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "{a, b, e} {c, d, h} {f, g}",
+            "B": "{a, b, e} {f, g} {c, d} {h}",
+            "C": "{a, b, e} {f, g} {c, d} {h}",
+            "D": "{a, b, e} {c, d, f, g, h}"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Computer_Science_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "1/6",
+            "C": "1",
+            "D": "14/6"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_14",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "T3 -> T1 -> T2",
+            "B": "T2 -> T1 -> T3",
+            "C": "T1 -> T2 -> T3",
+            "D": "There are no serial schedules for the graph."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1:1",
+            "B": "1:N",
+            "C": "N:1",
+            "D": "N:M",
+            "E": "None of the other answers."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "((x + y) - ((x + y) * (x - y))) - ((x + y) * (x - y))",
+            "B": "((x - y) - ((x + y) * (x - y))) + ((x + y) * (x - y))",
+            "C": "(x - ((x + y) * (x - y))) + ((x + y) * (x - y))",
+            "D": "((x + y) - ((x + y) * (x - y))) + ((x + y) * (x - y))"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "s",
+            "B": "s+",
+            "C": "s*",
+            "D": "ss"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_18",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "V1,V5,V4,V7,V6,V2,V3",
+            "B": "V1,V2,V3,V4,V7,V6,V5",
+            "C": "V1,V5,V4,V7,V6,V3,V2",
+            "D": "V1,V5,V6,V4,V7,V2,V3"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(a-b),(d-f),(b-f),(d-c),(d-e)",
+            "B": "(a-b),(d-f),(d-c),(b-f),(d-e)",
+            "C": "(d-f),(a-b),(d-c),(b-f),(d-e)",
+            "D": "(d-f),(a-b),(b-f),(d-e),(d-c)"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Yes",
+            "B": "No",
+            "C": "Can't tell"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Normal traversal of the matrix.",
+            "B": "Row-wise traversal of the matrix.",
+            "C": "Column-wise traversal of the matrix.",
+            "D": "spiral traversal of the matrix."
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aa*|bb*",
+            "B": "a*|bb*",
+            "C": "aa*|b*",
+            "D": "a*|b*"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_23",
+        "question_type": "short-answer",
+        "answer": "253.75",
+        "response": "250"
+    },
+    {
+        "id": "validation_Computer_Science_24",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "N",
+            "E": "None of the other answers"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Computer_Science_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Linear",
+            "B": "Quadratic",
+            "C": "Cubic",
+            "D": "insufficient data to draw conclusion"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Computer_Science_26",
+        "question_type": "short-answer",
+        "answer": "251",
+        "response": "102"
+    },
+    {
+        "id": "validation_Computer_Science_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It would be reasonable to try decreasing C. It would also be reasonable to try increasing $\\sigma^2$.",
+            "B": "It would be reasonable to try decreasing C. It would also be reasonable to try decreasing $\\sigma^2$.",
+            "C": "It would be reasonable to try increasing C. It would also be reasonable to try decreasing $\\sigma^2$.",
+            "D": "It would be reasonable to try increasing C. It would also be reasonable to try increasing $\\sigma^2$."
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Computer_Science_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "First, w2 becomes zero, and then w1 becomes zero",
+            "B": "First, w1 becomes zero, and then w2 becomes zero",
+            "C": "Both become zero at the same time",
+            "D": "Both cannot be zero even after a very large value of C"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Computer_Science_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "for",
+            "B": "[a-z][a-z0-9]*",
+            "C": "([1-9][0-9]*)|0",
+            "D": "none of the above"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Computer_Science_30",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "X=20, Y=30",
+            "B": "X=50, Y=80",
+            "C": "X=70, Y=50",
+            "D": "None of the other answers"
+        },
+        "response": "D"
+    }
+]

@@ -1,0 +1,544 @@
+[
+    {
+        "id": "validation_History_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "As an immigrant, Carnegie had no right to own controlling interests in major American industries.",
+            "B": "Carnegie did nothing to prevent the use of violence against his workers when they asked for better wages and working conditions.",
+            "C": "Carnegie was seen as the epitome of American success, but he was not even the richest man in America.",
+            "D": "Too much of Carnegie's philanthropic efforts were concentrated on his homeland of Scotland, denying Americans the benefits of his charity."
+        },
+        "response": "(C) Carnegie was seen as the epitome of American success, but he was not even the richest man in America."
+    },
+    {
+        "id": "validation_History_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The compromise ending Reconstruction",
+            "B": "The rise of the Ku Klux Klan in the South",
+            "C": "The enactment of segregation laws in Southern states",
+            "D": "The passage of the Fifteenth Amendment"
+        },
+        "response": "The correct answer is (B). The cartoon, titled \"This Is a White Man's Government,\" depicts two white men, one representing the Democratic Party and the other representing the Republican Party, standing over a black man, representing the recently freed slaves. The white men are depicted as representing the will of the majority, and their actions are portrayed as just and necessary for maintaining order. This cartoon reflects the attitudes of many white Americans towards black Americans after the Civil War, and it contributed to the rise of the Ku Klux Klan in the South. The Ku Klux Klan was formed as a secret society to intimidate and suppress the political rights of black Americans, and the cartoon's depiction of white men as superior to black men was a key part of its ideology."
+    },
+    {
+        "id": "validation_History_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Atlantic slave trade",
+            "B": "The flow of refugees caused by the Seven Years' War",
+            "C": "The segregation of races imposed by British colonial authorities",
+            "D": "The migratory patterns encouraged by the arrival of smallpox from Europe"
+        },
+        "response": "The historical development that contributed most to the formation of the society associated with the image is the Atlantic slave trade. The image depicts a Maroon resistance fighter from Jamaica, who was a slave owner himself. The Maroon community in Jamaica was formed by runaway slaves who escaped to the mountains and formed their own communities. The Atlantic slave trade played a significant role in the formation of this society, as it brought large numbers of Africans to Jamaica as slaves, who then escaped and formed Maroon communities in the mountains."
+    },
+    {
+        "id": "validation_History_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The spread of the bubonic plague by the Mongol invasions",
+            "B": "Migrations to Christian population centers in the Mediterranean",
+            "C": "Forced migration of populations by the Roman government",
+            "D": "Invasions by Germanic and Central Asian peoples"
+        },
+        "response": "(D) Invasions by Germanic and Central Asian peoples."
+    },
+    {
+        "id": "validation_History_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Support of these countries' agrarian populations for protectionist trade policies",
+            "B": "Control of those countries by the Soviet Union until the end of the Cold War",
+            "C": "Resistance to the West by fascist governments in those countries",
+            "D": "The greater effect on those countries of the Great Depression and world wars"
+        },
+        "response": "(B) Control of those countries by the Soviet Union until the end of the Cold War. Eastern European countries were admitted to the EU later than other European Union members because they were under the control of the Soviet Union during the Cold War. The Soviet Union was opposed to the idea of a European Union and did not want its satellite countries to join. It was not until the end of the Cold War that these countries gained the independence to join the EU."
+    },
+    {
+        "id": "validation_History_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Soviet Union saw communism as developing most effectively within a single country, while Marx envisioned it as an international movement",
+            "B": "The Soviet Union saw communism as primarily a militaristic philosophy, while Marx argued for a peaceful approach",
+            "C": "The Soviet Union saw communism as being fully realized by 1917, while Marx predicted the proletariat revolt to occur much later",
+            "D": "The Soviet Union saw communism as a theoretical concept, while Marx attempted to implement a communist society"
+        },
+        "response": "The painting depicts a Soviet propaganda poster from the World War II era that reads \"Young Men and Women, Defend the Freedom, Motherland, and Honor that was Won by your Fathers.\" This contrasts with Marx's view of communism, which was a theoretical concept that he attempted to implement in a communist society. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_History_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "although European individuals and countries might be seduced into waging another major war, the United States would be wise to avoid participating.",
+            "B": "the policy of appeasement is a bankrupt policy that can only lead to more death and destruction.",
+            "C": "munitions manufacturers, the so-called merchants of death, were pushing the world toward war in the name of profits.",
+            "D": "the weaponry of modern warfare had advanced to such a degree that future military engagements would result in unprecedented carnage."
+        },
+        "response": "(C) munitions manufacturers, the so-called merchants of death, were pushing the world toward war in the name of profits."
+    },
+    {
+        "id": "validation_History_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Portugal was primarily interested in exploration of the African and Asian coasts",
+            "B": "Vasco de Gama was the first European to embark on intercontinental travel by sea",
+            "C": "European nations began to look outward for economic opportunities",
+            "D": "European began mass migrations to distant lands in the early sixteenth century"
+        },
+        "response": "The map shows the path of a late fifteenth century voyage, which includes stops in Africa, the Indian Ocean, and Natal. This supports the conclusion that European nations began to look outward for economic opportunities. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_History_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Trail of Tears",
+            "B": "King Philip's War",
+            "C": "Creek War of 1836",
+            "D": "The Battle of Little Big Horn"
+        },
+        "response": "The Battle of Little Big Horn is LEAST similar to the migration depicted in the map above."
+    },
+    {
+        "id": "validation_History_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "World War I is the crime of the ages",
+            "B": "ALl nations involved in World War I at its outbreak are to blame for it",
+            "C": "Russia and Austria are blamed unfairly",
+            "D": "The nations of Europe are blaming one another",
+            "E": "War is a terrible crime"
+        },
+        "response": "The most accurate statement of the cartoonist's meaning is (B) All nations involved in World War I at its outbreak are to blame for it. The cartoon depicts various nations blaming each other for the outbreak of the war, suggesting that all nations were equally responsible for the crime of the ages."
+    },
+    {
+        "id": "validation_History_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Netherlands",
+            "B": "France",
+            "C": "Belgium",
+            "D": "Germany"
+        },
+        "response": "The answer is (D) Germany. \n\nThe image depicts a man with octopus-like arms representing England, reaching out to other countries such as Egypt, India, and Canada. The caption \"The Devilfish in Egyptian Waters\" suggests that England is a powerful and\u4fb5\u7565\u6027\u7684 force in international relations. \n\nWhile Germany was also a rising power in the late 19th century, it did not have a reputation for being as aggressive or expansionist as England. Therefore, it is unlikely that a similar cartoon would have been made about Germany in the late 19th century."
+    },
+    {
+        "id": "validation_History_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Phillip II and Mary I",
+            "B": "Francis II and Mary Queen of Scots",
+            "C": "Elizabeth I and Edward VI",
+            "D": "Catherine of Aragon and Henry II"
+        },
+        "response": "The two monarchs who were related by both blood and marriage are (A) Phillip II and Mary I."
+    },
+    {
+        "id": "validation_History_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The capital of West Germany was located in East Germany",
+            "B": "West Germany experienced a postwar economic miracle",
+            "C": "Both East Germany and West Germany were allowed to rearm",
+            "D": "France had occupied West Germany"
+        },
+        "response": "The answer is (A). The capital of West Germany was located in West Germany, not East Germany."
+    },
+    {
+        "id": "validation_History_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Joint-stock companies developed in order to monopolize all trade in the region.",
+            "B": "Colonists exported manufactured goods to Europe.",
+            "C": "Mercantilist policies were used to expand European economies.",
+            "D": "Trans-Atlantic trade increased as trade networks in the Indian Ocean basin declined."
+        },
+        "response": "(C) Mercantilist policies were used to expand European economies."
+    },
+    {
+        "id": "validation_History_15",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Societies consisting of refugees from slave status",
+            "B": "Societies practicing a schismatic religion",
+            "C": "Societies governed by warrior elites",
+            "D": "Societies existing on the periphery of large states"
+        },
+        "response": "(C) Societies governed by warrior elites"
+    },
+    {
+        "id": "validation_History_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The spread of Ethiopian cultural traditions in West Africa",
+            "B": "The influence of the Columbian Exchange on artistic traditions",
+            "C": "The development of religious syncretism as cultural traditions spread",
+            "D": "The intensification of pre-existing religious conflicts and rivalries"
+        },
+        "response": "We refer to Wikipedia articles on world history for help. The object in the image is a crucifix from Kongo, Western Africa, circa 1800, which shows the influence of Ethiopian cultural traditions in West Africa.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_History_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Daoism was supported by Chinese imperial rulers.",
+            "B": "Daoist beliefs influenced much of Asia.",
+            "C": "Daoist temples often served as monasteries.",
+            "D": "Daoism influenced Chinese architectural styles."
+        },
+        "response": "We refer to Wikipedia articles on world religions for help. The image shows a scene of a person standing on the edge of a cliff with a wooden walkway next to a high rocky wall, which is a typical architectural style of the Longmen Grottoes, a major Daoist site in China. So the answer is (D)."
+    },
+    {
+        "id": "validation_History_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Coercive Acts",
+            "B": "Tea Act",
+            "C": "Townshend Acts",
+            "D": "Currency Act"
+        },
+        "response": "The Coercive Acts were passed in direct response to the Boston Tea Party."
+    },
+    {
+        "id": "validation_History_19",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Defensive walls were successful in preventing borderland nomads from conquering the Han dynasty.",
+            "B": "The Han government built fortifications to protect the Silk Road.",
+            "C": "Monumental architecture served both a religious and a military purpose in the Qin and Han dynasties.",
+            "D": "Fortifications were built to project military power and defend against invasions."
+        },
+        "response": "(C) Monumental architecture served both a religious and a military purpose in the Qin and Han dynasties."
+    },
+    {
+        "id": "validation_History_20",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "stopping the spread of communism in Asia",
+            "B": "a Cold War arms race with the Soviet Union",
+            "C": "the desire to defend human rights in developing nations",
+            "D": "supporting the Non-Aligned Movement in Asia"
+        },
+        "response": "(B) a Cold War arms race with the Soviet Union\n\nThe image depicts a cartoon about \"domino theory,\" which refers to the idea that if one country falls to communism, neighboring countries will also fall. This concept was central to U.S. foreign policy during the Cold War, as the United States sought to prevent the spread of communism by supporting anti-communist regimes and engaging in a arms race with the Soviet Union."
+    },
+    {
+        "id": "validation_History_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Africa",
+            "B": "Australia",
+            "C": "Bushmen",
+            "D": "Europe and West Asia"
+        },
+        "response": "(D) Europe and West Asia"
+    },
+    {
+        "id": "validation_History_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Japanese were unable to adapt to the Chinese style of examination.",
+            "B": "Merchants resisted, fearing that efficient administrators would lead to increased taxes.",
+            "C": "Japanese nobles feared that their power base would be weakened.",
+            "D": "Christian missionaries discouraged the adoption of pagan practices."
+        },
+        "response": "The Japanese were unable to adapt to the Chinese style of examination, so option (A) is the correct answer. The Chinese-style imperial examination was based on the Confucian classics, which were written in Classical Chinese, a language that was very different from the Japanese language. Therefore, it was difficult for the Japanese to adopt and adapt the exam system to their own language and cultural context. Additionally, the Japanese nobility and merchants may have also opposed the adoption of the exam system, but this is not directly related to the inability of the Japanese to adapt to the exam system."
+    },
+    {
+        "id": "validation_History_23",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "infighting within and among unions prevented their rise to economic power",
+            "B": "government inspectors turned their backs to illegal repression of labor unions",
+            "C": "attacks on unions were so well concealed that the government did not know where to begin its investigations",
+            "D": "from their beginnings, labor unions were controlled by organized crime"
+        },
+        "response": "The 1933 political cartoon shown above makes the point that government inspectors turned their backs to illegal repression of labor unions. The cartoon depicts a government inspector who is looking the other way while a man beats another man with a club labeled \"Union.\" This cartoon suggests that the government was complicit in the repression of labor unions."
+    },
+    {
+        "id": "validation_History_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "American demand for labor and African supply of slaves",
+            "B": "Japanese supply of silver and Middle Eastern demand for spices",
+            "C": "Western European demand for industrial raw materials and American and South Asian supply of cash crops",
+            "D": "Chinese and Indian demand for precious metals and European demand for Asian textiles and luxury goods"
+        },
+        "response": "(C) Western European demand for industrial raw materials and American and South Asian supply of cash crops"
+    },
+    {
+        "id": "validation_History_25",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Major trade routes in the classical era",
+            "B": "The spread of communism from 1900 to today",
+            "C": "One aspect of cultural diffusion",
+            "D": "The monsoonal wind patterns of Asia"
+        },
+        "response": "We refer to Wikipedia articles on world history for help. The map shows the major trade routes in the classical era, including routes from India to China and Southeast Asia.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_History_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Muslim regions were more likely to expel Jewish people than Catholic ones.",
+            "B": "Most of the Jewish expulsions originated in Protestant regions.",
+            "C": "Catholic regions were more likely to expel Jewish people than other regions.",
+            "D": "Jews migrated voluntarily to the regions with the most economic prosperity."
+        },
+        "response": "Based on the map and my knowledge of history, the statement that is true is (A) Muslim regions were more likely to expel Jewish people than Catholic ones. The map shows that there were several expulsions of Jews from Muslim regions, such as Spain and Portugal, while there were only a few expulsions from Catholic regions, such as France and Italy. However, it is important to note that the reasons for these expulsions varied and were not always solely based on religious beliefs."
+    },
+    {
+        "id": "validation_History_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The Han dynasty faced few geographical challenges, which allowed for rapid expansion.",
+            "B": "The Han dynasty established cities as centers for religious rituals and sacrificial ceremonies.",
+            "C": "The Han dynasty imposed political unity where there had previously been competing states.",
+            "D": "The Han dynasty failed to expand borders of previous Chinese dynasties."
+        },
+        "response": "(C) The Han dynasty imposed political unity where there had previously been competing states. \n\nThe map in <image 1> shows the location of the Great Wall of China, which was built to protect the northern borders of the Han dynasty from potential invasions from the north. The map also shows the location of several major rivers, including the Yellow River, the Huai River, the Yangtze River, and the Jialing River. These rivers played an important role in the economy and transportation of the Han dynasty. However, the map does not provide any information about the geographical challenges faced by the Han dynasty or its expansion. The Han dynasty did not establish cities as centers for religious rituals and sacrificial ceremonies, as that was the role of the earlier Shang and Zhou dynasties. The Han dynasty did not fail to expand the borders of previous Chinese dynasties, as it imposed political unity where there had previously been competing states."
+    },
+    {
+        "id": "validation_History_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Women in Japan exercised influence on society, despite the persistence of patriarchy elsewhere.",
+            "B": "Women in Japan of all classes had equal opportunities like men.",
+            "C": "Japanese society was highly patriarchal, much like Chinese society.",
+            "D": "Chinese views of women influenced Japanese gender roles."
+        },
+        "response": "(C) Japanese society was highly patriarchal, much like Chinese society."
+    },
+    {
+        "id": "validation_History_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Cotton",
+            "B": "Spices",
+            "C": "Ivory",
+            "D": "Opium"
+        },
+        "response": "(D) Opium"
+    },
+    {
+        "id": "validation_History_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "British ships did not sail along the west coast of Africa during this period.",
+            "B": "British ships did not sail the Atlantic Ocean during this period.",
+            "C": "British ships did not sail the Pacific Ocean during this period.",
+            "D": "British ships did not sail in the Indian Ocean during this period."
+        },
+        "response": "Based on the evidence provided by the map, we could conclude that:\n\n(B) British ships did not sail the Atlantic Ocean during this period. The map shows that the majority of British trade routes were along the eastern coast of Africa and the western coast of South America, with some routes also along the eastern coast of South America and the southern coast of Africa. There are no visible routes along the west coast of Africa or the Pacific Ocean, which suggests that British ships did not sail along those routes during this period."
+    }
+]

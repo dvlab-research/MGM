@@ -1,0 +1,556 @@
+[
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "This tumor is a variant of glioblastoma multiforme (GBM)",
+            "B": "This tumor is metastatic from a soft tissue sarcoma",
+            "C": "This patient had a pigmented lesion removed 10 years before",
+            "D": "This represents a gliotic scar in an infarct",
+            "E": "This is a classic example of meningoangiomatosis"
+        },
+        "response": "The correct statement about the figure is (A) This tumor is a variant of glioblastoma multiforme (GBM). \n\nThe figure shows a micrograph of a glioblastoma multiforme tumor, which is a type of brain tumor that is characterized by its ability to grow and spread rapidly. Glioblastoma multiforme is the most aggressive form of primary brain tumor and is often difficult to treat. The tumor is composed of abnormal cells that have lost the ability to control their growth and division, leading to the formation of a mass of abnormal cells. The presence of the tumor in the brain and its ability to spread indicate that it is a glioblastoma multiforme."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Carcinoma of the breast",
+            "B": "Medullary carcinoma of the thyroid gland",
+            "C": "Tricholemmomas of the face",
+            "D": "Macrocephaly"
+        },
+        "response": "(D) Macrocephaly"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "Subacute sclerosing Panencephalitis (SSPE)"
+        },
+        "response": "The most likely etiology of this process is Progressive Multifocal Leukoencephalopathy (PML), which is a rare demyelinating disorder caused by reactivation of the JC virus in the brain. The patient's history of bizarre behavior and the presence of abnormal white matter on brain imaging are consistent with PML."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_4",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "shows the typical pattern of a subependymoma",
+            "B": "is benign and slow growing",
+            "C": "commonly intraventricular",
+            "D": "all are correct"
+        },
+        "response": "The microscopic image (A) shows the typical pattern of a subependymoma. (B) is correct as subependymomas are generally considered to be benign and slow growing. (C) is also correct as subependymomas can occur anywhere in the brain and spinal cord, but are commonly found in the ventricles. (D) is not correct as only option (B) is correct."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hypoxia",
+            "B": "A mitochondrial disorder",
+            "C": "Polymyositis",
+            "D": "Nemaline myopathy"
+        },
+        "response": "The abnormal fiber that is seen with Gomori trichrome staining is typical of polymyositis. This is a disease characterized by inflammation and degeneration of the muscle fibers, which can cause muscle weakness and stiffness. The trichrome stain is a staining technique used to visualize muscle fibers and their connective tissue coverage, and it is often used to diagnose polymyositis and other muscle diseases."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "This dog has megaesophagus, and an upright feeding chair should be recommended.",
+            "B": "This dog has extra mediastinal fat, and megaesophagus is not identified.",
+            "C": "This dog has pulmonary edema in the cranial lung lobes, likely secondary to aspiration pneumonia.",
+            "D": "This dog has a large volume pleural effusion, and a thoracentesis should be performed immediately."
+        },
+        "response": "As an AI language model, I do not have access to the specific radiograph provided in the image. However, based on the information provided, it is not possible to definitively diagnose megaesophagus based on the radiograph alone. The radiograph may show a megaesophagus-like appearance, but further diagnostic tests such as endoscopy or ultrasonography may be needed to confirm the diagnosis. Additionally, the presence of extra mediastinal fat and pulmonary edema in the cranial lung lobes should also be considered. A large volume pleural effusion should be evaluated further and appropriate treatment should be provided."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The differential diagnosis on this case is remote infarct vs. remote contusion",
+            "B": "There is a well developed gliotic wall associated with this remote injury",
+            "C": "The presence of macrophages is not helpful in distinguishing this from a subacute process",
+            "D": "This is very unlikely to have resulted from venous occlusion"
+        },
+        "response": "The statement that is false is (C) The presence of macrophages is not helpful in distinguishing this from a subacute process."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2nd trimester in utero",
+            "B": "Post-partum in pre-term (< 34 weeks gestational age) infant",
+            "C": "Post-partum in term infant",
+            "D": "1st trimester in utero"
+        },
+        "response": "We refer to Wikipedia articles on human sexuality for help. The term \"anomaly\" refers to a congenital anomaly, which is a birth defect. Congenital anomalies can occur at any stage of development, including the first trimester in utero, post-partum in pre-term (< 34 weeks gestational age) infant, post-partum in term infant, and any other stage of development. However, the insult responsible for this pathology most likely occurred in the second trimester in utero, as this is when most congenital anomalies form and develop. \n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Neuronal migration defect",
+            "B": "Neural tube closure defect",
+            "C": "Perinatal hypoxic/ischemic event",
+            "D": "Neoplasm"
+        },
+        "response": "(C) Perinatal hypoxic/ischemic event."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Trypanosomiasis",
+            "B": "Amebic encephalitis",
+            "C": "Cerebral malaria",
+            "D": "Tuberculous meningitis",
+            "E": "Aspergillosis"
+        },
+        "response": "The most likely etiology of this process is: (C) Cerebral malaria. This is a 25-year-old immigrant with fever and a history of cord problems, and the symptoms and medical history suggest a possible diagnosis of cerebral malaria, which is a complication of malaria caused by the parasite Plasmodium falciparum."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "HIV encephalitis",
+            "B": "Creutzfeldt-Jakob Disease",
+            "C": "Progressive supranucelar palsy",
+            "D": "amyotrophic lateral sclerosis"
+        },
+        "response": "We cannot definitively diagnose Creutzfeldt-Jakob Disease based on this image alone. The presence of spongiform change and neurofibrillary tangle in the brain tissue is consistent with this diagnosis, but more information and further testing is needed to confirm it. Progressive supranuclear palsy and amyotrophic lateral sclerosis also show similar neuro-pathological changes, but they have different clinical presentations and course of disease. HIV encephalitis typically shows different histological changes and is associated with different clinical symptoms."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_12",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Inferior olivary nucleus",
+            "B": "Dentate nucleus",
+            "C": "Locus ceruleus",
+            "D": "Basis pontis"
+        },
+        "response": "(C) Locus ceruleus"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_13",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "tau",
+            "B": "alpha synuclein",
+            "C": "ubiquitin",
+            "D": "both B and C"
+        },
+        "response": "The eosinophilic intraneuronal inclusion shown in the image will be strongly immunostained with (B) alpha synuclein."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hydromyelia",
+            "B": "Syringomyelia",
+            "C": "Syringobulbia",
+            "D": "Diastematomyelia"
+        },
+        "response": "The answer is (C) Syringobulbia. \n\nSyringobulbia is a type of syringomyelia in which the syrinx extends into the brainstem and causes a bulge (syringobulbia) in the brainstem. This can lead to hydrocephalus and other neurological symptoms. The other options (hydromyelia, diastematomyelia) are not correct in this case."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "2nd trimester hypoxic/ischemic event",
+            "B": "Nuchal cord",
+            "C": "Premature birth",
+            "D": "Sepsis",
+            "E": "Placental abruption"
+        },
+        "response": "The pictured condition is most likely to be associated with (C) Premature birth. Prolonged pregnancy and delivery before 37 weeks are considered high-risk factors for neonatal encephalopathy, which can present with hypoxic-ischemic brain injury. This can lead to symptoms such as seizures, which are seen in the image. Other predisposing factors include (A) 2nd trimester hypoxic/ischemic event, (B) nuchal cord, (D) sepsis, and (E) placental abruption."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Pilocytic astrocytoma",
+            "B": "Subependymoma",
+            "C": "Glioblastoma",
+            "D": "Anaplastic ependymoma",
+            "E": "Medulloblastoma"
+        },
+        "response": "Based on the provided information, the most likely diagnosis is (A) Pilocytic astrocytoma. Pilocytic astrocytoma is a type of brain tumor that is typically benign and slow-growing. It is often found in children and young adults, and can cause headaches and other symptoms such as vomiting. The partially resected mass lesion on the MRI scan is consistent with this diagnosis. Subependymoma, glioblastoma, anaplastic ependymoma, and medulloblastoma are all types of brain tumors that can cause similar symptoms, but they are typically more aggressive and may require more extensive surgery and treatment."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Parkinson's Disease",
+            "B": "Progressive supranuclear palsy",
+            "C": "Either of the above",
+            "D": "None of the above"
+        },
+        "response": "Based on the symptoms and the presence of both parkinsonian features (bradykinesia, rigidity, and resting tremor) and atypical parkinsonian features (hyaline bodies in the brainstem and a history of head injury), the most likely diagnosis in this case is (A) Parkinson's Disease. Progressive supranuclear palsy is characterized by parkinsonian features and additional symptoms such as dementia, visual hallucinations, and catatonia, which are not present in this case. The presence of both parkinsonian and atypical parkinsonian features suggests a diagnosis of Parkinson's Disease."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cortical atrophy consistent with Alzheimer's Disease",
+            "B": "caudate atrophy consistent with Huntington's Disease",
+            "C": "normal variation of ventricular size",
+            "D": "none ot the above"
+        },
+        "response": "The brain on the right shows cortical atrophy consistent with Alzheimer's Disease, as indicated by the label \"normal\" on the left side of the image."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_19",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "Subacute sclerosing Panencephalitis (SSPE)"
+        },
+        "response": "The most likely etiology of this process is Progressive Multifocal Leukoencephalopathy (PML). PML is a rare but serious brain infection caused by the destruction of the immune system's ability to fight off a virus called the John-Wooden virus. It is most commonly seen in people over the age of 50 and in those with weakened immune systems, such as those with HIV/AIDS or taking certain medications like rituximab or cladribine. The patient's history of bizarre ideation and the presence of focal abnormalities on brain imaging consistent with multifocal leukoencephalopathy support this diagnosis."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_20",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Cysticercosis",
+            "B": "Amebic encephalitis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Trypanosomiasis",
+            "E": "Coccidiodal meningitis"
+        },
+        "response": "The most likely etiology of this process in a 45-year-old Mexican rancher with a history of cognitive problems is (E) Coccidiodal meningitis. This condition is caused by the infection of the central nervous system by the Coccidioides fungus, which is commonly found in soil and dust in arid regions, including parts of Mexico. The symptoms of Coccidiodal meningitis can include headache, fever, nausea, and cognitive problems, which are consistent with the patient's history. Other etiologies such as Cysticercosis, Amebic encephalitis, Herpes Simplex encephalitis, and Trypanosomiasis are less likely given the patient's age and location."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "ependymoma",
+            "B": "pilocytic astrocytoma",
+            "C": "medulloblastoma",
+            "D": "none of the above"
+        },
+        "response": "(C) Medulloblastoma."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "more common in children than adults",
+            "B": "may be intraventricular in children",
+            "C": "is often associated with seizures",
+            "D": "also has binucleate neurons"
+        },
+        "response": "We refer to Wikipedia articles on clinical knowledge for help. Medulloblastoma is a type of brain tumor that occurs mostly in children, and it is often associated with seizures. Some cases may be intraventricular.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Eosinophilic granuloma",
+            "B": "osteosarcoma",
+            "C": "trauma with repair",
+            "D": "malignant germ cell tumor"
+        },
+        "response": "The resection of a skull lesion shows a traumatic osteolytic lesion with a well-defined margin and minimal surrounding bone destruction. The trabeculae are disrupted and replaced by new bone formation. This histological slide is consistent with a traumatic bone fragment, which is repairable and not a malignancy or an eosinophilic granuloma. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Creutzfeldt-Jakob disease",
+            "B": "Syphilis",
+            "C": "Herpes Simplex encephalitis",
+            "D": "Progressive Multifocal Leukoencephalopathy (PML)",
+            "E": "HIV encephalitis"
+        },
+        "response": "(D) Progressive Multifocal Leukoencephalopathy (PML)"
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "(B) False. \n\nA metastatic carcinoma is a type of cancer that has spread from another part of the body to the brain. It is characterized by the presence of pigment in the cells. In the image, there is no mention of pigment in the cells, which suggests that it is not a metastatic carcinoma. Therefore, the answer is false."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_26",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Ventricular preexcitation syndrome",
+            "B": "Ventricular fibrillation",
+            "C": "Sustained ventricular tachycardia",
+            "D": "Accelerated idioventricular rhythm"
+        },
+        "response": "I'm sorry, but I cannot provide an answer to this question without an ECG image to analyze. Please provide the ECG image so I can assist you with your question."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_27",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "can be seen in a patient with acromegaly",
+            "B": "can be found incidentally",
+            "C": "may require the use of a reticulin stain to differentiate from normal gland",
+            "D": "can present as a non-functioning tumor with mass effect",
+            "E": "all are correct"
+        },
+        "response": "The image shows a micrograph of a neuroendocrine tumor (NET). The top image is a immunohistochemical stain for Synaptophysin, which is positive in NETs. The bottom image is a low power view of the tumor, which shows the characteristic round-to-oval cells with uniform, clear cytoplasm and round nuclei. The presence of a neuroendocrine tumor with round-to-oval cells and clear cytoplasm is consistent with a pheochromocytoma. Therefore, the correct answer is (E) all are correct."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "is commonly associated with Von Hippel Lindau",
+            "B": "contains inhibin A positive stromal cells",
+            "C": "is rich in reticulin",
+            "D": "all are correct"
+        },
+        "response": "The image shows a cerebellar medulloblastoma. Medulloblastoma is a type of brain tumor that is commonly associated with Von Hippel Lindau syndrome, which is a genetic disorder that increases the risk of developing several types of cancer, including medulloblastoma. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aortic dissection",
+            "B": "liver cancer",
+            "C": "liver abscess",
+            "D": "Liver adenoma"
+        },
+        "response": "The most likely diagnosis based on the post-enhancement arterial phase CT scan is liver cancer (B). The presence of liver cirrhosis and the abnormal enhancement pattern in the arterial phase are consistent with liver cancer. Aortic dissection (A) and liver abscess (C) can also cause abnormal enhancement patterns, but the history of liver cirrhosis and the timing of the enhanced CT scan are more consistent with liver cancer. Liver adenoma (D) is a less common diagnosis, but it can also cause abnormal enhancement patterns, but the presence of liver cirrhosis is more consistent with liver cancer."
+    },
+    {
+        "id": "validation_Diagnostics_and_Laboratory_Medicine_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Subacute cerebral infarcts with extensive epithelioid vascular proliferation",
+            "B": "Remote cerebral infarcts with metaplastic choroid plexus",
+            "C": "Subacute embolic infarcts associated with glycogen (PAS-Positive) storage disease",
+            "D": "Metastatic carcinoma with secondary infarcts"
+        },
+        "response": "The phrase that best describes the pathology is (A) Subacute cerebral infarcts with extensive epithelioid vascular proliferation. The image shows purple-stained sections of brain tissue with extensive areas of necrosis and inflammation, which are characteristic of subacute cerebral infarcts. The presence of epithelioid cells in the vessel walls suggests a vasculitic origin for the infarcts, which is consistent with a diagnosis of Subacute cerebral infarcts with extensive epithelioid vascular proliferation."
+    }
+]

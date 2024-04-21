@@ -1,0 +1,542 @@
+[
+    {
+        "id": "validation_Art_Theory_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "disappeared with the British occupation",
+            "B": "is still active today",
+            "C": "is performed, but has lost its original meaning",
+            "D": "is celebrated throughout Africa, and wherever Africans have traveled"
+        },
+        "response": "The Ndop sculptures represent a tradition that is still active today, and is performed, but has lost its original meaning. The Ndop tradition is a performance art from the Kwa speaking people of the Ivory Coast, and the sculptures are used as props in the performance. The sculptures are carved from wood and are often black in color. The tradition is still performed in some parts of the Ivory Coast, but has lost much of its original meaning and purpose."
+    },
+    {
+        "id": "validation_Art_Theory_2",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Mary and Joseph",
+            "B": "patron saints",
+            "C": "the donors",
+            "D": "a monk and a nun"
+        },
+        "response": "The kneeling figures in the foreground are likely to represent the donors, as they are often depicted in art to show gratitude and devotion."
+    },
+    {
+        "id": "validation_Art_Theory_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the chaperones on the right, who are in half-shadow in the background",
+            "B": "the attendants to the princess in the foreground",
+            "C": "the king and queen, seen in the reflected mirror",
+            "D": "the dwarf and the midget in the right foreground"
+        },
+        "response": "The title of the painting refers to (C) the king and queen, seen in the reflected mirror. The painting shows the royal couple sitting together in an interior setting, with the king holding a hand fan and the queen holding a rosary. They are reflected in a mirror, which also shows their image in reverse. This use of the reflected mirror creates a sense of depth and dimension in the painting."
+    },
+    {
+        "id": "validation_Art_Theory_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "sculptural decoration",
+            "B": "frescoes",
+            "C": "mosaics",
+            "D": "stucco"
+        },
+        "response": "(C) mosaics"
+    },
+    {
+        "id": "validation_Art_Theory_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "employed a mortise and tenon system for supporting lintels",
+            "B": "showed the enduring power of concrete to unify large blocks of stone",
+            "C": "maintained the stability of structures using a corbeled arch",
+            "D": "unified architectural works with carefully planned gardens"
+        },
+        "response": "We refer to Wikipedia articles on architecture for help. The tradition of using stone in prehistoric structures like Stonehenge is an example of an enduring architectural technique that unified large blocks of stone to maintain the stability of structures using a corbeled arch.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Art_Theory_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Gothic",
+            "B": "Romanesque",
+            "C": "Early Medieval",
+            "D": "Northern Renaissance"
+        },
+        "response": "Based on the style, this work can be attributed to the Romanesque period."
+    },
+    {
+        "id": "validation_Art_Theory_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Rude's La Marseillaise",
+            "B": "Goya's Third of May",
+            "C": "Picasso's Guernica",
+            "D": "Johns's Three Flags"
+        },
+        "response": "(C) Picasso's Guernica"
+    },
+    {
+        "id": "validation_Art_Theory_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "hierarchical scale",
+            "B": "graphic representation of horror and despair",
+            "C": "a sense of immediacy and drama",
+            "D": "use of sharply contrasting light and shade"
+        },
+        "response": "(A) hierarchical scale"
+    },
+    {
+        "id": "validation_Art_Theory_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bemini",
+            "B": "Donatello",
+            "C": "Ghiberti",
+            "D": "Verrocchio"
+        },
+        "response": "The figure on the left is created by Donatello."
+    },
+    {
+        "id": "validation_Art_Theory_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the Great Stupa at Sanchi",
+            "B": "the Serpent Mound in Ohio",
+            "C": "Machu Picchu in Peru",
+            "D": "the ruins of the city of Pompeii"
+        },
+        "response": "The work draws inspiration from the Serpent Mound in Ohio."
+    },
+    {
+        "id": "validation_Art_Theory_11",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "baths",
+            "B": "temples",
+            "C": "basilicas",
+            "D": "forums"
+        },
+        "response": "(C) basilicas"
+    },
+    {
+        "id": "validation_Art_Theory_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "classical contrapposto",
+            "B": "atmospheric perspective",
+            "C": "Di sotto in s\u00f9",
+            "D": "tenebrism"
+        },
+        "response": "The work in the image shows the influence of Western art in its use of atmospheric perspective."
+    },
+    {
+        "id": "validation_Art_Theory_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Amolfo di Cambio",
+            "B": "Brunelleschi",
+            "C": "Bernini",
+            "D": "Michelangelo"
+        },
+        "response": "The painting's setting is reminiscent of Brunelleschi's architectural style."
+    },
+    {
+        "id": "validation_Art_Theory_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Early Renaissance",
+            "B": "High Renaissance",
+            "C": "Mannerist",
+            "D": "Baroque"
+        },
+        "response": "The painting is characterized by the High Renaissance style."
+    },
+    {
+        "id": "validation_Art_Theory_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Baroque",
+            "B": "Realism",
+            "C": "Romanticism",
+            "D": "Impressionism"
+        },
+        "response": "(C) Romanticism"
+    },
+    {
+        "id": "validation_Art_Theory_16",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "a vaulted ceiling",
+            "B": "pedimental recesses",
+            "C": "radiating chapels",
+            "D": "an atrium"
+        },
+        "response": "The building had a vaulted ceiling (option A)."
+    },
+    {
+        "id": "validation_Art_Theory_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "construction should be environmentally friendly",
+            "B": "only the use of natural material would be permitted",
+            "C": "less is more",
+            "D": "a house is a machine for living"
+        },
+        "response": "(C) less is more."
+    },
+    {
+        "id": "validation_Art_Theory_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Ring bells to summon the faithful to church, as in a bell tower",
+            "B": "Be a look-out tower for defense purposes, as in a fortress",
+            "C": "Create a monument to the glory of a ruler, as in a tomb",
+            "D": "Signal a time to pray, as in a minaret"
+        },
+        "response": "(D) Signal a time to pray, as in a minaret."
+    },
+    {
+        "id": "validation_Art_Theory_19",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "American",
+            "B": "Dutch",
+            "C": "German",
+            "D": "French"
+        },
+        "response": "The designer of the chair is Dutch."
+    },
+    {
+        "id": "validation_Art_Theory_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "an atrium",
+            "B": "a necropolis",
+            "C": "a treasury",
+            "D": "a temple"
+        },
+        "response": "Works such as <image 1> (a terracotta sarcophagus with a reclining couple) were typically shown in a temple."
+    },
+    {
+        "id": "validation_Art_Theory_21",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Angelica Kauffmann",
+            "B": "Peter Paul Rubens",
+            "C": "Thomas Gainsborough",
+            "D": "Benjamin West"
+        },
+        "response": "(D) Benjamin West"
+    },
+    {
+        "id": "validation_Art_Theory_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "an icon",
+            "B": "a book cover",
+            "C": "an altarpiece",
+            "D": "a purse lid"
+        },
+        "response": "Based on the image, it is not possible to determine the exact function of the work. However, given its ornate decoration and the fact that it is described as a \"book cover,\" it is likely that the work served as a book cover or an icon, possibly depicting a religious scene or an image of a saint. The use of precious materials such as gold and jewels also suggests that the work was intended to be a decorative and valuable piece."
+    },
+    {
+        "id": "validation_Art_Theory_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1910's",
+            "B": "1940's",
+            "C": "1960's",
+            "D": "1990's"
+        },
+        "response": "The work dates from the 1940s."
+    },
+    {
+        "id": "validation_Art_Theory_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "in political exile in England",
+            "B": "serving as a soldier on the front lines against France",
+            "C": "working as the court painter to the king of Spain",
+            "D": "studying Classical antiquity in Rome"
+        },
+        "response": "(C) working as the court painter to the king of Spain"
+    },
+    {
+        "id": "validation_Art_Theory_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Jan van Eyck",
+            "B": "Hugo van der Goes",
+            "C": "Titian",
+            "D": "Giorgione"
+        },
+        "response": "Jan van Eyck created the work on the right."
+    },
+    {
+        "id": "validation_Art_Theory_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "cast iron",
+            "B": "plastic",
+            "C": "steel",
+            "D": "plywood"
+        },
+        "response": "The chair is made of plywood."
+    },
+    {
+        "id": "validation_Art_Theory_27",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Abd al-Malik",
+            "B": "Justinian",
+            "C": "Charlemagne",
+            "D": "Shah Jahan"
+        },
+        "response": "The correct answer is (A) Abd al-Malik. The plan of the building shown in the image is that of the Umayyad Mosque in Damascus, which was built during the Abbasid Caliphate in the 8th century. Abd al-Malik, who was the Caliph at that time, was the patron of the building."
+    },
+    {
+        "id": "validation_Art_Theory_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Archaic Greek",
+            "B": "Imperial Roman",
+            "C": "Persian",
+            "D": "Egyptian New Kingdom"
+        },
+        "response": "The statue is a Roman copy of a Greek original from the 4th century BCE, so it can be attributed to the Archaic Greek period in art history."
+    },
+    {
+        "id": "validation_Art_Theory_29",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "the United States",
+            "B": "the Netherlands",
+            "C": "France",
+            "D": "Italy"
+        },
+        "response": "The building on the left is located in New York City, which is the United States."
+    },
+    {
+        "id": "validation_Art_Theory_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Paul C\u00e9zanne",
+            "B": "Claude Monet",
+            "C": "Jos\u00e9 Mar\u00eda Velasco",
+            "D": "Vincent van Gogh"
+        },
+        "response": "(D) Vincent van Gogh"
+    }
+]

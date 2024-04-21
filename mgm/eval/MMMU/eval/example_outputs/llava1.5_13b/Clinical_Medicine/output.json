@@ -1,0 +1,570 @@
+[
+    {
+        "id": "validation_Clinical_Medicine_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Erythrocyte sedimentation rate of 50 mm/hr",
+            "B": "Serum lipase of 449 U/L",
+            "C": "Total serum complement of 45 mg/dL",
+            "D": "Serum carcinoembryonic antigen of 10 ng/mL",
+            "E": "Serum alanine aminotransferase of 123 U/L",
+            "F": "Proteinuria"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Clinical_Medicine_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "first degree atrioventricular block",
+            "B": "third degree atrioventricular block",
+            "C": "Second degree type II atrioventricular block",
+            "D": "atrial flutter"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Stomach",
+            "B": "Liver",
+            "C": "Gallbladder",
+            "D": "Duodenum"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fracture of the femoral neck",
+            "B": "Dislocation of the sacroiliac joint",
+            "C": "Foreign body in the midline at the level of the pubic symphysis",
+            "D": "Air the in bladder"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_5",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Gallstones",
+            "B": "Pancreatic calcifications",
+            "C": "Calcified hematoma of the liver",
+            "D": "Hepatic artery aneurysms"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Apoptosis",
+            "B": "Free radical injury",
+            "C": "Heterophagocytosis",
+            "D": "Squamous metaplasia"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_7",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Ectopic pregnancy",
+            "B": "Placenta previa",
+            "C": "Placenta accreta",
+            "D": "Molar pregnancy",
+            "E": "Abruptio placenta",
+            "F": "Pregnancy-induced hypertension"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Clinical_Medicine_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Anti-receptor antibody",
+            "B": "Immune complex formation",
+            "C": "Complement mediated cell destruction",
+            "D": "Delayed type hypersensitivity",
+            "E": "Loss of self tolerance"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_9",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The findings show an adenoma",
+            "B": "The findings show a squamous cell carcinoma",
+            "C": "The findings show intestinal type adenocarcinoma",
+            "D": "The findings show diffuse signet ring cell adenocarcinoma"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Liquefactive necrosis",
+            "B": "Caseous necrosis",
+            "C": "Coagulative necrosis",
+            "D": "Wet gangrene"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1 and 2",
+            "B": "2 and 3",
+            "C": "3 and 4",
+            "D": "2, 3, and 4"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Clinical_Medicine_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Infiltrating ductal carcinoma",
+            "B": "Intraductal carcinoma",
+            "C": "Phyllodes tumor",
+            "D": "Lobular carcinoma in situ"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_13",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Susceptibility artifact",
+            "B": "Hematoma",
+            "C": "Fat necrosis",
+            "D": "Silicone granuloma"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "KUB (Kidneys, ureter, and bladder)",
+            "B": "Lateral Decubitus",
+            "C": "Upright Abdominal x-ray",
+            "D": "IVP (Intra venous Pyelogram)"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Osteoarthritis",
+            "B": "Rheumatoid arthritis",
+            "C": "Septic arthritis",
+            "D": "Avascular necrosis"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Parkinson disease",
+            "B": "Berry aneurysm rupture",
+            "C": "Glioblastoma",
+            "D": "Multiple sclerosis",
+            "E": "Meningococcemia"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Influenza viral pneumonia",
+            "B": "Hypersensitivity pneumonitis",
+            "C": "Diffuse alveolar damage",
+            "D": "Miliary tuberculosis"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Clinical_Medicine_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Normal Sinus Rhythm",
+            "B": "Sinus Tachycardia",
+            "C": "NSR with PAC'c",
+            "D": "NSR with 1st Degree AV Block",
+            "E": "NSR with PVC's",
+            "F": "Junctional Tachycardia"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_19",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Gilbert disease",
+            "B": "Cytomegalovirus infection",
+            "C": "Hemolytic anemia",
+            "D": "Ulcerative colitis",
+            "E": "Obesity"
+        },
+        "response": "E"
+    },
+    {
+        "id": "validation_Clinical_Medicine_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "index2ans": {
+            "A": "Normal Sinus Rhythm",
+            "B": "Sinus Bradycardia",
+            "C": "Accelerated Junctional Rhythm",
+            "D": "NSR with 1st Degree AV Block",
+            "E": "Idioventricular Rhythm",
+            "F": "Paced with Failure to Capture"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A ruptured gastric ulcer.",
+            "B": "A ruptured abdominal aortic aneurysm.",
+            "C": "Acute appendicitis.",
+            "D": "Acute renal failure."
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Keratoacanthomas",
+            "B": "Seborrheic keratoses",
+            "C": "Fibroepithelial polyps",
+            "D": "Nevocellular nevi",
+            "E": "Epidermal inclusion cysts"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_23",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Kidneys",
+            "B": "Small Intestines",
+            "C": "Liver",
+            "D": "Spine"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Large bowel obstruction",
+            "B": "Small bowel obstruction",
+            "C": "Generalized ileus",
+            "D": "Localized ileus"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The serum TSH is probably increased",
+            "B": "She will probably survive for at least 10 years",
+            "C": "Anti-microsomal and anti-thyroglobulin antibodies are detectable",
+            "D": "A dietary iodine deficiency probably preceded its appearance",
+            "E": "The patient has relatives with a similar condition"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Monteggia",
+            "B": "Bennett",
+            "C": "Jones",
+            "D": "Colle"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Clinical_Medicine_27",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Abruptio placenta",
+            "B": "Placenta accreta",
+            "C": "Chorioamnionitis",
+            "D": "Twin placenta",
+            "E": "Partial mole"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Clinical_Medicine_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Hepatitis C",
+            "B": "Breast carcinoma",
+            "C": "Diabetes mellitus",
+            "D": "Diffuse scleroderma"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Clinical_Medicine_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Fissuring ulcer",
+            "B": "Sinus tract",
+            "C": "Fistula formation",
+            "D": "Non-caseating granuloma"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Clinical_Medicine_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Blunt chest trauma",
+            "B": "Inhalation of inorganic dusts",
+            "C": "Prolonged immobilization",
+            "D": "Bronchopneumonia"
+        },
+        "response": "C"
+    }
+]

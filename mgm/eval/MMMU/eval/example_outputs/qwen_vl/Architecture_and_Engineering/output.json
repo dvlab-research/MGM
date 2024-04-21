@@ -1,0 +1,514 @@
+[
+    {
+        "id": "validation_Architecture_and_Engineering_1",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "9.75kips compression",
+            "B": "5.75kips compression",
+            "C": "7.75kips compression"
+        },
+        "response": "To determine the maximum value of live load force created in bar CG, we need to consider all the live loads acting on the truss and determine which live load will produce the largest force in bar CG. \n\nThe concentrated live load of 24 kips can act anywhere on the span and will produce the largest force in bar CG if it acts at the location that will produce the largest force in bar CG. \n\nThe uniform live load of 0.32 kip/ft can act anywhere on the span and will produce a force in bar CG if it acts at the location that will produce the largest force in bar CG. \n\nTherefore, the maximum value of live load force created in bar CG will be the sum of the concentrated live load of 24 kips and the uniform live load of 0.32 kip/ft acting at the location that will produce the largest force in bar CG. \n\nUsing the given diagram, we can see that the concentrated live load of 24 kips acts at the location A, which is at the bottom of the truss. Therefore, the maximum value of live load force created in bar CG will be:\n\n24 kips (concentrated live load) + 0.32 kips/ft x 9.81 ft (length of the truss) = 9.75 kips compression\n\nTherefore, the answer is (A) 9.75 kips compression."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_2",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "35.567 $\\approx$ 36",
+            "B": "36.567 $\\approx$ 37",
+            "C": "34.567 $\\approx$ 35",
+            "D": "37.567 $\\approx$ 38"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The image shows that Camera A has a focal length of 180 mm and Camera B has a focal length of 230 mm. For the same flying height, Camera A can cover a strip 16 km long in 36 photos, and Camera B can cover the same strip in 28 photos. The overlap is 60%, so Camera A would take 36 photos + 1/6 * 36 photos = 35 photos. The answer (C) is the closest to 35, so it is the correct answer.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_3",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "150.507 m",
+            "B": "152.507 m",
+            "C": "153.507 m",
+            "D": "151.507 m"
+        },
+        "response": "(C) 153.507 m"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-0.01m",
+            "B": "+0.02m",
+            "C": "0",
+            "D": "+0.01m"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The height difference between points A and B can be calculated as the difference between the level instrument readings at these two points. So the height difference is $h_{AB}=a'_{M}-b'_{M}=1.355m-1.455m=-0.01m$.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\alpha_{23}=75\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "B": "$\\alpha_{23}=95\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "C": "$\\alpha_{23}=65\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$",
+            "D": "$\\alpha_{23}=85\u00b0$,$\\alpha_{34}=160\u00b0$,$\\alpha_{45}=220\u00b0$,$\\alpha_{51}=280\u00b0$"
+        },
+        "response": "[asy] unitsize(1 cm); pair A=(0,0), B=(1,1), C=(1,0), D=(0,1), E=(1.5,1.5); D(MP(\"A\")--MP(\"B\")--MP(\"C\")--MP(\"D\")--cycle); D(A--B--C--D--cycle); MP(\"120\u00b0\",A--B,NE); MP(\"70\u00b0\",B--C,NW); MP(\"145\u00b0\",C--D,SE); MP(\"85\u00b0\",D--A,WN); MP(\"120\u00b0\",A--E,NE); MP(\"160\u00b0\",B--E,NW); MP(\"220\u00b0\",C--E,SE); MP(\"280\u00b0\",D--E,WN); [/asy]\nWe can see that the pentagon is a pentagon. Let the coordinate bearing angles of side $L_{12}$ be $\\alpha_{12}$. Then the coordinate bearing angles of the other sides are\n\\[\\begin{aligned} \\alpha_{23}&=180^\\circ-\\alpha_{12}-\\alpha_{34} \\\\\\\\ &=180^\\circ-30^\\circ-160^\\circ \\\\\\\\ &=85^\\circ \\end{aligned}\\]And $\\alpha_{34}$ is the complement of $\\alpha_{23}$ in a triangle with sides $L_{12}$ and $L_{23}$, so\n\\[\\begin{aligned} \\alpha_{34}&=180^\\circ-\\alpha_{23}-\\alpha_{L_{12}} \\\\\\\\ &=180^\\circ-85^\\circ-\\alpha_{L_{12}} \\\\\\\\ &=160^\\circ-\\alpha_{L_{12}} \\end{aligned}\\]Similarly, we can find that $\\alpha_{45} = 160^\\circ - \\alpha_{L_{45}}$ and $\\alpha_{51} = 160^\\circ - \\alpha_{L_{51}}$. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_6",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The scale of the photographs is 1 cm = 62.5 m;Air base = 625 m",
+            "B": "The scale of the photographs is 1 cm = 68.5 m;Air base = 625 m",
+            "C": "The scale of the photographs is 1 cm = 66.5 m;Air base = 625 m",
+            "D": "The scale of the photographs is 1 cm = 64.5 m;Air base = 625 m"
+        },
+        "response": "We refer to Wikipedia articles on photography for help. The focal length of the camera is 200 mm, and the size of prints is 250 mm x 250 mm. The overlap was exactly 60%, so the actual size of the photograph is 250 mm x 250 mm / (1 - 0.6) = 250 mm x 250 mm / 0.4 = 625 mm x 625 mm. The flying height was 1500 m, so the scale of the photograph is 625 mm x 625 mm / (1500 m / 1000 m/\u221a3 \u2248 1.625 m) = 1 cm = 62.5 m. The air base is 625 m.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "2.603",
+            "B": "2.703",
+            "C": "2.803"
+        },
+        "response": "(C) 2.803"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_8",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'34.73\"",
+            "B": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'38.73\"",
+            "C": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'32.73\"",
+            "D": "$\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'22.73\""
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The adjusted values of $\\alpha$ and $\\beta$ are (A) $\\alpha$ = 20\u00b010'11.82\",$\\beta $ = 30\u00b020'34.73$."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "14563 $m^{3}$",
+            "B": "14583 $m^{3}$",
+            "C": "14553 $m^{3}$",
+            "D": "14573 $m^{3}$"
+        },
+        "response": "We refer to Wikipedia articles on geotechnical engineering for help. The prismoidal rule states that the volume of earthwork is equal to the product of the length of the embankment, the height of the embankment, and the gradient of the embankment. The length of the embankment is 400 m, the height of the embankment is 12 m, and the gradient of the embankment is 1 in 100, which means the rising gradient is 1 m. The height of the embankment at zero chainage is 107.00 m. Therefore, the volume of earthwork is equal to 400 m * 12 m * 1 m = 14563 m^3.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4725 $m^{2}$",
+            "B": "4728 $m^{2}$",
+            "C": "4723 $m^{2}$",
+            "D": "4729 $m^{2}$"
+        },
+        "response": "The area of the traverse can be calculated using the formula: $A = \\frac{1}{2} \\cdot D \\cdot L$, where $D$ is the departure and $L$ is the length of the traverse. The length of the traverse is given as 1000 m. The departure of the traverse is given as follows: AB = -116.1 m, BC = +6.8 m, CD = +80.5 m, and DA = +28.8 m. The corrected latitudes of the traverse are given as follows: AB = -116.1 m, BC = +6.8 m, CD = +80.5 m, and DA = +28.8 m. Therefore, the area of the traverse can be calculated as follows: $A = \\frac{1}{2} \\cdot (444.4 m) \\cdot (1000 m) = 2222.2 m^{2}$, which is equal to option (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "10%.",
+            "B": "8%.",
+            "C": "9%."
+        },
+        "response": "(C) 9%"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "B = 143\u00b044'00.34\";C = 238\u00b010'11.87\";D = 307\u00b008'20.76\"",
+            "B": "B = 143\u00b044'00.34\";C = 238\u00b014'11.87\";D = 307\u00b008'20.76\"",
+            "C": "B = 143\u00b044'00.34\";C = 238\u00b016'11.87\";D = 307\u00b008'20.76\"",
+            "D": "B = 143\u00b044'00.34\";C = 238\u00b012'11.87\";D = 307\u00b008'20.76\""
+        },
+        "response": "We can use the law of sines to solve this problem. Let's denote the unknown angles as \u03b81, \u03b82, and \u03b83, and the known angles as A, B, and C. We have the following relationships:\nsin \u03b81 = (AB) / A sin \u03b82 = (AC) / A sin \u03b83 = (AD) / A\nWe can use these relationships to find \u03b81, \u03b82, and \u03b83. Let's start with \u03b81:\n\u03b81 = arctan (AB / A) = arctan (3190.32 / 3108.60) \u2248 143\u00b044'00.34\"\nNext, we can find \u03b82 and \u03b83 using the fact that \u03b81 + \u03b82 + \u03b83 = 180\u00b0:\n\u03b82 = 180\u00b0 - \u03b81 - \u03b83 = 180\u00b0 - 143\u00b044'00.34 - \u03b83 \u2248 36\u00b015'69.66\"\n\u03b83 = 180\u00b0 - \u03b81 - \u03b82 \u2248 180\u00b0 - 143\u00b044'00.34 - 36\u00b015'69.66 \u2248 30\u00b008'20.76\"\nNow we can use the law of sines to find the angles \u03b82 and \u03b83:\nsin \u03b82 = (AC) / A sin \u03b83 = (AD) / A\nWe can use these relationships to find \u03b82 and \u03b83. Let's start with \u03b82:\n\u03b82 = arctan (AC / A) = arctan (4085.15 / 3108.60) \u2248 40\u00b051'39.84\"\nNext, we can find \u03b83 using the fact that \u03b81 + \u03b82 + \u03b83 = 180\u00b0:\n\u03b83 = 180\u00b0 - \u03b81 - \u03b82 \u2248 180\u00b0 - 143\u00b044'00.34 - 40\u00b051'39.84 \u2248 36"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.32 mm",
+            "B": "4.12 mm",
+            "C": "4.22 mm"
+        },
+        "response": "(C) 4.22 mm"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_14",
+        "question_type": "short-answer",
+        "answer": "1.06",
+        "response": "The initial deflection at midspan for the beam in Figure P8.42 can be computed using the finite summation method. The beam is divided into 3-foot segments, and the deflection at each segment is calculated using the formula:\nd = k * (I + 2/3 * k * E * l^3)\nwhere d is the deflection, k is the bending stiffness, I is the second moment of area, E is the Young's modulus, l is the length of the segment, and k = 5 kips/in.2 is the bending stiffness of the beam.\nThe beam is also assumed to have a cross-sectional area of 0.5 IG, where I is the second moment of area. Therefore, the second moment of area can be calculated using the formula:\nI = (1/12) * (l^4 + 4 * l^2 * w^2 + w^4)\nwhere w is the width of the beam.\nSubstituting the values into the formula for the deflection at each segment, the initial deflection at midspan can be calculated as:\nd = (5 kips/in.2) * (0.5 IG) * (l^3 + 2 * l^2 * w^2 + w^3)\nThe beam is also subjected to a load of 30 kips at point A. Therefore, the total load on the beam can be calculated as:\nF = 30 kips\nThe beam is also assumed to be in equilibrium, meaning that the forces acting on it are balanced. Therefore, the force of the load at point A must be balanced by the reaction force at point B. The reaction force at point B can be calculated using the formula:\nF = k * (I + 2/3 * k * E * l^3)\nwhere k is the bending stiffness of the beam.\nSubstituting the values into the formula for the reaction force at point B, the initial deflection at midspan can be calculated as:\nd = (5 kips/in.2) * (0.5 IG) * (l^3 + 2 * l^2 * w^2 + w^3)\nThe initial deflection at midspan for the beam in Figure P8.42 can be calculated as:\nd = (5 kips/in.2) * (0.5 IG) * (l^3 + 2 * l^2 * w"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-1.84k compr",
+            "B": "-1.94k compr",
+            "C": "-1.74k compr"
+        },
+        "response": "(C) -1.74k compr"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1734veh/mi",
+            "B": "1744veh/mi",
+            "C": "1344veh/mi"
+        },
+        "response": "We refer to Wikipedia articles on transportation for help. The Greenshields model is a formula to calculate highway capacity. The data in the image is the speed (km/h) and density (veh/km) of vehicles on the highway. We can use regression analysis to fit these data to the Greenshields model and determine the capacity. The formula for capacity is: Capacity = (Speed * Density) / (1 + (Speed/Density)^0.7) The capacity obtained from the fitted regression line is 1744 veh/mi, which is the closest option to the given answer. Therefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_17",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "29.893 * 106 $m^{3}$",
+            "B": "29.293 * 106 $m^{3}$",
+            "C": "29.493 * 106 $m^{3}$",
+            "D": "29.693 * 106 $m^{3}$"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The volume of water is equal to the area of the reservoir $\\times$ the change in water level $\\times$ the depth of the water. The area of the reservoir is the sum of the areas enclosed by the contour loops, which is $660+670+685+695+670=29493$ $m^2$. The water level is $700$ m, so the volume of water is $\\frac{700^3-520^3}{2}=29.693*10^6m^3$.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "945.8 m, 216\u00b045'",
+            "B": "947.8 m, 216\u00b045'",
+            "C": "937.8 m, 216\u00b045'",
+            "D": "941.8 m, 216\u00b045'"
+        },
+        "response": "We know that the bearing of the traverse is given as 284\u00b013' and its length is 896.0 m. We need to find the length and bearing of GA. \n\nFrom the table, we can see that the bearing of the traverse DEFG is 284\u00b013'. We can find the bearing of GA by subtracting the bearing of the traverse from the bearing of the traverse itself. So, the bearing of GA is 284\u00b013' - 284\u00b013' = 0\u00b0.\n\nNow, we can find the length of GA by using the formula for the distance between two points on a plane: d = |AB|cos(\u03b8A) + |BC|cos(\u03b8B) + |CD|cos(\u03b8C) + |DE|cos(\u03b8D) + |EF|cos(\u03b8E), where d is the distance, \u03b8A is the bearing of A, \u03b8B is the bearing of B, \u03b8C is the bearing of C, \u03b8D is the bearing of D, \u03b8E is the bearing of E, and |AB|, |BC|, |CD|, |DE|, and |EF| are the lengths of the sides of the traverse.\n\nPlugging in the values, we get: d = |AB|cos(\u03b8A) + |BC|cos(\u03b8B) + |CD|cos(\u03b8C) + |DE|cos(\u03b8D) + |EF|cos(\u03b8E) = 1190.0cos(216\u00b045') + 565.3cos(216\u00b045') + 736.4cos(216\u00b045') + 590.5cos(216\u00b045') + 606.9cos(216\u00b045') = 945.8 m.\n\nTherefore, the length of GA is 945.8 m. \n\nThe answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Max.Compr.= 48.95 kips; Max.Tension = 13.1 kips",
+            "B": "Max.Compr.= 43.95 kips; Max.Tension = 13.1 kips",
+            "C": "Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips"
+        },
+        "response": "(C) Max.Compr.= 48.95 kips; Max.Tension = 33.1 kips"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_20",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Side width $w_{1}$ = 37.4 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "B": "Side width $w_{1}$ = 37.5 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "C": "Side width $w_{1}$ = 37.3 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$",
+            "D": "Side width $w_{1}$ = 37.2 m,Side width $w_{2}$ = 25.0 m,Total area = 418.75 $m^{2}$"
+        },
+        "response": "We refer to the image for the dimensions of the embankment. The side width $w_{1}$ is given as 37.4 m, the side width $w_{2}$ is given as 25.0 m, and the total area is given as 418.75 $m^{2}$. Therefore, the correct answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "120 m",
+            "B": "122 m",
+            "C": "123 m",
+            "D": "121 m"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The width of the river is the distance between the two points where the survey line crosses the river, which is GH in this case. GH = 80 m + 40 m = 120 m.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$\\angle A = 260\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$",
+            "B": "$\\angle A = 263\u00b045'$,$\\angle B = 261\u00b000'$,$\\angle C = 243\u00b000'$,$\\angle D = 265\u00b015'$,$\\angle E = 227\u00b000'$",
+            "C": "$\\angle A = 263\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$",
+            "D": "$\\angle A = 261\u00b030'$,$\\angle B = 260\u00b045'$,$\\angle C = 242\u00b045'$,$\\angle D = 265\u00b000'$,$\\angle E = 226\u00b045'$"
+        },
+        "response": "We refer to Wikipedia articles on geography for help. The interior angles of a triangle sum up to $180^\\circ$. Therefore, we have \\begin{align*}\n\\angle A + \\angle B + \\angle C &= 180^\\circ \\\\\n\\angle A + \\angle D + \\angle E &= 180^\\circ \\\\\n\\angle B + \\angle C + \\angle E &= 180^\\circ\n\\end{align*}From (A), we have \\begin{align*}\n\\angle A + \\angle B + \\angle C &= 260^\\circ 30' + 260^\\circ 45' + 242^\\circ 45' \\\\\n&= 763^\\circ 15'\n\\end{align*}From (B), we have \\begin{align*}\n\\angle A + \\angle B + \\angle C &= 263^\\circ 45' + 261^\\circ 00' + 243^\\circ 00' \\\\\n&= 765^\\circ 45'\n\\end{align*}From (C), we have \\begin{align*}\n\\angle A + \\angle B + \\angle C &= 263^\\circ 30' + 260^\\circ 45' + 242^\\circ 45' \\\\\n&= 764^\\circ 15'\n\\end{align*}From (D), we have \\begin{align*}\n\\angle A + \\angle B + \\angle C &= 261^\\circ 30' + 260^\\circ 45' + 265^\\circ 00' \\\\\n&= 782^\\circ 30'\n\\end{align*}Therefore, the correct answer is (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bearing AE = 87\u00b0,47':Grade = 1.78 in 652.33 = 1 in 413",
+            "B": "Bearing AE = 87\u00b0,47':Grade = 1.88 in 652.33 = 1 in 413",
+            "C": "Bearing AE = 87\u00b0,47':Grade = 1.68 in 652.33 = 1 in 413",
+            "D": "Bearing AE = 87\u00b0,47':Grade = 1.58 in 652.33 = 1 in 413"
+        },
+        "response": "The bearing between shafts A and E can be calculated using the following formula:\nBearing = (Horizontal distance between shafts A and E) / (Grade)\nBearing = (150.0 m) / (1 in 413)\nBearing = 150.0 m / 0.258\nBearing = 592.92 m\nTherefore, the bearing between shafts A and E is 592.92 m.\nThe grade between shafts A and E can be calculated using the following formula:\nGrade = (Horizontal distance between shafts A and E) / (Bearing)\nGrade = (150.0 m) / (592.92 m)\nGrade = 2.58 in 652.33\nGrade = 1.88 in 652.33\nTherefore, the grade between shafts A and E is 1.88 in 652.33.\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_24",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5560 hectares",
+            "B": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5460 hectares",
+            "C": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5260 hectares",
+            "D": "Use trapezoidal rule,area = 0.5010 hectares;Use trapezoidal rule,area = 0.5360 hectares"
+        },
+        "response": "We refer to Wikipedia articles on mathematics for help. The trapezoidal rule gives an approximate area between a curve and a line by summing the areas of trapezoids formed by the curve, the line, and the two segments of the line connecting the curve and the line. The trapezoidal rule gives an error of order h^2, where h is the width of the interval.\nThe correct answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_25",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "EUAW1=$18,444, EUAW2=$19,730",
+            "B": "EUAW1=$18,444, EUAW2=$15,730",
+            "C": "EUAW1=$15,444, EUAW2=$19,730"
+        },
+        "response": "The equivalent annual cost (EUAC) method is used to compare the cost of two or more alternatives over a specified period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost of a reference alternative over the same period of time. The EUAC method is used to compare the cost of an alternative over a specified period of time with the cost"
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "AO = 884.49 m,CO = 1644 m",
+            "B": "AO = 884.49 m,CO = 1624 m",
+            "C": "AO = 885.49 m,CO = 1634 m",
+            "D": "AO = 884.49 m,CO = 1634 m"
+        },
+        "response": "We refer to Wikipedia articles on surveying for help. Let's say O is the point on the BC side such that angle AOB = 45\u00b030' and BOC = 52\u00b015'. Then angle AOB = angle AOB + angle BOC = 90\u00b0 - angle BOC = 90\u00b0 - 52\u00b015' = 37\u00b045'. Since triangle AOB is a 45-45-90 triangle, we know that angle AOB = 45\u00b0 and AB = AO x cos(45\u00b045') = 884.49 m. Similarly, angle BOC = 37\u00b045' and BC = BO x cos(37\u00b045') = 1644 m. Therefore, CO = BC - AB = 1644 - 884.49 = 759.51 m. Therefore, the answer (B) is correct."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Distance CB = 748.50'",
+            "B": "Distance CB = 748.70'",
+            "C": "Distance CB = 748.60'",
+            "D": "Distance CB = 748.40'"
+        },
+        "response": "We refer to Wikipedia articles on geometry for help. The interior angle at A is 80 degrees, so the exterior angle opposite to AB is 180 - 80 = 100. The sum of the two sides of the triangle opposite to the 100 degree angle is equal to the angle times the hypotenuse, so AC + AB = 100 * c. Since AB = AC, we have 100 * c = 2 * AC. Since AB = AC, we have 100 * c = AB + AC = 2 * AC. So, c = 566.81. Therefore, CB = AC = 566.81 + 591.13 = 1168.94.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_28",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Temple",
+            "B": "Mosque",
+            "C": "Hut",
+            "D": "Church"
+        },
+        "response": "The symbol represents a mosque."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Gradient = 1 in 35.95 m fall",
+            "B": "Gradient = 1 in 33.95 m fall",
+            "C": "Gradient = 1 in 34.95 m fall",
+            "D": "Gradient = 1 in 36.95 m fall"
+        },
+        "response": "We refer to the image for the gradient calculation. The gradient from point P to point Q can be calculated as follows:\n\nGradient = (Vertical angle at instrument station - Vertical angle at staff station) / (Distance between instrument station and staff station)\n\nVertical angle at instrument station = 130\u00b0\nVertical angle at staff station = 10\u00b032\u2032\nDistance between instrument station and staff station = 130 m\n\nTherefore, the gradient from point P to point Q can be calculated as follows:\n\nGradient = (130\u00b0 - 10\u00b032\u2032) / 130 m = 22\u00b008\u2032 / 130 m = 1.70\u00b0 / 100 m = 0.17\u00b0 / 10 m\n\nTherefore, the gradient from point P to point Q is approximately 1 in 35.95 m fall.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Architecture_and_Engineering_30",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "5136.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "B": "5134.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "C": "5138.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$",
+            "D": "5132.82 $m_{2}$, 2.43 $m_{2}$, $\\pm$ 2.34 $m_{2}$"
+        },
+        "response": "We refer to Wikipedia articles on physics for help. The area of the object is given by the formula A = \u03c0r\u00b2/2, where r is the radius of the hole. The radius r is given as 9.50 \u00b1 0.02 m. Therefore, the area A is A = \u03c0(9.50 \u00b1 0.02)\u00b2/2 = 5136.82 \u00b1 2.43 m\u00b2. The error in the area is given by the standard error of the area, which is the standard deviation of the area divided by the square root of the number of measurements. In this case, there are two measurements, so the standard error is \u03c3/A = 2.34 m\u00b2/sqrt(2) = 2.34 * 0.707 m\u00b2 = 1.64 m\u00b2. The answer (D) is the correct one."
+    }
+]

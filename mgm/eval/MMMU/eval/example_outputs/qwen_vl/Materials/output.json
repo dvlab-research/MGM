@@ -1,0 +1,546 @@
+[
+    {
+        "id": "validation_Materials_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "1.17",
+            "B": "1.57",
+            "C": "0.87"
+        },
+        "response": "The shape factor for the cross section of the H-beam is approximately 1.57, which is the ratio of the moment of inertia to the area of the cross section."
+    },
+    {
+        "id": "validation_Materials_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "P/(A)*sin(2$\\theta$)",
+            "B": "(P/A)sin^2($\\theta$)",
+            "C": "P/(2A)*sin(2$\\theta$)",
+            "D": "(P/2A)sin^2($\\theta$)"
+        },
+        "response": "We refer to the image for help. The shaded section is oriented at $\\theta$ from the horizontal direction. The average normal stress is thus given by the integral of the axial load P times the cosine of the angle $\\theta$ over the shaded section, which is equal to $\\int_{\\theta}^{2\\theta}{P\\cos\\theta\\,d\\theta}=\\frac{P}{2}\\sin^2\\theta$ on the shaded section. The answer is (D)."
+    },
+    {
+        "id": "validation_Materials_3",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.00 MPa",
+            "B": "1.11 MPa",
+            "C": "1.01 MPa",
+            "D": "1.10 MPa"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The image shows a shaft with a collar A. If the shaft is subjected to an axial force of 5 kN, the bearing stress acting on the collar A is 1.01 MPa.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Materials_4",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "-65.1 MPa",
+            "B": "7.77 MPa",
+            "C": "43.7 MPa"
+        },
+        "response": "(C) 43.7 MPa"
+    },
+    {
+        "id": "validation_Materials_5",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "48 kg",
+            "B": "148 kg",
+            "C": "184 kg",
+            "D": "248 kg"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The stress in a member is the force per unit length, so the stress in a member is equal to the force divided by the cross-sectional area. The maximum stress in a member is equal to the force divided by the material's yield strength. The maximum stress in member AB is equal to F/A, where F is the force in the member and A is the cross-sectional area. The maximum stress in member BC is equal to F/B, where F is the force in the member and B is the cross-sectional area. The maximum stress in both members is equal to F/(A+B), so the maximum stress in the chandelier is equal to F/(A+B). The maximum stress in the chandelier is equal to F/(A+B) = 150 MPa. The maximum mass of the chandelier is equal to F/A = 48 kg.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Materials_6",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "[-321]",
+            "B": "[-420]",
+            "C": "[-431]",
+            "D": "[-430]"
+        },
+        "response": "We refer to Wikipedia articles on crystallography for help. The direction represented by the vector is [1 1/2 1]. The negative index for the x direction is -1, so the indices for this direction are [-1 1/2 1]. The answer (D) is the correct one."
+    },
+    {
+        "id": "validation_Materials_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Pa/(2bhG)",
+            "B": "Pa/(bhG)",
+            "C": "Pab/(2hG)",
+            "D": "2Pa/(bhG)"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The shear spring will experience a shear force $Pab$ acting between the two blocks and a normal force $Pa$ acting on top of the blocks. The shear spring will also experience a bending moment $M=0$, since the plates are rigid. The shear spring will deform elastically, and the displacement of plate A can be found by solving the equilibrium equation $\\sum F=0$. The equilibrium equation for plate A is $M=Pa/(2bhG)$. The answer is (B)."
+    },
+    {
+        "id": "validation_Materials_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "57.4%",
+            "B": "74.5%",
+            "C": "67.4%",
+            "D": "54.7%"
+        },
+        "response": "The percent crystallinity of a specimen having a density of 1.382 g/cm3 would be approximately 54.7%, based on the values given in the table. Therefore, the correct answer is (D)."
+    },
+    {
+        "id": "validation_Materials_9",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "60.5 MPa",
+            "B": "62.2 MPa",
+            "C": "40.5 MPa",
+            "D": "40.2 MPa"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average shear stress developed in the pin B is given by the average shear force divided by the pin's cross-sectional area, which is 1500 N / 6 mm^2 = 250 MPa.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Materials_10",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Materials_11",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.41 kN",
+            "B": "4.49 kN",
+            "C": "1.19 kN",
+            "D": "1.49 kN"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The reactive force is the force that opposes the applied force. The angle between the applied force and the reactive force is 60 degrees. So the reactive force is 120 N times the sine of 60 degrees, which is about 1.41 kN.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Materials_12",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "15 MPa",
+            "B": "5 MPa",
+            "C": "20 MPa",
+            "D": "2 MPa"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The shear modulus of the polymer is the ratio of shear force to the shear displacement. The shear modulus is defined as the ratio of the shear force to the shear displacement, which is the force required to shear the material in the direction perpendicular to its length. The shear modulus is usually much smaller than the Young's modulus. For a linearly elastic material, the shear modulus is given by the following formula: G = (E / (1 - 2 * nu^2)) * (1 - nu^2), where E is Young's modulus and nu is the Poisson ratio. The Young's modulus of acetal polymer is typically around 150 GPa, and the Poisson ratio is around 0.2. Therefore, the shear modulus is around 15 MPa. The answer is (A)."
+    },
+    {
+        "id": "validation_Materials_13",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "11.6*10^(-3) rad",
+            "B": "1.6*10^(-3) rad",
+            "C": "11.6*10^(-2) rad",
+            "D": "16.6*10^(-3) rad"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The shear strain is defined as the ratio of the shear stress to the shear strain. The shear stress is the component of stress that acts perpendicular to the shear direction. The shear strain is the component of strain that acts perpendicular to the shear direction. The shear stress and shear strain are usually denoted by $\\sigma _{xy}$ and $\\gamma _{xy}$ respectively. The shear strain at the corner B is $\\gamma _{xy}=\\frac{\\partial u}{\\partial y}=\\frac{\\partial u}{\\partial x}\\frac{\\partial x}{\\partial y}=\\frac{1}{2}\\frac{\\partial u}{\\partial x}$. The shear stress is $\\sigma _{xy}=E\\gamma _{xy}$. The shear strain at the corner B is thus $\\gamma _{xy}=\\frac{1}{2}\\frac{\\partial u}{\\partial x}=1.6*10^{-3}rad$.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Materials_14",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "26.53 MPa",
+            "B": "27.53 MPa",
+            "C": "28.53 MPa",
+            "D": "29.53 MPa"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average normal stress developed on the cross section is 27.53 MPa. The normal stress distribution over the cross section is shown in the image.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Materials_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-100$^\\circ$C",
+            "B": "-110$^\\circ$C",
+            "C": "-105$^\\circ$C",
+            "D": "-125$^\\circ$C"
+        },
+        "response": "We refer to Wikipedia articles on materials science for help. The average of the maximum and minimum impact energies is 115 J, which corresponds to a temperature of about -105\u00b0C.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Materials_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "58.4 kip",
+            "B": "125 kip",
+            "C": "50.4 kip",
+            "D": "100 kip"
+        },
+        "response": "We refer to Wikipedia articles on civil engineering for help. The magnitudes of P1 are given by the height of the column, which is 10 ft in this case. So P1 = 10 kip.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Materials_17",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "122 psi",
+            "B": "221 psi",
+            "C": "121 psi",
+            "D": "112 psi"
+        },
+        "response": "We refer to Wikipedia articles on medicine for help. The maximum tensile stress is equal to the force divided by the cross-sectional area, which is equal to F_A / 0.30 in^2 = 333 psi. The answer (D) is the closest to 333 psi, which is the maximum tensile stress.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Materials_18",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4.00*10^(-3) mm/mm",
+            "B": "6.00*10^(-3) mm/mm",
+            "C": "6.00*10^(-6) mm/mm",
+            "D": "4.00*10^(-6) mm/mm"
+        },
+        "response": "We refer to the image for the problem for the visual understanding. The normal strain $\\gamma '$ along edge BC is the ratio of the change in length of the edge to its original length. The original length of the edge is 400 mm, and after the shear strain, the length is 380 mm, thus the normal strain is $\\gamma '$=$\\frac{\\Delta l}{l_0}$=$\\frac{380-400}{400}$=-6.00*10^(-6).\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Materials_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1.6*10^(-3) mm/mm",
+            "B": "1.2*10^(-3) mm/mm",
+            "C": "16.8*10^(-3) mm/mm",
+            "D": "12.8*10^(-3) mm/mm"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average normal strain that occurs along the diagonal AC is 1.6*10^(-3) mm/mm.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Materials_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.00680 mm/mm",
+            "B": "-0.00680 mm/mm",
+            "C": "-0.0281*10^(-3) mm/mm",
+            "D": "0.0281*10^(-3) mm/mm"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average normal strain is defined as the ratio of the change in length to the original length. The dashed lines indicate that the rubber is deformed in the $y$ -direction, so the average normal strain is $\\frac{\\Delta y}{y}=-\\frac{y'}{y}=-\\frac{dy}{y}=d$. The original length is $y=300$ mm and the change in length is $\\Delta y=400$ mm, so the average normal strain is $\\frac{\\Delta y}{y}=-\\frac{400}{300}=-0.44444444444444446$.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Materials_21",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "N_D=0, V_D=0 kip, M_D=36.0 kip\u00b7ft",
+            "B": "N_D=0, V_D=3.50 kip, M_D=36.0 kip\u00b7ft",
+            "C": "N_D=0, V_D=0 kip, M_D=31.5 kip\u00b7ft",
+            "D": "N_D=0, V_D=4.50 kip, M_D=36.0 kip\u00b7ft"
+        },
+        "response": "We refer to the image for help. The diagram shows a simply supported beam with a cross-section of 6 inches by 3 inches. The beam is loaded with a distributed load of 6 kips/ft acting between supports A and B. The distance between supports A and B is 6 ft. The beam is also subjected to a concentrated load of 3 kips at point C and 3 kips at point D. The reactions at supports A and B are vertical, and the bending moment at point D is 36 kip\u00b7ft.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Materials_22",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.0556 in^2",
+            "B": "0.0252 in^2",
+            "C": "0.0356 in^2",
+            "D": "0.0451 in^2"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The cross-sectional area of member BC is A = sallow * t = 24 ksi * 6 ft = 144 ft^2.\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Materials_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "10.9 mm",
+            "B": "11.1 mm",
+            "C": "19.9 mm",
+            "D": "11.9 mm"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average normal stress developed in cable AB is the same as in cable AC if the moment of the force in cable AB is equal to the moment of the force in cable AC. The moment of the force in cable AC is given by M = F x L, where F is the force applied to the pipe and L is the distance between the force and the center of mass. The moment of the force in cable AB is given by M = F x L sin(45^circ) = F x 0.5L. Therefore, the force applied to the pipe should be F = M / L sin(45^circ) = M / 0.5L. We are given that the force applied to the pipe is Fg = 2Mg, so the force applied to the pipe should be Fg = 2Mg / 0.5L = 4Mg / L. Therefore, the diameter of cable AB should be D = Fg / F = 4Mg / L / F = 4 / L. The answer (B) is the closest to L = 10 mm, so the diameter of cable AB should be D = 4 / 10 = 0.4 mm.\n\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Materials_24",
+        "question_type": "multiple-choice",
+        "answer": "F",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "SC {100}",
+            "B": "BCC {100}",
+            "C": "FCC {100}",
+            "D": "SC {110}",
+            "E": "BCC {110}",
+            "F": "FCC {110}",
+            "G": "SC {111}",
+            "H": "BCC {111}",
+            "I": "FCC {111}"
+        },
+        "response": "The unit cell plane is a set of five spheres connected by lines. The first sphere has a radius of 2, and the other four have a radius of 3. The angle between each adjacent pair of spheres is pi/3. The options that match this description are (C) FCC {100} and (F) FCC {110}. Therefore, the answer is (C) FCC {100}."
+    },
+    {
+        "id": "validation_Materials_25",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.917 g/cm^3",
+            "B": "0.841 g/cm^3",
+            "C": "0.946 g/cm^3",
+            "D": "0.841 g/cm^3"
+        },
+        "response": "The correct answer is (B). \n\nWe can see from the table that the percent crystallinity of the first material is 62.8%, which means that it is a partially crystalline material. The density of a partially crystalline material can be calculated using the formula: \n\nDensity = (molar mass of component crystals) / (sum of the molar masses of component crystals)\n\nwhere the molar mass of component crystals is given as 0.904 g/cm^3 for the first material. \n\nFor a totally crystalline material, the percent crystallinity would be 100%, and the density would be calculated using the formula: \n\nDensity = (molar mass of component crystals) / (sum of the molar masses of component crystals)\n\nTherefore, the density of a totally crystalline material would be:\n\nDensity = (0.904 g/cm^3) / (0.904 g/cm^3 + 0.895 g/cm^3) = 0.841 g/cm^3\n\nTherefore, the correct answer is (B)."
+    },
+    {
+        "id": "validation_Materials_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Na=500 lb, Va=250 lb",
+            "B": "Na=600 lb, Va=0",
+            "C": "Na=500 lb, Va=0",
+            "D": "Na=550 lb, Va=0"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The normal force is the force that is perpendicular to the cross-section and acts on the cross-section. The shear force is the force that acts at the centroid of the cross-section and is parallel to the cross-section. The normal force is equal to the force applied divided by the length of the member. The shear force is equal to the moment of the force divided by the length of the member. The moment of the force is the product of the force and the distance from the centroid to the point where the force is applied. In this case, the normal force is 500 lb, and the shear force is 0. The answer (C) is correct."
+    },
+    {
+        "id": "validation_Materials_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "200 psi",
+            "B": "150 psi",
+            "C": "500 psi",
+            "D": "250 psi"
+        },
+        "response": "(C) 500 psi"
+    },
+    {
+        "id": "validation_Materials_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "D"
+    },
+    {
+        "id": "validation_Materials_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "FCC",
+            "B": "BCC",
+            "C": "SC"
+        },
+        "response": "Based on the information provided in the table, we can see that the atomic weight and density of alloy C are higher than those of alloys A and B. Therefore, it is likely that alloy C has a higher atomic radius than alloys A and B. However, we cannot determine the crystal structure of alloy B based on this information alone. \n\nTo determine the crystal structure of alloy B, we would need to know the values of other physical properties, such as the electrical conductivity or the thermal expansion coefficient. These properties are typically related to the crystal structure of a material. \n\nTherefore, we cannot determine the crystal structure of alloy B based on the information provided in the table. It is possible that alloy B has a FCC, BCC, or SC crystal structure, or it could have a different crystal structure altogether."
+    },
+    {
+        "id": "validation_Materials_30",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "0.00443 mm/mm",
+            "B": "0.00803 mm/mm",
+            "C": "0.00543 mm/mm",
+            "D": "0.00884 mm/mm"
+        },
+        "response": "We refer to Wikipedia articles on engineering for help. The average normal strain $\\varepsilon '_x$ is given by $\\varepsilon '_x=\\frac{\\Delta x}{L}$, where $\\Delta x$ is the horizontal displacement of the apex A and L is the length of the plate. In this case, the length of the plate is 800 mm. So, $\\varepsilon '_x=\\frac{5mm}{800mm}=0.00625$. Therefore, the answer is (B)."
+    }
+]

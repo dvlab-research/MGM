@@ -1,0 +1,538 @@
+[
+    {
+        "id": "validation_Sociology_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A consensus crime",
+            "B": "A conflict crime",
+            "C": "A social deviation",
+            "D": "A social diversion"
+        },
+        "response": "(C) A social deviation\n\nThe person in the image was arrested for refusing to sit in the blacks-only section of the cinema, which was a form of racial discrimination. This behavior was considered a social deviation because it went against the norms and values of the society at that time, and it was considered wrong and unacceptable. The person's actions were a conflict with the social norms and laws of the time, resulting in their arrest."
+    },
+    {
+        "id": "validation_Sociology_2",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Critical sociology",
+            "B": "Feminist theory",
+            "C": "Functionalist theory",
+            "D": "Symbolic interactionism"
+        },
+        "response": "We refer to Wikipedia articles on sociology for help. Among the options, only Critical sociology focuses on the labels acquired through the educational process."
+    },
+    {
+        "id": "validation_Sociology_3",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The exercise of power by the state",
+            "B": "The strategies some use to direct the behaviour and actions of others",
+            "C": "The institutionalization of legislative, executive, and judicial branches of the state",
+            "D": "The means by which permanent hierarchies are established and enforced"
+        },
+        "response": "(B) The strategies some use to direct the behaviour and actions of others."
+    },
+    {
+        "id": "validation_Sociology_4",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Competition",
+            "B": "The enlightenment",
+            "C": "Division of labor",
+            "D": "Class consciousness"
+        },
+        "response": "The shift from mechanical solidarity to organic solidarity is often attributed to the development of industrialization and the growth of cities, which led to a division of labor and a larger class divide. This division of labor and the growth of cities led to the emergence of new social groups and identities, which in turn led to the development of class consciousness and a desire for collective action and solidarity among workers. Therefore, the correct answer is (C)."
+    },
+    {
+        "id": "validation_Sociology_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Job opportunities are increasing for highly skilled jobs.",
+            "B": "Job opportunities are decreasing for mid-level jobs.",
+            "C": "Highly skilled jobs pay better than low-skill jobs.",
+            "D": "Women tend to make less than men do for the same job."
+        },
+        "response": "(C) Highly skilled jobs pay better than low-skill jobs."
+    },
+    {
+        "id": "validation_Sociology_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Are formally deLned and are enforced by designated people",
+            "B": "Norms for routine or casual interaction. 'Everyday behaviors.' ",
+            "C": "Specific statements that people hold to be true or false",
+            "D": "Have great moral signiLcance. 'taboos' "
+        },
+        "response": "(B) Norms for routine or casual interaction. 'Everyday behaviors.'"
+    },
+    {
+        "id": "validation_Sociology_7",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Core nations and peripheral nations exploit semi-peripheral nations",
+            "B": "Semi-peripheral nations exploit core nations",
+            "C": "Peripheral nations exploit core nations",
+            "D": "Core nations exploit peripheral nations"
+        },
+        "response": "The answer is (A) Core nations and peripheral nations exploit semi-peripheral nations. \n\nGlobal inequality and global stratification refer to the unequal distribution of resources and opportunities across the world. According to this perspective, there are three types of nations: core nations, which are rich and powerful; peripheral nations, which are located at the periphery of the global system and are less developed; and semi-peripheral nations, which are located between core and peripheral nations and have a mixed economy and some degree of autonomy. Core nations and peripheral nations exploit semi-peripheral nations, creating a hierarchical system of global power and privilege."
+    },
+    {
+        "id": "validation_Sociology_8",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "Not sure",
+            "D": "None of the above"
+        },
+        "response": "This statement is false. The government of Sri Lanka is a democratic republic, and the majority of the population is Sinhalese. While there are minority groups in the country, including Tamils, they do not govern the government. Therefore, the answer is (B) False."
+    },
+    {
+        "id": "validation_Sociology_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "symbolic interactionism",
+            "B": "functionalism",
+            "C": "conflict theory",
+            "D": "ethnocentrism"
+        },
+        "response": "The answer is (C) conflict theory. Conflict theory emphasizes the conflict and competition between social groups for resources and power, which is a central theme in the Occupy Wall Street movement's critique of economic inequality and the role of corporations and government in perpetuating it."
+    },
+    {
+        "id": "validation_Sociology_10",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a working waitress",
+            "B": "a sociologist ",
+            "C": "Not sure"
+        },
+        "response": "Based on the image, it is not possible to determine with certainty whether she is a working waitress or a sociologist conducting a study using participant observation. However, the fact that she is standing and serving people at an outdoor cafe suggests that she may be a working waitress. The presence of a book on the table also supports the idea that she could be a sociologist conducting research, but this information alone is not sufficient to make a definitive conclusion."
+    },
+    {
+        "id": "validation_Sociology_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A stigmatized disease",
+            "B": "A contested illness",
+            "C": "A disability",
+            "D": "Demedicalization"
+        },
+        "response": "(C) A disability"
+    },
+    {
+        "id": "validation_Sociology_12",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Conflict Theorist",
+            "B": "Structural Functionalist",
+            "C": "Symbolic Interactionist",
+            "D": "All of the above"
+        },
+        "response": "We refer to Wikipedia articles on sociology for help. Sociologist \u00c9mile Durkheim is known for his work on the concept of macrosocial facts, which falls under structural functionalist framework. So the answer is (B)."
+    },
+    {
+        "id": "validation_Sociology_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "full observation for the work space",
+            "B": "partial observation for the work space"
+        },
+        "response": "(B) partial observation for the work space"
+    },
+    {
+        "id": "validation_Sociology_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It is too broad and accounts for too many aspects of family.",
+            "B": "It is too narrowly focused on a sequence of stages.",
+            "C": "It does not serve a practical purpose for studying family behaviour.",
+            "D": "It is not based on comprehensive research."
+        },
+        "response": "(B) It is too narrowly focused on a sequence of stages."
+    },
+    {
+        "id": "validation_Sociology_15",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Self-definition",
+            "B": "Numerical minority",
+            "C": "Lack of power",
+            "D": "Strong cultural identity"
+        },
+        "response": "(C) Lack of power"
+    },
+    {
+        "id": "validation_Sociology_16",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Emile Durkheim",
+            "B": "Karl Marx",
+            "C": "Erving Goffmann",
+            "D": "George Herbert Mead"
+        },
+        "response": "The answer is (B) Karl Marx. Marx believed that the history of society was one of class struggle, where different social classes compete for resources and power. This idea is central to Marxist theory and is reflected in works such as \"The Communist Manifesto\" and \"Das Kapital.\""
+    },
+    {
+        "id": "validation_Sociology_17",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Refers to people who interact in a deLned territory and share a culture",
+            "B": "Is the values, beliefs, behavior, and material objects that, together, form a people's way of life",
+            "C": "Social cohesion (unity) results from the various parts of society functioning as parts of society functioning as an integrated whole.",
+            "D": "Culturally deLned standards by which people asses desirability, goodness, and beauty and that serve as broad guidelines for social living"
+        },
+        "response": "(C) Social cohesion (unity) results from the various parts of society functioning as parts of society functioning as an integrated whole."
+    },
+    {
+        "id": "validation_Sociology_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Says the organization of society (stratiLcations based on class, ethnicity, gender, age, etc.) and the changes in society can be explained by the conSicts inherent to social relations.",
+            "B": "Is the economic system that is directed at earning a proLt for a few, selling the proLts to many people, and keeping workers wages low in order to increase proLts",
+            "C": "Is a theory that focuses on the social structures that shape society as a whole. It sees society as a complex system whose parts work together to maintain stability and to promote solidarity.",
+            "D": "Refers to the particular experience of African Americans where in which they are forced to see themselves their status as citizens who are never able to escape identiLcation based on the color of their skin"
+        },
+        "response": "The W.E.B Dubois mentioned in the image is (A) Says the organization of society (stratiLcations based on class, ethnicity, gender, age, etc.) and the changes in society can be explained by the conSicts inherent to social relations."
+    },
+    {
+        "id": "validation_Sociology_19",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False",
+            "C": "Not sure",
+            "D": "None of the above"
+        },
+        "response": "(C) Not sure"
+    },
+    {
+        "id": "validation_Sociology_20",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "happy",
+            "B": "understandable",
+            "C": "sad",
+            "D": "feel it is being rude"
+        },
+        "response": "Based on the image, it is not possible to accurately predict how a visitor from a rural Canadian town would act or feel on this crowded Tokyo train. However, it is possible that they might feel overwhelmed or disoriented by the crowded conditions, especially if they are not used to such high levels of urban congestion. It is also possible that they might feel a sense of curiosity or fascination at seeing people from different cultures and backgrounds using public transportation in a foreign city. Ultimately, the visitor's experience would depend on their personal preferences, cultural norms, and ability to adapt to new situations."
+    },
+    {
+        "id": "validation_Sociology_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Digital divide",
+            "B": "Knowledge gap",
+            "C": "Feminist perspective",
+            "D": "E-gap"
+        },
+        "response": "The answer is (A) Digital divide. \n\nThe digital divide refers to the gap between people who have access to modern information and communications technology and those who do not. This can be directly attributed to the digital divide, as differential ability to access the internet leads directly to a differential ability to use the knowledge found on the internet."
+    },
+    {
+        "id": "validation_Sociology_22",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Religion",
+            "B": "Prohibition against incest",
+            "C": "Family",
+            "D": "Media"
+        },
+        "response": "Media"
+    },
+    {
+        "id": "validation_Sociology_23",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Corporate crime",
+            "B": "Violent crime",
+            "C": "Victimless crime",
+            "D": "All of the above"
+        },
+        "response": "The answer is (D) All of the above. \n\nCorporate crime refers to illegal activities committed by businesses or corporations for financial gain. Violent crime includes any crime that involves the use or threat of physical force or violence. Victimless crimes are offenses that involve no harm or injury to others, such as prostitution or drug use. All of these types of crime can have a negative impact on society and are considered to be a type of criminal activity."
+    },
+    {
+        "id": "validation_Sociology_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Bureaucracies are most eCcient at organizing large populations",
+            "B": "Bureaucracy operates without values or morals and can be used for any purpose.",
+            "C": "Bureaucracies are based on expert knowledge and are capable of promoting recruitment",
+            "D": "All of the above are reasons why bureaucracy is inescapable"
+        },
+        "response": "The answer is (D) All of the above are reasons why bureaucracy is inescapable. Weber argues that bureaucracy is an efficient organizational structure for managing large populations, but it also operates without values or morals, making it capable of being used for any purpose. Additionally, bureaucracy is based on expert knowledge and is capable of promoting recruitment, which further contributes to its inescapability."
+    },
+    {
+        "id": "validation_Sociology_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Obesity in children is obviously a result of parental neglect and, therefore, schools should take a greater role to prevent it.",
+            "B": "In 2003, states like Arkansas adopted laws requiring elementary schools to remove soft drink vending machines from schools.",
+            "C": "Merely restricting children's access to junk food at school is not enough to prevent obesity.",
+            "D": "Physical activity and healthy eating are a fundamental part of a child's education."
+        },
+        "response": "We refer to Wikipedia articles on media ethics for help. The statement that illustrates the concept in the image is (A) Obesity in children is obviously a result of parental neglect and, therefore, schools should take a greater role to prevent it. This is because it presents a value judgement and a solution, without considering the possible counterarguments or alternative solutions. The other options either present facts or discuss the role of schools in promoting health."
+    },
+    {
+        "id": "validation_Sociology_26",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The conflict perspective",
+            "B": "Conspicuous consumption",
+            "C": "Media",
+            "D": "Planned obsolescence"
+        },
+        "response": "D) Planned obsolescence."
+    },
+    {
+        "id": "validation_Sociology_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "A black person living in Canada",
+            "B": "People whose ancestors came to Canada through the slave trade",
+            "C": "A white person who originated in Africa and now lives in Canada",
+            "D": "Any of the above"
+        },
+        "response": "The racial term \"Octoroon\" can refer to option (B) People whose ancestors came to Canada through the slave trade. It was a term used to describe people of African descent who had one or more white ancestors, and it was commonly used in Canada during the 19th and early 20th centuries. However, it is important to note that this term is considered offensive and racist, and it should not be used to describe or refer to people."
+    },
+    {
+        "id": "validation_Sociology_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Scientology and the Hare Krishna",
+            "B": "the Peoples Temple and Heven's Gate",
+            "C": "the Branch Davidians and the Manson Family",
+            "D": "Quakers and Petecostals"
+        },
+        "response": "The controversial groups that may be mislabelled as \"New Age\" include:\n\n(A) Scientology and the Hare Krishna\n(B) the Peoples Temple and Heven's Gate\n(C) the Branch Davidians and the Manson Family\n\nThese groups have been associated with New Age beliefs and practices, but they also have a history of controversy and harmful actions. It is important to note that not all groups labeled as \"New Age\" are necessarily controversial or harmful, but it is crucial to be aware of the potential risks and to approach these practices with caution."
+    },
+    {
+        "id": "validation_Sociology_29",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Men often earn more than women, even working the same job.",
+            "B": "After work, Pat, a janitor, feels more comfortable eating in a truck stop than a French restaurant.",
+            "C": "Doctors earn more money because their job is more highly valued.",
+            "D": "Teachers continue to struggle to keep benefits such as good retirement plans."
+        },
+        "response": "(C) Doctors earn more money because their job is more highly valued."
+    },
+    {
+        "id": "validation_Sociology_30",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "Postman",
+            "B": "Oakley",
+            "C": "Philips",
+            "D": "Aries",
+            "E": "Mithchel and Woodey"
+        },
+        "response": "I'm sorry, but I cannot provide an answer to this question without more context. Could you please provide more information or specify which image you are referring to?"
+    }
+]

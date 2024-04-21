@@ -1,0 +1,476 @@
+[
+    {
+        "id": "validation_Pharmacy_1",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "4.0 mol of NH3,3.0 mol of N2,6.0 mol of H2O",
+            "B": "4.0 mol of NH3,1.0 mol of N2,6.0 mol of H2O",
+            "C": "4.0 mol of NH3,2.0 mol of N2,6.0 mol of H2O"
+        },
+        "response": "We can use the stoichiometry of the chemical equation to determine the number of moles of each reactant and product. In this case, the equation is:\n\nN2(g) + 3H2(g) \u2192 2NH3(g)\n\nWe are given that 3.0 mol of O2 is present, so we can use the balanced equation to determine the number of moles of each reactant and product. We can see that 1 mol of O2 is required to produce 2 moles of NH3, so we have 3.0 mol O2 \u00d7 2 = 6.0 mol of NH3. Similarly, we can see that 6.0 mol of H2 is required to produce 2 moles of NH3, so we have 6.0 mol H2 \u00d7 2 = 12.0 mol of H2. Therefore, the correct answer is (C)."
+    },
+    {
+        "id": "validation_Pharmacy_2",
+        "question_type": "multiple-choice",
+        "answer": "E",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "$\\beta $1-adrenergic receptors",
+            "B": "glucocorticoid receptors",
+            "C": "histamine H1 receptors",
+            "D": "leukotriene receptors",
+            "E": "muscarinic receptors"
+        },
+        "response": "We refer to Wikipedia articles on medicine for help. The patient is a 82-year-old woman with a history of smoking and presents with worsening cough and shortness of breath. Her vital signs reveal temperature 36.8\u00b0C (98.2\u00b0F), blood pressure 140/90 mmHg, heart rate 105/min, and oxygen saturation (at rest) 92% on room air. ECG findings are normal. Her FEV1/FVC ratio is 65% of predicted. The most appropriate inhaled medication for this patient is bronchodilator, which works by blocking muscarinic receptors.\n\nTherefore, the answer is (E)."
+    },
+    {
+        "id": "validation_Pharmacy_3",
+        "question_type": "short-answer",
+        "answer": "2",
+        "response": "Blocking the release of histamine from the mast cells is responsible for preventing this type of allergic response. This can be achieved through the use of an antihistamine medication."
+    },
+    {
+        "id": "validation_Pharmacy_4",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False."
+    },
+    {
+        "id": "validation_Pharmacy_5",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "H,O",
+            "B": "H,Na",
+            "C": "H,B",
+            "D": "H,H"
+        },
+        "response": "The borohydride (NaBH4) is reduced in the reaction, so it is being oxidized. The hydrogen atoms in the water (H2O) are being reduced, so they are being oxidized. The sodium atom in the sodium borohydride is being reduced, so it is being oxidized. The boron atom in the sodium borohydride is being reduced, so it is being oxidized. Therefore, the answer is (A) H,O."
+    },
+    {
+        "id": "validation_Pharmacy_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "aerobic respiration",
+            "B": "anaerobic respiration",
+            "C": "anoxygenic photoautotroph",
+            "D": "oxygenic photoautotroph"
+        },
+        "response": "(D) oxygenic photoautotroph"
+    },
+    {
+        "id": "validation_Pharmacy_7",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a,b",
+            "B": "a,c",
+            "C": "b,c"
+        },
+        "response": "The graph with a constant slope is (A) a, b."
+    },
+    {
+        "id": "validation_Pharmacy_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "[H+]",
+            "B": "pH",
+            "C": "[OH-]"
+        },
+        "response": "The y-axis on this graph corresponds to the quantity of H+ ions, which is represented by the symbol [H+]. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Pharmacy_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b",
+            "C": "same of the two"
+        },
+        "response": "The first picture (a) shows a clear jar with colored balls in it, on a table. The second picture (b) shows the same colored balls scattered on the table. Therefore, the first picture appears to have more order. The answer is (A)."
+    },
+    {
+        "id": "validation_Pharmacy_10",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "hydrogen bonds",
+            "B": "ionic bonds",
+            "C": "van der Waals interactions"
+        },
+        "response": "(C) van der Waals interactions"
+    },
+    {
+        "id": "validation_Pharmacy_11",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "a",
+            "B": "b",
+            "C": "c"
+        },
+        "response": "The wave with the highest amplitude is (A) a."
+    },
+    {
+        "id": "validation_Pharmacy_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "False. The balanced equation for the reaction is (NH4)2CO3->CO2 + H2O + 2NH3."
+    },
+    {
+        "id": "validation_Pharmacy_13",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B"
+        ],
+        "index2ans": {
+            "A": "True",
+            "B": "False"
+        },
+        "response": "The protein in the figure has a quaternary structure, as it is composed of multiple subunits or domains that interact to form a stable structure. The dashed line divides the structure into three regions labeled A, B, and C, which suggests that these regions may be distinct subunits or domains that come together to form the overall protein structure. Therefore, the protein has a quaternary structure."
+    },
+    {
+        "id": "validation_Pharmacy_14",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Neisseria gonorrhoeae",
+            "B": "Chlamydia trachomatis",
+            "C": "Treponema pallidum",
+            "D": "Haemophilis ducreyi"
+        },
+        "response": "The microbe in the image is Chlamydia trachomatis, which is a bacterial pathogen that causes various sexually transmitted infections (STIs) including chlamydia, PID, and PID."
+    },
+    {
+        "id": "validation_Pharmacy_15",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "A",
+            "B": "B",
+            "C": "None of them"
+        },
+        "response": "The diagram shows two electrodes connected to a beaker filled with a solution. Electrode A is connected to point A on the left side of the diagram, and electrode B is connected to point B on the right side of the diagram. The diagram does not provide enough information to determine at which electrode, A or B, is hydrogen produced. Therefore, the answer is (C) None of them."
+    },
+    {
+        "id": "validation_Pharmacy_16",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "1,2",
+            "B": "2,6",
+            "C": "3,8",
+            "D": "4,1"
+        },
+        "response": "We refer to Wikipedia articles on measurement for help. The volume of the liquid in the graduated cylinder is reported as 31.8 mL, which is a decimal number and has 2 significant figures. In this measurement, the uncertainty is in the tenths place, so there are 1 digits after the decimal point and 1 digit to the right of the decimal point, making it a 2-digit number.\nTherefore, the answer is (B)."
+    },
+    {
+        "id": "validation_Pharmacy_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Doxorubicin",
+            "B": "Dactinomycin",
+            "C": "Mitoxantrone",
+            "D": "Bleomycin"
+        },
+        "response": "(D) Bleomycin"
+    },
+    {
+        "id": "validation_Pharmacy_18",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Graph 1",
+            "B": "Graph 2",
+            "C": "Graph 3"
+        },
+        "response": "The relevant optical representation for transdermal absorption by active transport is Graph 1 (AUC vs Dose)."
+    },
+    {
+        "id": "validation_Pharmacy_19",
+        "question_type": "short-answer",
+        "answer": "B",
+        "response": "The reaction of CO2Et with (S)-N-(2-hydroxypropan-2-yl) acetamidocoumarin in the presence of NaHCO3 in DMSO at room temperature gives the expected (S)-N-(2-hydroxypropan-2-yl) acetanilide in high yield and high enantiomeric purity. This reaction is a regioselective reaction."
+    },
+    {
+        "id": "validation_Pharmacy_20",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "iron, oxygen, Aluminum, silicon",
+            "B": "Aluminum, silicon, iron, calcium",
+            "C": "oxygen, silicon, iron, calcium"
+        },
+        "response": "The five elements that make up 98% of the mass of the human body are also abundant both in the human body and Earth's crust, oceans, and atmosphere. Therefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Pharmacy_21",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The chlorine groups are displaced before the drug becomes active.",
+            "B": "Intrastrand cross linking of DNA results from the action of the agent.",
+            "C": "Base pairing between adenine and thymine is disrupted by the agent.",
+            "D": "The compound acts as a metallating agent"
+        },
+        "response": "(C) Base pairing between adenine and thymine is disrupted by the agent."
+    },
+    {
+        "id": "validation_Pharmacy_22",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2,1",
+            "B": "2,2",
+            "C": "1,1",
+            "D": "1,2"
+        },
+        "response": "The order with respect to reactant A and B can be determined using the rate law equation. The rate law equation is given by the rate constant multiplied by the\u6d53\u5ea6\u7684\u5e42\u4e4b\u79ef,\u5373 k[A]^m * [B]^n. In this case, the rate constant is 0.012 M/s and the initial concentrations of A and B are 0.08 M and 0.08 M, respectively. Therefore, the order with respect to A and B can be determined as follows:\nm = -log[0.08] = 1 n = -log[0.08] = 1 Therefore, the order with respect to A and B is 1,1. The answer is (C)."
+    },
+    {
+        "id": "validation_Pharmacy_23",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The cyclisation is defined as 6-exo-tet and is allowed by Baldwin's rules",
+            "B": "The cyclisation is defined as 6-exo-trig and is allowed by Baldwin's rules",
+            "C": "The cyclisation is defined as 6-endo-tet and is allowed by Baldwin's rules",
+            "D": "The cyclisation is defined as 6-endo-trig and is allowed by Baldwin's rules"
+        },
+        "response": "The cyclization is defined as 6-endo-trig and is allowed by Baldwin's rules.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Pharmacy_24",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Topoisomerase poison",
+            "B": "Metallating agent",
+            "C": "Chain terminator",
+            "D": "Antisense agent"
+        },
+        "response": "The structure is a pyrimidine nucleoside with a 5-fluoropyrimidin-2-one ring. This compound is a nucleoside analog that is incorporated into DNA or RNA during cell replication, leading to the formation of a mispair. The mispair can then be recognized and cleaved by the topoisomerase enzyme, leading to DNA damage and cell death. Therefore, the mechanism of action of this compound is (A) topoisomerase poison."
+    },
+    {
+        "id": "validation_Pharmacy_25",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Blueish-purple or violet (primary stain),Blueish-purple or violet (mordant),Blueish-purple or violet (counterstain),Blueish-purple or violet (decolorizer)",
+            "B": "Blueish-purple or violet (mordant),Blueish-purple or violet (primary stain),Blueish-purple or violet (counterstain),Blueish-purple or violet (decolorizer)",
+            "C": "Blueish-purple or violet (primary stain),Blueish-purple or violet (counterstain),Blueish-purple or violet (mordant),Blueish-purple or violet (decolorizer)",
+            "D": "Blueish-purple or violet (primary stain),Blueish-purple or violet (mordant),Blueish-purple or violet (decolorizer),Blueish-purple or violet (counterstain)"
+        },
+        "response": "(C) Blueish-purple or violet (primary stain),Blueish-purple or violet (counterstain),Blueish-purple or violet (mordant),Blueish-purple or violet (decolorizer)"
+    },
+    {
+        "id": "validation_Pharmacy_26",
+        "question_type": "short-answer",
+        "answer": "A",
+        "response": "A"
+    },
+    {
+        "id": "validation_Pharmacy_27",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "20.0%,0.50 mol,0.05 mol,20.0%",
+            "B": "30.0%,0.50 mol,0.05 mol,20.0%",
+            "C": "40.0%,0.50 mol,0.05 mol,20.0%",
+            "D": "50.0%,0.50 mol,0.05 mol,20.0%"
+        },
+        "response": "The manufacture of compound F requires five separate chemical reactions, and the percent yield for each step is given in the diagram. The percent yield for the first step is 20.0%, the second step is 30.0%, the third step is 40.0%, the fourth step is 50.0%, and the fifth step is 20.0%. Therefore, the missing percent yield for the fifth step is 20.0%. The missing quantity for the first step is 0.50 mol, and the missing quantity for the second step is 0.05 mol. Therefore, the correct answer is (A) 20.0%,0.50 mol,0.05 mol,20.0%."
+    },
+    {
+        "id": "validation_Pharmacy_28",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "-OH,ethanol.",
+            "B": "one oxygen attached to two alkyl groups,diethyl ether",
+            "C": "ketonic carbonyl,propane-2-one",
+            "D": "-COOH,acetic acid"
+        },
+        "response": "The compound pictured is ethyl acetate, which is a colorless liquid with a characteristic fruity odor. The functional group in this compound is the ester group, which is formed by the condensation of an alcohol group (represented by the red oxygen atoms) and a carboxylic acid group (represented by the red carbon atom double-bonded to the oxygen atom). Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Pharmacy_29",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "cyclopentane",
+            "B": "2-methylpropan-2-ol",
+            "C": "3-pentanone"
+        },
+        "response": "The IUPAC name for the compound in the image is cyclopentane."
+    },
+    {
+        "id": "validation_Pharmacy_30",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "7.2 Calories/g;0.3 kg;2*10^3$\\mu $g;1",
+            "B": "7.2 Calories/g;0.4 kg;2*10^4$\\mu $g;1",
+            "C": "7.4 Calories/g;0.5 kg;2*10^5$\\mu $g;1",
+            "D": "7.5 Calories/g;0.6 kg;2*10^6$\\mu $g;1"
+        },
+        "response": "a. 7.2 Calories/g;0.3 kg;2*10^3$\\mu $g;1\nb. 20 servings * 200 mg of protein/serving = 4000 mg of protein\nc. 200 mg of protein/serving * 1 serving = 200 $\\mu$g of protein\nd. The correct number of significant figures for the answer in item a is 3."
+    }
+]

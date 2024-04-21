@@ -1,0 +1,475 @@
+[
+    {
+        "id": "validation_Chemistry_1",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Yes.",
+            "B": "No.",
+            "C": "Not sure."
+        },
+        "response": "The answer would depend on the specific details of the mutation and the cell's needs. However, in general, shortening the glycolytic pathway could potentially benefit the cell by reducing the amount of energy that needs to be converted from glucose to ATP. This could lead to faster energy production and improved cell function. Therefore, the answer to this question could be (A) Yes, shortening the glycolytic pathway in this way could benefit the cell."
+    },
+    {
+        "id": "validation_Chemistry_2",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "The Lewis structure shows ten valence electrons which is not the correct number.",
+            "B": "The Lewis structure shows the electrons as distributed evenly between the carbon and oxygen but they are not.",
+            "C": "The Lewis structure should show the intermolecular forces present, but it does not.",
+            "D": "The Lewis structure shows the bond between carbon and oxygen as a triple bond but the real bond is actually a double bond.",
+            "E": "The Lewis structure shows that the molecule has a linear shape but it is actually a bent/v-shape substance."
+        },
+        "response": "The correct answer is (B) The Lewis structure shows the electrons as distributed evenly between the carbon and oxygen but they are not. \n\nThe Lewis structure for CO shows two carbon atoms bonded to one oxygen atom, with the electrons distributed evenly between the carbon and oxygen atoms. However, this representation is not accurate as the electrons are actually shared between the carbon and oxygen atoms in a 1:1 ratio, resulting in a double bond between them. This bent/v-shaped molecule has a double bond, not a triple bond, and a bent/v-shaped structure, not a linear structure."
+    },
+    {
+        "id": "validation_Chemistry_3",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Product is aromatic",
+            "B": "Product has high dipole moment",
+            "C": "Product has less resonance energy",
+            "D": "Product is soluble in polar solvent"
+        },
+        "response": "We refer to Wikipedia articles on chemistry for help. The product of the reaction is not aromatic, so (A) is the only incorrect statement.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Chemistry_4",
+        "question_type": "short-answer",
+        "answer": "trans-1-Chloro-4-methylcyclohexane",
+        "response": "The substance in the image is 1-chloro-4-methylbenzene, also known as para-xylene. It is a colorless liquid with a chloroform-like odor. The prefix \"cis-\" or \"trans-\" refers to the orientation of the double bond in the molecule. In this case, the double bond is between carbon atoms 1 and 2, and the molecule is said to be \"para\" because the chloro group is on the para (side) position relative to the double bond."
+    },
+    {
+        "id": "validation_Chemistry_5",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "2R, 3S",
+            "B": "2S, 3R",
+            "C": "2S, 3S",
+            "D": "2R, 3R"
+        },
+        "response": "We know that the chlorines are bonded to the carbon atom at the center, and the hydrogen atoms are bonded to the other end of the carbon atom. The chlorines are in the same plane, and the carbon atom is at the center, so the hydrogen atoms on either side of the center carbon atom are designated as R or S. The chlorines are designated as R or S based on their location relative to the carbon atom. The hydrogen atoms are bonded to the carbon atom at the center, so they are designated as C1, C2, and C3. Based on the location of the hydrogen atoms, we can determine that C-2 and C-3 have the same configuration as C-1, which is S-S. Therefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Chemistry_6",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "1 and 5",
+            "B": "1 and 3",
+            "C": "2 and 4",
+            "D": "6 and 7",
+            "E": "7 and 8"
+        },
+        "response": "The correct answer is (C). \n\nA phase equilibrium diagram is a graph that shows the phase relationships of two or more substances in a binary system. In this case, the graph shows the relationship between temperature and pressure for a substance. \n\nThe points (1, 5) and (5, 1) represent the same phase equilibrium, indicating that the substance is in the same phase at both points. Similarly, (2, 4) and (4, 2) represent the same phase equilibrium, indicating that the substance is in the same phase at both points. \n\nPoints (6, 7) and (7, 6) do not represent a phase equilibrium, as the substance is in different phases at both points. Points (3, 4) and (4, 3) do not represent a phase equilibrium, as the substance is in different phases at both points."
+    },
+    {
+        "id": "validation_Chemistry_7",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "16"
+        },
+        "response": "We refer to Wikipedia articles on organic chemistry for help. The number of possible stereoisomers depends on the number of chiral centers and the possible configurations at each chiral center. In this case, there are three chiral centers and therefore 3^3 = 6 possible stereoisomers. So the answer is (A)."
+    },
+    {
+        "id": "validation_Chemistry_8",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "It's an aldotetrose.",
+            "B": "It's an aldopentose.",
+            "C": "It's a ketopentose.",
+            "D": "It's a ketohexose."
+        },
+        "response": "The correct answer is (A) It's an aldotetrose. \n\nAldotetrose is a type of monosaccharide that has the formula C4H6O4. It is a ketose sugar, which means that the carbon atoms at the 1 and 4 positions are double-bonded to oxygen atoms, while the carbon atom at the 2 position is single-bonded to an oxygen atom. Aldotetrose is a common component of the disaccharide lactose, which is found in milk and other dairy products."
+    },
+    {
+        "id": "validation_Chemistry_9",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C"
+        ],
+        "index2ans": {
+            "A": "Markovnikov orientation.",
+            "B": "Non-Markovnikov orientation.",
+            "C": "Non of the above."
+        },
+        "response": "The following reaction mechanism shows that the bromine atom is bonded to the less highly substituted carbon atom in the major product, which supports that this is a Markovnikov orientation:\n\n[CH3CH=CHCH3]CH2Br + NBS \u2192 [CH3CH=CHCH2Br]CH2OH + HBr\n\nTherefore, the answer is (A) Markovnikov orientation."
+    },
+    {
+        "id": "validation_Chemistry_10",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Ag$(s) + $Zn^{2+}$(aq) $\\rightarrow$ $Ag^{2+}$(aq) + $Zn$(s)",
+            "B": "$Ag^+$(aq) + $Zn^{2+}$(aq) + 3 $e^-$ $\\rightarrow$ $AgZn$(s)",
+            "C": "$Ag^+$(aq) + $Zn$(s) $\\rightarrow$ $Ag$(s) + $Zn^{2+}$(aq) + $e^-$",
+            "D": "2 $Ag^+$(aq) + $Zn$(s) $\\\rightarrow$ 2 $Ag$(s) + $Zn^{2+}$(aq)"
+        },
+        "response": "We refer to Wikipedia articles on chemistry for help. The standard reduction potential for the first half-reaction is more negative than that for the second half-reaction, so the overall reaction is spontaneous. The overall reaction is the reverse of the half-reactions. So the net ionic equation is (A) $Ag$(s) + $Zn^{2+}$(aq) $\\rightarrow$ $Ag^{2+}$(aq) + $Zn$(s).\n\nTherefore, the answer is (C)."
+    },
+    {
+        "id": "validation_Chemistry_11",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "A strong acid is titrated into a weak base.",
+            "B": "A strong acid is titrated into a strong base.",
+            "C": "A strong base is titrated into a weak acid.",
+            "D": "A strong base is titrated into a strong acid.",
+            "E": "A weak base is titrated into a weak acid."
+        },
+        "response": "The titration curve in Figure 29-1 matches (B) a strong acid is titrated into a strong base. This is because the equivalence point occurs at a higher pH value for a strong acid-base reaction compared to a weak acid-base reaction. Additionally, the strong acid is completely titrated by the strong base, resulting in a sharp increase in pH at the equivalence point."
+    },
+    {
+        "id": "validation_Chemistry_12",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 2>",
+            "B": "<image 3>",
+            "C": "<image 4>",
+            "D": "<image 5>"
+        },
+        "response": "B"
+    },
+    {
+        "id": "validation_Chemistry_13",
+        "question_type": "short-answer",
+        "answer": "12.97",
+        "response": "0.350 M * 74.093 g/mol = 25.9365 g of calcium hydroxide was dissolved to make Solution A."
+    },
+    {
+        "id": "validation_Chemistry_14",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "More than 6"
+        },
+        "response": "There are 5 chiral centers in morphine, including the nitrogen atom. So the answer is (B)."
+    },
+    {
+        "id": "validation_Chemistry_15",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Na_2C_2O_4$ and $HCl$",
+            "B": "$Na^+$, $Cl^-$, and $HC_2O_4^-$",
+            "C": "C_2O_4^{2-} and $H^+$",
+            "D": "$Na^+$, $H^+$, and $C_2O_4^{2-}$"
+        },
+        "response": "We refer to Wikipedia articles on analytical chemistry for help. The titration curve shows that the pH is initially high, indicating that the solution contains mostly $Na_2C_2O_4$ and $HCl$. At the endpoint, the pH is low, indicating that most of the strong acid has been neutralized by the strong base, $Na_2C_2O_4$. Therefore, (A) is the correct answer.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Chemistry_16",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I"
+        ],
+        "index2ans": {
+            "A": "linear",
+            "B": "bent",
+            "C": "triangular planar",
+            "D": "tetrahedral",
+            "E": "square planar",
+            "F": "triangular pyramid",
+            "G": "triangular bipyramid",
+            "H": "octahedral",
+            "I": "T-shape"
+        },
+        "response": "The geometric shape of the molecule or ion in the image is a tetrahedral shape. Therefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Chemistry_17",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "P, Q",
+            "B": "P, R",
+            "C": "R, S",
+            "D": "Q, S"
+        },
+        "response": "We refer to Wikipedia articles on organic chemistry for help. The Newmann projections of meso-2, 3-butanediol are P, Q and R, S.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Chemistry_18",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "Using 2.0 M $CH_3COOH$(aq) instead of 2.0 M $HCl$(aq) ",
+            "B": "Cooling the $HCl$(aq) to a lower temperature than it was in the original experiment",
+            "C": "Reducing the volume of the reaction vessel",
+            "D": "Using eggshells that are more finely powdered than those used in the original experiment "
+        },
+        "response": "The data in the table suggest that the mass percent of $CaCO_3$(s) in the eggshell sample is 80.0%. This means that the eggshell sample is composed of 80.0% $CaCO_3$(s) and 20.0% other substances. Therefore, the reaction of the eggshell sample with the excess $HCl$(aq) is exothermic, and the reaction system is cooled to its original temperature before the pressure is recorded. This cooling step will increase the rate of the reaction by reducing the pressure of the gas produced, as shown by the calibration line in the figure. \n\nThe first modification that comes to mind is (A) using 2.0 M $CH_3COOH$(aq) instead of 2.0 M $HCl$(aq). However, the data in the table suggest that the mass percent of $CaCO_3$(s) in the eggshell sample is already high, so using a higher concentration of $CH_3COOH$(aq) may not have a significant effect on the rate of the reaction. \n\nThe second modification that comes to mind is (B) cooling the $HCl$(aq) to a lower temperature than it was in the original experiment. This may also increase the rate of the reaction by reducing the pressure of the gas produced. However, the data in the table suggest that the mass percent of $CaCO_3$(s) in the eggshell sample is already high, so cooling the $HCl$(aq) may not have a significant effect on the rate of the reaction.\n\nThe third modification that comes to mind is (C) reducing the volume of the reaction vessel. This may also increase the rate of the reaction by reducing the pressure of the gas produced. However, the data in the table suggest that the mass percent of $CaCO_3$(s) in the eggshell sample is already high, so reducing the volume of the reaction vessel may not have a significant effect on the rate of the reaction.\n\nThe fourth modification that comes to mind is (D) using eggshells that are more finely powdered than those used in the original experiment. This may also increase the rate of the reaction by reducing the pressure of the gas produced. However, the data in the table suggest that the mass percent of $CaCO_3$(s) in the eggshell sample is already high, so using more finely powdered eggshells may not have a significant effect"
+    },
+    {
+        "id": "validation_Chemistry_19",
+        "question_type": "short-answer",
+        "answer": "4",
+        "response": "Isoleucine has one optical isomer. The amino group (-NH2) and carboxyl group (-COOH) are located at one end of the molecule, and the amide bond (-CO-N-H) is located in the middle. Because the arrangement of these groups determines the specific orientation of the molecule, isoleucine has one unique optical isomer."
+    },
+    {
+        "id": "validation_Chemistry_20",
+        "question_type": "short-answer",
+        "answer": "5",
+        "response": "The molecule in the image contains one chiral center."
+    },
+    {
+        "id": "validation_Chemistry_21",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "The leftmost C atom and all the atoms directly bonded to it lie in the same plane. ",
+            "B": "Both C atoms and both O atoms lie in the same plane. ",
+            "C": "The N-C-C bond angle is 180\u00b0.",
+            "D": "The geometry around the N atom is planar."
+        },
+        "response": "We refer to Wikipedia articles on organic chemistry for help. The glycinium cation is a planar molecule, so (A) and (B) are false. The N-C-C bond angle is 110\u00b0, so (C) is false. The correct answer is (D)."
+    },
+    {
+        "id": "validation_Chemistry_22",
+        "question_type": "multiple-choice",
+        "answer": "B",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+        ],
+        "index2ans": {
+            "A": "(A)",
+            "B": "(B)",
+            "C": "(C)",
+            "D": "(D)",
+            "E": "(E)"
+        },
+        "response": "The phase diagram shows four phase regions: A, B, C, and D. The phase region represented by (E) is not shown in the diagram. \n\nIf we assume that the substance is at equilibrium and only in the solid phase, then we can determine the answer as follows:\n\n1. The solid phase is only present at high temperatures and high pressures, as shown by region A in the diagram.\n2. The solid phase is not present at low temperatures and high pressures, as shown by the absence of region A in the diagram.\n3. The solid phase is not present at low temperatures and low pressures, as shown by the absence of region A in the diagram.\n4. The solid phase is only present at high temperatures and low pressures, as shown by region B in the diagram.\n5. The solid phase is not present at low temperatures and high pressures, as shown by the absence of region B in the diagram.\n6. The solid phase is not present at high temperatures and low pressures, as shown by the absence of region B in the diagram.\n7. The solid phase is only present at high temperatures and high pressures, as shown by region C in the diagram.\n8. The solid phase is not present at low temperatures and high pressures, as shown by the absence of region C in the diagram.\n9. The solid phase is not present at high temperatures and low pressures, as shown by the absence of region C in the diagram.\n10. The solid phase is only present at high temperatures and high pressures, as shown by region D in the diagram.\n11. The solid phase is not present at low temperatures and high pressures, as shown by the absence of region D in the diagram.\n12. The solid phase is not present at high temperatures and low pressures, as shown by the absence of region D in the diagram.\n\nTherefore, the substance will be solely in the solid phase at equilibrium in region D."
+    },
+    {
+        "id": "validation_Chemistry_23",
+        "question_type": "short-answer",
+        "answer": "6.5",
+        "response": "0.0015 mol"
+    },
+    {
+        "id": "validation_Chemistry_24",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "25.28kJ/mol",
+            "B": "20.32 kJ/mol",
+            "C": "22.88 kJ/mol",
+            "D": "30.58 kJ/mol"
+        },
+        "response": "We refer to Wikipedia articles on thermodynamics for help. The standard enthalpy of vaporization of a substance is defined as the amount of heat required to change 1 mole of a substance from the liquid to the vapor state at its standard temperature and pressure. The standard enthalpy of vaporization of ClF_3 is 25.28 kJ/mol.\n\nTherefore, the answer is (A)."
+    },
+    {
+        "id": "validation_Chemistry_25",
+        "question_type": "short-answer",
+        "answer": "24.32",
+        "response": "24.9"
+    },
+    {
+        "id": "validation_Chemistry_26",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "A"
+    },
+    {
+        "id": "validation_Chemistry_27",
+        "question_type": "multiple-choice",
+        "answer": "C",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "$Cl^-$",
+            "B": "$I^-$",
+            "C": "$S^{2-}$",
+            "D": "$Te^{2-}$"
+        },
+        "response": "We refer to the table for help. The ionic radius of $Te^{2-}$ is the smallest among the four, thus it is the most likely to have the strongest interactions with nearby water molecules.\n\nTherefore, the answer is (D)."
+    },
+    {
+        "id": "validation_Chemistry_28",
+        "question_type": "multiple-choice",
+        "answer": "A",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "(A) = 6.87D, (B) = 4.11D",
+            "B": "(A) = 4.11 D , (B) = 6.87 D",
+            "C": "(A) = 4.11 D , (B) = 4.11 D",
+            "D": "(A) = 6.87 D, (B) = 6.87 D"
+        },
+        "response": "The given compound is 2,2'-bipyridine, which is a organic compound with the molecular formula C14H12N2. The dipole moment of 2,2'-bipyridine is approximately 4.11 D, as determined through various experimental techniques. Therefore, the correct answer is (B)."
+    },
+    {
+        "id": "validation_Chemistry_29",
+        "question_type": "multiple-choice",
+        "answer": "D",
+        "all_choices": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "index2ans": {
+            "A": "<image 1>",
+            "B": "<image 2>",
+            "C": "<image 3>",
+            "D": "<image 4>"
+        },
+        "response": "C"
+    },
+    {
+        "id": "validation_Chemistry_30",
+        "question_type": "short-answer",
+        "answer": [
+            "$MgS$",
+            "MgS"
+        ],
+        "response": "$M_2X_2$"
+    }
+]
