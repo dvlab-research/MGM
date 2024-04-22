@@ -1,17 +1,17 @@
 #!/bin/bash
-PRETRAIN_NAME=Mini-Gemini-7B-Pretrain
-FINETUNE_NAME=Mini-Gemini-7B
+PRETRAIN_NAME=MGM-7B-Pretrain
+FINETUNE_NAME=MGM-7B
 AUX_SIZE=768
 DROP_PATH=False
 # delete --hostfile hostfile and change --per_device_train_batch_size if trained on single machine
 
 deepspeed --hostfile hostfile \
-    minigemini/train/train_mem.py \
+    mgm/train/train_mem.py \
     --deepspeed ./scripts/zero2_offload.json \
     --model_name_or_path model_zoo/LLM/vicuna/7B-V1.5 \
     --version plain \
-    --data_path ./data/MiniGemini-Pretrain/minigemini_pretrain.json \
-    --image_folder ./data/MiniGemini-Pretrain \
+    --data_path ./data/MGM-Pretrain/mgm_pretrain.json \
+    --image_folder ./data/MGM-Pretrain \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --mm_projector_type mlp2x_gelu \
@@ -45,12 +45,12 @@ deepspeed --hostfile hostfile \
 
 
 deepspeed --hostfile hostfile \
-    minigemini/train/train_mem.py \
+    mgm/train/train_mem.py \
     --deepspeed ./scripts/zero2_offload.json \
     --model_name_or_path model_zoo/LLM/vicuna/7B-V1.5 \
     --version v1 \
-    --data_path ./data/MiniGemini-Finetune/minigemini_instruction.json \
-    --image_folder ./data/MiniGemini-Finetune \
+    --data_path ./data/MGM-Finetune/mgm_instruction.json \
+    --image_folder ./data/MGM-Finetune \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --pretrain_mm_mlp_adapter ./work_dirs/$PRETRAIN_NAME/mm_projector.bin \

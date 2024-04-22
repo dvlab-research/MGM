@@ -1,16 +1,16 @@
 #!/bin/bash
 
-CKPT="Mini-Gemini/Mini-Gemini-7B-HD"
+CKPT="MGM/MGM-7B-HD"
 
-CUDA_VISIBLE_DEVICES=0 python -m minigemini.eval.model_vqa_loader \
+CUDA_VISIBLE_DEVICES=0 python -m mgm.eval.model_vqa_loader \
     --model-path work_dirs/$CKPT \
-    --question-file data/MiniGemini-Eval/MME/llava_mme.jsonl \
-    --image-folder data/MiniGemini-Eval/MME/MME_Benchmark_release_version \
-    --answers-file data/MiniGemini-Eval/MME/answers/$CKPT.jsonl \
+    --question-file data/MGM-Eval/MME/llava_mme.jsonl \
+    --image-folder data/MGM-Eval/MME/MME_Benchmark_release_version \
+    --answers-file data/MGM-Eval/MME/answers/$CKPT.jsonl \
     --temperature 0 \
     --conv-mode vicuna_v1
 
-cd data/MiniGemini-Eval/MME
+cd data/MGM-Eval/MME
 
 python convert_answer_to_mme.py --experiment $CKPT
 

@@ -6,12 +6,12 @@ IFS=',' read -ra GPULIST <<< "$gpu_list"
 
 CHUNKS=${#GPULIST[@]}
 
-CKPT="Mini-Gemini/Mini-Gemini-34B"
-CONFIG="minigemini/eval/MMMU/eval/configs/llava1.5.yaml"
+CKPT="MGM/MGM-34B"
+CONFIG="mgm/eval/MMMU/eval/configs/llava1.5.yaml"
 
 for IDX in $(seq 0 $((CHUNKS-1))); do
-    CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python minigemini/eval/MMMU/eval/run_llava.py \
-        --data_path ./data/MiniGemini-Eval/MMMU \
+    CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python mgm/eval/MMMU/eval/run_llava.py \
+        --data_path ./data/MGM-Eval/MMMU \
         --config_path $CONFIG \
         --model_path ./work_dirs/$CKPT \
         --answers-file ./work_dirs/MMMU/answers/$CKPT/${CHUNKS}_${IDX}.jsonl \
@@ -33,4 +33,4 @@ for IDX in $(seq 0 $((CHUNKS-1))); do
     cat ./work_dirs/MMMU/answers/$CKPT/${CHUNKS}_${IDX}.jsonl >> "$output_file"
 done
 
-python minigemini/eval/MMMU/eval/eval.py --result_file $output_file --output_path ./work_dirs/MMMU/$CKPT/val.json
+python mgm/eval/MMMU/eval/eval.py --result_file $output_file --output_path ./work_dirs/MMMU/$CKPT/val.json

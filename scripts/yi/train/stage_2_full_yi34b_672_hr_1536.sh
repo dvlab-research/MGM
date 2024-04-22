@@ -1,6 +1,6 @@
 #!/bin/bash
-PRETRAIN_NAME=Mini-Gemini-34B-Pretrain
-FINETUNE_NAME=Mini-Gemini-34B-HD
+PRETRAIN_NAME=MGM-34B-Pretrain
+FINETUNE_NAME=MGM-34B-HD
 AUX_SIZE=1536
 IMAGE_GRID=2
 IMAGE_GLOBAL=True
@@ -10,12 +10,12 @@ LR_MULTI="model.mm_projector:2,model.vlm_uni:2"
 
 
 deepspeed --hostfile hostfile_4 \
-    minigemini/train/train_mem.py \
+    mgm/train/train_mem.py \
     --deepspeed ./scripts/zero3.json \
     --model_name_or_path model_zoo/LLM/Nous-Hermes-2-Yi-34B \
     --version chatml_direct \
-    --data_path ./data/MiniGemini-Finetune/minigemini_instruction.json \
-    --image_folder ./data/MiniGemini-Finetune \
+    --data_path ./data/MGM-Finetune/mgm_instruction.json \
+    --image_folder ./data/MGM-Finetune \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --image_grid $IMAGE_GRID \

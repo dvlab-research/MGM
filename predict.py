@@ -1,10 +1,10 @@
 import torch
 
-from minigemini.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
-from minigemini.conversation import conv_templates, SeparatorStyle
-from minigemini.model.builder import load_pretrained_model
-from minigemini.utils import disable_torch_init
-from minigemini.mm_utils import tokenizer_image_token
+from mgm.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
+from mgm.conversation import conv_templates, SeparatorStyle
+from mgm.model.builder import load_pretrained_model
+from mgm.utils import disable_torch_init
+from mgm.mm_utils import tokenizer_image_token
 from transformers.generation.streamers import TextIteratorStreamer
 
 from PIL import Image

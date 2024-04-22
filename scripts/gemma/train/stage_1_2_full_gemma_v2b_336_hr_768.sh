@@ -1,14 +1,14 @@
 #!/bin/bash
-PRETRAIN_NAME=Mini-Gemini-2B-Pretrain
-FINETUNE_NAME=Mini-Gemini-2B
+PRETRAIN_NAME=MGM-2B-Pretrain
+FINETUNE_NAME=MGM-2B
 AUX_SIZE=768
 
-deepspeed minigemini/train/train_mem.py \
+deepspeed mgm/train/train_mem.py \
     --deepspeed ./scripts/zero2_offload.json \
     --model_name_or_path model_zoo/LLM/gemma/gemma-2b-it \
     --version gemma \
-    --data_path ./data/MiniGemini-Pretrain/minigemini_pretrain.json \
-    --image_folder ./data/MiniGemini-Pretrain \
+    --data_path ./data/MGM-Pretrain/mgm_pretrain.json \
+    --image_folder ./data/MGM-Pretrain \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --mm_projector_type mlp2x_gelu \
@@ -40,12 +40,12 @@ deepspeed minigemini/train/train_mem.py \
     --report_to wandb
 
 
-deepspeed minigemini/train/train_mem.py \
+deepspeed mgm/train/train_mem.py \
     --deepspeed ./scripts/zero2.json \
     --model_name_or_path model_zoo/LLM/gemma/gemma-2b-it \
     --version gemma \
-    --data_path ./data/MiniGemini-Finetune/minigemini_instruction.json \
-    --image_folder ./data/MiniGemini-Finetune \
+    --data_path ./data/MGM-Finetune/mgm_instruction.json \
+    --image_folder ./data/MGM-Finetune \
     --vision_tower model_zoo/OpenAI/clip-vit-large-patch14-336 \
     --vision_tower_aux model_zoo/OpenAI/openclip-convnext-large-d-320-laion2B-s29B-b131K-ft-soup \
     --pretrain_mm_mlp_adapter ./work_dirs/$PRETRAIN_NAME/mm_projector.bin \
