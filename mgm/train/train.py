@@ -791,30 +791,6 @@ def preprocess_plain(
 
     return dict(input_ids=input_ids, labels=targets)
 
-def preprocess_plain_guided(
-    sources: Sequence[str],
-    tokenizer: transformers.PreTrainedTokenizer,
-    prompt: str = None,
-) -> Dict:
-    # add end signal and concatenate together
-    guided_prompt = []
-    conversations = []
-    for source in sources:
-        assert len(source) == 2
-        assert DEFAULT_IMAGE_TOKEN in source[0]['value']
-        guided_prompt.append(source[0]['value'].replace(DEFAULT_IMAGE_TOKEN, '').replace('\n', ''))
-        source[0]['value'] = DEFAULT_IMAGE_TOKEN
-        conversation = source[0]['value'] + source[1]['value'] + conversation_lib.default_conversation.sep
-        conversations.append(conversation)
-    # tokenize conversations
-    input_ids = [tokenizer_image_token(prompt, tokenizer, return_tensors='pt') for prompt in conversations]
-    targets = copy.deepcopy(input_ids)
-    for target, source in zip(targets, sources):
-        tokenized_len = len(tokenizer_image_token(source[0]['value'], tokenizer))
-        target[:tokenized_len] = IGNORE_INDEX
-
-    return dict(input_ids=input_ids, labels=targets, prompt=guided_prompt)
-
 def preprocess(
     sources: Sequence[str],
     tokenizer: transformers.PreTrainedTokenizer,
@@ -829,9 +805,7 @@ def preprocess(
     3. Tokenize the concatenated conversation;
     4. Make a deepcopy as the target. Mask human words with IGNORE_INDEX.
     """
-    if conversation_lib.default_conversation.version.startswith("plain_guided"):
-        return preprocess_plain_guided(sources, tokenizer, prompt=prompt)
-    elif conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.PLAIN:
+    if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.PLAIN:
         return preprocess_plain(sources, tokenizer)
     if conversation_lib.default_conversation.sep_style == conversation_lib.SeparatorStyle.LLAMA_2:
         return preprocess_llama_2(sources, tokenizer, has_image=has_image)

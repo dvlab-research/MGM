@@ -26,8 +26,11 @@ def call_llava_engine_df(args, sample, model, tokenizer=None, processor=None):
             raise ValueError(f'Unsupported tensor type: {return_tensors}')
         return input_ids
 
-    def deal_with_prompt(input_text, mm_use_im_start_end):
-        qs = input_text
+    def deal_with_prompt(input_text, mm_use_im_start_end, ocr_tokens):
+        if ocr_tokens is not None:
+            qs = input_text + '\n' + ocr_tokens
+        else:
+            qs = input_text
         if mm_use_im_start_end:
             qs = DEFAULT_IM_START_TOKEN + DEFAULT_IMAGE_TOKEN + DEFAULT_IM_END_TOKEN + '\n' + qs
         else:
@@ -35,30 +38,38 @@ def call_llava_engine_df(args, sample, model, tokenizer=None, processor=None):
         return qs
 
     prompt = sample['final_input_prompt']
-    prompt = deal_with_prompt(prompt, model.config.mm_use_im_start_end)
-    conv = conv_templates['vicuna_v1'].copy()
+    ocr_tokens = sample.get('ocr', None)
+    prompt = deal_with_prompt(prompt, model.config.mm_use_im_start_end, ocr_tokens)
+    conv = conv_templates[args.conv_mode].copy()
     conv.append_message(conv.roles[0], prompt)
     conv.append_message(conv.roles[1], None)
     prompt = conv.get_prompt()
     input_ids = tokenizer_image_token(prompt, tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).cuda()
     image = sample['image']
+    image_aux = sample['image_aux']
+    if image_aux is not None:
+        image_aux = image_aux.unsqueeze(0).half().cuda()
+    
+    terminators = tokenizer.eos_token_id
+    if "llama_3" in args.conv_mode:
+        terminators = [terminators, tokenizer.convert_tokens_to_ids("<|eot_id|>")]
+    
     if image is not None:
         output_ids = model.generate(
             input_ids,
             images=image.unsqueeze(0).half().cuda(),
+            images_aux=image_aux,
             do_sample=True,
             temperature=1,
-            top_p=None,
             num_beams=5,
+            top_p=None,
             max_new_tokens=128,
+            bos_token_id=tokenizer.bos_token_id,  # Begin of sequence token
+            eos_token_id=terminators,  # End of sequence token
+            pad_token_id=tokenizer.pad_token_id,  # Pad token
             use_cache=True)
 
-        # input_token_len = input_ids.shape[1]
-        # n_diff_input_output = (input_ids != output_ids[:, :input_token_len]).sum().item()
-        # if n_diff_input_output > 0:
-        #     print(f'[Warning] {n_diff_input_output} output_ids are not the same as the input_ids')
-        # response = tokenizer.batch_decode(output_ids[:, input_token_len:], skip_special_tokens=True)[0]
-        response = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0]
+        response = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0].strip('\n')
     else:  # multiple images actually
         if sample['question_type'] == 'multiple-choice':
             all_choices = sample['all_choices']
@@ -67,8 +78,3 @@ def call_llava_engine_df(args, sample, model, tokenizer=None, processor=None):
             response = 'INVALID GENERATION FOR MULTIPLE IMAGE INPUTS'
 
     return response
-
-
-def llava_image_processor(raw_image, vis_processors=None):
-    image_tensor = vis_processors.preprocess(raw_image, return_tensors='pt')['pixel_values'][0]
-    return image_tensor

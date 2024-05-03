@@ -313,7 +313,6 @@ conv_llama_3 = Conversation(
     offset=0,
     sep_style=SeparatorStyle.LLAMA_3,
     sep="<|eot_id|>",
-    # sep="<|end_of_text|>",
 )
 
 conv_mpt = Conversation(
@@ -385,17 +384,6 @@ conv_vicuna_imgsp_v1 = Conversation(
     sep2="</s>",
 )
 
-conv_llava_plain_guided = Conversation(
-    system="",
-    roles=("", ""),
-    version="plain_guided",
-    messages=(
-    ),
-    offset=0,
-    sep_style=SeparatorStyle.PLAIN,
-    sep="\n",
-)
-
 conv_llava_v1_mmtag = Conversation(
     system="A chat between a curious user and an artificial intelligence assistant. "
            "The assistant is able to understand the visual content that the user provides, and assist the user with a variety of tasks using natural language."
@@ -465,7 +453,6 @@ conv_templates = {
     "llama_2": conv_llama_2,
     "llama_3": conv_llama_3,
     "imgsp_v1": conv_vicuna_imgsp_v1,
-    "plain_guided": conv_llava_plain_guided,
     "mistral_instruct": conv_mistral_instruct,
     "chatml_direct": conv_chatml_direct,
     "mistral_direct": conv_chatml_direct,

@@ -196,6 +196,10 @@ def eval_model(args):
 
         input_ids = tokenizer_image_token(prompt, tokenizer, IMAGE_TOKEN_INDEX, return_tensors='pt').unsqueeze(0).cuda()
         
+        terminators = tokenizer.eos_token_id
+        if "llama_3" in args.conv_mode:
+            terminators = [terminators, tokenizer.convert_tokens_to_ids("<|eot_id|>")]
+        
         with torch.inference_mode():
             output_ids = model.generate(
                 input_ids,
@@ -205,7 +209,7 @@ def eval_model(args):
                 temperature=args.temperature,
                 max_new_tokens=1024,
                 bos_token_id=tokenizer.bos_token_id,  # Begin of sequence token
-                eos_token_id=tokenizer.eos_token_id,  # End of sequence token
+                eos_token_id=terminators,  # End of sequence token
                 pad_token_id=tokenizer.pad_token_id,  # Pad token
                 use_cache=True,
             )

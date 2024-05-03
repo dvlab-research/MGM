@@ -13,7 +13,7 @@ from mgm.mm_utils import get_model_name_from_path, process_images
 from argparse import ArgumentParser
 
 from utils.data_utils import load_yaml, construct_prompt, save_json, process_single_sample, CAT_SHORT2LONG
-from utils.model_utils_ind import call_llava_engine_df
+from mgm.eval.MMMU.eval.utils.model_utils import call_llava_engine_df
 from utils.eval_utils import evaluate, parse_multi_choice_response, parse_open_response
 
 def set_seed(seed_value):
@@ -44,8 +44,6 @@ def get_chunk(lst, n, k):
 
 def main():
     parser = ArgumentParser()
-    # parser.add_argument('--output_path', type=str, default='llava1.5_13b_val.json',
-    #                     help='name of saved json')
     parser.add_argument('--config_path', type=str, default="configs/llava1.5.yaml")
     parser.add_argument('--data_path', type=str, default="MMMU/MMMU") # hf dataset path.
     parser.add_argument('--model_path', type=str, default="liuhaotian/llava-v1.5-13b")
@@ -58,7 +56,6 @@ def main():
     parser.add_argument('--load_8bit', type=bool, default=False)
 
     args = parser.parse_args()
-    # device = torch.device("cuda") if torch.cuda.is_available() else "cpu"
     set_seed(args.seed)
 
     print('llava_initializing...')

@@ -11,6 +11,7 @@
 The framework supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. We build this repo based on LLaVA.
 
 ## Release
+- [05/03] 🔥 We support LLaMA3-based models! Welcome to try them [here](https://huggingface.co/collections/YanweiLi/mgm-6603c50b9b43d044171d0854).
 - [04/15] 🔥 The [Hugging Face demo](https://huggingface.co/spaces/wcy1122/MGM) is available. It's a 13B-HD version, welcome to watch and try.
 - [03/28] 🔥 Mini-Gemini is coming! We release the [paper](https://arxiv.org/pdf/2403.18814.pdf), [demo](http://103.170.5.190:7860/), [code](https://github.com/dvlab-research/MGM), [models](https://huggingface.co/collections/YanweiLi/mgm-6603c50b9b43d044171d0854'), and [data](https://huggingface.co/collections/YanweiLi/mgm-data-660463ea895a01d8f367624e)!
 
@@ -74,10 +75,12 @@ We provide all our fully finetuned models on Stage 1 and 2 data:
 | MGM-2B | 336 | 768 | Gemma-2B | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-2B) |
 | MGM-7B | 336 | 768 | Vicuna-7B-v1.5 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-7B) |
 | MGM-13B | 336 | 768 | Vicuna-13B-v1.5 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-13B) |
+| MGM-8B | 336 | 768 | LLaMA-3-8B-Instruct | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-8B) |
 | MGM-8x7B | 336 | 768 | Mixtral-8x7B-Instruct-v0.1 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-8x7B) |
 | MGM-34B | 336 | 768 | Nous-Hermes-2-Yi-34B | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-34B) |
 | MGM-7B-HD | 672 | 1536 | Vicuna-7B-v1.5 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-7B-HD) |
 | MGM-13B-HD | 672 | 1536 | Vicuna-13B-v1.5 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-13B-HD) |
+| MGM-8B-HD | 672 | 1536 | LLaMA-3-8B-Instruct | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-8B-HD) |
 | MGM-8x7B-HD | 672 | 1536 | Mixtral-8x7B-Instruct-v0.1 | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-8x7B-HD) |
 | MGM-34B-HD | 672 | 1536 | Nous-Hermes-2-Yi-34B | CLIP-L | MGM-Instruct | full_ft-1e | [ckpt](https://huggingface.co/YanweiLi/MGM-34B-HD) |
 
@@ -160,6 +163,9 @@ MGM
 │   │   ├── vicuna
 │   │   │   ├── 7B-V1.5
 │   │   │   ├── 13B-V1.5
+│   │   ├── llama-3
+│   │   │   ├── Meta-Llama-3-8B-Instruct
+│   │   │   ├── Meta-Llama-3-70B-Instruct
 │   │   ├── mixtral
 │   │   │   ├── Mixtral-8x7B-Instruct-v0.1
 │   │   ├── Nous-Hermes-2-Yi-34B
@@ -231,10 +237,12 @@ We perform evaluation on several image-based benchmarks. Please download the eva
 MGM-2B | Gemma-2B | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-2B) | 56.2 | 59.8 | 1341/312 | 31.1 | 31.7 | 29.1 | 29.4
 MGM-7B | Vicuna-7B-v1.5 | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-7B) | 65.2 | 69.3 | 1523/316 | 40.8 | 36.1 | 32.8 | 31.4 
 MGM-13B | Vicuna-13B-v1.5 | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-13B) | 65.9 | 68.5 | 1565/322 | 46.0 | 38.1 | 33.5 | 37.0
+MGM-8B | LLaMA-3-8B-Instruct | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-8B) | 67.6 | 72.7 | 1606/341 | 47.3 | 38.2 | 36.3 | --
 MGM-8x7B | Mixtral-8x7B-Instruct-v0.1 | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-8x7B) | 69.2 | 75.6 | 1639/379 | 45.8 | 41.8 | 37.1 | 41.8
 MGM-34B | Nous-Hermes-2-Yi-34B | 336 | [ckpt](https://huggingface.co/YanweiLi/MGM-34B) | 70.1 | 79.6 | 1666/439 | 53.0 | 48.7 | 43.6 | 38.9
 MGM-7B-HD | Vicuna-7B-v1.5 | 672 | [ckpt](https://huggingface.co/YanweiLi/MGM-7B-HD) | 68.4 | 65.8 | 1546/319 | 41.3 | 36.8 | 32.9 | 32.2
 MGM-13B-HD | Vicuna-13B-v1.5 | 672 | [ckpt](https://huggingface.co/YanweiLi/MGM-13B-HD) | 70.2 | 68.6 | 1597/320 | 50.5 | 37.3 | 35.1 | 37.0
+MGM-8B-HD | LLaMA-3-8B-Instruct | 672 | [ckpt](https://huggingface.co/YanweiLi/MGM-8B-HD) | 71.6 | -- | 1532/357 | -- | 37.0 | -- | --
 MGM-8x7B-HD | Mixtral-8x7B-Instruct-v0.1 | 672 | [ckpt](https://huggingface.co/YanweiLi/MGM-8x7B-HD) | 71.9 | 74.7 | 1633/356 | 53.5 | 40.0 | 37.0 | 43.1
 MGM-34B-HD | Nous-Hermes-2-Yi-34B | 672 | [ckpt](https://huggingface.co/YanweiLi/MGM-34B-HD) | 74.1 | 80.6 | 1659/482 | 59.3 | 48.0 | 44.9 | 43.3
 
