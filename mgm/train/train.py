@@ -558,7 +558,9 @@ def preprocess_llama_3(
         re_rounds = [conv.sep.join(rounds[:3])] # system + user + gpt
         for conv_idx in range(3, len(rounds), 2):
             re_rounds.append(conv.sep.join(rounds[conv_idx:conv_idx+2]))    # user + gpt
-        cur_len = 0
+        
+        # include <bos> for all rounds
+        cur_len = 1
         target[:cur_len] = IGNORE_INDEX
         for i, rou in enumerate(re_rounds):
             if rou == "":
@@ -570,12 +572,13 @@ def preprocess_llama_3(
                 break
             parts[0] += sep
 
+            # include <bos> for all rounds
             if has_image:
-                round_len = len(tokenizer_image_token(rou, tokenizer))
-                instruction_len = len(tokenizer_image_token(parts[0], tokenizer)) - 1
+                round_len = len(tokenizer_image_token(rou, tokenizer)) - 1
+                instruction_len = len(tokenizer_image_token(parts[0], tokenizer)) - 2
             else:
-                round_len = len(tokenizer(rou).input_ids)
-                instruction_len = len(tokenizer(parts[0]).input_ids) - 1
+                round_len = len(tokenizer(rou).input_ids) - 1
+                instruction_len = len(tokenizer(parts[0]).input_ids) - 2
 
             # include <|eot_id|> for all rounds
             round_len += 1
@@ -583,7 +586,7 @@ def preprocess_llama_3(
 
             target[cur_len : cur_len + instruction_len] = IGNORE_INDEX
             cur_len += round_len
-        
+
         target[cur_len:] = IGNORE_INDEX
 
         if cur_len < tokenizer.model_max_length:

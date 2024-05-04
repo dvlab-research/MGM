@@ -303,7 +303,7 @@ conv_llava_llama_2 = Conversation(
 )
 
 conv_llama_3 = Conversation(
-    system="<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nYou are a helpful language and vision assistant. "
+    system="<|start_header_id|>system<|end_header_id|>\n\nYou are a helpful language and vision assistant. "
            "You are able to understand the visual content that the user provides, "
            "and assist the user with a variety of tasks using natural language.",
     roles=("<|start_header_id|>user<|end_header_id|>\n\n", 
