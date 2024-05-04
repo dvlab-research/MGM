@@ -96,13 +96,13 @@ Here are the pretrained weights on Stage 1 data only:
 ## Preparation
 ### Dataset
 We provide the processed data for the model training. 
-For model pretraining, please download the following the training image-based data and organize them as:
+For model pretraining, please download the following training image-based data and organize them as:
 
 `->` means put the data in the local folder.
 - [LLaVA Images](https://huggingface.co/datasets/liuhaotian/LLaVA-Pretrain) -> `data/MGM-Pretrain/images`, `data/MGM-Finetune/llava/LLaVA-Pretrain/images`
 - [ALLaVA Caption](https://github.com/FreedomIntelligence/ALLaVA) -> `data/MGM-Pretrain/ALLaVA-4V`
 
-For model finetuning, please download the following the instruction data and organize them as:
+For model finetuning, please download the following instruction data and organize them as:
 
 `->` means put the data in the local folder.
 - [COCO train2017](http://images.cocodataset.org/zips/train2017.zip) -> `data/MGM-Finetune/coco`
@@ -118,7 +118,7 @@ For model finetuning, please download the following the instruction data and org
 - [DVQA](https://github.com/kushalkafle/DVQA_dataset) -> `data/MGM-Finetune/dvqa`
 - [AI2D](https://allenai.org/data/diagrams) -> `data/MGM-Finetune/ai2d`
 
-For model evaluation, please follow this [link](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md) for preparation. We use some extra benchmarks for evaluation. please download the following the training image-based data and organize them as:
+For model evaluation, please follow this [link](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md) for preparation. We use some extra benchmarks for evaluation. Please download the following training image-based data and organize them as:
 
 `->` means put the data in the local folder.
 - [MMMU](https://mmmu-benchmark.github.io/) -> `data/MGM-Eval/MMMU`
